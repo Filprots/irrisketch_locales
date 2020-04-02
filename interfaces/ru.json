@@ -632,5 +632,13 @@
   "CookiePolicyText": "Посещая веб-сайт https://irrisketch.ru, Вы предоставляете согласие на обработку данных о посещении Вами сайта (данные cookies, веб-маяков и иные пользовательские данные), обработка которых осуществляется ИП Проценко Ф.И. (ОГРНИП 312231115700151, ИНН 236502017780) в соответствии с <a target='_blank' href='/privacy'>Политикой конфиденциальности и обработки персональных данных</a> с целью анализа обезличенных данных об использовании веб-сайта",
   "irrisketch_residential_DONATED": "Подписка на IRRISketch Residential PRO",
   "CookieModalDecline": "ЗАКРЫТЬ",
-  "CookieModalHeader": "Политика Cookie"
+  "CookieModalHeader": "Политика Cookie",
+  "email_subject_user_event": "USER EVENT",
+  "email_subject_notificationmail_subscriptionAboutToExpire": "IRRISketch - Срок действия подписки заканчивается",
+  "email_subject_notificationmail_subscriptionExpired": "IRRISketch - Подписка закончилась",
+  "email_subject_notificationmail_trialAboutToExpire": "IRRISketch - Пробный период заканчивается",
+  "email_subject_notificationmail_trialExpired": "IRRISketch - Пробный период завершён",
+  "email_subject_irrisketch_account_verification": "IRRISketch - Потдтверждение действия на сайте",
+  "email_subject_WelcomeToIrrisMail": "Добро пожаловать в IRRISketch",
+  "email_subject_DeletedAccountMail": "Ваш аккаунт IRRISketch успешно удалён"
 }

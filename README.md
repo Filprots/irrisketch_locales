@@ -11,5 +11,7 @@ Those who complete translation will be awarded by lifetime IRRISketch PRO-accoun
 # Current translators
 
 Hebrew - Mikhail (irridon@gmail.com)
+Ukrainian - Boghdan Durst (bodo1715@gmail.com)
+
 
 

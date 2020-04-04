@@ -393,6 +393,7 @@ this.LNG = {
     outlayer: {
         //tableHeaders
         numsign: "№",
+        typeCol: "Тип",
         brand: "Бренд",
         catid: "Арт.№",
         title: "Наименование оборудования",

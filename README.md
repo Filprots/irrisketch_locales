@@ -8,8 +8,11 @@ I will include you into the list of contributors.
 
 Those who complete translation will be awarded by lifetime IRRISketch PRO-account.
 
-# Current translators (email/language)
+# Current translators
 
+Hebrew - Mikhail (irridon@gmail.com)
+
+Ukrainian - Boghdan Durst (bodo1715@gmail.com)
 
 
 

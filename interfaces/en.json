@@ -453,7 +453,7 @@
   "and": "and",
   "Privacy Policy": "Privacy Policy",
   "Main_Welcome": "Welcome!",
-  "Main_ToIrris": "IRRISKETCH - is an innovative Web-based Irrigation Systems planner",
+  "Main_ToIrris": "<span class='textBlueBrand'>IRRI</span><span class='textGreenBrand'>Sketch</span> - is an innovative Web-based Irrigation Systems planner",
   "Main_GetStartedRegistered": "To get started with Irrigation design, follow this link:",
   "Main_GetStartedUnregistered": "Register or sign in to begin designing your systems",
   "Main_GetStartedLearinig": "To watch video-tutorials, use this link:",

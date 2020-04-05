@@ -246,6 +246,7 @@
             "rotor5012+PCSAMRNPMPR": ["5000 Series Rotor", "5000 Series Rotor placing", "5000 Series Rotor editing"],
             "rotor2045A-MAXIPAW": ["MAXI-PAW Series Rotor", "MAXI-PAW Series Rotor placing", "MAXI-PAW Series Rotor editing"],
             "rotor2045A-MAXIPAW-SAM": ["MAXI-PAW Series Rotor", "MAXI-PAW Series Rotor placing", "MAXI-PAW Series Rotor editing"],
+            "rotor2045-PJ-MAXI-BIRD": ["MAXI-BIRD Series Rotor", "MAXI-BIRD Series Rotor placing", "MAXI-BIRD Series Rotor editing"],
             "bubbToro500": ["Bubbler", "Bubbler placing", "Bubbler editing"],
             "bubbToro500S": ["Bubbler", "Bubbler placing", "Bubbler editing"],
             "bubbNozToroPC": ["Bubbler nozzle", "Bubbler nozzle placing", "Bubbler nozzle editing"],

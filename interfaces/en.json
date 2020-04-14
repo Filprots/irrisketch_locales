@@ -640,5 +640,8 @@
   "email_subject_notificationmail_trialExpired": "IRRISketch - Trial period expired",
   "email_subject_irrisketch_account_verification": "IRRISketch - Please confirm action",
   "email_subject_WelcomeToIrrisMail": "Welcome to IRRISketch!",
-  "email_subject_DeletedAccountMail": "Your IRRISketch account successfully deleted"
+  "email_subject_DeletedAccountMail": "Your IRRISketch account successfully deleted",
+  "SolarCalc_Header": "КАЛЬКУЛЯТОР СОЛНЦА",
+  "SolarCalc_Leading": "Это веб-сервис для расчета полжения солнца на небосводе, в любой, заданной Вами точке земного шара.",
+  "SolarCalc_Body": "На известную дату и время Вы можете расчитать высоту Солнца над горизонтом и его азимут. По положению Cолнца вычисляется направление и длина тени, которую отбрасывает предмет известной высоты. Так Вы можете определить затенение от строений на Вашем земельном участке. Если Вы зададите какую-нибудь высоту или азимут, то сможете выполнить обратный расчет: определиь времякогда Солнце окажется в этом положении. Для наглядности, можно увидеть анимацию траекторий Солнца в течении дня и года. Пользуйтесь КАЛЬКУЛЯТОРОМ СОЛНЦА и помните: SOL LUCET OMNIBUS!"
 }

@@ -642,6 +642,6 @@
   "email_subject_WelcomeToIrrisMail": "Добро пожаловать в IRRISketch",
   "email_subject_DeletedAccountMail": "Ваш аккаунт IRRISketch успешно удалён",
   "SolarCalc_Header": "КАЛЬКУЛЯТОР СОЛНЦА",
-  "SolarCalc_Leading": "Это веб-сервис для расчета полжения солнца на небосводе, в любой, заданной Вами точке земного шара.",
-  "SolarCalc_Body": "На известную дату и время Вы можете расчитать высоту Солнца над горизонтом и его азимут. По положению Cолнца вычисляется направление и длина тени, которую отбрасывает предмет известной высоты. Так Вы можете определить затенение от строений на Вашем земельном участке. Если Вы зададите какую-нибудь высоту или азимут, то сможете выполнить обратный расчет: определиь времякогда Солнце окажется в этом положении. Для наглядности, можно увидеть анимацию траекторий Солнца в течении дня и года. Пользуйтесь КАЛЬКУЛЯТОРОМ СОЛНЦА и помните: SOL LUCET OMNIBUS!"
+  "SolarCalc_Leading": "This is a web service for calculating the position of the sun in the sky, at any point you specify on the globe.",
+  "SolarCalc_Body": "For a known date and time, you can calculate the height of the Sun above the horizon and its azimuth. By the position of the Sun, the direction and length of the shadow are calculated. So you can determine the shading from buildings at your grounds. If you put Sun’s altitude or azimuth, then you will be able to perform the inverse calculation: get the time when the Sun appears in this position. For clarity, you can see the animation of the trajectory of the Sun during the day and year. Use the SUN CALCULATOR and remember: SOL LUCET OMNIBUS!"
 }

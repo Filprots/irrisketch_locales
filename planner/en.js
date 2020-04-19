@@ -699,9 +699,9 @@ this.LNG = {
             "And then  we will try to get it back to work."
         ],
         ajaxReqFail: [
-            "Sorry... something with connection to server",
-            "It's impossible to load your project at the moment.",
-            "Please try again later."
+            "Sorry... We lost connection to the server",
+            "It's impossible to send/receive any data at the moment",
+            "Please try again later"
         ],
         critical: [
             "Sorry... something went wrong",

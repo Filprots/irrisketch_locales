@@ -1,0 +1,421 @@
+<% layout('./layout/page') -%>
+<% block('title', __('AboutPageTitle')) -%>
+<hr>
+<div class="row">
+    <div class="col-lg-12">
+        <ul class="nav nav-pills nav-justified" id="myTab" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link" id="mission-tab" data-toggle="tab" href="#mission" role="tab"
+                   aria-controls="mission" aria-selected="false"><h3 class="mt-2"><i class="far fa-lightbulb-on"></i>
+                        Наша миссия</h3></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" id="service-tab" data-toggle="tab" href="#service" role="tab"
+                   aria-controls="service" aria-selected="true"><h3 class="mt-2"><i class="far fa-cogs"></i> О программе
+                    </h3></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" id="team-tab" data-toggle="tab" href="#team" role="tab"
+                   aria-controls="team" aria-selected="false"><h3 class="mt-2"><i class="far fa-address-card"></i> Наша
+                        команда</h3></a>
+            </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            <!--//ABOUT MISSION-->
+            <div class="tab-pane fade" id="mission" role="tabpanel" aria-labelledby="mission-tab">
+                <div class="how-section1">
+                    <div class="row">
+                        <div class="col-md-6 mb-4 how-img">
+                            <i class="far fa-clock fa-10x text-success"></i>
+                        </div>
+                        <div class="col-md-6">
+                            <h4>Время</h4>
+                            <h4 class="subheading">Это ценнейший ресурс для человека, следующий после здоровья.</h4>
+                            <p class="text-muted">Запас времени определяет многое. То, сколько времени человек тратит на
+                                работу, учебу и
+                                другие общественно-полезные занятия, с целю приобрести иные немаловажные ресурсы такие
+                                как деньги,
+                                знания или статус, определяет количество времени, которое он сможет потратить на себя,
+                                на свою семью и
+                                на своё здоровье. По сути, количество свободного времени прямо-пропорционально
+                                человеческому
+                                счастью.</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 order-12 order-sm-1">
+                            <h4>Наша сфера</h4>
+                            <h4 class="subheading">Это системы автоматического полива.</h4>
+                            <p class="text-muted">Цель использования которых, как раз и состоит в том, чтобы выиграть
+                                этот заветный
+                                ресурс - Время.
+                                Миллионы людей на планете экономя 1 час времени в сутки, свободный от полива своих
+                                зеленых насаждений,
+                                получают возможность быть еще немного счастливее, делая еще немного счастливее
+                                окружающих их людей.</p>
+                        </div>
+                        <div class="col-md-6 mb-4 how-img order-1 order-sm-12">
+                            <i class="far fa-globe fa-10x text-primary"></i>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 mb-4 how-img">
+                            <i class="far fa-bullseye-arrow fa-10x text-danger"></i>
+                        </div>
+                        <div class="col-md-6">
+                            <h4>Наша цель</h4>
+                            <h4 class="subheading">Создать удобный инструмент.</h4>
+                            <p class="text-muted">Тем самым предоставив людям, которые работают в сфере установки систем
+                                автоматического
+                                полива,
+                                возможность сэкономить время, снабдив их современным программным обеспечением,
+                                позволяющим осуществлять
+                                расчёт, проектирование и обслуживание систем значительно быстрее.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--//ABOUT SERVICE-->
+            <div class="tab-pane fade show active" id="service" role="tabpanel" aria-labelledby="service-tab">
+                <div class="row">
+                    <div class="row m-5">
+                        <div class="col-md-6">
+                            <img class="w-100 mb-3" src="/images/mylogo_big.png" alt=""/>
+                        </div>
+                        <div class="col-md-6">
+                            <h3>
+                                Создано контрактором для контракторов
+                            </h3>
+                            <p>
+                                Основная цель данного онлайн-сервиса - это максимально
+                                сократить количество времени, которое проходит с момента получения технического задания
+                                на
+                                проектирование полива, до момента предоставления заказчику коммерческого предложения, не
+                                пренебрегая качеством и точностью проекта. Это достигается путем автоматизации рутинных
+                                задач, например таких, как подсчет фитингов или расчет диаметров трубопроводов. В
+                                программе
+                                реализована система автоматического определения сопел из выбранной серии под заданные
+                                пользователем геометрические характеристики покрытия, чтобы ускорить их расстановку на
+                                участке. И еще много-много удобного функционала
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row m-5">
+                        <div class="col-md-12">
+                            <h3>
+                                Irrisketch постоянно совершенствуется
+                            </h3>
+                            <p>
+                                Благодаря Вашим отзывам и нашим смелым тестировщикам, мы постоянно улучшаем наш продукт,
+                                подстраивая его под реальные нужды людей, которые занимаются нашей профессией. Оставляя
+                                отзывы Вы помогаете, созадть новый, улучшенный способ решения задачи по созданию
+                                оптимальных систем автоматического полива
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row m-5">
+                        <div class="col-md-12">
+                            <h3>
+                                Не требуется установка на компьютер
+                            </h3>
+                            <p>
+                                Irrisketch - это онлайн-сервис, который надежно хранит все ваши проекты в облаке. Вам не
+                                потребуется устанавливать какое либо программное обеспечение на свой компьютер. И
+                                получить
+                                доступ к вашим проектам вы можете с любого устройства, подключенного к интернету, будь
+                                то смартфон или компьютер, находясь в любой точке мира.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row m-5">
+                        <div class="col-md-12">
+                            <h3>
+                                Используемые сторонние библиотеки
+                            </h3>
+                            <p>
+                                Irrisketch разработан на основе фреймворка <a href="http://paperjs.org/license/"
+                                                                              target="_blank">PaperJS, библиотеки с
+                                    открытым исходным кодом (MIT License)</a>
+                            </p>
+                            <p>
+                                Также используются следующие библиотеки и фреймворки:
+                            <ul>
+                                <li><a href="https://getbootstrap.com/" target="_blank">Bootstrap 4 (MIT)</a></li>
+                                <li><a href="https://fontawesome.com/" target="_blank">Fontawesome 5 (MIT)</a></li>
+                                <li><a href="https://jquery.com/" target="_blank">jQuery 3 (Apache License V2.0)</a>
+                                </li>
+                                <li><a href="https://github.com/mozilla/pdf.js" target="_blank">PDF.js (Apache License
+                                        V2.0)</a>
+                                </li>
+                                <li><a href="https://underscorejs.org/#" target="_blank">underscorejs (MIT)</a></li>
+                                <li><a href="https://www.npmjs.com/package/js-xlsx" target="_blank">js-xlsx (Apache
+                                        License V2.0)</a></li>
+                                <li><a href="https://github.com/eligrey/FileSaver.js" target="_blank">FileSaver
+                                        (MIT)</a></li>
+                                <li><a href="https://github.com/caolan/async" target="_blank">async (MIT)</a></li>
+                                <li><a href="https://github.com/eligrey/Blob.js.git" target="_blank">Blob (MIT)</a></li>
+                                <li><a href="https://github.com/bootstrap-tagsinput/bootstrap-tagsinput"
+                                       target="_blank">bootstrap-tagsinput (MIT)</a></li>
+                                <li><a href="https://github.com/twitter/typeahead.js" target="_blank">typeahead.js
+                                        (MIT)</a></li>
+                                <li><a href="https://kenwheeler.github.io/slick/" target="_blank">slick (MIT)</a></li>
+                                <li><a href="https://github.com/zalog/placeholder-loading" target="_blank">placeholder-loading (MIT)</a></li>
+                            </ul>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row m-5">
+                        <div class="col-md-12">
+                            <h3>
+                                Статус разработки
+                            </h3>
+                            <p>
+                                Посмотреть как мы продвигаемся, можно на <a href="https://irris.club/topic/8/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-irrisketch-residential">этой странице</a>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row m-5">
+                        <div class="col-md-12">
+                            <h3>
+                                Кто помог этому проекту увидеть свет?
+                            </h3>
+                            <p>
+                                Список <a href="/donate" target="_blank">Почётных Хранителей IRRISketch</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--//ABOUT TEAM-->
+            <div class="tab-pane fade" id="team" role="tabpanel" aria-labelledby="team-tab">
+                <div class="team-section mt-2">
+                    <div class="row">
+                        <!-- Team member -->
+                        <div class="col-xs-12 col-md-6 col-lg-6">
+                            <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                                <div class="mainflip">
+                                    <div class="frontside">
+                                        <div class="card">
+                                            <div class="card-body text-center">
+                                                <p><img class=" img-fluid"
+                                                        src="/images/people/fil.png"
+                                                        alt="card image"></p>
+                                                <h4 class="card-title">Филипп</h4>
+                                                <p class="card-text">Разработчик</p>
+                                                <i class="far fa-code fa-2x"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="backside">
+                                        <div class="card">
+                                            <div class="card-body text-center mt-4">
+                                                <h4 class="card-title">Филипп</h4>
+                                                <p class="card-text">По образованию инженер-строитель. В поливе с 2014
+                                                    года. Подумал, что тратит слишком много времени на проектирование
+                                                    систем, и разработал данный веб-сервис, чтобы уделять больше времени
+                                                    кайт-серфингу</p>
+                                                <ul class="list-inline">
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="mailto:mail@irrisketch.ru?subject=Hello">
+                                                            <i class="far fa-envelope"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="https://www.instagram.com/irrisketch.ru/">
+                                                            <i class="fab fa-instagram"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- ./Team member -->
+                        <!-- Team member -->
+                        <div class="col-xs-12 col-md-6 col-lg-6">
+                            <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                                <div class="mainflip">
+                                    <div class="frontside">
+                                        <div class="card">
+                                            <div class="card-body text-center">
+                                                <p><img class=" img-fluid"
+                                                        src="/images/people/tikh.png"
+                                                        alt="card image"></p>
+                                                <h4 class="card-title">Александр</h4>
+                                                <p class="card-text">Дизайнер</p>
+                                                <i class="far fa-pencil-paintbrush fa-2x"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="backside">
+                                        <div class="card">
+                                            <div class="card-body text-center mt-4">
+                                                <h4 class="card-title">Александр</h4>
+                                                <p class="card-text">По образованию художник и инженер. Одним словом
+                                                    ландшафтный дизайнер. Знает как нарисовать дерево вид сверху, так
+                                                    чтобы наблюдатель погрузился в состояние, как будто оказался в
+                                                    тропическом лесу</p>
+                                                <ul class="list-inline">
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="mailto:xom1959@yandex.ru?subject=Hello">
+                                                            <i class="far fa-envelope"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- ./Team member -->
+                        <!-- Team member -->
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                                <div class="mainflip">
+                                    <div class="frontside">
+                                        <div class="card">
+                                            <div class="card-body text-center">
+                                                <p><img class=" img-fluid"
+                                                        src="/images/people/ant.png"
+                                                        alt="card image"></p>
+                                                <h4 class="card-title">Антон</h4>
+                                                <p class="card-text">Инженер-тестировщик</p>
+                                                <i class="far fa-football-helmet fa-2x"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="backside">
+                                        <div class="card">
+                                            <div class="card-body text-center mt-4">
+                                                <h4 class="card-title">Антон</h4>
+                                                <p class="card-text">Помимо того, что занимается фотографией и
+                                                    гимнастикой, также создает системы полива, наиболее технологичным
+                                                    путем, используя траншеекопатели и прочие высокие технологии</p>
+                                                <ul class="list-inline">
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="mailto:info@polivcentr.ru?subject=Hello">
+                                                            <i class="far fa-envelope"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="https://www.instagram.com/polivcentr.ru/">
+                                                            <i class="fab fa-instagram"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- ./Team member -->
+                        <!-- Team member -->
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                                <div class="mainflip">
+                                    <div class="frontside">
+                                        <div class="card">
+                                            <div class="card-body text-center">
+                                                <p><img class=" img-fluid"
+                                                        src="/images/people/aleks.png"
+                                                        alt="card image"></p>
+                                                <h4 class="card-title">Алексей</h4>
+                                                <p class="card-text">Инженер-тестировщик</p>
+                                                <i class="far fa-football-helmet fa-2x"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="backside">
+                                        <div class="card">
+                                            <div class="card-body text-center mt-4">
+                                                <h4 class="card-title">Алексей</h4>
+                                                <p class="card-text">Профессионал своего дела. Удивляет всех окружающих
+                                                    перфекционизмом в отношении укладки капельных линий и магической
+                                                    установкой систем без применения лопат</p>
+                                                <ul class="list-inline">
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="mailto:Profpolivrb@gmail.com?subject=Hello">
+                                                            <i class="far fa-envelope"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="https://www.instagram.com/profpoliv_by/">
+                                                            <i class="fab fa-instagram"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- ./Team member -->
+                        <!-- Team member -->
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="image-flip" ontouchstart="this.classList.toggle('hover');">
+                                <div class="mainflip">
+                                    <div class="frontside">
+                                        <div class="card">
+                                            <div class="card-body text-center">
+                                                <p><img class=" img-fluid"
+                                                        src="/images/people/maks.png"
+                                                        alt="card image"></p>
+                                                <h4 class="card-title">Максим</h4>
+                                                <p class="card-text">Инженер-тестировщик</p>
+                                                <i class="far fa-football-helmet fa-2x"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="backside">
+                                        <div class="card">
+                                            <div class="card-body text-center mt-4">
+                                                <h4 class="card-title">Максим</h4>
+                                                <p class="card-text">Самый прожженый контрактор. Еще в прошлом
+                                                    тысячилетии занимался системами автоматического полива. К тому же
+                                                    обладает недюженной силой, закручивая почти голыми руками
+                                                    63-миллиметровые компрессионные муфты при температуре +2℃</p>
+                                                <ul class="list-inline">
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="mailto:polivmax@gmail.com?subject=Hello">
+                                                            <i class="far fa-envelope"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="https://www.instagram.com/polivmax/">
+                                                            <i class="fab fa-instagram"></i>
+                                                        </a>
+                                                    </li>
+                                                    <li class="list-inline-item">
+                                                        <a class="social-icon text-xs-center" target="_blank"
+                                                           href="https://www.youtube.com/channel/UCX08xcDrIzQ8otzisJqWfdA">
+                                                            <i class="fab fa-youtube"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- ./Team member -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

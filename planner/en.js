@@ -751,6 +751,14 @@ this.LNG = {
             "Set file type as ",
             "XLSX", "ODS"
         ],
+        saveSpecsVariant: [
+            "Enter title",
+            "Outlay #",
+            "Save",
+            "Saving specs",
+            "Completed",
+            "Saving failed"
+        ],
         differentSprGroups: [
             "Failed to attach different types of water consumers on this pipe",
             "According to the irrigation design standards it's unacceptable to mix different types of water consumers or sprinklers with different precipitation rates on the same zone"

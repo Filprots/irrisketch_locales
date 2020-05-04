@@ -251,7 +251,7 @@
   "Sign in": "Anmelden",
   "Hi": "Hi",
   "Account": "Konto",
-  "Home": "Startseite"
+  "Home": "Startseite",
   "Tutorials": "Anleitungen",
   "FAQ": "FAQ",
   "Remember me": "Erinnern am Mich ",
@@ -531,7 +531,7 @@
   "ProjectButtonEditSettings": "Projekt-Einstellungen",
   "Edit project settings": "Projekt-Einstellungen",
   "SceneSize": "Bildschirmgröße",
-  "SceneSizeRestrictions": "Geben Sie eine Größe von mehr als 50 Metern an, mit 10-Meter-Schritt",  
+  "SceneSizeRestrictions": "Geben Sie eine Größe von mehr als 50 Metern an, mit 10-Meter-Schritt",
   "SceneSizeMeters": "Meter (Szenen-Seitenmaß)",
   "NotValidSceneSizeError": "Inkorrekter Wert",
   "TooSmallSceneSizeError": "Zu große Größe",

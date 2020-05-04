@@ -198,6 +198,14 @@
   "bar": "bar",
   "SprayBody": "Spray",
   "ZoneName": "Zone name",
+  "loader_loading": "Initializing structure",
+  "loader_interactive": "Downloading libraries",
+  "loader_DOMContentLoaded": "Recieving media",
+  "loader_complete": "Loading project",
+  "loader_windowLoaded": "Preparing scene",
+  "loader_loadingObjects": "Loading objects",
+  "loader_loadingLayouts": "Preparing layouts",
+  "loader_pdfConverting": "Converting PDF",
   "-----------------------------------------SITE SECTION": "",
   "": "",
   "About": "About",
@@ -651,5 +659,7 @@
   "Specs_Sheets_Table_Header_Title": "Title",
   "Specs_Sheets_Table_Header_Actions": "Actions",
   "RemoveOutlayDialogTitle": "Remove outlay",
-  "AreYouSureRemoveOutlay": "Are you sure you want to remove"
+  "AreYouSureRemoveOutlay": "Are you sure you want to remove",
+  "Prices": "Prices",
+  "OutlayTemplates": "Templates"
 }

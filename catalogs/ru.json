@@ -760,6 +760,45 @@
     }
   },
   "Hunter": {
+    "_rotors_Hunter": {
+      "common_lang": "Роторный дождеватель Hunter {{model}} {{nozzleColor.ru}} сопло №{{nozzle}}",
+      "common_body": "Роторный дождеватель Hunter {{model}}",
+      "common_noz": "Сопло №{{nozzle}} для ротора Hunter {{class}} ({{nozzleColor.ru}})",
+      "i20_colors": {
+        "blue": "синее",
+        "grey": "серое",
+        "dark green": "тёмно-зеленое",
+        "black": "чёрное",
+        "red": "красное",
+        "light green": "светло-зелёное",
+        "beige": "бежевое"
+      },
+      "i25_colors": {
+        "yellow": "жёлтое",
+        "white": "белое",
+        "orange": "оранжевое",
+        "light brown": "светло-коричневое",
+        "light blue": "светло-синее",
+        "light green": "светло-зелёное",
+        "grey": "серое",
+        "red": "красное",
+        "dark brown": "тёмно-коричневое",
+        "dark blue": "тёмно-синее",
+        "dark green": "тёмно-зелёное",
+        "black": "чёрное"
+      },
+      "pgj": "Роторный дождеватель Hunter PGJ-{{RR}} красное сопло №{{nozzle}}",
+      "pgj_body": "Роторный дождеватель Hunter PGJ-{{RR}}",
+      "pgj_noz": "Сопло №{{nozzle}} для ротора Hunter PGJ (красное)",
+      "pgpAdj_colors": {
+        "red": "красное",
+        "blue": "синее",
+        "grey": "серое"
+      },
+      "srm": "Роторный дождеватель Hunter SRM-{{RR}} тёмно-зеленое сопло №{{nozzle}}",
+      "srm_body": "Роторный дождеватель Hunter SRM-{{RR}}",
+      "srm_noz": "Сопло №{{nozzle}} для ротора Hunter SRM (тёмно-зеленое)"
+    },
     "_bubblers_Hunter": {
       "PCB-25": "Баблер Hunter PCB-25",
       "PCB-50": "Баблер Hunter PCB-50",
@@ -1665,6 +1704,32 @@
     }
   },
   "KRain": {
+    "_rotors_KRain": {
+      "red": "красное",
+      "green": "зелёное",
+      "black": "чёрное",
+      "CV": " (запорный клапан)",
+      "RCW": " (непитьевая вода)",
+      "SH": " (Кустарниковая модель)",
+      "HP": " (12\" Шток)",
+      "6INCH": " (6\" Шток)",
+      "360": " (Полный круг)",
+      "SS": " (Нержавеющая сталь)",
+      "CR": " (Уплотнитель устойчивый к хлору)",
+      "OS": " (Для сточных вод)",
+      "miniPro": "Роторный дождеватель K-Rain MiniPro 130{{RR}} красное сопло №{{nozzle}}{{options.ru}}",
+      "miniPro_body": "Роторный дождеватель Hunter K-Rain MiniPro 130{{RR}}{{options.ru}}",
+      "miniPro_noz": "Сопло №{{nozzle}} для ротора K-Rain MiniPro (красное)",
+      "rps50": "Роторный дождеватель K-Rain RPS{{RR}} красное сопло №{{nozzle}}{{options.ru}}",
+      "rps50_body": "Роторный дождеватель Hunter K-Rain RPS{{RR}}{{options.ru}}",
+      "rps50_noz": "Сопло №{{nozzle}} для ротора K-Rain RPS50 (красное)",
+      "common_lang": "Роторный дождеватель K-Rain {{series}} {{model}} {{nozzleColor.ru}} сопло №{{nozzle}}{{options.ru}}",
+      "common_body": "Роторный дождеватель K-Rain {{series}} {{model}}{{options.ru}}",
+      "common_noz": "Сопло №{{nozzle}} для ротора K-Rain {{series}} ({{nozzleColor.ru}})",
+      "common_1_lang": "Роторный дождеватель K-Rain {{model}} {{nozzleColor.ru}} сопло №{{nozzle}}{{options.ru}}",
+      "common_1_body": "Роторный дождеватель K-Rain {{model}}{{options.ru}}",
+      "common_1_noz": "Сопло №{{nozzle}} для ротора K-Rain {{class}} ({{nozzleColor.ru}})"
+    },
     "_bubblers_KRain": {
       "TB-ADJ": "Баблер регулируемый K-Rain TB-ADJ",
       "TB-025": "Баблер компенсированный K-Rain TB-025",
@@ -1901,15 +1966,67 @@
     }
   },
   "RainBird": {
+    "_rotors_RainBird": {
+      "common_lang": "Роторный дождеватель Rain Bird {{model}} {{nozzleColor.ru}} сопло №{{nozzle}}{{options.ru}}",
+      "common_body": "Роторный дождеватель Rain Bird {{model}}{{options.ru}}",
+      "common_impulse_lang": "Импульсный дождеватель Rain Bird {{model}} {{nozzleColor.ru}} сопло №{{nozzle}}{{options.ru}}",
+      "common_impulse_body": "Импульсный дождеватель Rain Bird {{model}}{{options.ru}}",
+      "common_noz": "Сопло №{{nozzle}} для ротора Rain Bird {{class}} ({{nozzleColor.ru}})",
+      "3500": "Роторный дождеватель Rain Bird 35{{RR}} синее сопло №{{nozzle}}{{options.ru}}",
+      "3500_body": "Роторный дождеватель Hunter Rain Bird 35{{RR}}{{options.ru}}",
+      "3500_noz": "Сопло №{{nozzle}} для ротора Rain Bird 3500 (синее)",
+      "options_texts_1": {
+        "S": " (Кустарниковая модель)",
+        "SAM": " (с запорным клапаном)",
+        "NP": " (непитьевая вода)"
+      },
+      "5000_colors": {
+        "blue": "синее",
+        "red": "красное",
+        "green": "зелёное",
+        "beige": "бежевое"
+      },
+      "8000_colors": {
+        "black": "чёрное",
+        "light blue": "светло-синее",
+        "green": "зелёное",
+        "grey": "серое",
+        "beige": "бежевое",
+        "turquoise": "бирюзовое",
+        "dk. brown": "тёмно-коричневое",
+        "dk. blue": "тёмно-синее",
+        "dk. red": "тёмно-красное",
+        "yellow": "жёлтое",
+        "orange": "оранжевое",
+        "white": "белое"
+      },
+      "options_texts_2": {
+        "S": " (Кустарниковая модель)",
+        "+": " (Перекрыте потока)",
+        "PC": " (Регулируемый сектор)",
+        "FC": " (Полный круг)",
+        "SAM": " (Запорный клапан)",
+        "PRS": " (Регулировка давления 3.1 бар)",
+        "NP": " (Непитьевая вода)",
+        "SS": " (Нержавеющая сталь)"
+      },
+      "maxi_colors": {
+        "red": "красное",
+        "black": "чёрное",
+        "blue": "синее",
+        "yellow": "жёлтое",
+        "beige": "бежевое"
+      }
+    },
     "_bubblers_RainBird": {
       "1401": "Баблер компенсированный Rain Bird 1401",
       "1402": "Баблер компенсированный Rain Bird 1402",
       "1404": "Баблер компенсированный Rain Bird 1404",
       "1408": "Баблер компенсированный Rain Bird 1408",
       "1300A-F": "Баблер регулируемый Rain Bird 1300A-F",
-      "PCT-05":"Баблер с компенсацией давления Rain Bird PCT-05",
-      "PCT-07":"Баблер с компенсацией давления Rain Bird PCT-07",
-      "PCT-10":"Баблер с компенсацией давления Rain Bird PCT-10"
+      "PCT-05": "Баблер с компенсацией давления Rain Bird PCT-05",
+      "PCT-07": "Баблер с компенсацией давления Rain Bird PCT-07",
+      "PCT-10": "Баблер с компенсацией давления Rain Bird PCT-10"
     },
     "_rzw_RainBird": {
       "RWS-B-1401": "Система прикорневого полива Rain Bird RWS-B-1401",
@@ -2172,6 +2289,30 @@
     }
   },
   "Toro": {
+    "_rotors_Toro": {
+      "grey": "серое",
+      "E": " (Непитьевая вода)",
+      "COM": " (Запорный клапан)",
+      "CK": " (Запорный клапан)",
+      "12": " (Высокий шток)",
+      "HP": " (Высокий шток)",
+      "00": " (Газонный)",
+      "P": " (Газонный)",
+      "10": " (Кустовой)",
+      "S": " (Кустовой)",
+      "SS": " (Нержавеющая сталь)",
+      "300S": "Роторный дождеватель Toro 300 Series с соплом {{nozzleClass}} №{{nozzle}}{{options.ru}}",
+      "300S_body": "Роторный дождеватель Toro 300 Series 300-{{RR}}-00{{optionsTogether}}{{options.ru}}",
+      "300S_noz": "Сопло {{nozzleClass}} 300-{{nozzle}} и диск 3{{arc}}-00 ({{arcDeg}}) для ротора Toro 300 Series",
+      "mini8": "Роторный дождеватель Toro MINI8-{{RR}} красное сопло №{{nozzle}}",
+      "mini8_body": "Роторный дождеватель Toro MINI8-{{RR}}",
+      "mini8_noz": "Сопло №{{nozzle}} для ротора Toro MINI 8 (красное)",
+      "mini8E": "Роторный дождеватель Toro MINI8-{{RR}}-E красное сопло №{{nozzle}} (Непитьевая вода)",
+      "mini8E_body": "Роторный дождеватель Toro MINI8-{{RR}}-E (Непитьевая вода)",
+      "t5": "Роторный дождеватель Toro {{series}} {{model}} {{nozzleColor.ru}} сопло №{{nozzle}}{{options.ru}}",
+      "t5_body": "Роторный дождеватель Toro {{series}} {{model}}{{options.ru}}",
+      "t5_noz": "Сопло №{{nozzle}} для ротора Toro {{series}} ({{nozzleColor.ru}})"
+    },
     "_bubblers_Toro": {
       "514-20": "Баблер Toro 514-20",
       "511-30": "Баблер Toro 511-30",

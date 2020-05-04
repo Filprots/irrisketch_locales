@@ -198,6 +198,14 @@
 	"bar": "бар",
 	"SprayBody": "Корпус",
 	"ZoneName": "Название зоны",
+	"loader_loading": "Инициализация структуры",
+	"loader_interactive": "Скачивание библиотек",
+	"loader_DOMContentLoaded": "Загрузка графики",
+	"loader_complete": "Подготовка проекта",
+	"loader_windowLoaded": "Подготовка сцены",
+	"loader_loadingObjects": "Создание объектов",
+	"loader_loadingLayouts": "Отрисовка чертежей",
+	"loader_pdfConverting": "Конвертация PDF",
 	"-----------------------------------------SITE SECTION": "",
 	"": "",
 	"About": "О проекте",
@@ -651,5 +659,7 @@
 	"Specs_Sheets_Table_Header_Title": "Название",
 	"Specs_Sheets_Table_Header_Actions": "Действия",
 	"RemoveOutlayDialogTitle": "Удаление сметы/спецификации",
-	"AreYouSureRemoveOutlay": "Вы уверены, что хотите удалить"
+	"AreYouSureRemoveOutlay": "Вы уверены, что хотите удалить",
+	"Prices": "Прайсы",
+	"OutlayTemplates": "Шаблоны"
 }

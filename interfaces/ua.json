@@ -685,7 +685,7 @@
   },
   "COUNTER_HEADER_COMMON": "Общая статистика",
   "COUNTER_HEADER_SPRINKLERS": "Статистика по дождевателям",
-  "COUNTER_sprinklersTotal": "Вкручено дождевателей",
+  "COUNTER_sprinklersTotal": "Всего дождевателей",
   "COUNTER_rotatorsTotal": "Ротаторов настроено",
   "COUNTER_staticNozzlesTotal": "Статических сопел вкручено",
   "COUNTER_rotorsTotal": "Роторов поставлено",

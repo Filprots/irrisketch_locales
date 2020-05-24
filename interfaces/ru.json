@@ -662,5 +662,46 @@
 	"RemoveOutlayDialogTitle": "Удаление сметы/спецификации",
 	"AreYouSureRemoveOutlay": "Вы уверены, что хотите удалить",
 	"Prices": "Прайсы",
-	"OutlayTemplates": "Шаблоны"
+	"OutlayTemplates": "Шаблоны",
+	"%s COUNTER_pcs": "%s шт.",
+	"%s COUNTER_m": "%s м.",
+	"%s COUNTER_accs": {
+		"one": "%s аккаунт",
+		"few": "%s аккаунта",
+		"many": "%s аккаунтов",
+		"other": "%s аккаунта"
+	},
+	"%s COUNTER_projs": {
+		"one": "%s проект",
+		"few": "%s проекта",
+		"many": "%s проектов",
+		"other": "%s проекта"
+	},
+	"%s COUNTER_layouts": {
+		"one": "%s чертёж",
+		"few": "%s чертежа",
+		"many": "%s чертежей",
+		"other": "%s чертежа"
+	},
+	"COUNTER_HEADER_COMMON": "Общая статистика",
+	"COUNTER_HEADER_SPRINKLERS": "Статистика по дождевателям",
+	"COUNTER_sprinklersTotal": "Вкручено дождевателей",
+	"COUNTER_rotatorsTotal": "Ротаторов настроено",
+	"COUNTER_staticNozzlesTotal": "Статических сопел вкручено",
+	"COUNTER_rotorsTotal": "Роторов поставлено",
+	"COUNTER_bubblersTotal": "Бабблеров спрятано",
+	"COUNTER_rzwTotal": "Прикорневого полива вкопано",
+	"COUNTER_accountsRegistered": "Нас с вами",
+	"COUNTER_projectsTotal": "Наших проектов",
+	"COUNTER_projectsDeleted": "Почему-то удалено",
+	"COUNTER_layoutsTotal": "Чертежей исполнено",
+	"COUNTER_HEADER_LINES": "Трубопроводы, капельные линии, электропроводка",
+	"COUNTER_dripLinesTotal": "Капельная трубка",
+	"COUNTER_blindLinesTotal": "Слепая трубка",
+	"COUNTER_mainPipes": "Магистральный трубопровод",
+	"COUNTER_lateralPipes": "Зональный трубопровод",
+	"COUNTER_wiresTotal": "Управляющие провода",
+	"COUNTER_TEXT_since_yesterday": "за сутки",
+	"COUNTER_controllersTotal": "Контроллеров установлено",
+	"COUNTER_sensorsTotal": "Датчиков подключено"
 }

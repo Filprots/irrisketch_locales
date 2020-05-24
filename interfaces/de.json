@@ -662,5 +662,46 @@
   "RemoveOutlayDialogTitle": "Remove outlay",
   "AreYouSureRemoveOutlay": "Are you sure you want to remove",
   "Prices": "Prices",
-  "OutlayTemplates": "Templates"
+  "OutlayTemplates": "Templates",
+  "%s COUNTER_pcs": "%s pcs.",
+  "%s COUNTER_m": "%s m.",
+  "%s COUNTER_accs": {
+    "one": "%s account",
+    "few": "%s accounts",
+    "many": "%s accounts",
+    "other": "%s accounts"
+  },
+  "%s COUNTER_projs": {
+    "one": "%s project",
+    "few": "%s projects",
+    "many": "%s projects",
+    "other": "%s projects"
+  },
+  "%s COUNTER_layouts": {
+    "one": "%s layout",
+    "few": "%s layouts",
+    "many": "%s layouts",
+    "other": "%s layouts"
+  },
+  "COUNTER_HEADER_COMMON": "Common statistics",
+  "COUNTER_HEADER_SPRINKLERS": "Sprinklers",
+  "COUNTER_sprinklersTotal": "Total",
+  "COUNTER_rotatorsTotal": "Rotators",
+  "COUNTER_staticNozzlesTotal": "Static nozzles",
+  "COUNTER_rotorsTotal": "Rotors",
+  "COUNTER_bubblersTotal": "Bubblers",
+  "COUNTER_rzwTotal": "Root Zone Watering",
+  "COUNTER_accountsRegistered": "Accounts registered",
+  "COUNTER_projectsTotal": "Projects count",
+  "COUNTER_projectsDeleted": "Removed projects",
+  "COUNTER_layoutsTotal": "Layouts created",
+  "COUNTER_HEADER_LINES": "Pipes, Drip lines, Wiring",
+  "COUNTER_dripLinesTotal": "Emitter tubing",
+  "COUNTER_blindLinesTotal": "Blind tubing",
+  "COUNTER_mainPipes": "Main line",
+  "COUNTER_lateralPipes": "Lateral pipe",
+  "COUNTER_wiresTotal": "Control wires",
+  "COUNTER_TEXT_since_yesterday": "since yesterday",
+  "COUNTER_controllersTotal": "Controllers installed",
+  "COUNTER_sensorsTotal": "Sensors connected"
 }

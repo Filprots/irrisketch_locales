@@ -665,6 +665,7 @@
   "OutlayTemplates": "Templates",
   "%s COUNTER_pcs": "%s pcs.",
   "%s COUNTER_m": "%s m.",
+  "%s COUNTER_sqm": "%s m²",
   "%s COUNTER_accs": {
     "one": "%s account",
     "few": "%s accounts",
@@ -703,5 +704,7 @@
   "COUNTER_wiresTotal": "Control wires",
   "COUNTER_TEXT_since_yesterday": "since yesterday",
   "COUNTER_controllersTotal": "Controllers installed",
-  "COUNTER_sensorsTotal": "Sensors connected"
+  "COUNTER_sensorsTotal": "Sensors connected",
+  "COUNTER_lawnTotalArea": "Lawn total",
+  "COUNTER_quickCoupTotal": "Quick-coupling valves"
 }

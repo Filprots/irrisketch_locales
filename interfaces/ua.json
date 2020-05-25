@@ -665,6 +665,7 @@
   "OutlayTemplates": "Шаблоны",
   "%s COUNTER_pcs": "%s шт.",
   "%s COUNTER_m": "%s м.",
+  "%s COUNTER_sqm": "%s м²",
   "%s COUNTER_accs": {
     "one": "%s аккаунт",
     "few": "%s аккаунта",
@@ -703,5 +704,7 @@
   "COUNTER_wiresTotal": "Управляющие провода",
   "COUNTER_TEXT_since_yesterday": "за сутки",
   "COUNTER_controllersTotal": "Контроллеров установлено",
-  "COUNTER_sensorsTotal": "Датчиков подключено"
+  "COUNTER_sensorsTotal": "Датчиков подключено",
+  "COUNTER_lawnTotalArea": "Газона полито",
+  "COUNTER_quickCoupTotal": "Гидрантов посажено"
 }

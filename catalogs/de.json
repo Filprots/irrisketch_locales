@@ -1708,6 +1708,7 @@
   },
   "KRain": {
     "_rotors_KRain": {
+      "360": " (Full circle)",
       "red": "red",
       "green": "green",
       "black": "black",
@@ -1716,7 +1717,6 @@
       "SH": " (Shrub model)",
       "HP": " (12\" High Pop)",
       "6INCH": " (6\" Riser)",
-      "360": " (Full circle)",
       "SS": " (Stainless Steel)",
       "CR": " (Chlorine Resistant Seal)",
       "OS": " (On-site wastewater applications)",
@@ -1972,12 +1972,12 @@
   },
   "RainBird": {
     "_rotors_RainBird": {
+      "3500": "Rain Bird 35{{RR}} Rotor with #{{nozzle}} blue nozzle{{options.en}}",
       "common_lang": "Rain Bird {{model}} Rotor with #{{nozzle}} {{nozzleColor.en}} nozzle{{options.en}}",
       "common_body": "Rain Bird {{model}} Rotor{{options.en}}",
       "common_impulse_lang": "Rain Bird {{model}} Impulse Rotor with #{{nozzle}} {{nozzleColor.en}} nozzle{{options.en}}",
       "common_impulse_body": "Rain Bird {{model}} Impulse Rotor{{options.en}}",
       "common_noz": "Rain Bird {{class}} #{{nozzle}} nozzle ({{nozzleColor.en}})",
-      "3500": "Rain Bird 35{{RR}} Rotor with #{{nozzle}} blue nozzle{{options.en}}",
       "3500_body": "Rain Bird 35{{RR}} Rotor{{options.en}}",
       "3500_noz": "Rain Bird 3500 Series #{{nozzle}} nozzle (blue)",
       "options_texts_1": {
@@ -2219,7 +2219,8 @@
       "RD-06-S-P45-F": "Rain Bird RD-06-S-P45-F Versenkdüse (Rückschlagventil) (3.1 bar reguliert) (Flow Shield)",
       "RD-12-S-P45-F": "Rain Bird RD-12-S-P45-F Versenkdüse (Rückschlagventil) (3.1 bar reguliert) (Flow Shield)",
       "US-400": "Rain Bird US-400 Versenkdüse",
-      "US-400-SAM": "Rain Bird US-400 spray body with US-SAM-KIT"
+      "US-400-SAM": "Rain Bird US-400 spray body with US-SAM-KIT",
+      "US-SAM-KIT": "Rain Bird check valve for US-400"
     },
     "_sensors_RainBird": {
       "RSD-BEX": "Rain Bird RSD-BEX Regen Sensor",
@@ -2296,15 +2297,15 @@
   },
   "Toro": {
     "_rotors_Toro": {
+      "10": " (Shrub model)",
+      "12": " (High Pop)",
       "grey": "grey",
       "E": " (Effluent)",
       "COM": " (Check Valve)",
       "CK": " (Check Valve)",
-      "12": " (High Pop)",
       "HP": " (High Pop)",
       "00": " (Lawn Pop-up)",
       "P": " (Lawn Pop-up)",
-      "10": " (Shrub model)",
       "S": " (Shrub model)",
       "SS": " (Stainless Steel)",
       "300S": "Toro 300 Series Rotor with #{{nozzle}} {{nozzleClass}} nozzle{{options.en}}",

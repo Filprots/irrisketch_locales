@@ -1708,6 +1708,7 @@
   },
   "KRain": {
     "_rotors_KRain": {
+      "360": " (Повне коло)",
       "red": "червона",
       "green": "зелена",
       "black": "чорна",
@@ -1716,7 +1717,6 @@
       "SH": " (Модель типу кущ)",
       "HP": " (12\" Шток)",
       "6INCH": " (6\" Шток)",
-      "360": " (Повне коло)",
       "SS": " (Нержавіюча сталь)",
       "CR": " (Хлоростійкий сальник)",
       "OS": " (Для стічних вод)",
@@ -1972,12 +1972,12 @@
   },
   "RainBird": {
     "_rotors_RainBird": {
+      "3500": "Роторний зрошувач Rain Bird 35{{RR}} синя форсунка №{{nozzle}}{{options.ua}}",
       "common_lang": "Роторний зрошувач Rain Bird {{model}} {{nozzleColor.ua}} форсунка №{{nozzle}}{{options.ua}}",
       "common_body": "Роторний зрошувач Rain Bird {{model}}{{options.ua}}",
       "common_impulse_lang": "Імпульсний зрошувач Rain Bird {{model}} {{nozzleColor.ua}} форсунка №{{nozzle}}{{options.ua}}",
       "common_impulse_body": "Імпульсний зрошувач Rain Bird {{model}}{{options.ua}}",
       "common_noz": "Форсунка №{{nozzle}} для ротора Rain Bird {{class}} ({{nozzleColor.ua}})",
-      "3500": "Роторний зрошувач Rain Bird 35{{RR}} синя форсунка №{{nozzle}}{{options.ua}}",
       "3500_body": "Роторний зрошувач Rain Bird 35{{RR}}{{options.ua}}",
       "3500_noz": "Форсунка №{{nozzle}} для ротора Rain Bird 3500 (синя)",
       "options_texts_1": {
@@ -2219,7 +2219,8 @@
       "RD-06-S-P45-F": "Корпус зрошувача Rain Bird RD-06-S-P45-F (зі зворотнім клапаном) (редуктор тиску 3.1 бар) (технологія Flow-Shield)",
       "RD-12-S-P45-F": "Корпус зрошувача Rain Bird RD-12-S-P45-F (зі зворотнім клапаном) (редуктор тиску 3.1 бар) (технологія Flow-Shield)",
       "US-400": "Корпус зрошувача Rain Bird US-400",
-      "US-400-SAM": "Корпус дождевателя Rain Bird US-400 с запорным клапаном US-SAM-KIT"
+      "US-400-SAM": "Корпус дождевателя Rain Bird US-400 с запорным клапаном US-SAM-KIT",
+      "US-SAM-KIT": "Запорный клапан для US-400"
     },
     "_sensors_RainBird": {
       "RSD-BEX": "Датчик дощу Rain Bird RSD-BEX",
@@ -2296,15 +2297,15 @@
   },
   "Toro": {
     "_rotors_Toro": {
+      "10": " (Кущ)",
+      "12": " (Високий шток)",
       "grey": "сіра",
       "E": " (Технічна вода)",
       "COM": " (Зворотній клапан)",
       "CK": " (Зворотній клапан)",
-      "12": " (Високий шток)",
       "HP": " (Високий шток)",
       "00": " (Для газону)",
       "P": " (Для газону)",
-      "10": " (Кущ)",
       "S": " (Кущ)",
       "SS": " (Нержавіюча сталь)",
       "300S": "Роторний зрошувач Toro 300 Series з форсункою {{nozzleClass}} №{{nozzle}}{{options.ru}}",

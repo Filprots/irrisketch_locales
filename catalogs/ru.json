@@ -1708,6 +1708,7 @@
   },
   "KRain": {
     "_rotors_KRain": {
+      "360": " (Полный круг)",
       "red": "красное",
       "green": "зелёное",
       "black": "чёрное",
@@ -1716,7 +1717,6 @@
       "SH": " (Кустарниковая модель)",
       "HP": " (12\" Шток)",
       "6INCH": " (6\" Шток)",
-      "360": " (Полный круг)",
       "SS": " (Нержавеющая сталь)",
       "CR": " (Уплотнитель устойчивый к хлору)",
       "OS": " (Для сточных вод)",
@@ -1972,12 +1972,12 @@
   },
   "RainBird": {
     "_rotors_RainBird": {
+      "3500": "Роторный дождеватель Rain Bird 35{{RR}} синее сопло №{{nozzle}}{{options.ru}}",
       "common_lang": "Роторный дождеватель Rain Bird {{model}} {{nozzleColor.ru}} сопло №{{nozzle}}{{options.ru}}",
       "common_body": "Роторный дождеватель Rain Bird {{model}}{{options.ru}}",
       "common_impulse_lang": "Импульсный дождеватель Rain Bird {{model}} {{nozzleColor.ru}} сопло №{{nozzle}}{{options.ru}}",
       "common_impulse_body": "Импульсный дождеватель Rain Bird {{model}}{{options.ru}}",
       "common_noz": "Сопло №{{nozzle}} для ротора Rain Bird {{class}} ({{nozzleColor.ru}})",
-      "3500": "Роторный дождеватель Rain Bird 35{{RR}} синее сопло №{{nozzle}}{{options.ru}}",
       "3500_body": "Роторный дождеватель Hunter Rain Bird 35{{RR}}{{options.ru}}",
       "3500_noz": "Сопло №{{nozzle}} для ротора Rain Bird 3500 (синее)",
       "options_texts_1": {
@@ -2219,7 +2219,8 @@
       "RD-06-S-P45-F": "Корпус дождевателя Rain Bird RD-06-S-P45-F (c запорным клапаном) (регулятор давления 3.1 бар) (технология Flow-Shield)",
       "RD-12-S-P45-F": "Корпус дождевателя Rain Bird RD-12-S-P45-F (c запорным клапаном) (регулятор давления 3.1 бар) (технология Flow-Shield)",
       "US-400": "Корпус дождевателя Rain Bird US-400",
-      "US-400-SAM": "Корпус дождевателя Rain Bird US-400 с запорным клапаном US-SAM-KIT"
+      "US-400-SAM": "Корпус дождевателя Rain Bird US-400 с запорным клапаном US-SAM-KIT",
+      "US-SAM-KIT": "Запорный клапан для US-400"
     },
     "_sensors_RainBird": {
       "RSD-BEX": "Датчик дождя Rain Bird RSD-BEX",
@@ -2296,15 +2297,15 @@
   },
   "Toro": {
     "_rotors_Toro": {
+      "10": " (Кустовой)",
+      "12": " (Высокий шток)",
       "grey": "серое",
       "E": " (Непитьевая вода)",
       "COM": " (Запорный клапан)",
       "CK": " (Запорный клапан)",
-      "12": " (Высокий шток)",
       "HP": " (Высокий шток)",
       "00": " (Газонный)",
       "P": " (Газонный)",
-      "10": " (Кустовой)",
       "S": " (Кустовой)",
       "SS": " (Нержавеющая сталь)",
       "300S": "Роторный дождеватель Toro 300 Series с соплом {{nozzleClass}} №{{nozzle}}{{options.ru}}",

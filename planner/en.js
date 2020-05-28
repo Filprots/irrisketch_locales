@@ -757,7 +757,9 @@ this.LNG = {
             "Save",
             "Saving specs",
             "Completed",
-            "Saving failed"
+            "Saving failed",
+            "Update existing outlays",
+            "Update"
         ],
         differentSprGroups: [
             "Failed to attach different types of water consumers on this pipe",

@@ -705,6 +705,6 @@
 	"COUNTER_TEXT_since_yesterday": "за сутки",
 	"COUNTER_controllersTotal": "Контроллеров установлено",
 	"COUNTER_sensorsTotal": "Датчиков подключено",
-	"COUNTER_lawnTotalArea": "Газона полито",
+	"COUNTER_lawnTotalArea": "Газона посеяно",
 	"COUNTER_quickCoupTotal": "Гидрантов посажено"
 }

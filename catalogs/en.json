@@ -1061,7 +1061,10 @@
       "PROS-12-PRS40-CV-F-R": "Hunter PROS-12-PRS40-CV-F-R spray body (2.8 bar regulated) (drain check valve) (FloGuard technology) (reclaimed water ID cap)",
       "PSU-02": "Hunter PSU-02 spray body",
       "PSU-04": "Hunter PSU-04 spray body",
-      "PSU-06": "Hunter PSU-06 spray body"
+      "PSU-06": "Hunter PSU-06 spray body",
+      "PSU-02-CV": "Hunter PSU-02 spray body with Check Valve",
+      "PSU-04-CV": "Hunter PSU-04 spray body with Check Valve",
+      "PSU-06-CV": "Hunter PSU-06 spray body with Check Valve"
     },
     "_decoders_Hunter": {
       "ICD-100": "Hunter ICD-100 decoder, 1 Station, surge suppression and ground wire",
@@ -1818,6 +1821,8 @@
       "71201-RCW": "K-Rain 71201-RCW K-Spray spray body (reclaimed Water Use)",
       "NP2": "K-Rain NP2 NP spray body",
       "NP4": "K-Rain NP4 NP spray body",
+      "NP2-CV": "K-Rain NP2 NP spray body with Check Valve (P53429)",
+      "NP4-CV": "K-Rain NP4 NP spray body with Check Valve (P53429)",
       "78002-GUARD": "K-Rain 78002-GUARD PRO-S spray body (nozzle Guard)",
       "78002-CV": "K-Rain 78002-CV PRO-S spray body (drain check valve)",
       "78002-CV-GUARD": "K-Rain 78002-CV-GUARD PRO-S spray body (drain check valve and nozzle Guard)",
@@ -2213,7 +2218,8 @@
       "RD-04-S-P45-F": "Rain Bird RD-04-S-P45-F spray body (drain check valve) (3.1 bar regulated) (Flow-Shield)",
       "RD-06-S-P45-F": "Rain Bird RD-06-S-P45-F spray body (drain check valve) (3.1 bar regulated) (Flow-Shield)",
       "RD-12-S-P45-F": "Rain Bird RD-12-S-P45-F spray body (drain check valve) (3.1 bar regulated) (Flow-Shield)",
-      "US-400": "Rain Bird US-400 spray body"
+      "US-400": "Rain Bird US-400 spray body",
+      "US-400-SAM": "Rain Bird US-400 spray body with US-SAM-KIT"
     },
     "_sensors_RainBird": {
       "RSD-BEX": "Rain Bird RSD-BEX rain sensor",
@@ -2700,6 +2706,8 @@
       "102-1211": "Toro Effluent water 570 Series Cap with seal",
       "LPS-200": "Toro LPS-200 spray body",
       "LPS-400": "Toro LPS-400 spray body",
+      "LPS-200-CV": "Toro LPS-200 spray body with LPSCV Check Valve",
+      "LPS-400-CV": "Toro LPS-400 spray body with LPSCV Check Valve",
       "LPSCV": "Toro Drain check valve for LPS"
     },
     "_fc_Toro": {

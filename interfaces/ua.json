@@ -659,6 +659,7 @@
   "Modal_Specs_Sheets": "Сметы и спецификации",
   "Specs_Sheets_Table_Header_Number": "№",
   "Specs_Sheets_Table_Header_Title": "Название",
+  "Specs_Sheets_Table_Header_Updated": "Версия проекта от",
   "Specs_Sheets_Table_Header_Actions": "Действия",
   "RemoveOutlayDialogTitle": "Удаление сметы/спецификации",
   "AreYouSureRemoveOutlay": "Вы уверены, что хотите удалить",

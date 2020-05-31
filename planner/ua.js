@@ -480,6 +480,7 @@ this.LNG = {
         midRZWPipeFitting: "Врізний фітінг",
         endRZWPipeFitting: "Кінцевий фітінг",
         dripPipe: "Крапельна труба",
+        blindPipe: "Трубка без капельниц",
         dripTeeFitting: "Трійник крапельний",
         dripCapFitting: "Заглушка крапельна",
         dripCouplingFitting: "З'єднання крапельне",

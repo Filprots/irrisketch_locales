@@ -480,6 +480,7 @@ this.LNG = {
         midRZWPipeFitting: "Tie-in fitting",
         endRZWPipeFitting: "End-pipe fitting",
         dripPipe: "Drip pipe",
+        blindPipe: "Blind tubing",
         dripTeeFitting: "Drip tee",
         dripCapFitting: "Drip cap",
         dripCouplingFitting: "Drip coupling",

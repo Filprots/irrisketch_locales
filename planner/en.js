@@ -601,6 +601,7 @@ this.LNG = {
         cable: "Cable",
         wire: "Wire",
         //extendables
+        arbitraryFittings: "Arbitrary fittings",
         dripStartAssembly: "Drip start assembly",
         intakeAssembly: "Intake assembly",
         offtakeAssembly: "Offtake arbitrary fittings",

@@ -601,6 +601,7 @@ this.LNG = {
         cable: "Кабель",
         wire: "Провід",
         //extendables
+        arbitraryFittings: "Произвольные фитинги",
         dripStartAssembly: "Збірка старт-конектора",
         intakeAssembly: "Магістральні фітінги",
         offtakeAssembly: "Додаткові зональні фітінги",

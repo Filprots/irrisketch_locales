@@ -236,6 +236,7 @@ this.LNG = {
         "Root zone watering": "Прикорневой полив",
         Lateral: "Латераль",
         Main: "Магистраль",
+        Trench: "Траншея",
         hdpe: "ПНД",
         Controller: "Контроллер",
         Sensor: "Датчик",

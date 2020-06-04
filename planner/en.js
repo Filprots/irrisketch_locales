@@ -236,6 +236,7 @@ this.LNG = {
         "Root zone watering": "Root zone watering",
         Lateral: "Lateral",
         Main: "Main",
+        Trench: "Trench",
         hdpe: "HDPE",
         Controller: "Controller",
         Sensor: "Sensor",

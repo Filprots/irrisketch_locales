@@ -765,9 +765,9 @@
   },
   "Hunter": {
     "_rotors_Hunter": {
-      "common_lang": "Роторний зрошувач Hunter {{model}} {{nozzleColor.ua}} форсунка №{{nozzle}}",
+      "common_lang": "Роторний зрошувач Hunter {{model}} {{nozzleColor.uk}} форсунка №{{nozzle}}",
       "common_body": "Роторний зрошувач Hunter {{model}}",
-      "common_noz": "Форсунка №{{nozzle}} для ротора Hunter {{class}} ({{nozzleColor.ua}})",
+      "common_noz": "Форсунка №{{nozzle}} для ротора Hunter {{class}} ({{nozzleColor.uk}})",
       "i20_colors": {
         "blue": "синя",
         "grey": "сіра",
@@ -1724,18 +1724,18 @@
       "SS": " (Нержавіюча сталь)",
       "CR": " (Хлоростійкий сальник)",
       "OS": " (Для стічних вод)",
-      "miniPro": "Роторний зрошувач K-Rain MiniPro 130{{RR}} червона форсунка №{{nozzle}}{{options.ua}}",
-      "miniPro_body": "Роторний зрошувач K-Rain MiniPro 130{{RR}}{{options.ua}}",
+      "miniPro": "Роторний зрошувач K-Rain MiniPro 130{{RR}} червона форсунка №{{nozzle}}{{options.uk}}",
+      "miniPro_body": "Роторний зрошувач K-Rain MiniPro 130{{RR}}{{options.uk}}",
       "miniPro_noz": "Форсунка №{{nozzle}} для ротора K-Rain MiniPro (червона)",
-      "rps50": "Роторний зрошувач K-Rain RPS{{RR}} червона форсунка №{{nozzle}}{{options.ua}}",
-      "rps50_body": "Роторний зрошувач K-Rain RPS{{RR}}{{options.ua}}",
+      "rps50": "Роторний зрошувач K-Rain RPS{{RR}} червона форсунка №{{nozzle}}{{options.uk}}",
+      "rps50_body": "Роторний зрошувач K-Rain RPS{{RR}}{{options.uk}}",
       "rps50_noz": "Форсунка №{{nozzle}} для ротора K-Rain RPS50 (червона)",
-      "common_lang": "Роторний зрошувач K-Rain {{series}} {{model}} {{nozzleColor.ua}} форсунка №{{nozzle}}{{options.ua}}",
-      "common_body": "Роторний зрошувач K-Rain {{series}} {{model}}{{options.ua}}",
-      "common_noz": "Форсунка №{{nozzle}} для ротора K-Rain {{series}} ({{nozzleColor.ua}})",
-      "common_1_lang": "Роторний зрошувач K-Rain {{model}} {{nozzleColor.ua}} форсунка №{{nozzle}}{{options.ua}}",
-      "common_1_body": "Роторний зрошувач K-Rain {{model}}{{options.ua}}",
-      "common_1_noz": "Форсунка №{{nozzle}} для ротора K-Rain {{class}} ({{nozzleColor.ua}})"
+      "common_lang": "Роторний зрошувач K-Rain {{series}} {{model}} {{nozzleColor.uk}} форсунка №{{nozzle}}{{options.uk}}",
+      "common_body": "Роторний зрошувач K-Rain {{series}} {{model}}{{options.uk}}",
+      "common_noz": "Форсунка №{{nozzle}} для ротора K-Rain {{series}} ({{nozzleColor.uk}})",
+      "common_1_lang": "Роторний зрошувач K-Rain {{model}} {{nozzleColor.uk}} форсунка №{{nozzle}}{{options.uk}}",
+      "common_1_body": "Роторний зрошувач K-Rain {{model}}{{options.uk}}",
+      "common_1_noz": "Форсунка №{{nozzle}} для ротора K-Rain {{class}} ({{nozzleColor.uk}})"
     },
     "_bubblers_KRain": {
       "TB-ADJ": "Баблер регульований K-Rain TB-ADJ",
@@ -1976,13 +1976,13 @@
   },
   "RainBird": {
     "_rotors_RainBird": {
-      "3500": "Роторний зрошувач Rain Bird 35{{RR}} синя форсунка №{{nozzle}}{{options.ua}}",
-      "common_lang": "Роторний зрошувач Rain Bird {{model}} {{nozzleColor.ua}} форсунка №{{nozzle}}{{options.ua}}",
-      "common_body": "Роторний зрошувач Rain Bird {{model}}{{options.ua}}",
-      "common_impulse_lang": "Імпульсний зрошувач Rain Bird {{model}} {{nozzleColor.ua}} форсунка №{{nozzle}}{{options.ua}}",
-      "common_impulse_body": "Імпульсний зрошувач Rain Bird {{model}}{{options.ua}}",
-      "common_noz": "Форсунка №{{nozzle}} для ротора Rain Bird {{class}} ({{nozzleColor.ua}})",
-      "3500_body": "Роторний зрошувач Rain Bird 35{{RR}}{{options.ua}}",
+      "3500": "Роторний зрошувач Rain Bird 35{{RR}} синя форсунка №{{nozzle}}{{options.uk}}",
+      "common_lang": "Роторний зрошувач Rain Bird {{model}} {{nozzleColor.uk}} форсунка №{{nozzle}}{{options.uk}}",
+      "common_body": "Роторний зрошувач Rain Bird {{model}}{{options.uk}}",
+      "common_impulse_lang": "Імпульсний зрошувач Rain Bird {{model}} {{nozzleColor.uk}} форсунка №{{nozzle}}{{options.uk}}",
+      "common_impulse_body": "Імпульсний зрошувач Rain Bird {{model}}{{options.uk}}",
+      "common_noz": "Форсунка №{{nozzle}} для ротора Rain Bird {{class}} ({{nozzleColor.uk}})",
+      "3500_body": "Роторний зрошувач Rain Bird 35{{RR}}{{options.uk}}",
       "3500_noz": "Форсунка №{{nozzle}} для ротора Rain Bird 3500 (синя)",
       "options_texts_1": {
         "S": " (Модель типу кущ)",
@@ -2320,9 +2320,9 @@
       "mini8_noz": "Форсунка №{{nozzle}} для ротора Toro MINI 8 (червона)",
       "mini8E": "Роторний зрошувач Toro MINI8-{{RR}}-E червона форсунка №{{nozzle}} (Технічна вода)",
       "mini8E_body": "Роторний зрошувач Toro MINI8-{{RR}}-E (Технічна вода)",
-      "t5": "Роторний зрошувач Toro {{series}} {{model}} {{nozzleColor.ua}} форсунка №{{nozzle}}{{options.ua}}",
-      "t5_body": "Роторний зрошувач Toro {{series}} {{model}}{{options.ua}}",
-      "t5_noz": "Форсунка №{{nozzle}} для ротора Toro {{series}} ({{nozzleColor.ua}})"
+      "t5": "Роторний зрошувач Toro {{series}} {{model}} {{nozzleColor.uk}} форсунка №{{nozzle}}{{options.uk}}",
+      "t5_body": "Роторний зрошувач Toro {{series}} {{model}}{{options.uk}}",
+      "t5_noz": "Форсунка №{{nozzle}} для ротора Toro {{series}} ({{nozzleColor.uk}})"
     },
     "_bubblers_Toro": {
       "514-20": "Баблер Toro 514-20",

@@ -1126,7 +1126,14 @@
       "SPNODE": "Сонячна панель Hunter SPNODE для контролера NODE",
       "HC-075-FLOW-B": "Лічильник води Hunter HC-075-FLOW-B з різьбою ¾“ BSP",
       "HC-100-FLOW-B": "Лічильник води Hunter HC-100-FLOW-B з різьбою 1“ BSP",
-      "HPC-FP": "Передня панель Hydrawise від Hunter для контролерів сериї Pro-C"
+      "HC-150-FLOW-B": "Расходомер воды Hunter HC-150-FLOW-B с резьбой 1½“ BSP",
+      "HC-200-FLOW-B": "Расходомер воды Hunter HC-200-FLOW-B с резьбой 2“ BSP",
+      "HPC-FP": "Передня панель Hydrawise від Hunter для контролерів сериї Pro-C",
+      "X2-400": "Контроллер Hunter X2-400 4 зоны, наружный монтаж",
+      "X2-600": "Контроллер Hunter X2-600 6 зон, наружный монтаж",
+      "X2-800": "Контроллер Hunter X2-800 8 зон, наружный монтаж",
+      "X2-1400": "Контроллер Hunter X2-1400 14 зон, наружный монтаж",
+      "WAND": "Беспроводной модуль Hunter WAND для ПО Hydrawise"
     },
     "_sensors_Hunter": {
       "241400": "Адаптер BSP 2\" для фітінгів Hunter FCT",
@@ -1156,7 +1163,11 @@
       "FCT-208": "Трійник-адаптер для датчика протоку Hunter FCT-208 2\" типорозмір SCH/Schedule 80",
       "FCT-300": "Трійник-адаптер для датчика протоку Hunter FCT-300 3\" типорозмір SCH/Schedule 40",
       "FCT-308": "Трійник-адаптер для датчика протоку Hunter FCT-308 3\" типорозмір SCH/Schedule 80",
-      "FCT-400": "Трійник-адаптер для датчика протоку Hunter FCT-400 4\" типорозмір SCH/Schedule 40"
+      "FCT-400": "Трійник-адаптер для датчика протоку Hunter FCT-400 4\" типорозмір SCH/Schedule 40",
+      "HC-075-FLOW-B": "Расходомер воды Hunter HC-075-FLOW-B с резьбой ¾“ BSP",
+      "HC-100-FLOW-B": "Расходомер воды Hunter HC-100-FLOW-B с резьбой 1“ BSP",
+      "HC-150-FLOW-B": "Расходомер воды Hunter HC-150-FLOW-B с резьбой 1½“ BSP",
+      "HC-200-FLOW-B": "Расходомер воды Hunter HC-200-FLOW-B с резьбой 2“ BSP"
     },
     "_valves_Hunter": {
       "PGV-100JT-GB": "Електромагнітний клапан Hunter PGV-100JT-GB 1“ сферичний, система Jar-Top, внутрішня різьба BSP",
@@ -1289,7 +1300,44 @@
       "A1635C80016B": "Крапельна лінія 16мм IrriGo PC 35mil. (1.6 л/год) (Крок 80см.)",
       "A1635C80020B": "Крапельна лінія 16мм IrriGo PC 35mil. (2.0 л/год) (Крок 80см.)",
       "A1635C100016B": "Крапельна лінія 16мм IrriGo PC 35mil. (1.6 л/год) (Крок 100см.)",
-      "A1635C100020B": "Крапельна лінія 16мм IrriGo PC 35mil. (2.0 л/год) (Крок 100см.)"
+      "A1635C100020B": "Крапельна лінія 16мм IrriGo PC 35mil. (2.0 л/год) (Крок 100см.)",
+      "A1644NC33080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 44mil. (8.0 l/h flow) (33cm spacing)",
+      "A1644NC50080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 44mil. (8.0 l/h flow) (50cm spacing)",
+      "A1635NC20080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (8.0 l/h flow) (20cm spacing)",
+      "A1635NC25080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (8.0 l/h flow) (25cm spacing)",
+      "A1635NC30080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (8.0 l/h flow) (30cm spacing)",
+      "A1635NC33080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (8.0 l/h flow) (33cm spacing)",
+      "A1635NC40080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (8.0 l/h flow) (40cm spacing)",
+      "A1635NC50080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (8.0 l/h flow) (50cm spacing)",
+      "A1635NC60010B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (1.0 l/h flow) (60cm spacing)",
+      "A1635NC60020B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (2.0 l/h flow) (60cm spacing)",
+      "A1635NC60040B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (4.0 l/h flow) (60cm spacing)",
+      "A1635NC60080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (8.0 l/h flow) (60cm spacing)",
+      "A1635NC75010B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (1.0 l/h flow) (75cm spacing)",
+      "A1635NC75020B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (2.0 l/h flow) (75cm spacing)",
+      "A1635NC75040B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (4.0 l/h flow) (75cm spacing)",
+      "A1635NC75080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (8.0 l/h flow) (75cm spacing)",
+      "A1635NC100080B": "<<UNTRANSLATED>> IrriGo 16mm drip line No PC 35mil. (8.0 l/h flow) (100cm spacing)",
+      "A1644C30040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (30cm spacing)",
+      "A1644C33040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (33cm spacing)",
+      "A1644C50040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (50cm spacing)",
+      "A1635C20040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (20cm spacing)",
+      "A1635C25040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (25cm spacing)",
+      "A1635C30040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (30cm spacing)",
+      "A1635C33040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (33cm spacing)",
+      "A1635C40040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (40cm spacing)",
+      "A1635C50040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (50cm spacing)",
+      "A1635C70016B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 35mil. (1.6 l/h flow) (70cm spacing)",
+      "A1635C70020B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 35mil. (2.0 l/h flow) (70cm spacing)",
+      "A1635C70040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (70cm spacing)",
+      "A1635C75040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (75cm spacing)",
+      "A1635C100040B": "<<UNTRANSLATED>> IrriGo 16mm drip line PC 44mil. (4.0 l/h flow) (100cm spacing)"
+    },
+    "_fc_IrriGo": {
+      "D169530B1": "Гибкое соединение IrriGo D169530B1 ½\" 30cm.",
+      "D169530B2": "Гибкое соединение IrriGo D169530B2 ½\"x¾\" 30cm.",
+      "D169530B3": "Гибкое соединение IrriGo D169530B3 ¾\" 30cm.",
+      "A1695B": "Гибкая подводка IrriGo A1695B"
     }
   },
   "Irritec": {

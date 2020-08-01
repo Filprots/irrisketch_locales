@@ -1126,7 +1126,14 @@
       "SPNODE": "Hunter SPNODE Solar panel kit für NODE",
       "HC-075-FLOW-B": "Hunter HC-075-FLOW-B  Durchflussmessgerät mit ¾“ BSP Gewinde",
       "HC-100-FLOW-B": "Hunter HC-100-FLOW-B  Durchflussmessgerät mit 1“ BSP Gewinde",
-      "HPC-FP": "Hunter Hydrawise Austausch front panel für Pro-C Steuergeräts"
+      "HC-150-FLOW-B": "Hunter HC-150-FLOW-B flow meter with 1½“ BSP thread",
+      "HC-200-FLOW-B": "Hunter HC-200-FLOW-B flow meter with 2“ BSP thread",
+      "HPC-FP": "Hunter Hydrawise Austausch front panel für Pro-C Steuergeräts",
+      "X2-400": "Hunter X2-400 outdoor 4-Station controller",
+      "X2-600": "Hunter X2-600 outdoor 6-Station controller",
+      "X2-800": "Hunter X2-800 outdoor 8-Station controller",
+      "X2-1400": "Hunter X2-1400 outdoor 14-Station controller",
+      "WAND": "Hunter WAND Wi-Fi module for Hydrawise water management software"
     },
     "_sensors_Hunter": {
       "241400": "Hunter 2\" BSP adpter für FCT fittings",
@@ -1156,7 +1163,11 @@
       "FCT-208": "Hunter FCT-208 2\" Schedule 80  Sensorgehäuse",
       "FCT-300": "Hunter FCT-300 3\" Schedule 40  Sensorgehäuse",
       "FCT-308": "Hunter FCT-308 3\" Schedule 80  Sensorgehäuse",
-      "FCT-400": "Hunter FCT-400 4\" Schedule 40  Sensorgehäuse"
+      "FCT-400": "Hunter FCT-400 4\" Schedule 40  Sensorgehäuse",
+      "HC-075-FLOW-B": "Hunter HC-075-FLOW-B flow meter with ¾“ BSP thread",
+      "HC-100-FLOW-B": "Hunter HC-100-FLOW-B flow meter with 1“ BSP thread",
+      "HC-150-FLOW-B": "Hunter HC-150-FLOW-B flow meter with 1½“ BSP thread",
+      "HC-200-FLOW-B": "Hunter HC-200-FLOW-B flow meter with 2“ BSP thread"
     },
     "_valves_Hunter": {
       "PGV-100JT-GB": "Hunter PGV-100JT-GB 1“ Magnetventil, female BSP Gewinde",
@@ -1289,7 +1300,44 @@
       "A1635C80016B": "IrriGo 16mm Tropfrohr PC 35mil. (1.6 l/h) (80cm Abstand)",
       "A1635C80020B": "IrriGo 16mm Tropfrohr PC 35mil. (2.0 l/h) (80cm Abstand)",
       "A1635C100016B": "IrriGo 16mm Tropfrohr PC 35mil. (1.6 l/h) (100cm Abstand)",
-      "A1635C100020B": "IrriGo 16mm Tropfrohr PC 35mil. (2.0 l/h) (100cm Abstand)"
+      "A1635C100020B": "IrriGo 16mm Tropfrohr PC 35mil. (2.0 l/h) (100cm Abstand)",
+      "A1644NC33080B": "IrriGo 16mm Tropfrohr No PC 44mil. (8.0 l/h flow) (33cm spacing)",
+      "A1644NC50080B": "IrriGo 16mm Tropfrohr No PC 44mil. (8.0 l/h flow) (50cm spacing)",
+      "A1635NC20080B": "IrriGo 16mm Tropfrohr No PC 35mil. (8.0 l/h flow) (20cm spacing)",
+      "A1635NC25080B": "IrriGo 16mm Tropfrohr No PC 35mil. (8.0 l/h flow) (25cm spacing)",
+      "A1635NC30080B": "IrriGo 16mm Tropfrohr No PC 35mil. (8.0 l/h flow) (30cm spacing)",
+      "A1635NC33080B": "IrriGo 16mm Tropfrohr No PC 35mil. (8.0 l/h flow) (33cm spacing)",
+      "A1635NC40080B": "IrriGo 16mm Tropfrohr No PC 35mil. (8.0 l/h flow) (40cm spacing)",
+      "A1635NC50080B": "IrriGo 16mm Tropfrohr No PC 35mil. (8.0 l/h flow) (50cm spacing)",
+      "A1635NC60010B": "IrriGo 16mm Tropfrohr No PC 35mil. (1.0 l/h flow) (60cm spacing)",
+      "A1635NC60020B": "IrriGo 16mm Tropfrohr No PC 35mil. (2.0 l/h flow) (60cm spacing)",
+      "A1635NC60040B": "IrriGo 16mm Tropfrohr No PC 35mil. (4.0 l/h flow) (60cm spacing)",
+      "A1635NC60080B": "IrriGo 16mm Tropfrohr No PC 35mil. (8.0 l/h flow) (60cm spacing)",
+      "A1635NC75010B": "IrriGo 16mm Tropfrohr No PC 35mil. (1.0 l/h flow) (75cm spacing)",
+      "A1635NC75020B": "IrriGo 16mm Tropfrohr No PC 35mil. (2.0 l/h flow) (75cm spacing)",
+      "A1635NC75040B": "IrriGo 16mm Tropfrohr No PC 35mil. (4.0 l/h flow) (75cm spacing)",
+      "A1635NC75080B": "IrriGo 16mm Tropfrohr No PC 35mil. (8.0 l/h flow) (75cm spacing)",
+      "A1635NC100080B": "IrriGo 16mm Tropfrohr No PC 35mil. (8.0 l/h flow) (100cm spacing)",
+      "A1644C30040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (30cm spacing)",
+      "A1644C33040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (33cm spacing)",
+      "A1644C50040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (50cm spacing)",
+      "A1635C20040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (20cm spacing)",
+      "A1635C25040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (25cm spacing)",
+      "A1635C30040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (30cm spacing)",
+      "A1635C33040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (33cm spacing)",
+      "A1635C40040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (40cm spacing)",
+      "A1635C50040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (50cm spacing)",
+      "A1635C70016B": "IrriGo 16mm Tropfrohr PC 35mil. (1.6 l/h flow) (70cm spacing)",
+      "A1635C70020B": "IrriGo 16mm Tropfrohr PC 35mil. (2.0 l/h flow) (70cm spacing)",
+      "A1635C70040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (70cm spacing)",
+      "A1635C75040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (75cm spacing)",
+      "A1635C100040B": "IrriGo 16mm Tropfrohr PC 44mil. (4.0 l/h flow) (100cm spacing)"
+    },
+    "_fc_IrriGo": {
+      "D169530B1": "IrriGo D169530B1 Swing Joint ½\" 30cm.",
+      "D169530B2": "IrriGo D169530B2 Swing Joint ½\"x¾\" 30cm.",
+      "D169530B3": "IrriGo D169530B3 Swing Joint ¾\" 30cm.",
+      "A1695B": "IrriGo A1695B flexible tubing"
     }
   },
   "Irritec": {

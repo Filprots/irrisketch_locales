@@ -316,7 +316,9 @@ this.LNG = {
         tt_add: "Add",
         tt_clone: "Clone",
         tt_remove: "Remove",
-        tt_rename: "Rename"
+        tt_rename: "Rename",
+        tt_addToFav: "Add to Favorites",
+        tt_remFromFav: "Remove from Favorites"
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

@@ -318,7 +318,8 @@ this.LNG = {
         tt_remove: "Видалити",
         tt_rename: "Змінити назву",
         tt_addToFav: "Add to Favorites",
-        tt_remFromFav: "Убрать из Избранного"
+        tt_remFromFav: "Убрать из Избранного",
+        tt_presets: "Предустановки"
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -795,6 +796,21 @@ this.LNG = {
         outlayerConfig: [
             "Конфігурація списку обладнання"
         ],
+        presetsMenu: {
+            title: "Предустановки",
+            titleTextboxLabel: "Название предустановки",
+            descriptionTextboxLabel: "Описание предустановки",
+            applyButton: "<i class='far fa-check-circle'></i>&nbsp;Применить",
+            defaultButton: "<i class='far fa-undo'></i>&nbsp;По умолчанию",
+            removeButton: "<i class='far fa-trash'></i>&nbsp;Удалить",
+            updateButton: "<i class='far fa-sync'></i>&nbsp;Обновить",
+            createButton: "<i class='far fa-plus'></i>&nbsp;Создать новую",
+            closeButton: "<i class='far fa-times'></i>&nbsp;Закрыть",
+            favorites_drawing: "Избранные инструменты (Рисование)",
+            favorites_sprinkling: "Избранные инструменты (Полив)",
+            favorites_layouting: "Избранные инструменты (Чертежи)"
+        },
+        newPresetItem: "Новая предустановка",
         cL_alreadyConnected: [
             "Помилка з'єднання ліній",
             "Обидві лінії мають підключення"

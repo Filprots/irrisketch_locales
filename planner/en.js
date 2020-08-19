@@ -318,7 +318,8 @@ this.LNG = {
         tt_remove: "Remove",
         tt_rename: "Rename",
         tt_addToFav: "Add to Favorites",
-        tt_remFromFav: "Remove from Favorites"
+        tt_remFromFav: "Remove from Favorites",
+        tt_presets: "Presets"
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -795,6 +796,21 @@ this.LNG = {
         outlayerConfig: [
             "Specification sheet configuration"
         ],
+        presetsMenu: {
+            title: "Presets",
+            titleTextboxLabel: "Preset Title",
+            descriptionTextboxLabel: "Description",
+            applyButton: "<i class='far fa-check-circle'></i>&nbsp;Apply",
+            defaultButton: "<i class='far fa-undo'></i>&nbsp;Set Default",
+            removeButton: "<i class='far fa-trash'></i>&nbsp;Remove",
+            updateButton: "<i class='far fa-sync'></i>&nbsp;Update",
+            createButton: "<i class='far fa-plus'></i>&nbsp;Create new",
+            closeButton: "<i class='far fa-times'></i>&nbsp;Close",
+            favorites_drawing: "Favorite Tools (Landscape)",
+            favorites_sprinkling: "Favorite Tools (Irrigation)",
+            favorites_layouting: "Избранные инструменты (Layouts)"
+        },
+        newPresetItem: "New Preset",
         cL_alreadyConnected: [
             "Failed to concatenate lines",
             "These lines are both connected to"

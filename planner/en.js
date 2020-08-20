@@ -808,7 +808,9 @@ this.LNG = {
             closeButton: "<i class='far fa-times'></i>&nbsp;Close",
             favorites_drawing: "Favorite Tools (Landscape)",
             favorites_sprinkling: "Favorite Tools (Irrigation)",
-            favorites_layouting: "Избранные инструменты (Layouts)"
+            favorites_layouting: "Favorite Tools (Layouts)",
+            configs_drawing: "Project Configuration",
+            configs_outlayer: "Specification Sheet Configuration",
         },
         newPresetItem: "New Preset",
         cL_alreadyConnected: [

@@ -808,7 +808,9 @@ this.LNG = {
             closeButton: "<i class='far fa-times'></i>&nbsp;Закрыть",
             favorites_drawing: "Избранные инструменты (Рисование)",
             favorites_sprinkling: "Избранные инструменты (Полив)",
-            favorites_layouting: "Избранные инструменты (Чертежи)"
+            favorites_layouting: "Избранные инструменты (Чертежи)",
+            configs_drawing: "Конфигурация проекта",
+            configs_outlayer: "Конфигурация листа оборудования"
         },
         newPresetItem: "Новая предустановка",
         cL_alreadyConnected: [

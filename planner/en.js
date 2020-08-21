@@ -549,6 +549,7 @@ this.LNG = {
         shrinkTube: "Heat shrink tube",
         hcFrontPanel: "Front panel",
         ball_valve: "Ball valve",
+        check_valve: "Check valve",
         thread_manifold: "Manifold",
         plastic_filter: "Filter (plastic)",
         waterMeter: "Water meter",

@@ -549,6 +549,7 @@ this.LNG = {
         shrinkTube: "Термоусадка",
         hcFrontPanel: "Передняя панель",
         ball_valve: "Кран шаровый",
+        check_valve: "Обратный клапан",
         thread_manifold: "Коллектор",
         plastic_filter: "Фильтр пластиковый",
         waterMeter: "Водомер",

@@ -924,9 +924,5 @@
 	"preset_favorites_sprinkling": "Избранные инструменты (Полив)",
 	"preset_favorites_layouting": "Избранные инструменты (Чертежи)",
 	"preset_configs_drawing": "Конфигурация проекта",
-	"preset_configs_outlayer": "Конфигурация листа оборудования",
-	"preset_": "preset_",
-	"preset_[object Object],[object Object],[object Object]": "preset_[object Object],[object Object],[object Object]",
-	"preset_[object Object],[object Object]": "preset_[object Object],[object Object]",
-	"preset_[object Object]": "preset_[object Object]"
+	"preset_configs_outlayer": "Конфигурация листа оборудования"
 }

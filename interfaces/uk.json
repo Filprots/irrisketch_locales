@@ -916,5 +916,13 @@
   "labours_group_lawns": "Lawn",
   "labours_item_LAWN": "Lawn Total Area",
   "labours_group_irrigatedArea": "Irrigated area",
-  "labours_item_IRRIGATED": "Total Irrigated Area"
+  "labours_item_IRRIGATED": "Total Irrigated Area",
+  "Modal_Presets_Settings": "Предустановки для Новых Проектов",
+  "Modal_Presets_Settings_Table_Header_Title": "Предустановка",
+  "Modal_Presets_Settings_Table_Header_Chooser": "Выберите вариант",
+  "preset_favorites_drawing": "Избранные инструменты (Рисование)",
+  "preset_favorites_sprinkling": "Избранные инструменты (Полив)",
+  "preset_favorites_layouting": "Избранные инструменты (Чертежи)",
+  "preset_configs_drawing": "Конфигурация проекта",
+  "preset_configs_outlayer": "Конфигурация листа оборудования"
 }

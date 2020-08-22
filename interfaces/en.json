@@ -916,5 +916,13 @@
   "labours_group_lawns": "Lawn",
   "labours_item_LAWN": "Lawn Total Area",
   "labours_group_irrigatedArea": "Irrigated area",
-  "labours_item_IRRIGATED": "Total Irrigated Area"
+  "labours_item_IRRIGATED": "Total Irrigated Area",
+  "Modal_Presets_Settings": "Presets applied for New Projects",
+  "Modal_Presets_Settings_Table_Header_Title": "Preset title",
+  "Modal_Presets_Settings_Table_Header_Chooser": "Choose option",
+  "preset_favorites_drawing": "Favorite Tools (Landscape)",
+  "preset_favorites_sprinkling": "Favorite Tools (Irrigation)",
+  "preset_favorites_layouting": "Favorite Tools (Layouts)",
+  "preset_configs_drawing": "Project Configuration",
+  "preset_configs_outlayer": "Specification Sheet Configuration"
 }

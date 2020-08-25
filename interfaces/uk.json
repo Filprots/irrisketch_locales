@@ -266,6 +266,8 @@
   "New user": "Реєстрація",
   "RepeatPassword": "Повторіть пароль",
   "CreateIrrisAccount": "Створити користувача",
+  "noCountrySet": "Не выбрана страна",
+  "acc_country": "Країна",
   "I agree with": "Я уважно прочитав ",
   "Terms and Conditions": "Умови надання сервісу, Оферта",
   "invalidEmail": "Вказана Вами пошта не дійсна",

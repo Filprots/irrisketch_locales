@@ -267,6 +267,7 @@
   "RepeatPassword": "Repeat password",
   "CreateIrrisAccount": "Register",
   "noCountrySet": "Please choose your country",
+  "noSuchCountry": "No such country",
   "acc_country": "Country",
   "I agree with": "I carefully read",
   "Terms and Conditions": "Terms and Conditions",

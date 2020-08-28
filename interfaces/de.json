@@ -267,6 +267,7 @@
 	"RepeatPassword": "Passwort wiederholen",
 	"CreateIrrisAccount": "Konto erstellen",
 	"noCountrySet": "Please choose your country",
+	"noSuchCountry": "No such country",
 	"acc_country": "Gegend",
 	"I agree with": "Ich habe sorgfältig gelesen",
 	"Terms and Conditions": "Bedingungen und Konditionen",

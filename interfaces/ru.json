@@ -267,6 +267,7 @@
   "RepeatPassword": "Повторите пароль",
   "CreateIrrisAccount": "Зарегистрироваться",
   "noCountrySet": "Не выбрана страна",
+  "noSuchCountry": "Нет такой страны",
   "acc_country": "Страна",
   "I agree with": "Я внимательно прочитал ",
   "Terms and Conditions": "Условия предоставления сервиса, Оферту",

@@ -664,6 +664,7 @@
 	"email_subject_irrisketch_account_verification": "IRRISketch - Bitte bestätigen Sie die Aktion",
 	"email_subject_WelcomeToIrrisMail": "Willkommen bei IRRISketch!",
 	"email_subject_DeletedAccountMail": "Ihr IRRISketch-Konto wurde erfolgreich gelöscht",
+	"email_subject_MailChangedMail": "IRRISketch - Your email was successfully changed",
 	"SolarCalc_Header": "SOLAR CALCULATOR",
 	"SolarCalc_Leading": "This is a web service for calculating the position of the sun in the sky, at any point you specify on the globe.",
 	"SolarCalc_Body": "For a known date and time, you can calculate the height of the Sun above the horizon and its azimuth. By the position of the Sun, the direction and length of the shadow are calculated. So you can determine the shading from buildings at your grounds. If you put Sun’s altitude or azimuth, then you will be able to perform the inverse calculation: get the time when the Sun appears in this position. For clarity, you can see the animation of the trajectory of the Sun during the day and year. Use the SUN CALCULATOR and remember: SOL LUCET OMNIBUS!",

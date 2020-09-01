@@ -595,7 +595,7 @@ this.LNG = {
         thread_nipple: "Ниппель резьбовой",
         thread_coupling: "Муфта резьбовая",
         thread_mf_reducer: "Редуктор НР/ВН резьбовой",
-        thread_mf_adaptor: "Адаптер НР/ВН резьбовой",
+        thread_mf_adapter: "Адаптер НР/ВН резьбовой",
         thread_mf_bush: "Футорка НР/ВН резьбовая",
         thread_tee: "Тройник ВН резьбовой",
         thread_elbow: "Отвод 90° ВН резьбовой",

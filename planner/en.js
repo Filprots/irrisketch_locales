@@ -595,7 +595,7 @@ this.LNG = {
         thread_nipple: "Nipple",
         thread_coupling: "Coupling",
         thread_mf_reducer: "Male/Female reducer",
-        thread_mf_adaptor: "Male/Female adapter",
+        thread_mf_adapter: "Male/Female adapter",
         thread_mf_bush: "Male/Female bush",
         thread_tee: "Female tee",
         thread_elbow: "Female elbow",

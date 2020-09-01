@@ -574,7 +574,37 @@
       "THRD-CV-SF-3": "Check valve 3\" x Screen filter",
       "THRD-CV-SF-4": "Check valve 4\" x Screen filter",
       "CMPR-TEE403/4F": "Compression tee with thread offtake 40mm x ¾\"F",
-      "CMPR-TEE403/4M": "Compression tee with thread offtake 40mm x ¾\"M"
+      "CMPR-TEE403/4M": "Compression tee with thread offtake 40mm x ¾\"M",
+      "CMPR-TEE253225": "Compression enlarging tee 25mm x 32mm x 25mm",
+      "CMPR-BVLV25": "Compression ball valve 25mm",
+      "CMPR-ELB321/2M": "Compression 90° elbow 32mm x ½\"M",
+      "CMPR-CPL3211/2F": "Compression coupling 32mm x 1½\"F",
+      "CMPR-CPL321/2M": "Compression coupling 32mm x ½\"M",
+      "CMPR-CPL3211/2M": "Compression coupling 32mm x 1½\"M",
+      "CMPR-TEE321/2F": "Compression tee with thread offtake 32mm x ½\"F",
+      "CMPR-TEE321/2M": "Compression tee with thread offtake 32mm x ½\"M",
+      "CMPR-TEE322532": "Compression reducer tee 32mm x 25mm x 32mm",
+      "CMPR-TEE324032": "Compression enlarging tee 32mm x 40mm x 32mm",
+      "CMPR-BVLV32": "Compression ball valve 32mm",
+      "CMPR-CPL402F": "Compression coupling 40mm x 2\"F",
+      "CMPR-CPL402M": "Compression coupling 40mm x 2\"M",
+      "CMPR-TEE402540": "Compression reducer tee 40mm x 25mm x 40mm",
+      "CMPR-TEE403240": "Compression reducer tee 40mm x 32mm x 40mm",
+      "CMPR-TEE405040": "Compression enlarging tee 40mm x 50mm x 40mm",
+      "CMPR-BVLV40": "Compression ball valve 40mm",
+      "CMPR-ELB5011/4F": "Compression 90° elbow 50mm x 1¼\"F",
+      "CMPR-ELB5011/4M": "Compression 90° elbow 50mm x 1¼\"M",
+      "CMPR-CPL501M": "Compression coupling 50mm x 1\"M",
+      "CMPR-TEE501/2F": "Compression tee with thread offtake 50mm x ½\"F",
+      "CMPR-TEE502550": "Compression reducer tee 50mm x 25mm x 50mm",
+      "CMPR-TEE503250": "Compression reducer tee 50mm x 32mm x 50mm",
+      "CMPR-TEE504050": "Compression reducer tee 50mm x 40mm x 50mm",
+      "CMPR-TEE506350": "Compression enlarging tee 50mm x 63mm x 50mm",
+      "CMPR-CPL6311/4M": "Compression coupling 63mm x 1¼\"M",
+      "CMPR-TEE632563": "Compression reducer tee 63mm x 25mm x63mm",
+      "CMPR-TEE633263": "Compression reducer tee 63mm x 32mm x63mm",
+      "CMPR-TEE634063": "Compression reducer tee 63mm x 40mm x63mm",
+      "CMPR-TEE635063": "Compression reducer tee 63mm x 50mm x63mm"
     },
     "_qcv_Anybrand": {
       "QCVP": "Kunststoff-Schnellkupplungsventil ",
@@ -780,7 +810,8 @@
       "SADDLE25011/4": "Anbohrschelle 250mm x 1¼\"F",
       "SADDLE25011/2": "Anbohrschelle 250mm x 1½\"F",
       "SADDLE2502": "Anbohrschelle 250mm x 2\"F",
-      "SADDLE25021/2": "Anbohrschelle 250mm x 2½\"F"
+      "SADDLE25021/2": "Anbohrschelle 250mm x 2½\"F",
+      "SADDLE5011/4": "Сlamp saddle 50mm x 1¼\"F"
     }
   },
   "Hunter": {
@@ -3108,6 +3139,26 @@
       "SCZ-N-100F-H": "Wettermatic SCZ-N-100F-H 1\" valve mit Durchflussregulierung, 1\" filet/druckreguliert - 1.75bar,  to male BSP Gewinde",
       "SCZ-SB-10F-HP": "Wettermatic SCZ-SB-10F-HP 1\" valve mit Durchflussregulierung, 1\" filet/druckreguliert - 1.75bar,  to male BSP Gewinde",
       "SCZ-MAX-DW-10": "Wettermatic SCZ-MAX-DW-10 1\" valve mit Durchflussregulierung, 1\" filet/druckreguliert - 2.75bar,  to male BSP Gewinde"
+    }
+  },
+  "Netafim": {
+    "_dripLines_Netafim": {
+      "UniTechline-AS-16010-1.6-0.3": "Netafim UniTechline AS 16010 16mm drip line (1.6 l/h flow) (30cm spacing) (anti-siphon)",
+      "UniTechline-AS-16010-1.6-0.4": "Netafim UniTechline AS 16010 16mm drip line (1.6 l/h flow) (40cm spacing) (anti-siphon)",
+      "UniTechline-AS-16010-3.5-0.5": "Netafim UniTechline AS 16010 16mm drip line (3.5 l/h flow) (50cm spacing) (anti-siphon)",
+      "UniTechline-AS-16012-1.6-0.3": "Netafim UniTechline AS 16012 16mm drip line (1.6 l/h flow) (30cm spacing) (anti-siphon)",
+      "UniTechline-AS-16012-1.6-0.4": "Netafim UniTechline AS 16012 16mm drip line (1.6 l/h flow) (40cm spacing) (anti-siphon)",
+      "UniTechline-AS-16012-1.6-0.5": "Netafim UniTechline AS 16012 16mm drip line (1.6 l/h flow) (50cm spacing) (anti-siphon)",
+      "UniTechline-AS-16012-1.6-1.0": "Netafim UniTechline AS 16012 16mm drip line (1.6 l/h flow) (100cm spacing) (anti-siphon)",
+      "UniTechline-AS-16012-2.3-0.3": "Netafim UniTechline AS 16012 16mm drip line (2.3 l/h flow) (30cm spacing) (anti-siphon)",
+      "UniTechline-AS-16012-2.3-0.4": "Netafim UniTechline AS 16012 16mm drip line (2.3 l/h flow) (40cm spacing) (anti-siphon)",
+      "UniTechline-AS-16012-2.3-0.5": "Netafim UniTechline AS 16012 16mm drip line (2.3 l/h flow) (50cm spacing) (anti-siphon)",
+      "UniTechline-AS-16012-2.3-1.0": "Netafim UniTechline AS 16012 16mm drip line (2.3 l/h flow) (100cm spacing) (anti-siphon)",
+      "UniTechline-AS-16012-3.5-0.3": "Netafim UniTechline AS 16012 16mm drip line (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "UniTechline-AS-17012-2.3-0.3": "Netafim UniTechline AS 17012 17mm drip line (2.3 l/h flow) (30cm spacing) (anti-siphon)",
+      "UniTechline-AS-17012-2.3-0.4": "Netafim UniTechline AS 17012 17mm drip line (2.3 l/h flow) (40cm spacing) (anti-siphon)",
+      "UniTechline-AS-17012-2.3-0.5": "Netafim UniTechline AS 17012 17mm drip line (2.3 l/h flow) (50cm spacing) (anti-siphon)",
+      "UniTechline-AS-17012-2.3-1.0": "Netafim UniTechline AS 17012 17mm drip line (2.3 l/h flow) (1000cm spacing) (anti-siphon)"
     }
   }
 }

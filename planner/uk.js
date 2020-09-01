@@ -595,7 +595,7 @@ this.LNG = {
         thread_nipple: "Ніпель різьбовий",
         thread_coupling: "Муфта різьбова",
         thread_mf_reducer: "Редуктор РЗ/РВ різьбовий",
-        thread_mf_adaptor: "Адаптер РЗ/РВ різьбовий",
+        thread_mf_adapter: "Адаптер РЗ/РВ різьбовий",
         thread_mf_bush: "Футорка РЗ/РВ різьбова",
         thread_tee: "Трійник РВ різьбовий",
         thread_elbow: "Коліно 90° РВ різьбовий",

@@ -592,6 +592,7 @@ this.LNG = {
         compress_tee_PPP: "Compression tee",
         compress_cross_PPPP: "Compression cross",
         compress_single_clamp_saddle: "Single clamp saddle",
+        compress_ballvalve_PP: "Compression Ball valve",
         thread_nipple: "Nipple",
         thread_coupling: "Coupling",
         thread_mf_reducer: "Male/Female reducer",

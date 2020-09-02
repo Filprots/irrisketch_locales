@@ -592,6 +592,7 @@ this.LNG = {
         compress_tee_PPP: "Трійник компрес.",
         compress_cross_PPPP: "Хрестовина компрес.",
         compress_single_clamp_saddle: "Сідло",
+        compress_ballvalve_PP: "Compression Ball valve",
         thread_nipple: "Ніпель різьбовий",
         thread_coupling: "Муфта різьбова",
         thread_mf_reducer: "Редуктор РЗ/РВ різьбовий",

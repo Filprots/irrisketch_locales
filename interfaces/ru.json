@@ -111,6 +111,7 @@
   "tt_Print": "Печать",
   "tt_SaveImage": "Сохранить как картинку",
   "tt_SavePdf": "Сохранить как PDF",
+  "tt_SavePdfAll": "Сохранить листы как PDF",
   "tt_ClearAll": "Очистить сцену",
   "tt_Ruler": "Рулетка",
   "tt_SnapTo": "Привязка",

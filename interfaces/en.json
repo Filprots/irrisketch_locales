@@ -111,6 +111,7 @@
   "tt_Print": "Print",
   "tt_SaveImage": "Save as image",
   "tt_SavePdf": "Save as PDF",
+  "tt_SavePdfAll": "Save chosen layouts as PDF",
   "tt_ClearAll": "Clear scene",
   "tt_Ruler": "Ruler",
   "tt_SnapTo": "Snap to",

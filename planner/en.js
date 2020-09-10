@@ -789,6 +789,13 @@ this.LNG = {
             "Update",
             "Updating outlays"
         ],
+        exportLayoutsAsPdf:[
+            "Choose layouts to export",
+            "separate files (in development)",
+            "one album",
+            "Export",
+            "Export layouts in"
+        ],
         differentSprGroups: [
             "Failed to attach different types of water consumers on this pipe",
             "According to the irrigation design standards it's unacceptable to mix different types of water consumers or sprinklers with different precipitation rates on the same zone"

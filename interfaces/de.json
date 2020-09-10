@@ -111,6 +111,7 @@
 	"tt_Print": "Drucken",
 	"tt_SaveImage": "Als Bild speichern",
 	"tt_SavePdf": "Als PDF speichern",
+	"tt_SavePdfAll": "Als PDF speichern (Many)",
 	"tt_ClearAll": "lösche Alles",
 	"tt_Ruler": "Lineal",
 	"tt_SnapTo": "Schneller Zugriff",

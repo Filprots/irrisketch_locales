@@ -178,6 +178,7 @@ this.LNG = {
         itemsCount: "Кол-во",
         insetDepth: "Глубина",
         zoneName: "Название зоны",
+        valveName: "Распред. узел",
         itemAlias: "Название",
         //MULTISELECTOR
         itemsSelected: "Выбрано",
@@ -694,6 +695,7 @@ this.LNG = {
         random: "Случайные",
         //misc
         zoneNum: "Зона №",
+        valveNum: "Бокс #",
         zonesColoring: "Цвето-маркировка зон",
         coversColoured: "Окрасить покрытия дождевателей",
         dripsColoring: "Цвето-маркировка капельных линий",

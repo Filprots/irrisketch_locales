@@ -178,6 +178,7 @@ this.LNG = {
         itemsCount: "Count",
         insetDepth: "Depth",
         zoneName: "Zone name",
+        valveName: "Valve Box",
         itemAlias: "Alias",
         //MULTISELECTOR
         itemsSelected: "Selected",
@@ -694,6 +695,7 @@ this.LNG = {
         random: "Random",
         //misc
         zoneNum: "Zone #",
+        valveNum: "Valve Box #",
         zonesColoring: "Zones coloring",
         coversColoured: "Paint sprinklers covers",
         dripsColoring: "Drip lines coloring",

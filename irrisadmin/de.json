@@ -1,5 +1,17 @@
 {
 	"MAIN": {
 		"pageTitle": "Admin panel"
+	},
+	"STATS": {
+		"counters": "Counters",
+		"title": "Counter",
+		"total": "Total",
+		"dayIncr": "Day",
+		"weekIncr": "Week",
+		"monthIncr": "Month",
+		"yearIncr": "Year",
+		"accounts": "Accounts",
+		"projects": "Projects",
+		"subscriptions": "Subscriptions"
 	}
 }

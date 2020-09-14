@@ -1,5 +1,17 @@
 {
 	"MAIN": {
-		"pageTitle": "Admin panel"
+		"pageTitle": "Админка ёпта наконецто"
+	},
+	"STATS": {
+		"counters": "Счётчики",
+		"title": "Показатель",
+		"total": "Всего",
+		"dayIncr": "За день",
+		"weekIncr": "За неделю",
+		"monthIncr": "За месяц",
+		"yearIncr": "За год",
+		"accounts": "Аккаунты",
+		"projects": "Проекты",
+		"subscriptions": "Подписки"
 	}
 }

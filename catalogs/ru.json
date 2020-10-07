@@ -604,7 +604,11 @@
       "CMPR-TEE632563": "Тройник компрессионный переходной 63мм x 25мм x 63мм",
       "CMPR-TEE633263": "Тройник компрессионный переходной 63мм x 32мм x 63мм",
       "CMPR-TEE634063": "Тройник компрессионный переходной 63мм x 40мм x 63мм",
-      "CMPR-TEE635063": "Тройник компрессионный переходной 63мм x 50мм x 63мм"
+      "CMPR-TEE635063": "Тройник компрессионный переходной 63мм x 50мм x 63мм",
+      "BARB-ELBOW161/2F": "Barb to thread elbow 16mm x ½\"F",
+      "BARB-ELBOW163/4F": "Barb to thread elbow 16mm x ¾\"F",
+      "BARB-ELBOW173/4F": "Barb to thread elbow 17mm x ½\"F",
+      "CMPR-TEE6311/2M": "Compression tee with thread offtake 63mm x 1½\"M"
     },
     "_qcv_Anybrand": {
       "QCVP": "Клапан быстрого доступа к воде пластиковый",
@@ -1017,7 +1021,8 @@
       "PRO-10A": "Сопло регулируемое Hunter PRO 10A",
       "PRO-12A": "Сопло регулируемое Hunter PRO 12A",
       "PRO-15A": "Сопло регулируемое Hunter PRO 15A",
-      "PRO-17A": "Сопло регулируемое Hunter PRO 17A"
+      "PRO-17A": "Сопло регулируемое Hunter PRO 17A",
+      "PROS-F-17H": "Сопло с фиксированным сектором Hunter PRO-SPRAY 17H"
     },
     "_bubblerNozzles_Hunter": {
       "MSBN-25Q": "Сопло-баблер Hunter MSBN-25Q",
@@ -1051,7 +1056,19 @@
       "MP815-360": "Форсунка Hunter MP Rotator 800 Series MP815-360",
       "MPLCS515": "Полосовая форсунка Hunter MP Rotator MPLCS515",
       "MPRCS515": "Полосовая форсунка Hunter MP Rotator MPRCS515",
-      "MPSS530": "Полосовая форсунка Hunter MP Rotator MPSS530"
+      "MPSS530": "Полосовая форсунка Hunter MP Rotator MPSS530",
+      "MPCORNER-HT": "Форсунка Hunter MP Rotator MPCORNER",
+      "MP1000-90-HT": "Форсунка Hunter MP Rotator MP1000-90",
+      "MP1000-360-HT": "Форсунка Hunter MP Rotator MP1000-360",
+      "MP2000-90-HT": "Форсунка Hunter MP Rotator MP2000-90",
+      "MP2000-210-HT": "Форсунка Hunter MP Rotator MP2000-210",
+      "MP2000-360-HT": "Форсунка Hunter MP Rotator MP2000-360",
+      "MP3000-90-HT": "Форсунка Hunter MP Rotator MP3000-90",
+      "MP3000-210-HT": "Форсунка Hunter MP Rotator MP3000-210",
+      "MP3000-360-HT": "Форсунка Hunter MP Rotator MP3000-360",
+      "MPLCS515-HT": "Полосовая форсунка Hunter MP Rotator MPLCS515",
+      "MPRCS515-HT": "Полосовая форсунка Hunter MP Rotator MPRCS515",
+      "MPSS530-HT": "Полосовая форсунка Hunter MP Rotator MPSS530"
     },
     "_sprayBodies_Hunter": {
       "162900": "Фильтр для дожевателя Hunter PS Ultra",
@@ -1184,7 +1201,15 @@
       "X2-600": "Контроллер Hunter X2-600 6 зон, наружный монтаж",
       "X2-800": "Контроллер Hunter X2-800 8 зон, наружный монтаж",
       "X2-1400": "Контроллер Hunter X2-1400 14 зон, наружный монтаж",
-      "WAND": "Беспроводной модуль Hunter WAND для ПО Hydrawise"
+      "WAND": "Беспроводной модуль Hunter WAND для ПО Hydrawise",
+      "X2-401E": "Контроллер Hunter X2-401E 4 зоны, наружный монтаж",
+      "X2-601E": "Контроллер Hunter X2-601E 6 зон, наружный монтаж",
+      "X2-801E": "Контроллер Hunter X2-801E 8 зон, наружный монтаж",
+      "X2-1401E": "Контроллер Hunter X2-1401E 14 зон, наружный монтаж",
+      "NODE-BT-100-LS": "Hunter NODE-BT-100-LS Bluetooth battery operated Single station controller",
+      "NODE-BT-200": "Hunter NODE-BT-200 Bluetooth battery operated 2-Station controller",
+      "NODE-BT-400": "Hunter NODE-BT-400 Bluetooth battery operated 4-Station controller",
+      "NODE-BT-600": "Hunter NODE-BT-600 Bluetooth battery operated 6-Station controller"
     },
     "_sensors_Hunter": {
       "241400": "Адаптер BSP 2\" для фитингов Hunter FCT",

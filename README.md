@@ -14,7 +14,7 @@ Ukrainian - Boghdan Durst (bodo1715@gmail.com)   |||||||||||||||| (COMPLETED)
 
 Hebrew - Mikhail (irridon@gmail.com)             ................ (0%)
 
-German - Theo Wirtz (theo@ltwgmbh.de)            ||||||||........ (50%)
+German - Theo Wirtz (theo@ltwgmbh.de)            |||||||||||||||| (COMPLETED)
 
 
 

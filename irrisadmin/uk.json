@@ -2,6 +2,10 @@
 	"MAIN": {
 		"pageTitle": "Панель администратора"
 	},
+	"GREET": {
+		"hi": "Привет,",
+		"region": "Ваш регион администрирования:"
+	},
 	"STATS": {
 		"counters": "Счётчики",
 		"title": "Показатель",
@@ -13,5 +17,17 @@
 		"accounts": "Аккаунты",
 		"projects": "Проекты",
 		"subscriptions": "Подписки"
+	},
+	"ENTITY": {
+		"accounts": "Аккаунты",
+		"counter_col": "№",
+		"_id": "ID",
+		"email": "Почта",
+		"account_name": "Имя",
+		"status": "Статус",
+		"created": "Создан (GMT)",
+		"projectsField": "Проекты",
+		"subscriptions": "Подписки",
+		"orders": "Заказы"
 	}
 }

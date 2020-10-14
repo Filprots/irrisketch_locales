@@ -1,17 +1,33 @@
 {
-	"MAIN": {
-		"pageTitle": "Admin panel"
-	},
-	"STATS": {
-		"counters": "Counters",
-		"title": "Counter",
-		"total": "Total",
-		"dayIncr": "Day",
-		"weekIncr": "Week",
-		"monthIncr": "Month",
-		"yearIncr": "Year",
-		"accounts": "Accounts",
-		"projects": "Projects",
-		"subscriptions": "Subscriptions"
-	}
+  "MAIN": {
+    "pageTitle": "Admin panel"
+  },
+  "GREET": {
+    "hi": "Hello,",
+    "region": "Administrated region:"
+  },
+  "STATS": {
+    "counters": "Counters",
+    "title": "Counter",
+    "total": "Total",
+    "dayIncr": "Day",
+    "weekIncr": "Week",
+    "monthIncr": "Month",
+    "yearIncr": "Year",
+    "accounts": "Accounts",
+    "projects": "Projects",
+    "subscriptions": "Subscriptions"
+  },
+  "ENTITY": {
+    "accounts": "Аккаунты",
+    "counter_col": "№",
+    "_id": "ID",
+    "email": "Почта",
+    "account_name": "Имя",
+    "status": "Статус",
+    "created": "Создан (GMT)",
+    "projectsField": "Проекты",
+    "subscriptions": "Подписки",
+    "orders": "Заказы"
+  }
 }

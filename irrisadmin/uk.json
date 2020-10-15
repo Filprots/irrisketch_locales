@@ -1,33 +1,40 @@
 {
-	"MAIN": {
-		"pageTitle": "Панель администратора"
-	},
-	"GREET": {
-		"hi": "Привет,",
-		"region": "Ваш регион администрирования:"
-	},
-	"STATS": {
-		"counters": "Счётчики",
-		"title": "Показатель",
-		"total": "Всего",
-		"dayIncr": "За день",
-		"weekIncr": "За неделю",
-		"monthIncr": "За месяц",
-		"yearIncr": "За год",
-		"accounts": "Аккаунты",
-		"projects": "Проекты",
-		"subscriptions": "Подписки"
-	},
-	"ENTITY": {
-		"accounts": "Аккаунты",
-		"counter_col": "№",
-		"_id": "ID",
-		"email": "Почта",
-		"account_name": "Имя",
-		"status": "Статус",
-		"created": "Создан (GMT)",
-		"projectsField": "Проекты",
-		"subscriptions": "Подписки",
-		"orders": "Заказы"
-	}
+  "MAIN": {
+    "pageTitle": "Панель администратора"
+  },
+  "GREET": {
+    "hi": "Привет,",
+    "region": "Ваш регион администрирования:"
+  },
+  "STATS": {
+    "counters": "Счётчики",
+    "title": "Показатель",
+    "total": "Всего",
+    "dayIncr": "За день",
+    "weekIncr": "За неделю",
+    "monthIncr": "За месяц",
+    "yearIncr": "За год",
+    "accounts": "Аккаунты",
+    "projects": "Проекты",
+    "subscriptions": "Подписки"
+  },
+  "ENTITY": {
+    "home": "Сводка",
+    "accounts": "Аккаунты",
+    "counter_col": "№",
+    "_id": "ID",
+    "email": "Почта",
+    "account_name": "Имя",
+    "status": "Статус",
+    "created": "Создан",
+    "projects": "Проекты",
+    "projectsField": "Проекты",
+    "subscriptions": "Подписки",
+    "orders": "Заказы",
+    "title": "Название",
+    "hidden": "Удалён",
+    "account_id": "Акк",
+    "modified": "Изменён",
+    "deleted": "Удалён"
+  }
 }

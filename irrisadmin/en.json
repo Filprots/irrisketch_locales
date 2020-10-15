@@ -19,15 +19,22 @@
     "subscriptions": "Subscriptions"
   },
   "ENTITY": {
+    "home": "Сводка",
     "accounts": "Аккаунты",
     "counter_col": "№",
     "_id": "ID",
     "email": "Почта",
     "account_name": "Имя",
     "status": "Статус",
-    "created": "Создан (GMT)",
+    "created": "Создан",
+    "projects": "Проекты",
     "projectsField": "Проекты",
     "subscriptions": "Подписки",
-    "orders": "Заказы"
+    "orders": "Заказы",
+    "title": "Название",
+    "hidden": "Удалён",
+    "account_id": "Акк",
+    "modified": "Изменён",
+    "deleted": "Удалён"
   }
 }

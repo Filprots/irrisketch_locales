@@ -4,7 +4,7 @@
   },
   "GREET": {
     "hi": "Hallo",
-    "region": "Administrated region:"
+    "region": "Administrated regions:"
   },
   "STATS": {
     "counters": "Counters",
@@ -19,22 +19,30 @@
     "subscriptions": "Subscriptions"
   },
   "ENTITY": {
-    "home": "Сводка",
-    "accounts": "Аккаунты",
-    "counter_col": "№",
+    "home": "Dashboard",
+    "accounts": "Accounts",
+    "counter_col": "#",
     "_id": "ID",
-    "email": "Почта",
-    "account_name": "Имя",
-    "status": "Статус",
-    "created": "Создан",
-    "projects": "Проекты",
-    "projectsField": "Проекты",
-    "subscriptions": "Подписки",
-    "orders": "Заказы",
-    "title": "Название",
-    "hidden": "Удалён",
-    "account_id": "Акк",
-    "modified": "Изменён",
-    "deleted": "Удалён"
+    "email": "Email",
+    "account_name": "Name",
+    "acc_country": "Country",
+    "status": "Status",
+    "created": "Created",
+    "projects": "Projects",
+    "projectsField": "Projects",
+    "subscriptions": "Subscriptions",
+    "orders": "Orders",
+    "title": "Title",
+    "hidden": "Removed",
+    "account_id": "Account",
+    "account_email": "Account",
+    "modified": "Modified",
+    "deleted": "Removed",
+    "number": "Number",
+    "type": "Type",
+    "order": "Order",
+    "items": "Items",
+    "amounts": "Amnts.",
+    "duration": "Duration"
   }
 }

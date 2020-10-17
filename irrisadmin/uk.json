@@ -4,19 +4,20 @@
   },
   "GREET": {
     "hi": "Привет,",
-    "region": "Ваш регион администрирования:"
+    "region": "Регионы администрирования:"
   },
   "STATS": {
     "counters": "Счётчики",
     "title": "Показатель",
     "total": "Всего",
-    "dayIncr": "За день",
+    "dayIncr": "Сегодня",
     "weekIncr": "За неделю",
     "monthIncr": "За месяц",
     "yearIncr": "За год",
     "accounts": "Аккаунты",
     "projects": "Проекты",
-    "subscriptions": "Подписки"
+    "subscriptions": "Подписки",
+    "orders": "Заказы"
   },
   "ENTITY": {
     "home": "Сводка",
@@ -25,6 +26,7 @@
     "_id": "ID",
     "email": "Почта",
     "account_name": "Имя",
+    "acc_country": "Страна",
     "status": "Статус",
     "created": "Создан",
     "projects": "Проекты",
@@ -34,7 +36,14 @@
     "title": "Название",
     "hidden": "Удалён",
     "account_id": "Акк",
+    "account_email": "Акк",
     "modified": "Изменён",
-    "deleted": "Удалён"
+    "deleted": "Удалён",
+    "number": "Номер",
+    "type": "Тип",
+    "order": "Заказ",
+    "items": "Товары",
+    "amounts": "Суммы",
+    "duration": "Продолж."
   }
 }

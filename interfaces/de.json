@@ -941,5 +941,10 @@
   "preset_favorites_sprinkling": "Favorite Tools (Irrigation)",
   "preset_favorites_layouting": "Favorite Tools (Layouts)",
   "preset_configs_drawing": "Project Configuration",
-  "preset_configs_outlayer": "Specification Sheet Configuration"
+  "preset_configs_outlayer": "Specification Sheet Configuration",
+  "MigratedAwayPage": "Your account was moved to another domain",
+  "MigratedAway_Title":"Please, don't worry!",
+  "MigratedAway_Body": "As we care about user experience and service sustainability, we had to partition IRRISketch servers for different geographics. All your user data is stored safely on protected servers. Now you just have to switch to another domain zone, by clicking the button below.\nSorry for inconvenience!",
+  "MigratedAway_ButtonTitle":"Press this button to log in your account:",
+  "MigratedAway_Button": "Login -"
 }

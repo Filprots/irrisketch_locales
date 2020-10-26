@@ -938,13 +938,13 @@ this.LNG = {
             "Конфигурация проекта"
         ],
         //SPRINKLER PRESSURE CONFIGS
-        sprinklerConfig: "Дождеватели",
-        pressureDefinedBy: "Ожидаемое давление на дождевателе",
+        sprinklerConfig: "Потребители",
+        pressureDefinedBy: "Ожидаемое давление на потребителе",
         recommendedPressure: "Рекомендованное производителем",
         userPressure: "Заданное пользователем",
-        expPressure: "Укажите давление на дождевателе",
-        sprinklerGroupMode: "Группировка дождевателей в зоны",
-        safeSprGroupMode: "Строгий режим (На одной зоне только совместимые дождеватели)",
+        expPressure: "Укажите давление на потребителе",
+        sprinklerGroupMode: "Группировка потребителей в зоны",
+        safeSprGroupMode: "Строгий режим (На одной зоне только совместимые потребители)",
         unsafeSprGroupMode: "Небезопасный режим (ВНИМАНИЕ! Возможно подключение несовместимых потребителей на одну зону. Используйте на свой страх и риск)",
         //UNITS CONFIG
         unitsConfig: "Единицы измерения",

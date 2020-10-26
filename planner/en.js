@@ -938,12 +938,12 @@ this.LNG = {
             "Project configuration"
         ],
         //SPRINKLER PRESSURE CONFIGS
-        sprinklerConfig: "Sprinklers",
-        pressureDefinedBy: "Expected pressure at sprinklers is",
+        sprinklerConfig: "Consumers",
+        pressureDefinedBy: "Expected pressure at consumers is",
         recommendedPressure: "Recommended by vendor",
         userPressure: "Set by user",
-        expPressure: "Expected pressure at sprinkler",
-        sprinklerGroupMode: "Grouping sprinklers",
+        expPressure: "Expected pressure at consumer",
+        sprinklerGroupMode: "Grouping consumers",
         safeSprGroupMode: "Strict mode (group only compatible)",
         unsafeSprGroupMode: "Unsafe mode (WARNING! No grouping restrictions)",
         //UNITS CONFIG

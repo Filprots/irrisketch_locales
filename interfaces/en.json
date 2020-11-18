@@ -948,5 +948,6 @@
   "MigratedAway_Body": "As we care about user experience and service sustainability, we had to partition IRRISketch servers for different geographics. All your user data is stored safely on protected servers. Now you just have to switch to another domain zone, by clicking the button below.<br>Sorry for inconvenience!<br><br>P.S. if you think there is a mistake, and your account shouldn't have been moved, please inform us about it via email <a href='mailto:mail@irrisketch.com?subject=Account&nbsp;migration&nbsp;mistake'>mail@irrisketch.com</a>",
   "MigratedAway_ButtonTitle":"Press this button to log in your account:",
   "MigratedAway_Button": "Login -",
-  "switchToGlobalWarning": "If you cannot find your domestic language in the list of available localizations, you can switch to global version of <a href=\"https://irrisketch.com/register?inv=X3XOnLteWpGClWGQfPFi\">IRRISketch</a>"
+  "switchToGlobalWarning": "If you cannot find your domestic language in the list of available localizations, you can switch to global version of <a href=\"https://irrisketch.com/register?inv=X3XOnLteWpGClWGQfPFi\">IRRISketch</a>",
+  "order_status_failed": "Failed"
 }

@@ -134,7 +134,7 @@ this.LNG = {
         type: "Typ",
         variant: "Variante",
         area: "Fläche",
-        perimeter: "Eingrenzung",
+        perimeter: "Umfang",
         curveLength: "länge",
         treeDiameter: "Diameter",
         bushDiameter: "Diameter",

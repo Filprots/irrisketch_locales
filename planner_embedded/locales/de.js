@@ -318,6 +318,7 @@
             sp: "Sprinkler",
             ld: "Landscape",
             lo: "Layout",
+            loPM: "Precipitation",
             stdSurf: "Standard",
             fineCut: "Fine cut lawn",
             raw: "Raw concrete",

@@ -981,5 +981,7 @@
   "lastNameEmptyFail": "Please enter your Last name",
   "cityEmptyFail": "Where are you from?",
   "postcodeEmptyFail": "Provide postal code, please",
-  "stateprovinceEmptyFail": "No state/province given"
+  "stateprovinceEmptyFail": "No state/province given",
+  "Invoice_SendData": "Send",
+  "REFUND_APPROVED": "Refund approved"
 }

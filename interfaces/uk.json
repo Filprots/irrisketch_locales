@@ -981,5 +981,7 @@
   "lastNameEmptyFail": "Укажите вашу фамилию",
   "cityEmptyFail": "Укажите город",
   "postcodeEmptyFail": "Укажите почтовый код",
-  "stateprovinceEmptyFail": "Укажите край/Область"
+  "stateprovinceEmptyFail": "Укажите край/Область",
+  "Invoice_SendData": "Отправить",
+  "REFUND_APPROVED": "Возврат совершён"
 }

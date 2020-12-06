@@ -23,14 +23,14 @@
 </div>
 
 <% if (locale === 'de') { %>
-    <%- partial('../../../irris/views/partials/theo') %>
+    <%- partial('../partials/global/theo') %>
+    <%- partial('../partials/global/adVideo1') %>
+    <%- partial('../partials/global/instaFeedDE') %>
+<% } else { %>
+    <%- partial('../partials/global/instaFeedGlobal') %>
+    <%- partial('../partials/global/helpingMessengers') %>
 <% } %>
 
-<%- partial('../../../irris/views/partials/instaFeed') %>
-
-<% if (locale !== 'de') { %>
-<%- partial('../../../irris/views/partials/helpingMessengers') %>
-<% } %>
 
 <div class="row mb-3">
     <div class="col-lg-12">

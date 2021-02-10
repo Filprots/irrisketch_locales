@@ -338,6 +338,7 @@
             herbalBed1: "Трявяная клумба 1",
             herbalBed2: "Трявяная клумба 2",
             mulch: "Мульча",
+            gravel: "Щебень",
             shrubs: "Кусты 1",
             pavementFill: "Дорожки 1",
             pavementContour: "Дорожки 2",

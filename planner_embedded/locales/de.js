@@ -338,6 +338,7 @@
             herbalBed1: "Herbal bed 1",
             herbalBed2: "Herbal bed 2",
             mulch: "Mulch",
+            gravel: "Gravel",
             shrubs: "Shrubs 1",
             pavementFill: "Pavement 1",
             pavementContour: "Pavement 2",

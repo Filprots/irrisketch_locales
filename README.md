@@ -10,12 +10,13 @@ Those who complete translation will be awarded by lifetime IRRISketch PRO-accoun
 
 # Current translators
 
-Ukrainian - Boghdan Durst (bodo1715@gmail.com)   |||||||||||||||| (COMPLETED)
+Ukrainian - Boghdan Durst (bodo1715@gmail.com)          |||||||||||||||| (COMPLETED)
 
-Hebrew - Mikhail (irridon@gmail.com)             ................ (0%)
+Hebrew - Mikhail (irridon@gmail.com)                    ................ (0%)
 
-German - Theo Wirtz (theo@ltwgmbh.de)            |||||||||||||||| (COMPLETED)
+German - Theo Wirtz (theo@ltwgmbh.de)                   |||||||||||||||| (COMPLETED)
 
+Belarusian - Eugene (Kirilov-zh@mail.ru)                |||||||||||||||| (COMPLETED)
 
 
 

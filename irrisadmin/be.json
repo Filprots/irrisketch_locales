@@ -1,0 +1,49 @@
+{
+  "MAIN": {
+    "pageTitle": "Адмінка ёпта нарэшце (пакуль у распрацоўцы...)"
+  },
+  "GREET": {
+    "hi": "Прывітанне,",
+    "region": "Рэгіёны адміністравання:"
+  },
+  "STATS": {
+    "counters": "Лічыльнікі",
+    "title": "Паказнік",
+    "total": "Усяго",
+    "dayIncr": "Сёння",
+    "weekIncr": "За тыдзень",
+    "monthIncr": "За месяц",
+    "yearIncr": "За год",
+    "accounts": "Акаўнты",
+    "projects": "Праекты",
+    "subscriptions": "Падпіскі",
+    "orders": "Заказы"
+  },
+  "ENTITY": {
+    "home": "Зводка",
+    "accounts": "Акаўнты",
+    "counter_col": "№",
+    "_id": "ID",
+    "email": "Пошта",
+    "account_name": "Імя",
+    "acc_country": "Краіна",
+    "status": "Статус",
+    "created": "Створаны",
+    "projects": "Праекты",
+    "projectsField": "Праекты",
+    "subscriptions": "Падпіскі",
+    "orders": "Заказы",
+    "title": "Назва",
+    "hidden": "Выдалены",
+    "account_id": "Акк",
+    "account_email": "Акк",
+    "modified": "Зменены",
+    "deleted": "Выдалены",
+    "number": "Нумар",
+    "type": "Тып",
+    "order": "Заказ",
+    "items": "Тfвары",
+    "amounts": "Сумы",
+    "duration": "Працяг"
+  }
+}

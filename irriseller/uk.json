@@ -422,7 +422,7 @@
 		"filter": "Filter",
 		"insertItems": "Add items",
 		"privatePrices": "Personal prices",
-		"sharedPrices": "General price lists"
+		"sharedPrices": "Shared prices"
 	},
 	"TTP": {
 		"currency": "Currency of the estimate",

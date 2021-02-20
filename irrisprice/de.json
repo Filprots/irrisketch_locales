@@ -72,7 +72,10 @@
 			"insertFromClipboard": "Inserting data from tables (via clipboard)",
 			"newDiscountGroup": "New Group Modifier",
 			"newDiscountPlan": "New Plan",
-			"newItemsGroup": "New Group"
+			"newItemsGroup": "New Group",
+			"addAllItems": "Add all items",
+			"itemsCount": "Items count",
+			"discountMarkup": "Discount/Markup percent"
 		},
 		"TTP": {
 			"exit": "Exit",

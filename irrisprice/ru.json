@@ -72,7 +72,10 @@
 			"insertFromClipboard": "Вставка данных из таблиц (через буфер обмена)",
 			"newDiscountGroup": "Новый Модификатор группы",
 			"newDiscountPlan": "Новый План",
-			"newItemsGroup": "Новая Группа"
+			"newItemsGroup": "Новая Группа",
+			"addAllItems": "Добавить все элементы",
+			"itemsCount": "Элементов",
+			"discountMarkup": "Процент скидки/наценки"
 		},
 		"TTP": {
 			"exit": "Выход",

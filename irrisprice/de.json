@@ -65,17 +65,17 @@
 			"specifyOrder": "Check the columns (checkboxes) that you will insert and set them in order (drag and drop)"
 		},
 		"TTL": {
+			"addAllItems": "Add all items",
 			"discountGroups": "Group modifiers",
+			"discountMarkup": "Discount/Markup percent",
 			"discountPercent": "Percentage of discount/markup",
 			"discountPlans": "Plans",
 			"groups": "Elements groups",
 			"insertFromClipboard": "Inserting data from tables (via clipboard)",
+			"itemsCount": "Items count",
 			"newDiscountGroup": "New Group Modifier",
 			"newDiscountPlan": "New Plan",
-			"newItemsGroup": "New Group",
-			"addAllItems": "Add all items",
-			"itemsCount": "Items count",
-			"discountMarkup": "Discount/Markup percent"
+			"newItemsGroup": "New Group"
 		},
 		"TTP": {
 			"exit": "Exit",
@@ -102,10 +102,12 @@
 		"AND": "AND",
 		"IID": "IID",
 		"OR": "OR",
+		"_id": "Elements",
 		"art": "Art.",
 		"brand": "Manufacturer",
 		"currency": "Currency",
 		"groups": "Groups",
+		"setFilter": "found",
 		"title": "Name",
 		"units": "Units",
 		"value": "Value"
@@ -124,6 +126,8 @@
 		"deselectAll": "Deselect all",
 		"down": "Down",
 		"excelExport": "Export to Excel",
+		"export": "Export",
+		"importItems": "Import",
 		"invertSelection": "Inverse selection",
 		"move": "Move",
 		"pasteAfter": "Insert after",
@@ -371,6 +375,7 @@
 			"loadPublic": "Load prices",
 			"previewDistributorCard": "Preview card",
 			"resetSearch": "Reset",
+			"searchOptions": "Options",
 			"sharePrices": "Share prices"
 		},
 		"ERROR": {
@@ -427,6 +432,7 @@
 			"privatePrices": "Personal prices",
 			"publicPrices": "Public prices",
 			"published": "Published",
+			"searchIn": "Search price items",
 			"sharedPrices": "Shared prices",
 			"stateProvince": "Region",
 			"title": "Title",
@@ -449,11 +455,23 @@
 			"share": "Share",
 			"showAboutDistributor": "Distributor information",
 			"unshare": "Stop sharing",
+			"updatePrices": "Reload catalog",
 			"you": "You"
 		},
 		"TYPE": {
 			"group": "Group",
 			"price": "Price"
 		}
+	},
+	"TREE": {
+		"TTL": {
+			"searchArts": "Art",
+			"searchBrands": "Brands",
+			"searchTitles": "Titles"
+		}
+	},
+	"TTL": {
+		"catalog": "Prices",
+		"editor": "Editor"
 	}
 }

@@ -16,7 +16,8 @@
 		"resetFinalizer": "Reset",
 		"resetMatcher": "Reset",
 		"resetSearch": "Reset",
-		"save": "Save"
+		"save": "Save",
+		"searchOptions": "Options"
 	},
 	"DIALOG": {
 		"ERROR": {
@@ -356,7 +357,7 @@
 	},
 	"PLCH": {
 		"filterItems": "Enter a name or a part number",
-		"searchPrices": "Search for price lists"
+		"searchPrices": "Search prices"
 	},
 	"STAGES": {
 		"equipment": "Equipment",
@@ -413,6 +414,13 @@
 		},
 		"outlayTemplate": "template"
 	},
+	"TREE": {
+		"TTL": {
+			"searchArts": "Art",
+			"searchBrands": "Brands",
+			"searchTitles": "Titles"
+		}
+	},
 	"TTL": {
 		"appliedDiscounts": "Price modifiers applied",
 		"discountManager": "Price modifiers",
@@ -422,6 +430,7 @@
 		"filter": "Filter",
 		"insertItems": "Add items",
 		"privatePrices": "Personal prices",
+		"searchIn": "Search price items",
 		"sharedPrices": "General price lists"
 	},
 	"TTP": {

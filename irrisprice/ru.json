@@ -25,7 +25,7 @@
 	},
 	"EDITOR": {
 		"BTN": {
-			"discountManager": "Скидки/Наценки",
+			"discountManager": "Модификаторы",
 			"item": "Элемент",
 			"proceed": "Вставить",
 			"save": "Сохранить",
@@ -65,17 +65,17 @@
 			"specifyOrder": "Отметьте колонки (галочками), которые вы будете вставлять и установите из порядок (перетаскивая мышью)"
 		},
 		"TTL": {
+			"addAllItems": "Добавить все элементы",
 			"discountGroups": "Модификаторы групп",
+			"discountMarkup": "Процент скидки/наценки",
 			"discountPercent": "Процент скидки/наценки",
 			"discountPlans": "Планы",
 			"groups": "Группы элементов",
 			"insertFromClipboard": "Вставка данных из таблиц (через буфер обмена)",
+			"itemsCount": "Элементов",
 			"newDiscountGroup": "Новый Модификатор группы",
 			"newDiscountPlan": "Новый План",
-			"newItemsGroup": "Новая Группа",
-			"addAllItems": "Добавить все элементы",
-			"itemsCount": "Элементов",
-			"discountMarkup": "Процент скидки/наценки"
+			"newItemsGroup": "Новая Группа"
 		},
 		"TTP": {
 			"exit": "Выход",
@@ -102,10 +102,12 @@
 		"AND": "И",
 		"IID": "IID",
 		"OR": "ИЛИ",
+		"_id": "Элементов",
 		"art": "Артикул",
 		"brand": "Производитель",
 		"currency": "Валюта",
 		"groups": "Группы",
+		"setFilter": "найдено",
 		"title": "Наименование",
 		"units": "Ед.изм.",
 		"value": "Стоимость"
@@ -124,6 +126,8 @@
 		"deselectAll": "Снять выделение",
 		"down": "Вниз",
 		"excelExport": "Экспорт в Excel",
+		"export": "Экспортировать",
+		"importItems": "Импортировать",
 		"invertSelection": "Инверсия выбора",
 		"move": "Переместить",
 		"pasteAfter": "Вставить после",
@@ -371,6 +375,7 @@
 			"loadPublic": "Загрузить прайсы",
 			"previewDistributorCard": "Предпросмотр",
 			"resetSearch": "Сброс",
+			"searchOptions": "Опции",
 			"sharePrices": "Поделиться прайсами"
 		},
 		"ERROR": {
@@ -427,6 +432,7 @@
 			"privatePrices": "Личные прайсы",
 			"publicPrices": "Публичные прайсы",
 			"published": "Опубликован",
+			"searchIn": "Поиск внутри прайсов",
 			"sharedPrices": "Общие прайсы",
 			"stateProvince": "Регион",
 			"title": "Название",
@@ -449,11 +455,23 @@
 			"share": "Поделиться",
 			"showAboutDistributor": "Инофрмация о дистрибьюторе",
 			"unshare": "Перестать делиться",
+			"updatePrices": "Обновить каталог",
 			"you": "Вы"
 		},
 		"TYPE": {
 			"group": "Группа",
 			"price": "Прайс"
 		}
+	},
+	"TREE": {
+		"TTL": {
+			"searchArts": "Артикулы",
+			"searchBrands": "Бренды",
+			"searchTitles": "Названия"
+		}
+	},
+	"TTL": {
+		"catalog": "Каталог прайсов",
+		"editor": "Редактор"
 	}
 }

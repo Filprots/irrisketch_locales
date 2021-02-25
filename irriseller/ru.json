@@ -16,7 +16,8 @@
 		"resetFinalizer": "Сброс",
 		"resetMatcher": "Сбросить",
 		"resetSearch": "Сброс",
-		"save": "Сохранить"
+		"save": "Сохранить",
+		"searchOptions": "Опции"
 	},
 	"DIALOG": {
 		"ERROR": {
@@ -413,6 +414,13 @@
 		},
 		"outlayTemplate": "шаблон"
 	},
+	"TREE": {
+		"TTL": {
+			"searchArts": "Артикулы",
+			"searchBrands": "Бренды",
+			"searchTitles": "Названия"
+		}
+	},
 	"TTL": {
 		"appliedDiscounts": "Применённые модификаторы цены",
 		"discountManager": "Модификаторы цены",
@@ -422,6 +430,7 @@
 		"filter": "Фильтр",
 		"insertItems": "Добавить элементы",
 		"privatePrices": "Личные прайсы",
+		"searchIn": "Поиск внутри прайсов",
 		"sharedPrices": "Общие прайсы"
 	},
 	"TTP": {

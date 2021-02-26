@@ -423,6 +423,7 @@
 	},
 	"TTL": {
 		"appliedDiscounts": "Price modifiers applied",
+		"completed": "Matches",
 		"discountManager": "Price modifiers",
 		"discountPercent": "Percent",
 		"discountPlan": "Discount plan",
@@ -431,7 +432,8 @@
 		"insertItems": "Add items",
 		"privatePrices": "Personal prices",
 		"searchIn": "Search price items",
-		"sharedPrices": "General price lists"
+		"sharedPrices": "General price lists",
+		"totalProjectCost": "Total cost"
 	},
 	"TTP": {
 		"currency": "Currency of the estimate",

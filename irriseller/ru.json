@@ -423,6 +423,7 @@
 	},
 	"TTL": {
 		"appliedDiscounts": "Применённые модификаторы цены",
+		"completed": "Совпадений",
 		"discountManager": "Модификаторы цены",
 		"discountPercent": "Процент",
 		"discountPlan": "Скидочный план",
@@ -431,7 +432,8 @@
 		"insertItems": "Добавить элементы",
 		"privatePrices": "Личные прайсы",
 		"searchIn": "Поиск внутри прайсов",
-		"sharedPrices": "Общие прайсы"
+		"sharedPrices": "Общие прайсы",
+		"totalProjectCost": "Общая стоимость"
 	},
 	"TTP": {
 		"currency": "Валюта сметы",

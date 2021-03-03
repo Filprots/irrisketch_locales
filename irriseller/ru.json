@@ -432,6 +432,10 @@
 		"insertItems": "Добавить элементы",
 		"privatePrices": "Личные прайсы",
 		"searchIn": "Поиск внутри прайсов",
+		"sectionEquipment": "Оборудование",
+		"sectionLabors": "Работы",
+		"sectionTrash": "Корзина",
+		"sectionUncategorized": "Без категории",
 		"sharedPrices": "Общие прайсы",
 		"totalProjectCost": "Общая стоимость"
 	},

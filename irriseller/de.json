@@ -432,6 +432,10 @@
 		"insertItems": "Add items",
 		"privatePrices": "Personal prices",
 		"searchIn": "Search price items",
+		"sectionEquipment": "Equipment",
+		"sectionLabors": "Labors",
+		"sectionTrash": "Trash",
+		"sectionUncategorized": "Uncategorized",
 		"sharedPrices": "General price lists",
 		"totalProjectCost": "Total cost"
 	},

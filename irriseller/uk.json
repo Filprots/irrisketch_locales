@@ -434,9 +434,11 @@
 		"searchIn": "Поиск внутри прайсов",
 		"sectionEquipment": "Оборудование",
 		"sectionLabors": "Работы",
+		"sectionNew": "Новая группа",
 		"sectionTrash": "Корзина",
 		"sectionUncategorized": "Без категории",
 		"sharedPrices": "Общие прайсы",
+		"structureGroups": "Структурные группы",
 		"totalProjectCost": "Общая стоимость"
 	},
 	"TTP": {
@@ -444,6 +446,7 @@
 		"exit": "Выход",
 		"openPrice": "Открыть прайс",
 		"redo": "Повторить действие",
+		"structureGroupsAll": "Структурировать по группам из прайсов",
 		"undo": "Отменить действие",
 		"updateOutlay": "Обновить данные",
 		"updatePrice": "Обновить прайс",

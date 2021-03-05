@@ -434,9 +434,11 @@
 		"searchIn": "Search price items",
 		"sectionEquipment": "Equipment",
 		"sectionLabors": "Labors",
+		"sectionNew": "New group",
 		"sectionTrash": "Trash",
 		"sectionUncategorized": "Uncategorized",
 		"sharedPrices": "General price lists",
+		"structureGroups": "Structure groups",
 		"totalProjectCost": "Total cost"
 	},
 	"TTP": {
@@ -444,6 +446,7 @@
 		"exit": "Exit",
 		"openPrice": "Open Price",
 		"redo": "Repeat the action",
+		"structureGroupsAll": "Apply structure from price groups",
 		"undo": "Cancel action",
 		"updateOutlay": "Update data",
 		"updatePrice": "Update Price",

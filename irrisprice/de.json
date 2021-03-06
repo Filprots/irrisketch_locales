@@ -25,7 +25,7 @@
 	},
 	"EDITOR": {
 		"BTN": {
-			"discountManager": "Discounts/Markups",
+			"groupsAndDiscounts": "Groups and Discounts",
 			"item": "Element",
 			"proceed": "Insert",
 			"save": "Save",
@@ -65,18 +65,19 @@
 			"specifyOrder": "Check the columns (checkboxes) that you will insert and set them in order (drag and drop)"
 		},
 		"TTL": {
-			"addAllItems": "Add all items",
-			"discountGroups": "Group modifiers",
+			"addSelectedItems": "Add selected items",
+			"discountGroups": "Value modifiers",
 			"discountMarkup": "Discount/Markup percent",
 			"discountPercent": "Percentage of discount/markup",
-			"discountPlans": "Plans",
+			"discountPlans": "Discount plans",
 			"groupIsForStructure": "Structure group",
 			"groups": "Elements groups",
 			"insertFromClipboard": "Inserting data from tables (via clipboard)",
 			"itemsCount": "Items count",
 			"newDiscountGroup": "New Group Modifier",
 			"newDiscountPlan": "New Plan",
-			"newItemsGroup": "New Group"
+			"newItemsGroup": "New Group",
+			"removeSelectedItems": "Remove selected from group"
 		},
 		"TTP": {
 			"exit": "Exit",
@@ -105,6 +106,7 @@
 		"OR": "OR",
 		"_id": "Elements",
 		"art": "Art.",
+		"autoAdd": "Auto amount",
 		"brand": "Manufacturer",
 		"currency": "Currency",
 		"groups": "Groups",

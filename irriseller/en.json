@@ -86,6 +86,7 @@
 	"GRID": {
 		"amount": "Quantity",
 		"art": "Item number",
+		"autoAddPriceInPlace": "Add preset elements",
 		"availablePrices": "Price lists",
 		"brand": "Manufacturer",
 		"currency": "Currency",

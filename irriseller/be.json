@@ -86,6 +86,7 @@
 	"GRID": {
 		"amount": "Кол-во",
 		"art": "Артикул",
+		"autoAddPriceInPlace": "Добавить предустановленные элементы",
 		"availablePrices": "Прайсы",
 		"brand": "Производитель",
 		"currency": "Валюта",

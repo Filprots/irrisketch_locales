@@ -125,8 +125,10 @@
 		"pasteBefore": "Вставить перед",
 		"pasteInto": "Вставить в",
 		"recover": "Восстановить",
+		"regroupByStructureGroups": "Распределить по структурным группам из прайсов",
 		"selection": "Выделение",
 		"sortBy": "Сортировать по колонке",
+		"sortGroupsByTitle": "Сортировать группы по названию",
 		"toTrash": "В корзину",
 		"utilize": "Стереть"
 	},

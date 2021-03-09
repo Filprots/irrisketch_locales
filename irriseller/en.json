@@ -125,8 +125,10 @@
 		"pasteBefore": "Insert before",
 		"pasteInto": "Insert in",
 		"recover": "Restore",
+		"regroupByStructureGroups": "Regroup by structure groups (from prices)",
 		"selection": "Selection",
 		"sortBy": "Sort by column",
+		"sortGroupsByTitle": "Sort groups by title",
 		"toTrash": "To trash",
 		"utilize": "Erase"
 	},

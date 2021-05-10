@@ -1031,5 +1031,8 @@
   "hw_statusIndicatorConnected": "<span class='text-success'>Connected to Hydrawise</span>",
   "hw_statusIndicatorUpdating": "Updating...",
   "hw_statusIndicatorErrorNoApis": "You don't have any API Keys (<a target='_blank' href='/account'>Click to add</a>)",
-  "hw_statusIndicatorErrorNoConnection": "<span class='text-danger'>No Connection</span>"
+  "hw_statusIndicatorErrorNoConnection": "<span class='text-danger'>No Connection</span>",
+  "ProjectHydrawiseLink": "Hydrawise control link",
+  "CreateHWLink": "Create",
+  "ProjectHydrawiseLinkInfo": "Warning! This link allows ANYONE who follows it to control the Hydrawise controller configured in this project. If you wish to deny access to anyone who gets it, simply create a new link or remove the current one."
 }

@@ -1034,5 +1034,6 @@
   "hw_statusIndicatorErrorNoConnection": "<span class='text-danger'>No Connection</span>",
   "ProjectHydrawiseLink": "Hydrawise control link",
   "CreateHWLink": "Create",
-  "ProjectHydrawiseLinkInfo": "Warning! This link allows ANYONE who follows it to control the Hydrawise controller configured in this project. If you wish to deny access to anyone who gets it, simply create a new link or remove the current one."
+  "ProjectHydrawiseLinkInfo": "Warning! This link allows ANYONE who follows it to control the Hydrawise controller configured in this project. If you wish to deny access to anyone who gets it, simply create a new link or remove the current one.",
+  "action_importFromMoasureCSVFile": "Import CSV from Moasure®"
 }

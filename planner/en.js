@@ -743,6 +743,15 @@ this.LNG = {
             "You are about to close this project",
             "Note that all unsaved changes will be lost."
         ],
+        pickAnotherCSVFile: "Pick another one",
+        csvFileTooBig: [
+            "Maximum csv file size exceeded",
+            "For optimization purposes, maximum csv file handled is limited by 4Mb"
+        ],
+        notAnCSV: [
+            "Sorry, this file type is not supported",
+            "Supported formats : .csv"
+        ],
         pickAnotherImage: "Pick another one",
         imageTooBig: [
             "Maximum image size exceeded",

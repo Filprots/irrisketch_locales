@@ -357,6 +357,8 @@
             pavement04_Blue_L:"Honeycomb Blue Light",
             pavement04_Blue_D:"Honeycomb Blue Dark",
             pool: "Swimming pool",
+            lo_stdDynCurve: "Dynamic",
+            lo_stdCurve: "Standard",
             stdCurve: "Standard",
             markCurve: "Red marker",
             pathCurve: "Path",

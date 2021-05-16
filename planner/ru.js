@@ -91,6 +91,10 @@ this.LNG = {
         Square: "Квадрат",
         noShadow: "Нет",
         standardShadow: "Стандарт",
+        noArrows: "Нет",
+        startArrow: "В начале",
+        endArrow: "В конце",
+        bothArrows: "Обе",
         normalSizeSide: "Нормальная",
         invertedSizeSide: "Инверсия",
         strMiter: "Скос",
@@ -256,6 +260,7 @@ this.LNG = {
         geographic: "Географические",
         sizeMark: "Размер",
         scalingBar: "Размерная шкала",
+        loCurves: "Линии",
         texts: "Текст",
         staticText: "Статический текст",
         dynamicText: "Динамический текст",
@@ -798,7 +803,7 @@ this.LNG = {
             "Обновить",
             "Обновление спецификаций"
         ],
-        exportLayoutsAsPdf:[
+        exportLayoutsAsPdf: [
             "Экспорт выбранных листов в PDF",
             "По отдельности",
             "В одном файле (В разработке)",

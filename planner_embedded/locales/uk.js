@@ -357,6 +357,8 @@
             pavement04_Blue_L:"Соти Синие Світлі",
             pavement04_Blue_D:"Соти Синие Темні",
             pool: "Басейн",
+            lo_stdDynCurve: "Динамическая",
+            lo_stdCurve: "Стандартная",
             stdCurve: "Стандартна",
             markCurve: "Червоний маркер",
             pathCurve: "Доріжка",

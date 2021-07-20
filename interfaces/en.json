@@ -1051,5 +1051,6 @@
   "action_importFromMoasureCSVFile": "Import CSV from Moasure®",
   "SimplifyTolerance": "Tolerance (cm)",
   "action_simplify": "Simplify",
-  "action_lineArrow": "Arrows"
+  "action_lineArrow": "Arrows",
+  "MoasurePromoPage": "MOASURE® ONE™"
 }

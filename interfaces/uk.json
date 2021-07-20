@@ -1051,5 +1051,6 @@
   "action_importFromMoasureCSVFile": "Импорт из Moasure®",
   "SimplifyTolerance": "Допустимое отклонение (cm)",
   "action_simplify": "Упростить",
-  "action_lineArrow": "Стрелки"
+  "action_lineArrow": "Стрелки",
+  "MoasurePromoPage": "MOASURE® ONE™"
 }

@@ -1,0 +1,7 @@
+<% if (locale === 'de') { %>
+    <%- partial('./de/de.ejs') %>
+<% }  else  if (locale === 'ru') { %>
+    <%- partial('./ru/ru.ejs') %>
+<% } else { %>
+    <%- partial('./en/en.ejs') %>
+<% } %>

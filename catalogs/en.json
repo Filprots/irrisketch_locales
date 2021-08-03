@@ -816,6 +816,18 @@
       "SADDLE2502": "Сlamp saddle 250mm x 2\"F",
       "SADDLE25021/2": "Сlamp saddle 250mm x 2½\"F",
       "SADDLE5011/4": "Сlamp saddle 50mm x 1¼\"F"
+    },
+    "_bubblers_Anybrand": {
+      "SSDS-ADJ-A-1": "Adjustable consumer - 1 l/min",
+      "SSDS-ADJ-A-2": "Adjustable consumer - 2 l/min",
+      "SSDS-ADJ-A-3": "Adjustable consumer - 3 l/min",
+      "SSDS-ADJ-A-4": "Adjustable consumer - 4 l/min",
+      "SSDS-ADJ-A-5": "Adjustable consumer - 5 l/min",
+      "SSDS-ADJ-A-7": "Adjustable consumer - 7 l/min",
+      "SSDS-ADJ-A-10": "Adjustable consumer - 10 l/min",
+      "SSDS-ADJ-A-20": "Adjustable consumer - 20 l/min",
+      "SSDS-ADJ-A-50": "Adjustable consumer - 50 l/min",
+      "SSDS-ADJ-A-100": "Adjustable consumer - 100 l/min"
     }
   },
   "Hunter": {

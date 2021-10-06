@@ -880,6 +880,7 @@ this.LNG = {
         filterSelectionNames: {
             sprinklers: "Потребители",
             sprinklers_nozzle: "Потребители - Сопла",
+            sprinklers_rotaryNozzle: "Потребители - Вращающиеся Сопла",
             sprinklers_rotor: "Потребители - Роторы",
             sprinklers_bubbler: "Потребители - Бабблеры",
             sprinklers_bubblerNozzle: "Потребители - Сопла-Бабблеры",

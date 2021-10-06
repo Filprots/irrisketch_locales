@@ -879,6 +879,10 @@ this.LNG = {
         filterSelection_include: "Include into selection",
         filterSelectionNames: {
             sprinklers: "Consumers",
+            sprinklers_nozzle: "Consumers - Nozzles",
+            sprinklers_rotor: "Consumers - Rotors",
+            sprinklers_bubbler: "Consumers - Bubblers",
+            sprinklers_bubblerNozzle: "Consumers - Bubbler-nozzles",
             dripStarts: "Drip starts",
             rzwLayer: "Root zone watering",
             dripLines: "Drip lines",

@@ -879,6 +879,10 @@ this.LNG = {
         filterSelection_include: "Дадаць у вылучэнне",
         filterSelectionNames: {
             sprinklers: "Спажыўцы",
+            sprinklers_nozzle: "Спажыўцы - Сопла",
+            sprinklers_rotor: "Спажыўцы - Роторы",
+            sprinklers_bubbler: "Спажыўцы - Бабблеры",
+            sprinklers_bubblerNozzle: "Спажыўцы - Сопла-Бабблеры",
             dripStarts: "Кропельныя старты",
             rzwLayer: "Прыкаранёвае паліванне",
             dripLines: "Кропельныя лініі",

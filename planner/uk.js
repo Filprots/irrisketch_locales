@@ -879,6 +879,10 @@ this.LNG = {
         filterSelection_include: "Додати до виділеного",
         filterSelectionNames: {
             sprinklers: "Водоспоживачі",
+            sprinklers_nozzle: "Водоспоживачі - Сопла",
+            sprinklers_rotor: "Водоспоживачі - Роторы",
+            sprinklers_bubbler: "Водоспоживачі - Бабблеры",
+            sprinklers_bubblerNozzle: "Водоспоживачі - Сопла-Бабблеры",
             dripStarts: "Крапельні старти",
             rzwLayer: "Прикорневий полив",
             dripLines: "Крапельні лінії",

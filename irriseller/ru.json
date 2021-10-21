@@ -1,6 +1,8 @@
 {
 	"BTN": {
+		"addCustomCurrencyRule": "Добавить правило",
 		"analogsSearch": "Искать аналоги",
+		"applyCurrencyChanges": "Применить",
 		"applyDiscounts": "Применять скидки/наценки",
 		"back": "Назад",
 		"cancel": "Отмена",
@@ -443,15 +445,16 @@
 		"sectionNew": "Новая группа",
 		"sectionTrash": "Корзина",
 		"sectionUncategorized": "Без категории",
+		"selectOutlayCurrency": "Валюта сметы",
 		"sharedPrices": "Общие прайсы",
 		"structureGroups": "Структурные группы",
 		"totalProjectCost": "Общая стоимость"
 	},
 	"TTP": {
+		"aboutCurrencyRules": "Это текущий международный курс взятый на https://openexchangerates.org/",
 		"autoAddAll": "Добавить все элементы из всех прайсов, помеченные к добавлению",
 		"autoAddGroup": "Добавить все элементы данной группы",
 		"autoAddPrice": "Добавить все элементы из этого прайса, помеченные к добавлению",
-		"currency": "Валюта сметы",
 		"exit": "Выход",
 		"openPrice": "Открыть прайс",
 		"redo": "Повторить действие",

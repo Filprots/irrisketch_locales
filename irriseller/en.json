@@ -1,6 +1,8 @@
 {
 	"BTN": {
+		"addCustomCurrencyRule": "Add rule",
 		"analogsSearch": "Look for similar products",
+		"applyCurrencyChanges": "Apply",
 		"applyDiscounts": "Apply discounts/surcharges",
 		"back": "Back",
 		"cancel": "Cancel",
@@ -443,15 +445,16 @@
 		"sectionNew": "New group",
 		"sectionTrash": "Trash",
 		"sectionUncategorized": "Uncategorized",
+		"selectOutlayCurrency": "Outlay currency",
 		"sharedPrices": "General price lists",
 		"structureGroups": "Structure groups",
 		"totalProjectCost": "Total cost"
 	},
 	"TTP": {
+		"aboutCurrencyRules": "This is the current international rate taken at https://openexchangerates.org/",
 		"autoAddAll": "Add all items from all prices, marked as auto-adding",
 		"autoAddGroup": "Add all items from this group",
 		"autoAddPrice": "Add all items from this price, marked as auto-adding",
-		"currency": "Currency of the estimate",
 		"exit": "Exit",
 		"openPrice": "Open Price",
 		"redo": "Repeat the action",

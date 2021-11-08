@@ -6,10 +6,10 @@ If you want to translate interface of IRRISketch into your language, you can con
 
 I will include you into the list of contributors.
 
-Those who complete translation will be awarded by lifetime IRRISketch PRO-account.
+Those who complete translation will be awarded by lifetime IRRISketch PRO-account!
 
 # Current translators
-
+<pre>
 Ukrainian - Boghdan Durst (bodo1715@gmail.com)          |||||||||||||||| (COMPLETED)
 
 Hebrew - Mikhail (irridon@gmail.com)                    ................ (0%)
@@ -17,6 +17,6 @@ Hebrew - Mikhail (irridon@gmail.com)                    ................ (0%)
 German - Theo Wirtz (theo@ltwgmbh.de)                   |||||||||||||||| (COMPLETED)
 
 Belarusian - Eugene (Kirilov-zh@mail.ru)                |||||||||||||||| (COMPLETED)
-
+</pre>
 
 

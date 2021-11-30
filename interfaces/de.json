@@ -1052,5 +1052,14 @@
   "SimplifyTolerance": "Tolerance (cm)",
   "action_simplify": "Simplify",
   "action_lineArrow": "Arrows",
-  "MoasurePromoPage": "MOASURE® ONE™"
+  "MoasurePromoPage": "MOASURE® ONE™",
+  "CertsPage": "Certificate validation",
+  "Certificate": "Certificate of",
+  "lifeTimeKeeper": "Lifetime Membership",
+  "certificateValid": "Valid",
+  "certificateInvalid": "Invalid",
+  "certificateRegistered": "Certificate registered: ",
+  "expiresAt": "Expires at ",
+  "dateOfBirth": "Date of birth: ",
+  "UpdateCerts": "Uploading certificates data"
 }

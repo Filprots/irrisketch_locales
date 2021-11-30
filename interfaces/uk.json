@@ -1052,5 +1052,14 @@
   "SimplifyTolerance": "Допустимое отклонение (cm)",
   "action_simplify": "Упростить",
   "action_lineArrow": "Стрелки",
-  "MoasurePromoPage": "MOASURE® ONE™"
+  "MoasurePromoPage": "MOASURE® ONE™",
+  "CertsPage": "Проверка сертификата",
+  "Certificate": "Сертификат",
+  "lifeTimeKeeper": "Пожизненного Хранителя",
+  "certificateValid": "Действителен",
+  "certificateInvalid": "Недействителен",
+  "certificateRegistered": "Дата регистрации сертификата: ",
+  "expiresAt": "Действует до: ",
+  "dateOfBirth": "Дата рождения: ",
+  "UpdateCerts": "Загрузка данных о сертификатах"
 }

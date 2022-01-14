@@ -968,6 +968,7 @@ this.LNG = {
         //UNITS CONFIG
         unitsConfig: "Maßeinheiten",
         precisionStd: "Nachkommastellen",
+        unitsSystemGridAndRuler: "Units of measurement system for grid and ruler",
         distanceUnits: "Entfernung",
         distancePrecision: "Nachkommastellen",
         sprinklerDistUnits: "Regnerradius",
@@ -986,6 +987,8 @@ this.LNG = {
         precipRatePrecision: "Nachkommastellen",
         ft: "Fuß",
         ftin: "Fuß/Zoll",
+        metric: "metric",
+        imperialUS: "imperial (US)",
         //UNITS CONFIG
         hydraConfig: "Hydraulik",
         waterTemp: "Wassertemparatur",

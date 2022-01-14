@@ -458,6 +458,7 @@
             hdpeSDR17: "HDPE SDR 17",
             hdpeSDR176: "HDPE SDR 17.6",
             stdTrench: "Standard",
+            narrowTrench: "Narrow (hand trencher)",
             multi: "Valve box",
             source: "Water source",
             empty: "Empty",

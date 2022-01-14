@@ -968,6 +968,7 @@ this.LNG = {
         //UNITS CONFIG
         unitsConfig: "Единицы измерения",
         precisionStd: "Количество цифр после запятой",
+        unitsSystemGridAndRuler: "Единицы измерения для сетки и рулетки",
         distanceUnits: "Расстояние",
         distancePrecision: "Количество цифр после запятой",
         sprinklerDistUnits: "Радиус дождевателя",
@@ -986,6 +987,8 @@ this.LNG = {
         precipRatePrecision: "Количество цифр после запятой",
         ft: "дюйм",
         ftin: "фут/дюйм",
+        metric: "метрическая",
+        imperialUS: "имперская (США)",
         //UNITS CONFIG
         hydraConfig: "Гидравлический расчет",
         waterTemp: "Температура воды",

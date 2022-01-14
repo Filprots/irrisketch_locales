@@ -968,6 +968,7 @@ this.LNG = {
         //UNITS CONFIG
         unitsConfig: "Units of Measurement",
         precisionStd: "Digits after the decimal point",
+        unitsSystemGridAndRuler: "Units of measurement system for grid and ruler",
         distanceUnits: "Distance",
         distancePrecision: "Digits after the decimal point",
         sprinklerDistUnits: "Sprinkler radius",
@@ -986,6 +987,8 @@ this.LNG = {
         precipRatePrecision: "Digits after the decimal point",
         ft: "feet",
         ftin: "feet/inches",
+        metric: "metric",
+        imperialUS: "imperial (US)",
         //UNITS CONFIG
         hydraConfig: "Hydraulics",
         waterTemp: "Water temperature",

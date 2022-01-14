@@ -460,7 +460,7 @@
             stdTrench: "Standard (40cm) (legacy)",
             normalTrench: "Normal (W:10cm D:50cm)",
             narrowTrench: "Schmal (W:5cm D:30cm) (Handgrabenfräse)",
-            wideTrench: "Breit (W:30cm D:60cm) (Ausgräber)",
+            wideTrench: "Breit (W:30cm D:60cm) (Bagger)",
             multi: "Valve box",
             source: "Water source",
             empty: "Empty",

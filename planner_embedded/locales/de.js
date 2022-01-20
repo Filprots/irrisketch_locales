@@ -491,9 +491,12 @@
             staticText: "Text",
             dynamicText: "Text",
             stampTextDef: "Stamp text",
-            sbStdMetric: "Medium scaling bar",
-            sbMinMetric: "Mini",
-            sbExtMetric: "Extended"
+            sbStdMetric: "Medium scaling bar (Metric)",
+            sbMinMetric: "Mini (Metric)",
+            sbExtMetric: "Extended (Metric)",
+            sbStdImperial: "Medium scaling bar (Imperial)",
+            sbMinImperial: "Mini (Imperial)",
+            sbExtImperial: "Extended (Imperial)"
         }
     };
 })(this);

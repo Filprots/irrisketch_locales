@@ -491,9 +491,12 @@
             staticText: "Тэкст статычны",
             dynamicText: "Тэкст дынамічны",
             stampTextDef: "Тэкст штампа",
-            sbStdMetric: "Сярэдняя шкала",
-            sbMinMetric: "Маленькая",
-            sbExtMetric: "Вялікая"
+            sbStdMetric: "Сярэдняя шкала (Metric)",
+            sbMinMetric: "Маленькая (Metric)",
+            sbExtMetric: "Вялікая (Metric)",
+            bStdImperial: "Сярэдняя шкала (Imperial)",
+            sbMinImperial: "Маленькая (Imperial)",
+            sbExtImperial: "Вялікая (Imperial)",
         }
     };
 })(this);

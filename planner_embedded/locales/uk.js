@@ -491,9 +491,12 @@
             staticText: "Текст статичний",
             dynamicText: "Текст динамічний",
             stampTextDef: "Текст штампу",
-            sbStdMetric: "Середня шкала",
-            sbMinMetric: "Мала",
-            sbExtMetric: "Велика"
+            sbStdMetric: "Середня шкала (Metric)",
+            sbMinMetric: "Мала (Metric)",
+            sbExtMetric: "Велика (Metric)",
+            sbStdImperial: "Середня шкала (Imperial)",
+            sbMinImperial: "Мала (Imperial)",
+            sbExtImperial: "Велика (Imperial)",
         }
     };
 })(this);

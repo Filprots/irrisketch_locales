@@ -457,6 +457,8 @@
             hdpeSDR136: "HDPE SDR 13.6",
             hdpeSDR17: "HDPE SDR 17",
             hdpeSDR176: "HDPE SDR 17.6",
+            pvcSCH40: "PVC SCH 40",
+            pvcSCH80: "PVC SCH 80",
             stdTrench: "Standard (40cm) (legacy)",
             normalTrench: "Normal (W:10cm D:50cm)",
             narrowTrench: "Narrow (W:5cm D:30cm) (Hand-trencher)",

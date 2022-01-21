@@ -457,6 +457,8 @@
             hdpeSDR136: "ПНТ SDR 13.6",
             hdpeSDR17: "ПНТ SDR 17",
             hdpeSDR176: "ПНТ SDR 17.6",
+            pvcSCH40: "ПВХ SCH 40",
+            pvcSCH80: "ПВХ SCH 80",
             stdTrench: "Стандартна (40 см)",
             normalTrench: "Средняя (W:10cm D:50cm)",
             narrowTrench: "Узкая (W:5cm D:30cm) (траншеекопатель)",

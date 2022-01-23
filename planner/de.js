@@ -574,6 +574,7 @@ this.LNG = {
         //drip
         barb_cap_8: "Endverschluss",
         barb_elbow_PP: "Winkel (17 mm) für XF Dripline",
+        barb_elbow_PT: "Barb elbow to thread",
         barb_tee_PPP: "T-Stück (17 mm) für XF Dripline ",
         barb_coupling_PP: "Verbinder (17 mm) für XF Dripline",
         barb_cross_PPPP: "Kreuzstück (17 mm) für XF Dripline",
@@ -599,11 +600,11 @@ this.LNG = {
         compress_cap_P: "Endkappe 32mm",
         compress_elbow_PP: "L-Stück 32mm",
         compress_coupling_PP: "Verbinder 32mm",
-        compress_reducer_PP: "Reduzierkupplung",
         compress_tee_PPP: "T-Stück 32mm",
         compress_cross_PPPP: "Kreuzstück",
         compress_single_clamp_saddle: "Anbohrschelle",
         compress_ballvalve_PP: "Compression Ball valve", // TODO:translate
+        compress_ballvalve_PT: "Compression/Thread Ball valve",
         thread_nipple: "Verschraubung",
         thread_coupling: "Schlauchanschluss",
         thread_mf_reducer: "Reduzierstück AG/IG",
@@ -615,8 +616,20 @@ this.LNG = {
         thread_cap: "Gewindekappe IG",
         thread_plug: "Gewindekappe AG",
         thread_union_nut: "Überwurfmutter",
+        thread_cross: "Cross",
         cable: "Kabel",
         wire: "Draht",
+        // slip
+        slip_elbow_PT: "Slip/thread elbow",
+        slip_coupling_PT: "Slip/thread coupling",
+        slip_tee_PTP: "Slip/thread tee",
+        slip_cap_P: "Slip end plug",
+        slip_elbow_PP: "Slip elbow",
+        slip_coupling_PP: "Slip coupling",
+        slip_tee_PPP: "Slip tee",
+        slip_cross_PPPP: "Slip cross",
+        slip_ballvalve_PP: "Slip Ball valve",
+        slip_ballvalve_PT: "Slip/Thread Ball valve",
         //extendables
         arbitraryFittings: "Arbitrary fittings", // TODO:translate
         dripStartAssembly: "Tropf-Start-Einheit",

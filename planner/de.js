@@ -963,6 +963,7 @@ this.LNG = {
         compress: "Klemmverbinder",
         wiringNode: "Verdrahtungsabschnitt",
         basicWiringMethod: "Art der Steuerverdrahtung",
+        cableCoresArray: "Cable cores number range",
         noAutoWiring: "Verdrahtung manuell hinzufügen",
         separateCableToManifold: "Separates Kabel zu jedem Verteiler",
         separateWireToValve: "Separater Draht zum Ventil + gemeinsamer Draht zum Verteiler",

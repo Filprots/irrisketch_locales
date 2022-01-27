@@ -963,6 +963,7 @@ this.LNG = {
         compress: "Компресійні фітінги",
         wiringNode: "Електрокабеля",
         basicWiringMethod: "Тип кабеля керування",
+        cableCoresArray: "Ассортимент кабелей по количеству жил",
         noAutoWiring: "Без автоматичного підрахування",
         separateCableToManifold: "Окремий кабель до кождої гребінки",
         separateWireToValve: "Окремий кабель до клапану і загальний до гребінки",

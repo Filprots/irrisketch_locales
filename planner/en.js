@@ -963,6 +963,7 @@ this.LNG = {
         compress: "Compression fittings",
         wiringNode: "Wiring section",
         basicWiringMethod: "Control wiring method",
+        cableCoresArray: "Cable cores number range",
         noAutoWiring: "Add wiring manually",
         separateCableToManifold: "Separate multi-core cable to manifold",
         separateWireToValve: "Separate wire to valve + common wire to manifold",

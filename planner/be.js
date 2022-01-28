@@ -936,9 +936,12 @@ this.LNG = {
         valvesOutlay: "Пазіцыі клапанаў",
         fold: "Згорнены",
         unfold: "Разгорнены",
+        threadsNode: "Резьбовые соединения",
+        threadTypes: "Типы резьб",
         //AUTOMATION NODE CONFIGS
         automationNode: "Вузлы аўтаматызацыі",
         controllerModules: "Пашырэнні для модульных кантролераў абіраюцца:",
+        controllerVoltage: "Входное напряжение контроллера:",
         autoModules: "Аўтаматычна (аптымальна)",
         userModules: "Ручна (як аксэсуары)",
         //RZW NODE

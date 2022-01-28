@@ -936,9 +936,12 @@ this.LNG = {
         valvesOutlay: "Ventilausgang",
         fold: "gefaltet",
         unfold: "entfaltet",
+        threadsNode: "Threaded connections",
+        threadTypes: "Threads types",
         //AUTOMATION NODE CONFIGS
         automationNode: "Steuerungsknotenpunkt",
         controllerModules: "Modulare Controller-Erweiterungsmodule werden ausgewählt:",
+        controllerVoltage: "Controller's input voltage:",
         autoModules: "Automatisch (beste Anpassung)",
         userModules: "Manuell (als Zubehör)",
         //RZW NODE

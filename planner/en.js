@@ -936,9 +936,12 @@ this.LNG = {
         valvesOutlay: "Valves outlay",
         fold: "Folded",
         unfold: "Unfolded",
+        threadsNode: "Threaded connections",
+        threadTypes: "Threads types",
         //AUTOMATION NODE CONFIGS
         automationNode: "Automation node",
         controllerModules: "Modular controllers expansion modules are choosen:",
+        controllerVoltage: "Controller's input voltage:",
         autoModules: "Automatically (best fit)",
         userModules: "Manually (as accessories)",
         //RZW NODE

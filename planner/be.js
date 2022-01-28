@@ -620,6 +620,7 @@ this.LNG = {
         cable: "Кабель",
         wire: "Провад",
         // slip
+        slip_single_clamp_saddle: "Седелка (на ПВХ трубу)",
         slip_elbow_PT: "Отвод 90° труба-резьба (slip)",
         slip_coupling_PT: "Муфта труба-резьба (slip)",
         slip_tee_PTP: "Тройник труба-резьба (slip)",

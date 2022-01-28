@@ -620,6 +620,7 @@ this.LNG = {
         cable: "Cable",
         wire: "Wire",
         // slip
+        slip_single_clamp_saddle: "Single clamp saddle (on PVC pipe)",
         slip_elbow_PT: "Slip/thread elbow",
         slip_coupling_PT: "Slip/thread coupling",
         slip_tee_PTP: "Slip/thread tee",

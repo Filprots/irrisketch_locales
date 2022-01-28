@@ -942,6 +942,9 @@ this.LNG = {
         automationNode: "Automation node",
         controllerModules: "Modular controllers expansion modules are choosen:",
         controllerVoltage: "Controller's input voltage:",
+        230: "230 VAC",
+        120: "120 VAC",
+        controllerVoltage: "Controller's input voltage:",
         autoModules: "Automatically (best fit)",
         userModules: "Manually (as accessories)",
         //RZW NODE

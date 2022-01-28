@@ -942,6 +942,8 @@ this.LNG = {
         automationNode: "Steuerungsknotenpunkt",
         controllerModules: "Modulare Controller-Erweiterungsmodule werden ausgewählt:",
         controllerVoltage: "Controller's input voltage:",
+        230: "230 VAC",
+        120: "120 VAC",
         autoModules: "Automatisch (beste Anpassung)",
         userModules: "Manuell (als Zubehör)",
         //RZW NODE

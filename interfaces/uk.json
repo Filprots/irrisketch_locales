@@ -1111,5 +1111,12 @@
   "certificateRegistered": "Дата регистрации сертификата: ",
   "expiresAt": "Действует до: ",
   "dateOfBirth": "Дата рождения: ",
-  "UpdateCerts": "Загрузка данных о сертификатах"
+  "UpdateCerts": "Загрузка данных о сертификатах",
+  "action_zoneParams": "Параметры зоны",
+  "action_setMicroClimate": "Микроклимат",
+  "action_setMicroClimateBulk": "Микроклимат",
+  "action_setSoilType": "Состав почвы",
+  "action_setSoilTypeBulk": "Состав почвы",
+  "action_setZoneSlope": "Уклон",
+  "action_setZoneSlopeBulk": "Уклон"
 }

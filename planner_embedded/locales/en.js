@@ -484,6 +484,7 @@
             landscp: "Landscape table",
             conv: "Symbols table",
             zoneT: "Zones table",
+            sprinkZoneTimeT: "Zone sprinkling time",
             sprinkT: "Sprinklers table",
             dripT: "Drip lines table",
             insItemT: "Inserts Table (By Items)",
@@ -498,7 +499,21 @@
             sbExtMetric: "Extended (Metric)",
             sbStdImperial: "Medium scaling bar (Imperial)",
             sbMinImperial: "Mini (Imperial)",
-            sbExtImperial: "Extended (Imperial)"
+            sbExtImperial: "Extended (Imperial)",
+            gentleMicroClimate: "Mild",
+            normalMicroClimate: "Normal",
+            toughMicroClimate: "Harsh",
+            sand: "Sandy",
+            sandyLoam: "Sandy loam",
+            lightLoam: "Light loam",
+            mediumLoam: "Medium loam",
+            heavyLoam: "Heavy loam",
+            clay: "Clay",
+            heavyClay: "Heavy clay",
+            noneIncline: "0-5% (0-3°)",
+            lightIncline: "5-8% (3-5°)",
+            mediumIncline: "8-12% (5-7°)",
+            hugeIncline: "12%+ (7°+)"
         }
     };
 })(this);

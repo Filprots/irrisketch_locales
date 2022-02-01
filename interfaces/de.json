@@ -1111,5 +1111,12 @@
 	"certificateRegistered": "Certificate registered: ",
 	"expiresAt": "Expires at ",
 	"dateOfBirth": "Date of birth: ",
-	"UpdateCerts": "Uploading certificates data"
+	"UpdateCerts": "Uploading certificates data",
+	"action_zoneParams": "Zone parameters",
+	"action_setMicroClimate": "Microclimate",
+	"action_setMicroClimateBulk": "Microclimate",
+	"action_setSoilType": "Soil composition",
+	"action_setSoilTypeBulk": "Soil composition",
+	"action_setZoneSlope": "Slope",
+	"action_setZoneSlopeBulk": "Slope"
 }

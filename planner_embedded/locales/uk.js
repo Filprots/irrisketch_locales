@@ -484,6 +484,7 @@
             landscp: "Таблиця ландшафту",
             conv: "Умовні позначення",
             zoneT: "Зони зрошення",
+            sprinkZoneTimeT: "Время дождевания газона",
             sprinkT: "Зрошувачі",
             dripT: "Крапельні лінії",
             insItemT: "Закладні деталі (Список)",
@@ -499,6 +500,20 @@
             sbStdImperial: "Середня шкала (Imperial)",
             sbMinImperial: "Мала (Imperial)",
             sbExtImperial: "Велика (Imperial)",
+            gentleMicroClimate: "Мягкий",
+            normalMicroClimate: "Нормальный",
+            toughMicroClimate: "Жёсткий",
+            sand: "Песчаная",
+            sandyLoam: "Супесь",
+            lightLoam: "Суглинок лёгкий",
+            mediumLoam: "Суглинок средний",
+            heavyLoam: "Суглинок тяжёлый",
+            clay: "Глина",
+            heavyClay: "Глина тяжёлая",
+            noneIncline: "0-5% (0-3°)",
+            lightIncline: "5-8% (3-5°)",
+            mediumIncline: "8-12% (5-7°)",
+            hugeIncline: "12%+ (7°+)"
         }
     };
 })(this);

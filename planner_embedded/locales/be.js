@@ -484,6 +484,7 @@
             landscp: "Табліца ландшафту",
             conv: "Умоўныя пазначэнні",
             zoneT: "Зоны палівання",
+            sprinkZoneTimeT: "Время дождевания газона",
             sprinkT: "Дажджавацелi",
             dripT: "Кропельныя лініі",
             insItemT: "Закладныя дэталі (Ведамасць)",
@@ -499,7 +500,20 @@
             bStdImperial: "Сярэдняя шкала (Imperial)",
             sbMinImperial: "Маленькая (Imperial)",
             sbExtImperial: "Вялікая (Imperial)",
+            gentleMicroClimate: "Мягкий",
+            normalMicroClimate: "Нормальный",
+            toughMicroClimate: "Жёсткий",
+            sand: "Песчаная",
+            sandyLoam: "Супесь",
+            lightLoam: "Суглинок лёгкий",
+            mediumLoam: "Суглинок средний",
+            heavyLoam: "Суглинок тяжёлый",
+            clay: "Глина",
+            heavyClay: "Глина тяжёлая",
+            noneIncline: "0-5% (0-3°)",
+            lightIncline: "5-8% (3-5°)",
+            mediumIncline: "8-12% (5-7°)",
+            hugeIncline: "12%+ (7°+)"
         }
     };
 })(this);
-

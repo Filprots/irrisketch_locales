@@ -36,7 +36,10 @@ this.LNG = {
         kph: "km/h",
         degreesCentigrade: "°C",
         mmph: "mm/h",
-        inph: "in./h"
+        mmp24h: "mm/day",
+        inph: "in/h",
+        // unconvertable
+        min: "min."
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -166,6 +169,14 @@ this.LNG = {
         totalPrecipArea: "Gesamtabdeckung",
         precipRateShort: "Niederschlagsrate",
         coveredArea: "Fläche",
+        microClimateInd: "M/Climate",
+        soilTypeInd: "Soil",
+        zoneSlopeInd: "Slope",
+        maxInfiltrationRate: "Infiltration rate",
+        waterDemand: "Water demand",
+        numOfRuns: "Runs per day",
+        timePerRun: "Time per run",
+        dailyConsumption: "Daily consumption",
         dripsNum: "Tropfleitungen angeschlossen",
         dripType: "Tropf-Typ",
         dripRowsStep: "Reihenabstand",
@@ -1011,6 +1022,49 @@ this.LNG = {
         velocityPrecision: "Nachkommastellen",
         precipRateUnits: "Niederschlagsmenge",
         precipRatePrecision: "Nachkommastellen",
+        // ZONE PROPS CONFIG
+        climateConfig: "Calculation of irrigation time",
+        lawnCultureType : "Lawn type",
+        coolLoving: "Cool-loving",
+        warmLoving: "Warm-loving",
+        climateTemp: "Average summer temperature",
+        coolClimate: "< 21°C",
+        warmClimate: "21-32°C",
+        hotClimate: "> 32°C",
+        climateHumid: "Average summer humidity",
+        wetClimate: "> 50%",
+        dryClimate: "< 50%",
+        microClimate: "Zone microclimate&nbsp;<i class='far fa-question-circle'></i>",
+        microClimateTooltip: "Mild\n" +
+            "Irrigation areas that are in the shade, sheltered from the wind and are away from dry and heated objects\n" +
+            "\n" +
+            "Normal\n" +
+            "Places in the landscape where microclimate conditions are represented: the presence of\n" +
+            "buildings, sidewalks and paths, shade, etc. do not significantly affect the values of\n" +
+            "evapotranspiration\n" +
+            "\n" +
+            "Harsh\n" +
+            "Reflects conditions that impede plant growth and easily translates to a stressed state if the plant is not properly watered. This can be an open place, under blazing sun, in close proximity to pathways, buildings or other landscape structures, reflecting light from glass or landscape elements that absorb heat, or it can be a windy place.",
+        gentleMicroClimate: "Mild",
+        normalMicroClimate: "Normal",
+        toughMicroClimate: "Harsh",
+        soilType: "Soil composition in the zones",
+        sand: "Sandy",
+        sandyLoam: "Sandy loam",
+        lightLoam: "Light loam",
+        mediumLoam: "Medium loam",
+        heavyLoam: "Heavy loam",
+        clay: "Clay",
+        heavyClay: "Heavy clay",
+        zoneSlope: "General slope on the zones",
+        noneIncline: "0-5% (0-3°)",
+        lightIncline: "5-8% (3-5°)",
+        mediumIncline: "8-12% (5-7°)",
+        hugeIncline: "12%+ (7°+)",
+        waterBudget: "Water budget",
+        lowWB: "Low",
+        normalWB: "Normal",
+        highWB: "High",
         ft: "Fuß",
         ftin: "Fuß/Zoll",
         metric: "metric",

@@ -1112,11 +1112,11 @@
 	"expiresAt": "Expires at ",
 	"dateOfBirth": "Date of birth: ",
 	"UpdateCerts": "Uploading certificates data",
-	"action_zoneParams": "Zone parameters",
-	"action_setMicroClimate": "Microclimate",
-	"action_setMicroClimateBulk": "Microclimate",
-	"action_setSoilType": "Soil composition",
-	"action_setSoilTypeBulk": "Soil composition",
-	"action_setZoneSlope": "Slope",
-	"action_setZoneSlopeBulk": "Slope"
+	"action_zoneParams": "Zonenparameter",
+	"action_setMicroClimate": "Microklima",
+	"action_setMicroClimateBulk": "Microklima",
+	"action_setSoilType": "Boden Zusammensetzung",
+	"action_setSoilTypeBulk": "Boden Zusammensetzung",
+	"action_setZoneSlope": "Gefälle",
+	"action_setZoneSlopeBulk": "Gefälle"
 }

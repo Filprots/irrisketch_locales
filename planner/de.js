@@ -1025,8 +1025,8 @@ this.LNG = {
         // ZONE PROPS CONFIG
         climateConfig: "Berechnung der Bewässerungszeit",
         lawnCultureType : "Rasen Typ",
-        coolLoving: "Kälte-liebend",
-        warmLoving: "Wärme-liebend",
+        coolLoving: "Schattenrasen",
+        warmLoving: "Gebrauchsrasen",
         climateTemp: "Durchschnittliche Sommertemperatur",
         coolClimate: "< 21°C",
         warmClimate: "21-32°C",
@@ -1034,20 +1034,20 @@ this.LNG = {
         climateHumid: "Durchschnittliche Luftfeuchtigkeit im Sommer",
         wetClimate: "> 50%",
         dryClimate: "< 50%",
-        microClimate: "Mikroklima der Zone&nbsp;<i class='far fa-question-circle'></i>",
+        microClimate: "Mikroklima der Zonen&nbsp;<i class='far fa-question-circle'></i>",
         microClimateTooltip: "Mild\n" +
-            "Bewässerungsflächen, die schattig, windgeschützt und von trockenen und erhitzten Gegenständen entfernt sind\n" +
+            "Flächen, die schattig, windgeschützt und von erhitzten Gegenständen entfernt sind; die Evapotranspiration ist niedrig.\n" +
             "\n" +
             "Normal\n" +
-            "Orte in der Landschaft, an denen die mikroklimatischen Bedingungen dargestellt werden: das Vorhandensein von\n" +
-            "Gebäude, Bürgersteige und Wege, Beschattung usw. beeinträchtigen den Wert der Gebäude nicht wesentlich.\n" +
-            "Evapotranspiration\n" +
+            "Flächen an denen die mikroklimatischen Bedingungen als normal einzustufen sind: das Vorhandensein von\n" +
+            "Gebäude, Bürgersteige, Wege und Beschattung usw. beeinträchtigen das Mikroklima nicht wesentlich; die Evapotranspiration ist normal\n" +
             "\n" +
-            "Harsch\n" +
-            "Plätze, die das Pflanzenwachstum behindern und leicht zu einem Stresszustand führen, wenn die Pflanze nicht richtig bewässert wird. Dies kann ein windiger oder ein  offener Platz unter praller Sonne oder in unmittelbarer Nähe von Wegen, Gebäuden oder anderen Landschaftsstrukturen mit wärmeabsorbierenden Strukturen sein.",
+            "Rau\n" +
+            "Flächen die das Pflanzenwachstum erschweren und leicht zu einem Stresszustand führen, wenn der Rasen nicht richtig bewässert wird. Dies kann ein windiger, ein offener Platz unter praller Sonne oder in unmittelbarer Nähe von Wegen, Gebäuden oder anderen erhitzten Gegenständen sein, die Evapotranspiration ist hoch " +
+            "",
         gentleMicroClimate: "Mild",
         normalMicroClimate: "Normal",
-        toughMicroClimate: "Trocken",
+        toughMicroClimate: "Rau",
         soilType: "Bodenzusammensetzung in den Zonen",
         sand: "sandig",
         sandyLoam: "sandiger Lehm",

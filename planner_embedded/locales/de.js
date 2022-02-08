@@ -502,7 +502,7 @@
             sbExtImperial: "Extended (Imperial)",
             gentleMicroClimate: "Mild",
             normalMicroClimate: "Normal",
-            toughMicroClimate: "Trocken",
+            toughMicroClimate: "Rau",
             sand: "sandig",
             sandyLoam: "sandiger Lehm",
             lightLoam: "leichter Lehm",

@@ -10,13 +10,25 @@ Those who complete translation will be awarded by lifetime IRRISketch PRO-accoun
 
 # Current translators
 <pre>
-Ukrainian - Boghdan Durst (bodo1715@gmail.com)          |||||||||||||||| (COMPLETED)
+Russian - Philiph Protsenko (filprocenko@gmail.com)     |||||||||||||||| (COMPLETED)
 
-Hebrew - Mikhail (irridon@gmail.com)                    ................ (0%)
+English - Philiph Protsenko (filprocenko@gmail.com)     |||||||||||||||| (COMPLETED)
+
+Ukrainian - Boghdan Durst (bodo1715@gmail.com)          |||||||||||||||| (COMPLETED)
 
 German - Theo Wirtz (theo@ltwgmbh.de)                   |||||||||||||||| (COMPLETED)
 
 Belarusian - Eugene (Kirilov-zh@mail.ru)                |||||||||||||||| (COMPLETED)
+
+Hebrew - Mikhail (irridon@gmail.com)                    ................ (0%)
+
+--HERE CAN BE YOUR NAME--
 </pre>
 
+# Maintainers
+<pre>
+English (improvements and typo fixes) - Theo Wirtz (theo@ltwgmbh.de)
+
+Ukrainian (improvements and typo fixes) - Artyom Garmash (frogguz@gmail.com)
+</pre>
 

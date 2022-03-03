@@ -1119,5 +1119,6 @@
 	"action_setSoilType": "Boden Zusammensetzung",
 	"action_setSoilTypeBulk": "Boden Zusammensetzung",
 	"action_setZoneSlope": "Gefälle",
-	"action_setZoneSlopeBulk": "Gefälle"
+	"action_setZoneSlopeBulk": "Gefälle",
+	"Calculators": "Calculators"
 }

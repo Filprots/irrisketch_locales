@@ -1119,5 +1119,6 @@
   "action_setSoilType": "Склад грунту",
   "action_setSoilTypeBulk": "Склад грунту",
   "action_setZoneSlope": "Схил",
-  "action_setZoneSlopeBulk": "Схил"
+  "action_setZoneSlopeBulk": "Схил",
+  "Calculators": "Калькуляторы"
 }

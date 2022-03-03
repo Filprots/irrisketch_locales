@@ -1119,5 +1119,6 @@
 	"action_setSoilType": "Состав почвы",
 	"action_setSoilTypeBulk": "Состав почвы",
 	"action_setZoneSlope": "Уклон",
-	"action_setZoneSlopeBulk": "Уклон"
+	"action_setZoneSlopeBulk": "Уклон",
+	"Calculators": "Калькуляторы"
 }

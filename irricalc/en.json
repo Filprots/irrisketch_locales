@@ -34,6 +34,7 @@
 		"flowTypeTurbulent": "Turbulent"
 	},
 	"INP": {
+		"showExplanation": "Show detailed steps",
 		"flowRateForm": "Flow rate:",
 		"belowZeroError": "This value can't be below zero",
 		"flowRateMeasureForm": "Measurement units:",

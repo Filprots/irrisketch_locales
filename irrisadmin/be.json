@@ -1,4 +1,51 @@
 {
+	"MAIN": {
+		"pageTitle": "Админка ёпта наконец-то (пока в разработке...)"
+	},
+	"GREET": {
+		"hi": "Привет,",
+		"region": "Регионы администрирования:"
+	},
+	"STATS": {
+		"counters": "Счётчики",
+		"title": "Показатель",
+		"total": "Всего",
+		"dayIncr": "Сегодня",
+		"weekIncr": "За неделю",
+		"monthIncr": "За месяц",
+		"yearIncr": "За год",
+		"accounts": "Аккаунты",
+		"projects": "Проекты",
+		"subscriptions": "Подписки",
+		"orders": "Заказы"
+	},
+	"ENTITY": {
+		"home": "Сводка",
+		"accounts": "Аккаунты",
+		"counter_col": "№",
+		"_id": "ID",
+		"email": "Почта",
+		"account_name": "Имя",
+		"acc_country": "Страна",
+		"status": "Статус",
+		"created": "Создан",
+		"projects": "Проекты",
+		"projectsField": "Проекты",
+		"subscriptions": "Подписки",
+		"orders": "Заказы",
+		"title": "Название",
+		"hidden": "Удалён",
+		"account_id": "Акк",
+		"account_email": "Акк",
+		"modified": "Изменён",
+		"deleted": "Удалён",
+		"number": "Номер",
+		"type": "Тип",
+		"order": "Заказ",
+		"items": "Товары",
+		"amounts": "Суммы",
+		"duration": "Продолж."
+	},
 	"MAILING": {
 		"toggleTitle": "Рассылка писем",
 		"menuTitle": "Рассылка писем",
@@ -11,8 +58,5 @@
 		"readyToSend2Title": "Да, отправляемое мной сообщение не содержит никакой информации, компроментирующей компанию IRRISketch и аффилированных с ней лиц",
 		"readyToSend3Title": "Да, я понимаю что если я накосячу и отправлю пользователям какую-нибудь ересь, то меня уволят нахрен!",
 		"sendButton": "Отправить рассылку"
-	},
-	"MAIN": {
-		"pageTitle": "Панель администратора"
 	}
 }

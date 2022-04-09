@@ -317,6 +317,7 @@
         vars: {
             sp: "Sprinkler",
             ld: "Landscape",
+            hw: "Hydrawise",
             lo: "Layout",
             loPM: "Precipitation",
             stdSurf: "Standard",

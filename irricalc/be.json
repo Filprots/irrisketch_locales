@@ -2,8 +2,9 @@
 	"TTL": {
 		"lossCalcTitleSelect": "Расчёт потерь",
 		"calcTitle": "Калькулятор расчёта потерь напора в трубопроводах",
-		"initialData": "Исходные данные",
-		"calculationResults": "Результаты вычислений"
+		"calculationResults": "Результаты вычислений",
+		"sectionCalculationResults": "Результаты вычислений выбранной секции",
+		"pipeSectionList": "Секции трубопровода"
 	},
 	"TXT": {
 		"averageFlowSpeed": "Для того, чтобы вычислить потерю давления в трубопроводе, необходимо вычислить значения: \n Средней скорости потока по формуле:",
@@ -17,21 +18,16 @@
 		"lossFormulaExplanation": "где l - длина отрезка трубы, g - ускорение свободного падения, лямбда - коэффициент гидравлического трения.",
 		"sherohFormula": "В формуле для вычисления коэффициента гидравлического трения используется коээфициент шероховатости.",
 		"flowRateInitial": "Расход жидкости:",
-		"lpmInitial": "литров в минуту",
-		"innerDiamInitial;": "Внутренний диаметр трубы:",
-		"waterTempInitial": "Температура воды:",
-		"celsiusInitial": "°C",
-		"pipeLengthInitial": "Длина отрезка трубы:",
-		"metersInitial": "метров",
-		"sherohInitial": "Коэффициент шероховатости:",
 		"lossResult": "Потери:",
-		"waterColumnResult": "м.Вод.ст",
-		"flowSpeedResult": "Скорость потока:",
-		"msResult": "м/с",
 		"flowTypeResult": "Тип потока:",
 		"flowTypeLaminar": "Ламинарный",
-		"flowTypeMixed": "Смешанный",
-		"flowTypeTurbulent": "Турбулентный"
+		"flowTypeTurbulent": "Турбулентный",
+		"flowSpeedResult": "Скорость потока:",
+		"innerDiamInitial;": "Внутренний диаметр трубы:",
+		"pipeLength": "Длина:",
+		"pipeType": "Тип:",
+		"pipeLoss": "Потери:",
+		"waterColumnResult": "м. вод. ст."
 	},
 	"INP": {
 		"showExplanation": "Показать подробные шаги",
@@ -50,7 +46,10 @@
 		"pipeLengthForm": "Длина отрезка трубы:",
 		"pipeLengthMeasureForm": "Единицы измерения:",
 		"sherohForm": "Коэффициент шероховатости:",
-		"pipeSizeDisplayForm": "Единицы измерения:"
+		"pipeSizeDisplayForm": "Единицы измерения:",
+		"pipeLossDisplayForm": "Единицы измерения:",
+		"pipeSpeedDisplayForm": "Единицы измерения:",
+		"pipeNameForm": "Название секции:"
 	},
 	"UNITS": {
 		"celsius": "°С",
@@ -69,6 +68,21 @@
 		"galpm": "гал/мин",
 		"galph": "гал/час",
 		"pvc": "ПВХ",
-		"hdpe": "ПНД"
+		"hdpe": "ПНД",
+		"waterColumn": "м. вод. ст.",
+		"mm": "мм",
+		"inches": "дюйм",
+		"atmosphere": "атм",
+		"bar": "бар",
+		"kilopascal": "кПа",
+		"psi": "psi",
+		"ms": "м/с",
+		"kmph": "км/ч",
+		"mph": "миль/ч",
+		"ftsec": "фут/с"
+	},
+	"BTN": {
+		"addPipeSection": "Добавить секцию",
+		"deletePipeSection": "Удалить секцию"
 	}
 }

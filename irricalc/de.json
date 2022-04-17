@@ -3,7 +3,9 @@
 		"lossCalcTitleSelect": "Head loss",
 		"calcTitle": "Pipeline head loss calculator",
 		"initialData": "Input data",
-		"calculationResults": "Calculation results"
+		"calculationResults": "Calculation results",
+		"sectionCalculationResults": "Section calculation results",
+		"pipeSectionList": "Pipe sections list"
 	},
 	"TXT": {
 		"averageFlowSpeed": "In order to calculate the head loss in the pipeline, you must calculate the values: \n Of the average flow velocity according to the formula:",
@@ -31,11 +33,14 @@
 		"flowTypeResult": "Flow type:",
 		"flowTypeLaminar": "Laminar",
 		"flowTypeMixed": "Mixed",
-		"flowTypeTurbulent": "Turbulent"
+		"flowTypeTurbulent": "Turbulent",
+		"pipeLength": "Length:",
+		"pipeType": "Type:",
+		"pipeLoss": "Loss:"
 	},
 	"INP": {
 		"showExplanation": "Show detailed steps",
-		"flowRateForm": "Flow rate",
+		"flowRateForm": "Flow rate:",
 		"belowZeroError": "This value can't be below zero",
 		"flowRateMeasureForm": "Measurement units:",
 		"pipeTypeForm": "Select pipe type:",
@@ -50,7 +55,10 @@
 		"pipeLengthForm": "Pipe section length:",
 		"pipeLengthMeasureForm": "Measurement units:",
 		"sherohForm": "Roughness coefficient:",
-		"pipeSizeDisplayForm": "Measurement units:"
+		"pipeSizeDisplayForm": "Measurement units:",
+		"pipeNameForm": "Pipe section name",
+		"pipeLossDisplayForm": "Measurement units:",
+		"pipeSpeedDisplayForm": "Measurement units:"
 	},
 	"UNITS": {
 		"celsius": "°С",
@@ -69,6 +77,21 @@
 		"galpm": "gal/min",
 		"galph": "gal/h",
 		"pvc": "PVC",
-		"hdpe": "HDPE"
+		"hdpe": "HDPE",
+		"waterColumn": "meters of water column",
+		"mm": "mm",
+		"inches": "inches",
+		"atmosphere": "atm",
+		"bar": "bar",
+		"kilopascal": "kPa",
+		"psi": "psi",
+		"ms": "mps",
+		"kmph": "kmph",
+		"mph": "mph",
+		"ftsec": "fps"
+	},
+	"BTN": {
+		"addPipeSection": "Add section",
+		"deletePipeSection": "Delete section"
 	}
 }

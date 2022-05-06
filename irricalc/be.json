@@ -17,7 +17,6 @@
 		"lossFormula": "Получив все необходимые значения, мы можем посчитать потери напора по длине трубопровода по формуле Дарси-Вейсбаха:",
 		"lossFormulaExplanation": "где l - длина отрезка трубы, g - ускорение свободного падения, лямбда - коэффициент гидравлического трения.",
 		"sherohFormula": "В формуле для вычисления коэффициента гидравлического трения используется коээфициент шероховатости.",
-		"flowRateInitial": "Расход жидкости:",
 		"lossResult": "Потери:",
 		"flowTypeResult": "Тип потока:",
 		"flowTypeLaminar": "Ламинарный",
@@ -27,7 +26,15 @@
 		"pipeLength": "Длина:",
 		"pipeType": "Тип:",
 		"pipeLoss": "Потери:",
-		"waterColumnResult": "м. вод. ст."
+		"defaultFlowRateMeasureSelect": "Ед. изм. скорости потока",
+		"defaultWaterTempMeasureSelect": "Ед. изм. температуры",
+		"defaultPipeLengthMeasureSelect": "Ед. изм. длины трубопровода",
+		"defaultWaterTempSelect": "Температура жидкости",
+		"defaultLossMeasureSelect": "Ед. изм. потерь напора",
+		"defaultSpeedMeasureSelect": "Ед. изм скорости потока",
+		"defaultDiameterMeasureSelect": "Ед. изм диаметра трубы",
+		"loadStateConfirm": "Загрузить сохранённый трубопровод?",
+		"deleteAllSectionsConfirm": "Вы точно хотите удалить все секции трубопровода?"
 	},
 	"INP": {
 		"showExplanation": "Показать подробные шаги",
@@ -35,13 +42,7 @@
 		"belowZeroError": "Введите значение больше 0",
 		"flowRateMeasureForm": "Единицы измерения:",
 		"pipeTypeForm": "Укажите тип трубы:",
-		"pvcTypeForm": "Укажите Schedule для ПВХ трубы:",
-		"hdpeTypeForm": "Укажите SDR для ПНД трубы:",
-		"pvcSizeForm": "Укажите диаметр ПВХ трубы:",
-		"hdpeSizeForm": "Укажите диаметр ПНД трубы:",
 		"waterTempForm": "Температура воды:",
-		"tempBelowZeroError": "Температура воды не может быть ниже 0°С",
-		"tempOverHundredError": "Температура воды не может быть выше 100°С",
 		"tempMeasureForm": "Единицы измерения:",
 		"pipeLengthForm": "Длина отрезка трубы:",
 		"pipeLengthMeasureForm": "Единицы измерения:",
@@ -49,14 +50,17 @@
 		"pipeSizeDisplayForm": "Единицы измерения:",
 		"pipeLossDisplayForm": "Единицы измерения:",
 		"pipeSpeedDisplayForm": "Единицы измерения:",
-		"pipeNameForm": "Название секции:"
+		"pipeNameForm": "Название секции:",
+		"waterTempMeasureForm": "Единицы измерения:",
+		"defaultWaterTempForm": "Единицы измерения:",
+		"lossMeasureForm": "Единицы измерения:",
+		"speedMeasureForm": "Единицы измерения:",
+		"diameterMeasureForm": "Единицы измерения:"
 	},
 	"UNITS": {
 		"celsius": "°С",
 		"fahrenheit": "°F",
 		"kelvin": "°K",
-		"HDPE": "мм",
-		"PVC": "дюйм",
 		"meters": "м",
 		"kilometers": "км",
 		"feet": "фут",
@@ -83,6 +87,9 @@
 	},
 	"BTN": {
 		"addPipeSection": "Добавить секцию",
-		"deletePipeSection": "Удалить секцию"
+		"deletePipeSection": "Удалить секцию",
+		"deleteAllPipeSections": "Удалить все секции",
+		"settings": "Настройки",
+		"closeSettings": "Закрыть"
 	}
 }

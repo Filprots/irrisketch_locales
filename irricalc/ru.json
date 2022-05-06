@@ -90,6 +90,7 @@
 		"deletePipeSection": "Удалить секцию",
 		"deleteAllPipeSections": "Удалить все секции",
 		"settings": "Настройки",
-		"closeSettings": "Закрыть"
+		"closeSettings": "Закрыть",
+		"clonePipeSection": "Клонировать секцию"
 	}
 }

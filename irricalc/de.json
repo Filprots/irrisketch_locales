@@ -91,6 +91,7 @@
 		"deletePipeSection": "Delete section",
 		"deleteAllPipeSections": "Delete all sections",
 		"settings": "Settings",
-		"closeSettings": "Close"
+		"closeSettings": "Close",
+		"clonePipeSection": "Clone section"
 	}
 }

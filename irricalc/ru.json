@@ -41,7 +41,7 @@
 		"flowRateForm": "Расход жидкости:",
 		"belowZeroError": "Введите значение больше 0",
 		"flowRateMeasureForm": "Единицы измерения:",
-		"pipeTypeForm": "Укажите тип трубы:",
+		"pipeTypeForm": "Укажите вариант трубы:",
 		"waterTempForm": "Температура воды:",
 		"tempMeasureForm": "Единицы измерения:",
 		"pipeLengthForm": "Длина отрезка трубы:",

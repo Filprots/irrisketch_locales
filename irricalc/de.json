@@ -5,7 +5,8 @@
 		"initialData": "Input data",
 		"calculationResults": "Calculation results",
 		"sectionCalculationResults": "Section calculation results",
-		"pipeSectionList": "Pipe sections list"
+		"pipeSectionList": "Pipe sections list",
+		"defaultMeasures": "Units settings"
 	},
 	"TXT": {
 		"averageFlowSpeed": "In order to calculate the head loss in the pipeline, you must calculate the values: \n Of the average flow velocity according to the formula:",

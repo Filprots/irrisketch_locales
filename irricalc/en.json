@@ -35,7 +35,11 @@
 		"defaultSpeedMeasureSelect": "Flow velocity measurement:",
 		"defaultDiameterMeasureSelect": "Pipe diameter measurement:",
 		"loadStateConfirm": "Do you want to load saved pipeline?",
-		"deleteAllSectionsConfirm": "Are you sure you want to delete all pipe sections?"
+		"deleteAllSectionsConfirm": "Are you sure you want to delete all pipe sections?",
+		"inputFlowRate": "Input flow rate:",
+		"selectPipeType": "Select pipe type:",
+		"inputPipeLength": "Input pipe length:",
+		"pipeFlowRate": "Flow speed:"
 	},
 	"INP": {
 		"showExplanation": "Show detailed steps",

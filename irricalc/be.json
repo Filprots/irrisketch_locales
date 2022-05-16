@@ -34,7 +34,11 @@
 		"defaultSpeedMeasureSelect": "Ед. изм скорости потока",
 		"defaultDiameterMeasureSelect": "Ед. изм диаметра трубы",
 		"loadStateConfirm": "Загрузить сохранённый трубопровод?",
-		"deleteAllSectionsConfirm": "Вы точно хотите удалить все секции трубопровода?"
+		"deleteAllSectionsConfirm": "Вы точно хотите удалить все секции трубопровода?",
+		"inputFlowRate": "Введите расход жидкости:",
+		"selectPipeType": "Выберите вариант трубы:",
+		"inputPipeLength": "Введите длину трубы:",
+		"pipeFlowRate": "Скорость потока:"
 	},
 	"INP": {
 		"showExplanation": "Показать подробные шаги",

@@ -5,7 +5,8 @@
 		"calculationResults": "Результаты вычислений",
 		"sectionCalculationResults": "Результаты вычислений выбранной секции",
 		"pipeSectionList": "Секции трубопровода",
-		"defaultMeasures": "Настройки единиц измерения"
+		"defaultMeasures": "Настройки единиц измерения",
+		"convertSettings": "Настройки конвертации"
 	},
 	"TXT": {
 		"averageFlowSpeed": "Для того, чтобы вычислить потерю давления в трубопроводе, необходимо вычислить значения: \n Средней скорости потока по формуле:",
@@ -18,14 +19,14 @@
 		"lossFormula": "Получив все необходимые значения, мы можем посчитать потери напора по длине трубопровода по формуле Дарси-Вейсбаха:",
 		"lossFormulaExplanation": "где l - длина отрезка трубы, g - ускорение свободного падения, лямбда - коэффициент гидравлического трения.",
 		"sherohFormula": "В формуле для вычисления коэффициента гидравлического трения используется коээфициент шероховатости.",
-		"lossResult": "Потери:",
+		"lossResult": "Суммарные потери:",
 		"flowTypeResult": "Тип потока:",
 		"flowTypeLaminar": "Ламинарный",
 		"flowTypeTurbulent": "Турбулентный",
 		"flowSpeedResult": "Скорость потока:",
 		"innerDiamInitial;": "Внутренний диаметр трубы:",
 		"pipeLength": "Длина:",
-		"pipeType": "Тип:",
+		"pipeType": "Труба:",
 		"pipeLoss": "Потери:",
 		"defaultFlowRateMeasureSelect": "Ед. изм. скорости потока",
 		"defaultWaterTempMeasureSelect": "Ед. изм. температуры",
@@ -39,7 +40,7 @@
 		"inputFlowRate": "Введите расход жидкости:",
 		"selectPipeType": "Выберите вариант трубы:",
 		"inputPipeLength": "Введите длину трубы:",
-		"pipeFlowRate": "Скорость потока:"
+		"pipeFlowRate": "Расход:"
 	},
 	"INP": {
 		"showExplanation": "Показать подробные шаги",
@@ -58,9 +59,11 @@
 		"pipeNameForm": "Название секции:",
 		"waterTempMeasureForm": "Температура воды:",
 		"defaultWaterTempForm": "Температура воды:",
-		"lossMeasureForm": "Единицы измерения:",
-		"speedMeasureForm": "Единицы измерения:",
-		"diameterMeasureForm": "Единицы измерения:"
+		"lossMeasureForm": "Потери напора:",
+		"speedMeasureForm": "Скорость потока:",
+		"diameterMeasureForm": "Диаметр трубы:",
+		"decimalPlacesAmount": "Нулей после запятой",
+		"convertUserInput": "Конвертировать пользовательский ввод в редакторе секции"
 	},
 	"UNITS": {
 		"celsius": "°С",

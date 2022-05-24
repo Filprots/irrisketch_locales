@@ -41,7 +41,8 @@
 		"inputFlowRate": "Input flow rate:",
 		"selectPipeType": "Select pipe type:",
 		"inputPipeLength": "Input pipe length:",
-		"pipeFlowRate": "Flow:"
+		"pipeFlowRate": "Flow:",
+		"inputAltDiff": "Altitude difference between beginning and end of the pipe:"
 	},
 	"INP": {
 		"showExplanation": "Show detailed steps",
@@ -64,7 +65,9 @@
 		"speedMeasureForm": "Flow speed:",
 		"diameterMeasureForm": "Pipe diameter:",
 		"decimalPlacesAmount": "Decimal places amount",
-		"convertUserInput": "Convert user input in section editor"
+		"convertUserInput": "Convert user input in section editor",
+		"altDiffForm": "Altitude difference:",
+		"altDiffMeasureForm": "Altitude difference:"
 	},
 	"UNITS": {
 		"celsius": "°С",
@@ -92,7 +95,8 @@
 		"ms": "mps",
 		"kmph": "kmph",
 		"mph": "mph",
-		"ftsec": "fps"
+		"ftsec": "fps",
+		"cm": "cm"
 	},
 	"BTN": {
 		"addPipeSection": "Add section",

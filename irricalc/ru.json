@@ -40,7 +40,8 @@
 		"inputFlowRate": "Введите расход жидкости:",
 		"selectPipeType": "Выберите вариант трубы:",
 		"inputPipeLength": "Введите длину трубы:",
-		"pipeFlowRate": "Расход:"
+		"pipeFlowRate": "Расход:",
+		"inputAltDiff": "Изменение высоты между началом и концом трубы:"
 	},
 	"INP": {
 		"showExplanation": "Показать подробные шаги",
@@ -63,7 +64,9 @@
 		"speedMeasureForm": "Скорость потока:",
 		"diameterMeasureForm": "Диаметр трубы:",
 		"decimalPlacesAmount": "Нулей после запятой",
-		"convertUserInput": "Конвертировать пользовательский ввод в редакторе секции"
+		"convertUserInput": "Конвертировать пользовательский ввод в редакторе секции",
+		"altDiffForm": "Разница высот:",
+		"altDiffMeasureForm": "Разница высот:"
 	},
 	"UNITS": {
 		"celsius": "°С",
@@ -91,7 +94,8 @@
 		"ms": "м/с",
 		"kmph": "км/ч",
 		"mph": "миль/ч",
-		"ftsec": "фут/с"
+		"ftsec": "фут/с",
+		"cm": "см"
 	},
 	"BTN": {
 		"addPipeSection": "Добавить секцию",

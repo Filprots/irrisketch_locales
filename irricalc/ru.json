@@ -47,7 +47,7 @@
 		"showExplanation": "Показать подробные шаги",
 		"flowRateForm": "Расход жидкости:",
 		"belowZeroError": "Введите значение больше 0",
-		"flowRateMeasureForm": "Скорость потока:",
+		"flowRateMeasureForm": "Расход жидкости:",
 		"pipeTypeForm": "Укажите вариант трубы:",
 		"waterTempForm": "Температура воды:",
 		"tempMeasureForm": "Температура воды:",

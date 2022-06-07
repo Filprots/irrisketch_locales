@@ -2230,7 +2230,19 @@
       "FLTR-PREG1MF-NPT": "Pressure-Regulating Filter 1\" (male x female) (NPT)",
       "FLTR-PREG11/4MF-NPT": "Pressure-Regulating Filter 1¼\" (male x female) (NPT)",
       "FLTR-PREG11/2MF-NPT": "Pressure-Regulating Filter 1½\" (male x female) (NPT)",
-      "FLTR-PREG2MF-NPT": "Pressure-Regulating Filter 2\" (male x female) (NPT)"
+      "FLTR-PREG2MF-NPT": "Pressure-Regulating Filter 2\" (male x female) (NPT)",
+      "PREG-1/2FM": "Inline ½\" pressure regulator (female x male)",
+      "PREG-3/4FM": "Inline ¾\" pressure regulator (female x male)",
+      "PREG-1FM": "Inline 1\" pressure regulator (female x male)",
+      "PREG-11/4FM": "Inline 1¼\" pressure regulator (female x male)",
+      "PREG-11/2FM": "Inline 1½\" pressure regulator (female x male)",
+      "PREG-2FM": "Inline 2\" pressure regulator (female x male)",
+      "PREG-1/2FM-NPT": "Inline ½\" pressure regulator (female x male) (NPT)",
+      "PREG-3/4FM-NPT": "Inline ¾\" pressure regulator (female x male) (NPT)",
+      "PREG-1FM-NPT": "Inline 1\" pressure regulator (female x male) (NPT)",
+      "PREG-11/4FM-NPT": "Inline 1¼\" pressure regulator (female x male) (NPT)",
+      "PREG-11/2FM-NPT": "Inline 1½\" pressure regulator (female x male) (NPT)",
+      "PREG-2FM-NPT": "Inline 2\" pressure regulator (female x male) (NPT)"
     },
     "_qcv_Anybrand": {
       "QCVP": "Kunststoff-Schnellkupplungsventil ",

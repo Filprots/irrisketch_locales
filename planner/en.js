@@ -522,6 +522,7 @@ this.LNG = {
         dripZoneValve: "Drip zone valve",
         rzwZoneValve: "Root watering valve",
         pressureReg: "Pressure regulator",
+        filter_pressureReg: "Filter with pressure regulator",
         controller: "Controller",
         flowMeter: "Flow meter",
         rainSensor: "Rain sensor",

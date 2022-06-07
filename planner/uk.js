@@ -522,6 +522,7 @@ this.LNG = {
         dripZoneValve: "Клапан крапельної зони",
         rzwZoneValve: "Клапан прикореневого поливу",
         pressureReg: "Регулятор тиску",
+        filter_pressureReg: "Фильтр с регулятором давления",
         controller: "Контролер",
         flowMeter: "Розходомір води",
         rainSensor: "Датчик дощу",

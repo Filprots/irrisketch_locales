@@ -522,6 +522,7 @@ this.LNG = {
         dripZoneValve: "Ventil Tropfleitung",
         rzwZoneValve: "Ventil Wurzelbewässerung",
         pressureReg: "Druckregulierungsfilter",
+        filter_pressureReg: "Filter with pressure regulator",
         controller: "Steuergerät",
         flowMeter: "Durchflussmesser",
         rainSensor: "Regensensor",

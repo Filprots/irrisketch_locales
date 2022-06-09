@@ -997,6 +997,8 @@ this.LNG = {
         crossFittingAble: "Kreuzverschraubung möglich",
         compress: "Klemmverbinder",
         wiringNode: "Verdrahtungsabschnitt",
+        exportNode: "Export options",
+        exportNumbersPrecision: "Digits after the decimal point in numbers",
         basicWiringMethod: "Art der Steuerverdrahtung",
         cableCoresArray: "Cable cores number range",
         noAutoWiring: "Verdrahtung manuell hinzufügen",

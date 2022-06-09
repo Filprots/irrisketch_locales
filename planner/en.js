@@ -997,6 +997,8 @@ this.LNG = {
         crossFittingAble: "Cross fitting able",
         compress: "Compression fittings",
         wiringNode: "Wiring section",
+        exportNode: "Export options",
+        exportNumbersPrecision: "Digits after the decimal point in numbers",
         basicWiringMethod: "Control wiring method",
         cableCoresArray: "Cable cores number range",
         noAutoWiring: "Add wiring manually",

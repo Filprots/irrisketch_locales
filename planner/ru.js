@@ -997,6 +997,8 @@ this.LNG = {
         crossFittingAble: "Возможно использование крестовины",
         compress: "Компрессионные фитинги",
         wiringNode: "Электро-проводка",
+        exportNode: "Настройки экспорта",
+        exportNumbersPrecision: "Знаков после запятой для цифровых значений",
         basicWiringMethod: "Тип управляющей проводки",
         cableCoresArray: "Ассортимент кабелей по количеству жил",
         noAutoWiring: "Без автоматического подсчёта",

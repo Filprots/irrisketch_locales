@@ -1120,5 +1120,7 @@
 	"action_setSoilTypeBulk": "Soil composition",
 	"action_setZoneSlope": "Slope",
 	"action_setZoneSlopeBulk": "Slope",
-	"Calculators": "Calculators"
+	"Calculators": "Calculators",
+	"FaqPage": "Frequently asked questions",
+	"F.A.Q.": "F.A.Q."
 }

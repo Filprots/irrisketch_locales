@@ -1,0 +1,170 @@
+<hr>
+<div class="row mb-3">
+    <div class="col-lg-12 text-center"><span class="h3">Общие вопросы</span></div>
+</div>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#questionAll1"
+            aria-expanded="false"
+            aria-controls="questionAll1">
+        Можно ли оплатить подписку на IRRISKetch для юридических лиц?
+    </button>
+</p>
+<div class="collapse" id="questionAll1">
+    <div class="card card-body">
+        <p>
+            Да, для этого нам необходимо выпустить для вас счёт-акт с внесенными в него данными вашей организации.
+        </p>
+        Напишите о том, что вы хотите оплатить подписку со счета организации в один из наших чатов в WhatsApp или
+        Telegram, после чего мы сообщим какие данные вам необходимо предоставить.
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#questionAll2"
+            aria-expanded="false"
+            aria-controls="questionAll2">
+        Приобрел подписку, но платный функционал недоступен, что делать?
+    </button>
+</p>
+<div class="collapse" id="questionAll2">
+    <div class="card card-body">
+        <p>
+            После приобретения платной подписки IRRISketch, её необходимо активировать вручную в вашем личном кабинете
+            по ссылке:
+        </p>
+        <p>
+            <a href="https://www.irrisketch.ru/account/orders">www.irrisketch.ru/account/orders</a>,
+        </p>
+        где ваша подписка будет находиться в правом столбце. После активации вы сможете свободно пользоваться всем
+        платным функционалом сервиса.
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#questionAll3"
+            aria-expanded="false"
+            aria-controls="questionAll3">
+        Оплатил подписку, но она не появилась в личном кабинете.
+    </button>
+</p>
+<div class="collapse" id="questionAll3">
+    <div class="card card-body">
+        <p>
+            В таком случае вам нужно перейти в личный кабинет по ссылке:
+        </p>
+        <p>
+            <a href="https://www.irrisketch.ru/account/orders">www.irrisketch.ru/account/orders</a>
+        </p>
+        <p>
+            Посмотрите на кнопку располагающуюся в нижней части заказа. Красная кнопка “Повторить” означает, что платёж
+            не
+            прошёл и вам стоит попробовать снова, но предварительно проверьте, не были ли списаны деньги.
+        </p>
+        <p>
+            Если уже долгое время вы видите желтую кнопку “Оплата в процессе”, есть шанс, что при транзакции не
+            произошло
+            автоматическое подтверждение. В таком случае, чтобы ее завершить, нажмите на эту кнопку, и всё должно
+            заработать.
+        </p>
+        После успешной оплаты и завершения транзакции вы увидите зелёную кнопку “Платеж подтвержден”. Нажмите её, и
+        ваша
+        подписка появится в правом столбце.
+    </div>
+</div>
+<hr>
+<div class="row mb-3">
+    <div class="col-lg-12 text-center"><span class="h3">Вопросы при работе над проектами</span></div>
+</div>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#questionProject1"
+            aria-expanded="false" aria-controls="questionProject1">
+        В проекте не сохранились изменения/хочу восстановить определенное состояние
+        проекта, что делать?
+    </button>
+</p>
+<div class="collapse" id="questionProject1">
+    <div class="card card-body">
+        <p>
+            (Данный способ сработает только в тех браузерах, где есть Инструменты Разработчика)
+        </p>
+        <p>
+            1. Откройте тот же браузер, на том же компьютере, на котором последний раз работали над проектом.
+        </p>
+        <p>
+            2. Зайдите в мастерскую IRRISketch и откройте проект, с которым связана проблема
+        </p>
+        <p>
+            3. Если при открытии проекта, появляется окно предлагающее восстановить проект – нажмите кнопку
+            “Восстановить” и
+            посмотрите на результат. Если проект не был восстановлен до необходимого состояния, то продолжайте следовать
+            инструкции.
+        </p>
+        <p>
+            4. Откройте инструменты разработчика (В большинстве браузеров – кнопка F12) и откройте вкладку Console
+            (Консоль), как на рисунке ниже:
+        </p>
+        <p>
+            5. Введите в консоль следующую команду и нажмите Enter:
+        </p>
+        <p>
+            autobackup.ASL()
+        </p>
+        <p>
+            6. Появится список автосохранений ( как правило – 12 последних ) ( Автосохранение делается каждые десять
+            минут,
+            т.е. 12 × 10 = 120 мин = 2 часа ) Выглядеть это будет примерно вот так:
+        </p>
+        <p>
+            Если появилось что-то вроде такого:
+        </p>
+        <p>
+            То нужно нажать символ треугольника ( ▶ ), чтобы раскрыть список ( ▼ )
+        </p>
+        <p>
+            7. В списке автосохранений выберите время, на момент которого, по вашим расчетам, проект находился в
+            наиболее
+            подходящем состоянии и посмотрите какое число стоит в начале этой строки.
+        </p>
+        <p>
+            8. Введите следующий текст в консоль:
+        </p>
+        <p>
+            autobackup.RAS(*Сюда вставьте число из предыдущего пункта*)
+        </p>
+        9. Удостоверьтесь,что восстановленное состояние соответствует вашим требованиям. Если нет, то вызовите
+        команду
+        из предыдущего пункта с другим числом пока не найдете нужное состояние.
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#questionProject2"
+            aria-expanded="false"
+            aria-controls="questionProject2">
+        Как отобразить сетку в чертеже проекта? Чертежная сетка не появляется при выводе в PDF/PNG.
+    </button>
+</p>
+<div class="collapse" id="questionProject2">
+    <div class="card card-body">
+        <span>
+            Чтобы вывести сетку при печати, ее необходимо поместить на чертеж в виде изображения. Можете скачать сетку,
+            например <a
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing">отсюда</a>, после чего отмасштабировать ее на чертеже под необходимый размер.
+        </span>
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#questionProject3"
+            aria-expanded="false"
+            aria-controls="questionProject3">
+        Как перенести проект с одного аккаунта на другой?
+    </button>
+</p>
+<div class="collapse" id="questionProject3">
+    <div class="card card-body">
+        Чтобы это сделать, вы можете скачать файл проекта используя соответствующую кнопку на правой верхней панели
+        После чего создать пустой проект на новом аккаунте и с помощью кнопки “Загрузить”, открыть скачанный проект.
+    </div>
+</div>
+<hr>

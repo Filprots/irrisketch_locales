@@ -1,0 +1,175 @@
+<hr>
+<div class="row mb-3">
+    <div class="col-lg-12 text-center"><span class="h3">General questions</span></div>
+</div>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#questionAll1"
+            aria-expanded="false"
+            aria-controls="questionAll1">
+        Can I pay for an IRRISKetch subscription for businesses?
+    </button>
+</p>
+<div class="collapse" id="questionAll1">
+    <div class="card card-body">
+        <p>
+            Yes, we need to issue an invoice for you with your organization's information on it.
+        </p>
+        <span>
+        Write about that you want to pay the subscription from the organization account in one of our chats on <a href="bit.ly/irrishelp">WhatsApp</a>
+        or
+        <a href="t.me/irrisketch">Telegram</a>, and then we'll let you know what information you need to provide.
+        </span>
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#questionAll2"
+            aria-expanded="false"
+            aria-controls="questionAll2">
+        Bought a subscription, but the paid functionality is not available, what to do?
+    </button>
+</p>
+<div class="collapse" id="questionAll2">
+    <div class="card card-body">
+        <p>
+            After purchasing a paid IRRISketch subscription, you need to activate it manually in your personal account
+            at the link:
+        </p>
+        <p>
+            <a href="https://www.irrisketch.com/account/orders">www.irrisketch.com/account/orders</a>,
+        </p>
+        where your subscription will be in the right column. After activation, you will be able to freely use all
+        paid functionality of the service.
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#questionAll3"
+            aria-expanded="false"
+            aria-controls="questionAll3">
+        I paid for the subscription, but it did not appear in my personal cabinet.
+    </button>
+</p>
+<div class="collapse" id="questionAll3">
+    <div class="card card-body">
+        <p>
+            In this case, you need to go to your personal account by following this link:
+        </p>
+        <p>
+            <a href="https://www.irrisketch.com/account/orders">www.irrisketch.com/account/orders</a>
+        </p>
+        <p>
+            Look at the button at the bottom of the order. The red "Repeat" button means that the payment
+            failed
+            and you should try again, but first check to see if the money has been charged.
+        </p>
+        <p>
+            If you have been seeing the yellow "Payment in progress" button for a long time, chances are that the
+            transaction has not
+            happened
+            automatic confirmation. If this is the case, click this button to complete it and everything should
+            work.
+        </p>
+        After the successful payment and completion of the transaction you will see a green "Payment Verified" button.
+        Click it and your subscription will appear in the right column.
+    </div>
+</div>
+<hr>
+<div class="row mb-3">
+    <div class="col-lg-12 text-center"><span class="h3">Questions about projects</span></div>
+</div>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#questionProject1"
+            aria-expanded="false" aria-controls="questionProject1">
+        Changes in the project have not been saved/I want to restore a certain state of
+        project, what should I do?
+    </button>
+</p>
+<div class="collapse" id="questionProject1">
+    <div class="card card-body">
+        <p>
+            (This method will only work in browsers that have Developer Tools)
+        </p>
+        <p>
+            1. Open the same browser, on the same computer where you last worked on the project
+        </p>
+        <p>
+            2. Go to the IRRISketch workshop and open the project with the problem
+        </p>
+        <p>
+            3. If a window prompting to restore the project appears when you open the project, click the
+            "Restore" button and
+            see the result. If the project has not been restored to the required state, continue following the
+            instructions
+        </p>
+        <p>
+            4. Open the developer tools (In most browsers - the F12 button) and open the Console tab
+            as shown in the image below:
+        </p>
+        <p>
+            5. Enter the following command into the console and press Enter:
+        </p>
+        <p>
+            autobackup.ASL()
+        </p>
+        <p>
+            6. A list of autosaves will appear (usually the last 12) ( Autosave is done every ten
+            minutes,
+            So 12 × 10 = 120 min = 2 hours) It will look something like this:
+        </p>
+        <p>
+            If something like this came up:
+        </p>
+        <p>
+            Then press the triangle symbol ( ▶ ) to expand the list ( ▼ )
+        </p>
+        <p>
+            7. In the list of autosaves, select the time at which, according to your calculations, the project was in the
+            most
+            and see what number is at the beginning of that line.
+        </p>
+        <p>
+            8. Type the following text into the console:
+        </p>
+        <p>
+            autobackup.RAS(*Paste the number from the previous paragraph here*)
+        </p>
+        9. Make sure that the restored condition meets your requirements. If not, call the
+        command
+        from the previous point with a different number until you find the desired state.
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#questionProject2"
+            aria-expanded="false"
+            aria-controls="questionProject2">
+        How do I display the grid in a project drawing? The drawing grid does not appear when outputting to PDF/PNG.
+    </button>
+</p>
+<div class="collapse" id="questionProject2">
+    <div class="card card-body">
+        <span>
+            To display the grid when printing, it must be placed on the drawing as an image. You can download the grid,
+            for example <a
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing">from here</a>, and then scale it on the drawing to the desired size.
+        </span>
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#questionProject3"
+            aria-expanded="false"
+            aria-controls="questionProject3">
+        How do I transfer a project from one account to another?
+    </button>
+</p>
+<div class="collapse" id="questionProject3">
+    <div class="card card-body">
+        To do this, you can download the project file using the appropriate button on the top right panel
+        After that, create an empty project on a new account and using the "Download" button, open the downloaded project.
+        <br>
+        <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button" width="30%" height="30%">
+    </div>
+</div>
+<hr>

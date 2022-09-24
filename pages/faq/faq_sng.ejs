@@ -1,1 +1,7 @@
-<%- partial('./ru/ru.ejs') %>
+<% if (locale === 'be') { %>
+    <%- partial('./be/be.ejs') %>
+<% }  else  if (locale === 'uk') { %>
+    <%- partial('./uk/uk.ejs') %>
+<% } else { %>
+    <%- partial('./ru/ru.ejs') %>
+<% } %>

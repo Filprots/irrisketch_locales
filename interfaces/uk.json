@@ -111,6 +111,7 @@
 	"tt_Print": "Друк",
 	"tt_SaveImage": "Зберегти як зображення",
 	"tt_SavePdf": "Зберегти як PDF (Many)",
+	"tt_SavePdfAll": "Сохранить листы как PDF",
 	"tt_ClearAll": "Очистити поле",
 	"tt_Ruler": "Рулетка",
 	"tt_SnapTo": "Прив'язка",
@@ -1146,5 +1147,12 @@
 	"Lesson_7_TipsTricks_Title": "Сборные позиции в прайсах",
 	"Lesson_7_TipsTricks": "Советы и приёмы",
 	"FaqPage": "Часто задаваемые вопросы",
-	"F.A.Q.": "F.A.Q."
+	"F.A.Q.": "F.A.Q.",
+	"PromocodesEntry": "Секретный код",
+	"HELP_PROMOCODE": "'Scientia est potentia'",
+	"ENTER_PROMO_BTN": "Применить",
+	"PROMOCODE_PLCH": "Введите чит код сюда))",
+	"GoBackToAccount": "Вернуться обратно",
+	"WrongPromoInputErrorText": "Недействительный секретный код",
+	"WrongPromo_info": "Проверьте правильность ввода и попробуйте ещё раз"
 }

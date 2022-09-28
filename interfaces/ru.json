@@ -1154,5 +1154,6 @@
 	"PROMOCODE_PLCH": "Введите чит код сюда))",
 	"GoBackToAccount": "Вернуться обратно",
 	"WrongPromoInputErrorText": "Недействительный секретный код",
-	"WrongPromo_info": "Проверьте правильность ввода и попробуйте ещё раз"
+	"WrongPromo_info": "Проверьте правильность ввода и попробуйте ещё раз",
+	"ProjectHydrawiseSwitch": "Hydrawise™"
 }

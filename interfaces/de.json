@@ -1154,5 +1154,6 @@
 	"PROMOCODE_PLCH": "Please enter secret code here",
 	"GoBackToAccount": "Go back",
 	"WrongPromoInputErrorText": "Invalid secret code",
-	"WrongPromo_info": "Please check your secret code and try again"
+	"WrongPromo_info": "Please check your secret code and try again",
+	"ProjectHydrawiseSwitch": "Hydrawise™"
 }

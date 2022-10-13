@@ -655,7 +655,7 @@
 	"SubscrPage_COMM_proPlan_options_3": "Холст <b>5000</b> м.",
 	"SubscrPage_COMM_proPlan_options_4": "Оборудование класса Commercial",
 	"SubscrPage_COMM_proPlan_options_5": "Экспорт в <b>Картинку</b>, <b>.PDF</b> и <b>.DXF</b>",
-	"SubscrPage_COMM_PROPlan_order": "Ведется разработка",
+	"SubscrPage_COMM_PROPlan_order": "Не ведётся разработка((",
 	"SubscrPage_Purchase": "Оплатить",
 	"SubscrPage_Amounts": "Эта подписка обойдется Вам",
 	"SubscrPage_RES_unlimPlan_options_1": "<i class='far fa-infinity'></i> <b>Абсолютный</b> безлимит",

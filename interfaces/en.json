@@ -1155,5 +1155,8 @@
   "GoBackToAccount": "Go back",
   "WrongPromoInputErrorText": "Invalid secret code",
   "WrongPromo_info": "Please check your secret code and try again",
-  "ProjectHydrawiseSwitch": "Hydrawise™"
+  "ProjectHydrawiseSwitch": "Hydrawise™",
+  "Ads_FAQ_Header": "Frequently Asked Questions",
+  "Ads_FAQ_Row1": "Here you can find the most frequently asked questions. Maybe you can find solution here...",
+  "SupportPageRequest": "Support request"
 }

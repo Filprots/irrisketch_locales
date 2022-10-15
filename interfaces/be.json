@@ -1155,5 +1155,8 @@
 	"GoBackToAccount": "Вернуться обратно",
 	"WrongPromoInputErrorText": "Недействительный секретный код",
 	"WrongPromo_info": "Проверьте правильность ввода и попробуйте ещё раз",
-	"ProjectHydrawiseSwitch": "Hydrawise™"
+	"ProjectHydrawiseSwitch": "Hydrawise™",
+	"Ads_FAQ_Header": "Часто задаваемые вопросы",
+	"Ads_FAQ_Row1": "Здесь вы найдете ответы на часто задаваемые вопросы. Возможно тут будет решение вашей проблемы...",
+	"SupportPageRequest": "Обращение в техподдержку"
 }

@@ -2,6 +2,11 @@
     if (location.hash !== null && location.hash !== "") {
         $(location.hash + ".collapse").collapse();
     }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
 </script>
 
 <div class="container" id="faq">

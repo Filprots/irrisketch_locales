@@ -2,19 +2,26 @@
     if (location.hash !== null && location.hash !== "") {
         $(location.hash + ".collapse").collapse();
     }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
 </script>
+
+<div class="container" id="faq">
 <hr>
 <div class="row mb-3">
     <div class="col-lg-12 text-center"><span class="h3">Общие вопросы</span></div>
 </div>
 <p>
-    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#questionAll1"
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
             aria-expanded="false"
-            aria-controls="questionAll1">
+            aria-controls="qA1">
         Можно ли оплатить подписку на IRRISKetch для юридических лиц?
     </button>
 </p>
-<div class="collapse" id="questionAll1">
+<div class="collapse" id="qA1" data-parent="#faq">
     <div class="card card-body">
         <p>
             Да, для этого нам необходимо выпустить для вас счёт-акт с внесенными в него данными вашей организации.
@@ -27,13 +34,13 @@
 </div>
 <hr>
 <p>
-    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#questionAll2"
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
             aria-expanded="false"
-            aria-controls="questionAll2">
+            aria-controls="qA2">
         Приобрел подписку, но платный функционал недоступен, что делать?
     </button>
 </p>
-<div class="collapse" id="questionAll2">
+<div class="collapse" id="qA2" data-parent="#faq">
     <div class="card card-body">
         <p>
             После приобретения платной подписки IRRISketch, её необходимо активировать вручную в вашем личном кабинете
@@ -48,13 +55,13 @@
 </div>
 <hr>
 <p>
-    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#questionAll3"
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA3"
             aria-expanded="false"
-            aria-controls="questionAll3">
+            aria-controls="qA3">
         Оплатил подписку, но она не появилась в личном кабинете.
     </button>
 </p>
-<div class="collapse" id="questionAll3">
+<div class="collapse" id="qA3" data-parent="#faq">
     <div class="card card-body">
         <p>
             В таком случае вам нужно перейти в личный кабинет по ссылке:
@@ -83,13 +90,13 @@
     <div class="col-lg-12 text-center"><span class="h3">Вопросы при работе над проектами</span></div>
 </div>
 <p>
-    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#questionProject1"
-            aria-expanded="false" aria-controls="questionProject1">
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+            aria-expanded="false" aria-controls="qP1">
         В проекте не сохранились изменения/хочу восстановить определенное состояние
         проекта, что делать?
     </button>
 </p>
-<div class="collapse" id="questionProject1">
+<div class="collapse" id="qP1" data-parent="#faq">
     <div class="card card-body">
         <p>
             (Данный способ сработает только в тех браузерах, где есть Инструменты Разработчика)
@@ -145,13 +152,13 @@
 </div>
 <hr>
 <p>
-    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#questionProject2"
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
             aria-expanded="false"
-            aria-controls="questionProject2">
+            aria-controls="qP2">
         Как отобразить сетку в чертеже проекта? Чертежная сетка не появляется при выводе в PDF/PNG.
     </button>
 </p>
-<div class="collapse" id="questionProject2">
+<div class="collapse" id="qP2" data-parent="#faq">
     <div class="card card-body">
         <span>
             Чтобы вывести сетку при печати, ее необходимо поместить на чертеж в виде изображения. Можете скачать сетку,
@@ -162,13 +169,13 @@
 </div>
 <hr>
 <p>
-    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#questionProject3"
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
             aria-expanded="false"
-            aria-controls="questionProject3">
+            aria-controls="qP3">
         Как перенести проект с одного аккаунта на другой?
     </button>
 </p>
-<div class="collapse" id="questionProject3">
+<div class="collapse" id="qP3" data-parent="#faq">
     <div class="card card-body">
         Чтобы это сделать, вы можете скачать файл проекта используя соответствующую кнопку на правой верхней панели
         После чего создать пустой проект на новом аккаунте и с помощью кнопки “Загрузить”, открыть скачанный проект.
@@ -176,3 +183,4 @@
     </div>
 </div>
 <hr>
+</div>

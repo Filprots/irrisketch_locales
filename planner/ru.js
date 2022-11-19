@@ -260,6 +260,7 @@ this.LNG = {
         Controller: "Контроллер",
         Sensor: "Датчик",
         Wiring: "Проводка",
+        IrrigateMarks: "Зоны",
         Surface: "Поверхность",
         Lawn: "Газон",
         Bed: "Клумба",

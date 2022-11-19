@@ -322,6 +322,8 @@
             hw: "Hydrawise",
             lo: "Layout",
             loPM: "Precipitation",
+            doIrrigate: "Irrigated zone",
+            doNotIrrigate: "NON-Irrigated zone",
             stdSurf: "Standard",
             fineCut: "Fine cut lawn",
             raw: "Raw concrete",

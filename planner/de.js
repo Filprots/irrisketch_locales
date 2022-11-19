@@ -260,6 +260,7 @@ this.LNG = {
         Controller: "Steuergerät",
         Sensor: "Sensor",
         Wiring: "Verdrahtung",
+        IrrigateMarks: "Zones",
         Surface: "Oberfläche",
         Lawn: "Rasen",
         Bed: "Beet",

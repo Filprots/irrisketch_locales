@@ -926,6 +926,38 @@ this.LNG = {
             "Sorry we cannot find some of underlay images on server",
             "This image was not found:"
         ],
+        cannotSaveBecauseOffline: [
+            "Failed to send request to server",
+            "No connection to the server",
+            "Check if you have an internet connection",
+            "In order not to lose data, do not close this window and try to save the data again later, when the connection to the server is established",
+            "",
+        ],
+        cannotSaveBecauseTooManyFails: [
+            "Failed to save request",
+            "Too many invalid code attempts",
+            "Check if you entered email address correctly and try again after 30 seconds.",
+            "",
+            "",
+        ],
+        cannotSaveBecauseNoMailProvided: [
+            "Failed to save request",
+            "Email address entered incorrectly",
+            "Check if you entered email address correctly and try again",
+            "",
+            "",
+        ],
+        designRequestCompleted: [
+            "Your request was successfully created/updated",
+            "Edit link", "copy me",
+            "Link to view", "copy me",
+        ],
+        approveActionByCode: [
+            "Confirm action",
+            "An email with a confirmation code was sent to the email address you provided.",
+            "Please enter this code in the field below",
+            "You entered an invalid number, try again"
+        ],
         filterSelection_exclude: "Exclude from selection",
         filterSelection_include: "Include into selection",
         filterSelectionNames: {

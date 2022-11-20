@@ -441,6 +441,7 @@
             rainSensor: "Датчик дощу",
             soilSensor: "Датчик вологості грунту",
             freezeSensor: "Датчик заморозків",
+            wrFreezeSensor: "Беспроводной датчик Дождя/Заморозков",
             windSensor: "Датчик вітру",
             solarSensor: "Датчик активності сонця",
             flowSensor: "Датчик протоку",

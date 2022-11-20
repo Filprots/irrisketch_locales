@@ -534,6 +534,7 @@ this.LNG = {
         rainSensor: "Чуйнік дажджу",
         soilSensor: "Чуйнік вільготнасці",
         freezeSensor: "Чуйнік замаразкаў",
+        wrFreezeSensor: "Беспроводной датчик Дождя/Заморозков",
         windSensor: "Чуйнік ветру",
         solarSensor: "Чуйнік сонечнай актыўнасці",
         flowSensor: "Чуйнік струменя",

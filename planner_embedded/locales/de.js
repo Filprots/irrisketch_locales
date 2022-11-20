@@ -441,6 +441,7 @@
             rainSensor: "Rain sensor",
             soilSensor: "Soil sensor",
             freezeSensor: "Freeze sensor",
+            wrFreezeSensor: "Wireless Rain/Freeze sensor",
             windSensor: "Wind sensor",
             solarSensor: "Solar sensor",
             flowSensor: "Flow sensor",

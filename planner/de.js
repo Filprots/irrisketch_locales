@@ -534,6 +534,7 @@ this.LNG = {
         rainSensor: "Regensensor",
         soilSensor: "Bodenfeuchtesensor",
         freezeSensor: "Frostsensor",
+        wrFreezeSensor: "Wireless Rain/Freeze sensor",
         windSensor: "Windsensor",
         solarSensor: "Solarsensor",
         flowSensor: "Durchflusssensor",

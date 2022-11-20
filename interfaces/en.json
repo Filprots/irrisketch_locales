@@ -979,6 +979,7 @@
   "labours_item_SENSOR_RAIN": "Rain sensors",
   "labours_item_SENSOR_SOIL": "Soil sensors",
   "labours_item_SENSOR_FREEZE": "Freeze sensors",
+  "labours_item_SENSOR_WR_FREEZE": "Wireless Freeze/Rain sensors",
   "labours_item_SENSOR_WIND": "Wind sensors",
   "labours_item_SENSOR_SOLAR": "Solar sensors",
   "labours_item_SENSOR_FLOW": "Flow sensors",

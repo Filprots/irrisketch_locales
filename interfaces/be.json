@@ -979,6 +979,7 @@
 	"labours_item_SENSOR_RAIN": "Датчики дождя",
 	"labours_item_SENSOR_SOIL": "Датчики почвы",
 	"labours_item_SENSOR_FREEZE": "Датчики заморозков",
+	"labours_item_SENSOR_WR_FREEZE": "Б/П Датчики дождя/заморозков",
 	"labours_item_SENSOR_WIND": "Датчики ветра",
 	"labours_item_SENSOR_SOLAR": "Датчики солнечной активности",
 	"labours_item_SENSOR_FLOW": "Датчики потока",

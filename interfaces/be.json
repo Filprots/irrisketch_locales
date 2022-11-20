@@ -1264,5 +1264,6 @@
 	"BlackList_Help": "Режим исключения, останется всё оборудование кроме указанного",
 	"WhiteList_Help": "Режим выбора, останется только указанное оборудование.",
 	"BlackListSwitchLabel": "Режим исключения",
-	"BlackOrWhiteList_Equip": "Список оборудования"
+	"BlackOrWhiteList_Equip": "Список оборудования",
+	"DSLinkButtonGoToProjects": "К проектам"
 }

@@ -1264,5 +1264,6 @@
 	"BlackList_Help": "Exclusion mode, all equipment will remain except the specified",
 	"WhiteList_Help": "Selection mode, only the specified equipment will remain",
 	"BlackListSwitchLabel": "Exclusion mode",
-	"BlackOrWhiteList_Equip": "List of equipment"
+	"BlackOrWhiteList_Equip": "List of equipment",
+	"DSLinkButtonGoToProjects": "Go to projects"
 }

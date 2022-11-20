@@ -4482,7 +4482,10 @@
       "TBOSADAPP": "Rain Bird TBOSADAPP, Адаптер для латунных кранов не от Rain Bird",
       "TBOSADAPB": "Rain Bird TBOSADAPB, Адаптер для латунных кранов не от Rain Bird",
       "TBOSPSOL": "Rain Bird TBOSPSOL, Соленоид постоянного тока",
-      "MJ100B": "Rain Bird MJ100B латунный расходометр 1“ резьба NPT"
+      "MJ100B": "Rain Bird MJ100B латунный расходометр 1“ резьба NPT",
+      "RC2-230V": "Контроллер Rain Bird RC2, 8 зон, наружный монтаж 230В",
+      "RC2-AUS": "Контроллер Rain Bird RC2, 8 зон, наружный монтаж 230В (Для Австралии)",
+      "RC2-120V": "Контроллер Rain Bird RC2, 8 зон, наружный монтаж 120В"
     },
     "_valves_RainBird": {
       "LFV-075": "Електромагнітний клапан Rain Bird LFV-075 ¾“ внутрішня різьба BSP",

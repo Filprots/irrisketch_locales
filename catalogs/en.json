@@ -4482,7 +4482,10 @@
       "TBOSADAPP": "Rain Bird TBOSADAPP, Adapter for Non-Rain Bird brass valves",
       "TBOSADAPB": "Rain Bird TBOSADAPB, Adapter for Non-Rain Bird brass valves",
       "TBOSPSOL": "Rain Bird TBOSPSOL, TBOS Potted Latching Solenoid  ",
-      "MJ100B": "Rain Bird MJ100B Brass flow meter with 1“ NPT thread"
+      "MJ100B": "Rain Bird MJ100B Brass flow meter with 1“ NPT thread",
+      "RC2-230V": "Rain Bird RC2, 8-Station outdoor 230V AC controller",
+      "RC2-AUS": "Rain Bird RC2, 8-Station outdoor 230V AC (Australia) controller",
+      "RC2-120V": "Rain Bird RC2, 8-Station outdoor 120V AC controller"
     },
     "_valves_RainBird": {
       "LFV-075": "Rain Bird LFV-075 ¾“ valve, female BSP thread",

@@ -1011,6 +1011,7 @@
 	"preset_favorites_layouting": "Обрані інструменти (Креслення)",
 	"preset_configs_drawing": "Конфігурація проєкту",
 	"preset_configs_outlayer": "Конфігурація листа обладнання",
+	"preset_settings_outer": "Настройки проекта (внешние)",
 	"MigratedAwayPage": "Ваш обліковий запис переміщено в інший домен",
 	"MigratedAway_Title": "Будь ласка, не хвилюйтеся! ",
 	"MigratedAway_Body": "Оскільки ми дбаємо про досвід користування та стабільність обслуговування, нам довелося розділити сервери IRRISketch для різних географічних регіонів.  Усі ваші дані користувача безпечно зберігаються на захищених серверах. Тепер вам просто потрібно перейти в іншу доменну зону, натиснувши кнопку нижче.<br>Вибачте за незручності! <br><br>P.S. якщо ви вважаєте, що сталася помилка, і ваш обліковий запис не слід було переміщувати, повідомте нас про це електронною поштою  <a href='mailto:mail@irrisketch.com?subject=Account&nbsp;migration&nbsp;mistake'>mail@irrisketch.com</a>",
@@ -1265,5 +1266,15 @@
 	"WhiteList_Help": "Режим выбора, останется только указанное оборудование.",
 	"BlackListSwitchLabel": "Режим исключения",
 	"BlackOrWhiteList_Equip": "Список оборудования",
-	"DSLinkButtonGoToProjects": "К проектам"
+	"DSLinkButtonGoToProjects": "К проектам",
+	"Presets": "Предустановки",
+	"Settings_Outer_Presets_list": "Список",
+	"Presets_SetDefaults": "По умолчанию",
+	"Presets_Create": "Создать",
+	"Presets_PresetName": "Название",
+	"Presets_PlcEnterPresetName": "Введите название",
+	"Presets_PresetDescr": "Описание",
+	"Presets_Apply": "Применить",
+	"Presets_Update": "Обновить",
+	"Presets_Remove": "Удалить"
 }

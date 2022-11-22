@@ -1011,6 +1011,7 @@
 	"preset_favorites_layouting": "Favorite Tools (Layouts)",
 	"preset_configs_drawing": "Project Configuration",
 	"preset_configs_outlayer": "Specification Sheet Configuration",
+	"preset_settings_outer": "Project Settings (outer)",
 	"MigratedAwayPage": "Your account was moved to another domain",
 	"MigratedAway_Title": "Please, don't worry!",
 	"MigratedAway_Body": "As we care about user experience and service sustainability, we had to partition IRRISketch servers for different geographics. All your user data is stored safely on protected servers. Now you just have to switch to another domain zone, by clicking the button below.<br>Sorry for inconvenience!<br><br>P.S. if you think there is a mistake, and your account shouldn't have been moved, please inform us about it via email <a href='mailto:mail@irrisketch.com?subject=Account&nbsp;migration&nbsp;mistake'>mail@irrisketch.com</a>",
@@ -1265,5 +1266,15 @@
 	"WhiteList_Help": "Selection mode, only the specified equipment will remain",
 	"BlackListSwitchLabel": "Exclusion mode",
 	"BlackOrWhiteList_Equip": "List of equipment",
-	"DSLinkButtonGoToProjects": "Go to projects"
+	"DSLinkButtonGoToProjects": "Go to projects",
+	"Presets": "Presets",
+	"Settings_Outer_Presets_list": "List",
+	"Presets_SetDefaults": "Set Default",
+	"Presets_Create": "Create",
+	"Presets_PresetName": "Title",
+	"Presets_PlcEnterPresetName": "Enter Title for preset",
+	"Presets_PresetDescr": "Description",
+	"Presets_Apply": "Apply",
+	"Presets_Update": "Update",
+	"Presets_Remove": "Remove"
 }

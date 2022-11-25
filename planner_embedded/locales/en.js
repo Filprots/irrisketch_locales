@@ -448,6 +448,7 @@
             weatherStation: "Weather station",
             controlWire: "Control wire",
             sensorWire: "Sensor wire",
+            wirelessWire: "Wireless connection",
             dS16: "Drip start 16mm",
             dS17: "Drip start 17mm",
             qcPlastic: "Plastic Quick-Coupling Valve",

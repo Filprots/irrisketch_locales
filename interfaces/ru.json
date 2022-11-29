@@ -394,6 +394,7 @@
 	"Events": "События",
 	"adminAccount": "Админ",
 	"designerAccount": "Дизайнер",
+	"distributorAccount": "Дистрибьютор",
 	"AboutCurrentRegistration": "Вы можете получить пригласительный код у одного из уже зарегистрировавшихся пользователей или на нашей <a href='https://www.instagram.com/irrisketch.ru/' target='_blank'>Instagram странице</a>",
 	"InvitationCode": "Пригласительный код",
 	"invitationCodeFail": "Недействительный код приглашения",

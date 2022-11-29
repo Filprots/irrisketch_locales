@@ -394,6 +394,7 @@
 	"Events": "Events",
 	"adminAccount": "Admin",
 	"designerAccount": "Designer",
+	"distributorAccount": "Distributor",
 	"AboutCurrentRegistration": "Sie können den Einladungscode verwenden, der von einem anderen IRRISketch-Benutzer oder auf unserer <a href='https://www.instagram.com/irrisketch.de/' target='_blank'>Instagram-Seite</a> gegeben wurde.",
 	"InvitationCode": "Einladungs-Code",
 	"invitationCodeFail": "Ungültiger/Inaktiver Einladungscode",

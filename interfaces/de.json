@@ -581,6 +581,7 @@
 	"OrdersList": "Bestellungen",
 	"SubscriptionsList": "Abonnements",
 	"OrderNum": "Bestellung #",
+	"irrisketch_residential_DONATED": "IRRISketch Residential PRO",
 	"irrisketch_residential_LIFETIME_RUB": "IRRISketch Residential PRO - Lifetime",
 	"irrisketch_residential_LIFETIME_DISCOUNT_RUB": "IRRISketch Residential PRO - Lifetime (discount)",
 	"irrisketch_residential_year_RUB": "IRRISketch Residential PRO - 1 Jahr",
@@ -589,6 +590,10 @@
 	"irrisketch_residential_year_EUR": "IRRISketch Residential PRO - 1 Jahr",
 	"irrisketch_residential_month_EUR": "IRRISketch Residential PRO - 1 Monat",
 	"irrisketch_residential_six-month_EUR": "IRRISketch Residential PRO - 1/2 Jahr",
+	"irrisketch_design_studio_DONATED": "IRRISketch Design Studio",
+	"irrisketch_design_studio_year_EUR": "IRRISketch Design Studio - 1 Jahr",
+	"irrisketch_design_studio_month_RUB": "IRRISketch Design Studio - 1 Monat",
+	"irrisketch_design_studio_six-month_EUR": "IRRISketch Design Studio - 1/2 Jahr",
 	"subscription_order": "Abonnement",
 	"OrderType": "Typ",
 	"OrderObjects": "Details",
@@ -685,7 +690,6 @@
 	"CookieModalAccept": "ICH STIMME ZU",
 	"CookieModalLearnMore": "ERFAHRE MEHR",
 	"CookiePolicyText": "Mit dem Besuch der Website https://irrisketch.com/ erklären Sie sich mit der Verarbeitung von Daten über Ihren Besuch auf der Website (Cookies, Web Beacons und andere Benutzerdaten) einverstanden, deren Verarbeitung durch Protsenko P.I. (OGRIP 312231115700151, TIN 236502017780) gemäß der <a target='_blank' href='/privacy'> Datenschutz- und Datenverarbeitungspolitik </a> erfolgt, um anonymisierte Daten über die Nutzung der Website zu analysieren",
-	"irrisketch_residential_DONATED": "IRRISketch Residential PRO",
 	"CookieModalDecline": "SCHLIEßEN",
 	"CookieModalHeader": "Cookie-Richtlinie",
 	"email_subject_user_event": "BENUTZERVERANSTALTUNG",
@@ -1277,5 +1281,7 @@
 	"Presets_PresetDescr": "Description",
 	"Presets_Apply": "Apply",
 	"Presets_Update": "Update",
-	"Presets_Remove": "Remove"
+	"Presets_Remove": "Remove",
+	"SubscriptionsConflict": "Unable to activate subscription (Please wait until previous finishes)",
+	"GoBackToOrders": "Back to Orders"
 }

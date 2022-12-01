@@ -581,6 +581,7 @@
 	"OrdersList": "Заказы",
 	"SubscriptionsList": "Падпіскі",
 	"OrderNum": "Заказ №",
+	"irrisketch_residential_DONATED": "Падпіска на IRRISketch Residential PRO",
 	"irrisketch_residential_LIFETIME_RUB": "Пожизненная подписка на IRRISketch Residential PRO",
 	"irrisketch_residential_LIFETIME_DISCOUNT_RUB": "Пожизненная подписка на IRRISketch Residential PRO (Скидка)",
 	"irrisketch_residential_year_RUB": "Гадавая падпіска на IRRISketch Residential PRO",
@@ -589,6 +590,10 @@
 	"irrisketch_residential_year_EUR": "Гадавая падпіска на IRRISketch Residential PRO",
 	"irrisketch_residential_month_EUR": "30-ці дзённая падпіска на IRRISketch Residential PRO",
 	"irrisketch_residential_six-month_EUR": "Паўгадавая падпіска на IRRISketch Residential PRO",
+	"irrisketch_design_studio_DONATED": "Подписка на IRRISketch Design Studio",
+	"irrisketch_design_studio_year_EUR": "Годовая подписка на IRRISketch Design Studio",
+	"irrisketch_design_studio_month_RUB": "30-ти дневная подписка на IRRISketch Design Studio",
+	"irrisketch_design_studio_six-month_EUR": "Полугодовая подписка на IRRISketch Design Studio",
 	"subscription_order": "Падпіска",
 	"OrderType": "Тып",
 	"OrderObjects": "Дэталі заказу",
@@ -685,7 +690,6 @@
 	"CookieModalAccept": "ЗГОДЗЕН",
 	"CookieModalLearnMore": "ДЭТАЛЁВЕЙ",
 	"CookiePolicyText": "Наведваючы ўэб-сайт https://irrisketch.ru, Вы падаяце згоду на апрацоўку дадзеных пра наведанне Вамі сайта (дадзеныя cookies, ўэб-маякоў і іншыя карыстацкія дадзеныя), апрацоўка якіх ужыццяўляецца ІП Працэнкі Ф.І. (ОГРНИП 312231115700151, ІН 236502017780) у адпаведнасці з <a target='_blank' href='/privacy'>Палітыкай прыватнасці і апрацоўкі персанальных дадзеных</a> дзеля аналізу знеасобленых дадзеных пра выкарыстанне ўэб-сайта",
-	"irrisketch_residential_DONATED": "Падпіска на IRRISketch Residential PRO",
 	"CookieModalDecline": "ЗАЧЫНІЦЬ",
 	"CookieModalHeader": "Палітыка Cookie",
 	"email_subject_user_event": "USER EVENT",
@@ -1277,5 +1281,7 @@
 	"Presets_PresetDescr": "Описание",
 	"Presets_Apply": "Применить",
 	"Presets_Update": "Обновить",
-	"Presets_Remove": "Удалить"
+	"Presets_Remove": "Удалить",
+	"SubscriptionsConflict": "Невозможно активировать подписку (Дождитесь окончания предыдущей)",
+	"GoBackToOrders": "Назад к заказам"
 }

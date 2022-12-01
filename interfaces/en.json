@@ -581,6 +581,7 @@
   "OrdersList": "Orders",
   "SubscriptionsList": "Subscriptions",
   "OrderNum": "Order #",
+  "irrisketch_residential_DONATED": "IRRISketch Residential PRO",
   "irrisketch_residential_LIFETIME_RUB": "IRRISketch Residential PRO - Lifetime",
   "irrisketch_residential_LIFETIME_DISCOUNT_RUB": "IRRISketch Residential PRO - Lifetime (discount)",
   "irrisketch_residential_year_RUB": "IRRISketch Residential PRO - 1 year",
@@ -589,6 +590,10 @@
   "irrisketch_residential_year_EUR": "IRRISketch Residential PRO - 1 year",
   "irrisketch_residential_month_EUR": "IRRISketch Residential PRO - 1 month",
   "irrisketch_residential_six-month_EUR": "IRRISketch Residential PRO - 6 months",
+  "irrisketch_design_studio_DONATED": "IRRISketch Design Studio",
+  "irrisketch_design_studio_year_EUR": "IRRISketch Design Studio - 1 year",
+  "irrisketch_design_studio_month_RUB": "IRRISketch Design Studio - 1 month",
+  "irrisketch_design_studio_six-month_EUR": "IRRISketch Design Studio - 6 months",
   "subscription_order": "Subscription",
   "OrderType": "Type",
   "OrderObjects": "Details",
@@ -685,7 +690,6 @@
   "CookieModalAccept": "I AGREE",
   "CookieModalLearnMore": "LEARN MORE",
   "CookiePolicyText": "By visiting the website https://irrisketch.com/, you consent to the processing of data about your visit to the site (cookies, web beacons and other user data), the processing of which is carried out by Protsenko P.I. (OGRIP 312231115700151, TIN 236502017780) in accordance with the <a target='_blank' href='/privacy'> Privacy and Personal Data Processing Policy </a> in order to analyze anonymized data on the use of the website",
-  "irrisketch_residential_DONATED": "IRRISketch Residential PRO",
   "CookieModalDecline": "CLOSE",
   "CookieModalHeader": "Cookie Policy",
   "email_subject_user_event": "USER EVENT",
@@ -1277,5 +1281,7 @@
   "Presets_PresetDescr": "Description",
   "Presets_Apply": "Apply",
   "Presets_Update": "Update",
-  "Presets_Remove": "Remove"
+  "Presets_Remove": "Remove",
+  "SubscriptionsConflict": "Unable to activate subscription (Please wait until previous finishes)",
+  "GoBackToOrders": "Back to Orders"
 }

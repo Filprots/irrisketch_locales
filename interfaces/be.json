@@ -1287,5 +1287,14 @@
 	"Presets_Update": "Обновить",
 	"Presets_Remove": "Удалить",
 	"SubscriptionsConflict": "Невозможно активировать подписку (Дождитесь окончания предыдущей)",
-	"GoBackToOrders": "Назад к заказам"
+	"GoBackToOrders": "Назад к заказам",
+	"SubscrPage_DesignStudioSubscriptionPageTitle": "Подписка",
+	"SubscrDSPage_Plan": "Проектное Бюро",
+	"SubscrDSPage_options_1": "Возможность создавать ссылки для заявок",
+	"SubscrDSPage_options_2": "Конфигурация доступного ассортимента оборудования",
+	"SubscrDSPage_options_3": "Легкий и простой планировщик для клиента",
+	"SubscrDSPage_options_4": "Дальнейшее взаимодействие в проекте по ссылке",
+	"SubscrDSPage_options_5": "Ограничение редактируемости проекта",
+	"SubscrDSPage_options_6": "Неограниченное количество ссылок",
+	"SubscrDS_IncludedInPro": "Внимание! Подписка на Проектное Бюро включена в Пописку PRO"
 }

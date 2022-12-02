@@ -1288,14 +1288,13 @@
 	"Presets_Remove": "Remove",
 	"SubscriptionsConflict": "Unable to activate subscription (Please wait until previous finishes)",
 	"GoBackToOrders": "Back to Orders",
-	"SubscrPage_DesignStudioSubscriptionPageTitle": "SubscrPage_DesignStudioSubscriptionPageTitle",
-	"SubscrDSPage_Plan": "SubscrDSPage_Plan",
-	"SubscrDSPage_options_1": "SubscrDSPage_options_1",
-	"SubscrDSPage_options_2": "SubscrDSPage_options_2",
-	"SubscrDSPage_options_3": "SubscrDSPage_options_3",
-	"SubscrDSPage_options_4": "SubscrDSPage_options_4",
-	"SubscrDSPage_options_5": "SubscrDSPage_options_5",
-	"SubscrDSPage_options_6": "SubscrDSPage_options_6",
-	"irrisketch_design_studio_month_EUR": "irrisketch_design_studio_month_EUR",
-	"SubscrDS_IncludedInPro": "SubscrDS_IncludedInPro"
+	"SubscrPage_DesignStudioSubscriptionPageTitle": "Subscription",
+	"SubscrDSPage_Plan": "Design Studio",
+	"SubscrDSPage_options_1": "Creation of design-request links",
+	"SubscrDSPage_options_2": "Configure available equipment per link",
+	"SubscrDSPage_options_3": "Easy and light planner for customers",
+	"SubscrDSPage_options_4": "Further interaction with client through planner",
+	"SubscrDSPage_options_5": "Restriction of viewing/editing",
+	"SubscrDSPage_options_6": "Unlimited amount of links",
+	"SubscrDS_IncludedInPro": "Attention! Subscription for Design Studio is included in PRO-subscription"
 }

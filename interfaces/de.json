@@ -651,6 +651,7 @@
 	"SubscrPage_RES_proPlan_options_4": "Residential-Grade Werkzeuge",
 	"SubscrPage_RES_proPlan_options_5": "Exportieren nach <b>Image</b> and <b>.PDF</b>",
 	"SubscrPage_RES_proPlan_options_6": "<b>IRRISeller</b> included",
+	"SubscrPage_RES_proPlan_options_DSS": "<b>Design Studio</b> included",
 	"SubscrPage_RES_PROPlan_order_LFT": "Purchase for lifetime <i class='far fa-infinity'></i>",
 	"SubscrPage_RES_PROPlan_order": "Kauf für 1 Jahr*",
 	"SubscrPage_RES_PROPlan_order_MONTH": "Kauf für 1 Monat*",

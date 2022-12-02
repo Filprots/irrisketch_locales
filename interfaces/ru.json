@@ -591,8 +591,11 @@
 	"irrisketch_residential_month_EUR": "30-ти дневная подписка на IRRISketch Residential PRO",
 	"irrisketch_residential_six-month_EUR": "Полугодовая подписка на IRRISketch Residential PRO",
 	"irrisketch_design_studio_DONATED": "Подписка на IRRISketch Design Studio",
-	"irrisketch_design_studio_year_EUR": "Годовая подписка на IRRISketch Design Studio",
+	"irrisketch_design_studio_year_RUB": "Годовая подписка на IRRISketch Design Studio",
 	"irrisketch_design_studio_month_RUB": "30-ти дневная подписка на IRRISketch Design Studio",
+	"irrisketch_design_studio_six-month_RUB": "Полугодовая подписка на IRRISketch Design Studio",
+	"irrisketch_design_studio_year_EUR": "Годовая подписка на IRRISketch Design Studio",
+	"irrisketch_design_studio_month_EUR": "30-ти дневная подписка на IRRISketch Design Studio",
 	"irrisketch_design_studio_six-month_EUR": "Полугодовая подписка на IRRISketch Design Studio",
 	"subscription_order": "Подписка",
 	"OrderType": "Тип",
@@ -1292,5 +1295,5 @@
 	"SubscrDSPage_options_3": "Легкий и простой планировщик для клиента",
 	"SubscrDSPage_options_4": "Дальнейшее взаимодействие в проекте по ссылке",
 	"SubscrDSPage_options_5": "Ограничение редактируемости проекта",
-	"SubscrDSPage_options_6": "Неограниченное количество ссылок"
+	"SubscrDSPage_options_6": "Неограниченное количество ссылок",
 }

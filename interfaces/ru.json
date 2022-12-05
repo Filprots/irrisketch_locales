@@ -1296,5 +1296,17 @@
 	"SubscrDSPage_options_4": "Дальнейшее взаимодействие в проекте по ссылке",
 	"SubscrDSPage_options_5": "Ограничение редактируемости проекта",
 	"SubscrDSPage_options_6": "Неограниченное количество ссылок",
-	"SubscrDS_IncludedInPro": "Внимание! Подписка на Проектное Бюро включена в Пописку PRO"
+	"SubscrDS_IncludedInPro": "Внимание! Подписка на Проектное Бюро включена в Пописку PRO",
+	"hdpeSDR9": "ПНД SDR 9",
+	"hdpeSDR11": "ПНД SDR 11",
+	"hdpeSDR136": "ПНД SDR 13.6",
+	"hdpeSDR17": "ПНД SDR 17",
+	"hdpeSDR176": "ПНД SDR 17.6",
+	"pvcSCH40": "ПВХ SCH 40",
+	"pvcSCH80": "ПВХ SCH 80",
+	"hdpe": "ПНД",
+	"pvc": "ПВХ",
+	"pipesSwitchesControlLabel": "Доступные типы труб",
+	"pipesSubSwitchesControlLabel": "Доступные варианты",
+	"pipesSubDiamsSwitchesControlLabel": "Доступные диаметры"
 }

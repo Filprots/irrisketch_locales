@@ -1296,5 +1296,17 @@
 	"SubscrDSPage_options_4": "Further interaction with client through planner",
 	"SubscrDSPage_options_5": "Restriction of viewing/editing",
 	"SubscrDSPage_options_6": "Unlimited amount of links",
-	"SubscrDS_IncludedInPro": "Attention! Subscription for Design Studio is included in PRO-subscription"
+	"SubscrDS_IncludedInPro": "Attention! Subscription for Design Studio is included in PRO-subscription",
+	"hdpeSDR9": "HDPE SDR 9",
+	"hdpeSDR11": "HDPE SDR 11",
+	"hdpeSDR136": "HDPE SDR 13.6",
+	"hdpeSDR17": "HDPE SDR 17",
+	"hdpeSDR176": "HDPE SDR 17.6",
+	"pvcSCH40": "PVC SCH 40",
+	"pvcSCH80": "PVC SCH 80",
+	"hdpe": "HDPE",
+	"pvc": "PVC",
+	"pipesSwitchesControlLabel": "Available pipes",
+	"pipesSubSwitchesControlLabel": "Available variants",
+	"pipesSubDiamsSwitchesControlLabel": "Available diameters"
 }

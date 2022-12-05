@@ -1308,5 +1308,6 @@
 	"pvc": "PVC",
 	"pipesSwitchesControlLabel": "Available pipes",
 	"pipesSubSwitchesControlLabel": "Available variants",
-	"pipesSubDiamsSwitchesControlLabel": "Available diameters"
+	"pipesSubDiamsSwitchesControlLabel": "Available diameters",
+	"PipesSettingsListRestrictions": "If nothing selected, all variants of pipes on this level will be available"
 }

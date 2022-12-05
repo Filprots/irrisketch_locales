@@ -1308,5 +1308,6 @@
 	"pvc": "ПВХ",
 	"pipesSwitchesControlLabel": "Доступные типы труб",
 	"pipesSubSwitchesControlLabel": "Доступные варианты",
-	"pipesSubDiamsSwitchesControlLabel": "Доступные диаметры"
+	"pipesSubDiamsSwitchesControlLabel": "Доступные диаметры",
+	"PipesSettingsListRestrictions": "Если не выбрано ничего, то на одном уровне вложенности все варианты будут доступны"
 }

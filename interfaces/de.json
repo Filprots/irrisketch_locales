@@ -1309,5 +1309,7 @@
 	"pipesSwitchesControlLabel": "Available pipes",
 	"pipesSubSwitchesControlLabel": "Available variants",
 	"pipesSubDiamsSwitchesControlLabel": "Available diameters",
-	"PipesSettingsListRestrictions": "If nothing selected, all variants of pipes on this level will be available"
+	"PipesSettingsListRestrictions": "If nothing selected, all variants of pipes on this level will be available",
+	"disable_pipesSwitch": "Disable pipes",
+	"disable_pipesInfo": "If you activate this option, you will not be able to install new pipes in the project, but any pipes already installed will remain."
 }

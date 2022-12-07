@@ -1306,8 +1306,10 @@
 	"pvcSCH80": "ПВХ SCH 80",
 	"hdpe": "ПНД",
 	"pvc": "ПВХ",
-	"pipesSwitchesControlLabel": "Доступные типы труб",
+	"pipesSwitchesControlLabel": "Ассортимент труб",
 	"pipesSubSwitchesControlLabel": "Доступные варианты",
 	"pipesSubDiamsSwitchesControlLabel": "Доступные диаметры",
-	"PipesSettingsListRestrictions": "Если не выбрано ничего, то на одном уровне вложенности все варианты будут доступны"
+	"PipesSettingsListRestrictions": "Если не выбрано ничего, то на одном уровне вложенности все варианты будут доступны",
+	"disable_pipesSwitch": "Исключить трубопровод",
+	"disable_pipesInfo": "Если активировать этот пункт - вы не сможете устанавливать новые трубопроводы в проекте, но все уже установленные останутся."
 }

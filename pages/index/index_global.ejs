@@ -22,16 +22,19 @@
     </div>
 </div>
 
+<% if (locale === 'de') { %>
+    <%- partial('../partials/global/theo') %>
+<% } else { %>
+    <%- partial('../partials/global/theo_global') %>
+<% } %>
 <%- partial('../partials/global/moasure') %>
 <%- partial('../partials/global/hydrawise') %>
 <% if (locale === 'de') { %>
-    <%- partial('../partials/global/theo') %>
     <%- partial('../partials/global/adVideo1DE') %>
 <% } else { %>
     <%- partial('../partials/global/adVideo1') %>
     <%- partial('../partials/global/helpingMessengers') %>
 <% } %>
-
 
 <div class="row mb-3">
     <div class="col-lg-12">

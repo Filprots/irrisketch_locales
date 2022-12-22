@@ -1332,5 +1332,9 @@
 	"pipesSubDiamsSwitchesControlLabel": "Available diameters",
 	"PipesSettingsListRestrictions": "If nothing selected, all variants of pipes on this level will be available",
 	"disable_pipesSwitch": "Disable pipes",
-	"disable_pipesInfo": "If you activate this option, you will not be able to install new pipes in the project, but any pipes already installed will remain."
+	"disable_pipesInfo": "If you activate this option, you will not be able to install new pipes in the project, but any pipes already installed will remain.",
+	"tool_doIrrigate": "Irrigate",
+	"tool_doNotIrrigate": "Do not irrigate",
+	"tool_Lawn": "Lawn",
+	"toolText": "Text"
 }

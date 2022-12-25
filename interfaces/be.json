@@ -1337,10 +1337,12 @@
 	"PipesSettingsListRestrictions": "Если не выбрано ничего, то на одном уровне вложенности все варианты будут доступны",
 	"disable_pipesSwitch": "Исключить трубопровод",
 	"disable_pipesInfo": "Если активировать этот пункт - вы не сможете устанавливать новые трубопроводы в проекте, но все уже установленные останутся.",
-	"tool_doIrrigate": "Поливать",
-	"tool_doNotIrrigate": "Не поливать",
+	"tool_doIrrigate": "Поливаемый участок",
+	"tool_doNotIrrigate": "НЕ Поливаемый участок",
 	"tool_Lawn": "Газон",
 	"toolText": "Текст",
-	"tool_CntrPlace": "Контроллер",
-	"tool_WSPlace": "Источник воды"
+	"tool_CntrPlace": "Место для контроллера",
+	"tool_SnsrPlace": "Место для датчика",
+	"tool_WSPlace": "Источник воды",
+	"toolSurfaces": "Поверхности"
 }

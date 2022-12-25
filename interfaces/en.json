@@ -1340,5 +1340,7 @@
 	"tool_doIrrigate": "Irrigate",
 	"tool_doNotIrrigate": "Do not irrigate",
 	"tool_Lawn": "Lawn",
-	"toolText": "Text"
+	"toolText": "Text",
+	"tool_CntrPlace": "Controller",
+	"tool_WSPlace": "Water source"
 }

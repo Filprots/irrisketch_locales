@@ -1340,5 +1340,7 @@
 	"tool_doIrrigate": "Поливать",
 	"tool_doNotIrrigate": "Не поливать",
 	"tool_Lawn": "Газон",
-	"toolText": "Текст"
+	"toolText": "Текст",
+	"tool_CntrPlace": "Контроллер",
+	"tool_WSPlace": "Источник воды"
 }

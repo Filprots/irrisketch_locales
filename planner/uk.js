@@ -81,7 +81,7 @@ this.LNG = {
         action_intoBrush: "Перетворити на пензель",
         action_activateRotation: "Обертати",
         action_deactivateRotation: "Не обертати",
-        action_markZones: "Кольорове маркування зон",
+        action_markZones: "Управление отображением зон",
         action_unmarkZones: "Відключити маркування",
         action_sprNames: "Позначити зрошувачі",
         action_noSprNames: "Прибрати позначення",
@@ -754,7 +754,7 @@ this.LNG = {
         //misc
         zoneNum: "Зона №",
         valveNum: "Бокс #",
-        zonesColoring: "Кольорове маркування зон",
+        zonesColoring: "Управление отображением зон",
         coversColoured: "Розмітити покриття зрошувачів",
         dripsColoring: "Кольорове маркування крапельних ліній",
         //saveOflline

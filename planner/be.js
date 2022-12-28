@@ -81,7 +81,7 @@ this.LNG = {
         action_intoBrush: "Ператварыць у пэндзаль",
         action_activateRotation: "Круціць",
         action_deactivateRotation: "Не круціць",
-        action_markZones: "Колера-маркаванне зон",
+        action_markZones: "Управление отображением зон",
         action_unmarkZones: "Адключыць маркаванне",
         action_sprNames: "Пазначыць дажджавацелi",
         action_noSprNames: "Прыбраць пазначэнні",
@@ -754,7 +754,7 @@ this.LNG = {
         //misc
         zoneNum: "Зона №",
         valveNum: "Бокс #",
-        zonesColoring: "Колера-маркаванне зон",
+        zonesColoring: "Управление отображением зон",
         coversColoured: "Афарбаваць пакрыцці дажджавацеляу",
         dripsColoring: "Колера-маркаванне кропельных ліній",
         //saveOflline

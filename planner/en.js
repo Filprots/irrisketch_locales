@@ -81,7 +81,7 @@ this.LNG = {
         action_intoBrush: "Turn into brush",
         action_activateRotation: "Rotate",
         action_deactivateRotation: "Still",
-        action_markZones: "Zones marking",
+        action_markZones: "Zones representation",
         action_unmarkZones: "Remove marking",
         action_sprNames: "Sprinklers names",
         action_noSprNames: "Remove names",
@@ -754,7 +754,7 @@ this.LNG = {
         //misc
         zoneNum: "Zone #",
         valveNum: "Valve Box #",
-        zonesColoring: "Zones coloring",
+        zonesColoring: "Zones representation",
         coversColoured: "Paint sprinklers covers",
         dripsColoring: "Drip lines coloring",
         //saveOflline

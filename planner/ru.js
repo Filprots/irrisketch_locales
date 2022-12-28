@@ -81,7 +81,7 @@ this.LNG = {
         action_intoBrush: "Преобразовать в кисть",
         action_activateRotation: "Вращать",
         action_deactivateRotation: "Не вращать",
-        action_markZones: "Цвето-маркировка зон",
+        action_markZones: "Управление отображением зон",
         action_unmarkZones: "Отключить маркировку",
         action_sprNames: "Обозначить дождеватели",
         action_noSprNames: "Убрать обозначения",
@@ -754,7 +754,7 @@ this.LNG = {
         //misc
         zoneNum: "Зона №",
         valveNum: "Бокс #",
-        zonesColoring: "Цвето-маркировка зон",
+        zonesColoring: "Управление отображением зон",
         coversColoured: "Окрасить покрытия дождевателей",
         dripsColoring: "Цвето-маркировка капельных линий",
         //saveOflline

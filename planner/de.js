@@ -81,7 +81,7 @@ this.LNG = {
         action_intoBrush: "In Pinsel umwandeln",
         action_activateRotation: "drehen",
         action_deactivateRotation: "drehen deavitvieren",
-        action_markZones: "Kennzeichnung der Zonen",
+        action_markZones: "Darstellung der Zonen",
         action_unmarkZones: "Markierung entfernen",
         action_sprNames: "Sprinklern Namen",
         action_noSprNames: "Namen entfernen",
@@ -754,7 +754,7 @@ this.LNG = {
         //misc
         zoneNum: "Zone #",
         valveNum: "Valve Box #", // TODO:translate
-        zonesColoring: "Färbung der Zonen",
+        zonesColoring: "Darstellung der Zonen",
         coversColoured: "Färbung der Regnerabdeckung",
         dripsColoring: "Färbung der Tropfleitungen",
         //saveOflline

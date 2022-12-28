@@ -757,6 +757,7 @@ this.LNG = {
         zonesColoring: "Управление отображением зон",
         coversColoured: "Окрасить покрытия дождевателей",
         dripsColoring: "Цвето-маркировка капельных линий",
+        dripsSameAsZonesColored: "Окрасить капельные линии в цвет зон",
         //saveOflline
         saveOffline: [
             "Соединение с сервером потеряно",

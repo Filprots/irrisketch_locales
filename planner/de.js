@@ -757,6 +757,7 @@ this.LNG = {
         zonesColoring: "Darstellung der Zonen",
         coversColoured: "Färbung der Regnerabdeckung",
         dripsColoring: "Färbung der Tropfleitungen",
+        dripsSameAsZonesColored: "Tropflinie in ihrer Zonenfarbe gefärbt",
         //saveOflline
         saveOffline: [
             "Entschuldigung... die Verbindung ist unterbrochen.",

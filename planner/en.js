@@ -757,6 +757,7 @@ this.LNG = {
         zonesColoring: "Zones representation",
         coversColoured: "Paint sprinklers covers",
         dripsColoring: "Drip lines coloring",
+        dripsSameAsZonesColored: "Drip line colored in its zone color",
         //saveOflline
         saveOffline: [
             "Sorry... connection is lost",

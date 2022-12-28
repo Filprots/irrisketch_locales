@@ -63,7 +63,7 @@
 	"action_pickColor": "Цвет",
 	"action_mirror": "Отразить",
 	"action_exportAsImg": "Экспорт картинки",
-	"action_setZonesColors": "Цвето-маркировка зон",
+	"action_setZonesColors": "Управление отображением зон",
 	"action_attachToLine": "Подключить",
 	"action_resetCols": "Сброс столбцов",
 	"action_pipeInfo": "Информация о трубах",

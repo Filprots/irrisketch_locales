@@ -63,7 +63,7 @@
 	"action_pickColor": "Pick color",
 	"action_mirror": "Mirror",
 	"action_exportAsImg": "Export (IMG)",
-	"action_setZonesColors": "Zones coloring",
+	"action_setZonesColors": "Zones representation",
 	"action_attachToLine": "Attach to pipe",
 	"action_resetCols": "Reset coloumns",
 	"action_pipeInfo": "Pipes info",

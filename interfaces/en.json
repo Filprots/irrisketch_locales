@@ -133,7 +133,7 @@
 	"numSign": "#",
 	"Type": "Type",
 	"Brand": "Brand",
-	"Cat.ID": "Cat.ID",
+	"Cat.ID": "PN",
 	"Equipment": "Equipment",
 	"Units": "Units",
 	"Amount": "Amount",

@@ -1344,5 +1344,7 @@
 	"tool_CntrPlace": "Место для контроллера",
 	"tool_SnsrPlace": "Место для датчика",
 	"tool_WSPlace": "Источник воды",
-	"toolSurfaces": "Поверхности"
+	"toolSurfaces": "Поверхности",
+	"EditInfoNameplatesOnLayout": "Редактировать расположение",
+	"ResetInfoNameplatesOnLayout": "Сбросить изменения"
 }

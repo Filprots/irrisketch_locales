@@ -1344,5 +1344,7 @@
 	"tool_CntrPlace": "Controller location",
 	"tool_SnsrPlace": "Sensor location",
 	"tool_WSPlace": "Water source",
-	"toolSurfaces": "Surfaces"
+	"toolSurfaces": "Surfaces",
+	"EditInfoNameplatesOnLayout": "Edit displacement",
+	"ResetInfoNameplatesOnLayout": "Reset"
 }

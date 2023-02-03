@@ -1,0 +1,150 @@
+<script type="module">
+    if (location.hash !== null && location.hash !== "") {
+        $(location.hash + ".collapse").collapse();
+    }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
+</script>
+
+<div class="container" id="faq">
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3"> Opća pitanja</span></div>
+    </div>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+                aria-expanded="false"
+                aria-controls="qA1">
+            Kupili ste pretplatu, ali plaćena funkcionalnost nije dostupna, što učiniti?
+        </button>
+    </p>
+    <div class="collapse" id="qA1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                Nakon kupnje plaćene IRRISketch pretplate, morate je ručno aktivirati na svom osobnom računu
+                na poveznici:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>,
+            </p>
+            gdje će vaša pretplata biti u desnoj koloni. Nakon aktivacije moće ćete slobodno koristit sve plaćene funkcionalnosti usluge.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+                aria-expanded="false"
+                aria-controls="qA2">
+            Platio sam pretplatu, ali nije se pojavila u mom osobnom kabinetu.
+        </button>
+    </p>
+    <div class="collapse" id="qA2" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                U ovom slučaju morate ići na svoj osobni račun slijedeći ovu poveznicu:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>
+            </p>
+            <p>
+                Pogledajte gumb na dnu narudžbe. Crveni gumb "Ponovi" znači da plaćanje nije uspjelo i trebali biste pokušati ponovo, ali prvo provjerite je li novac naplaćen.
+            </p>
+            <p>
+                Ako već duže vrijeme vidite žuti gumb "Plaćanje u tijeku", velike su šanse da se transakcija nije dogodila automatskom potvrdom. Ako je to slučaj, kliknite ovaj gumb kako biste je dovršili i sve bi trebalo raditi.
+            </p>
+            Nakon uspješnog plaćanja i završetka transakcije vidjet ćete zeleni gumb "Plaćanje verificirano".
+            Kliknite ga i pretplata će se pojaviti u desnom stupcu.
+        </div>
+    </div>
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Pitanja o projektima </span></div>
+    </div>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+                aria-expanded="false" aria-controls="qP1">
+            Promjene u projektu nisu spremljene / želim obnoviti određeno stanje projekta, što da radim?
+        </button>
+    </p>
+    <div class="collapse" id="qP1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                (Ova metoda će raditi samo u preglednicima koji imaju alate za razvoj)
+            </p>
+            <p>
+                1. Otvorite isti preglednik, na istom računalu na kojem ste posljednji put radili na projektu
+            </p>
+            <p>
+                2. Idite u IRRISketch radionicu i otvorite projekt s problemom.
+            </p>
+            <p>
+                3. Ako se tijekom otvaranja projekta pojavi prozor koji potiče na obnovu projekta, kliknite gumb "Obnovi" i pogledajte rezultat. Ako projekt nije vraćen u traženo stanje, nastavite slijediti upute
+            </p>
+            <p>
+                4. Otvorite alate za razvojne programere (U većini preglednika - gumb F12) i otvorite karticu konzole kao što je prikazano na donjoj slici:
+            </p>
+            <p>
+                5. U konzolu unesite sljedeću naredbu i pritisnite Enter:
+            </p>
+            <p>
+                autobackup.ASL()
+            </p>
+            <p>
+                6. Pojavit će se popis automatskih snimaka (obično posljednjih 12) (Automatsko snimanje se vrši svakih deset minuta, 12 × 10 = 120 min = 2 sata ) Izgledat će otprilike ovako:
+            </p>
+            <p>
+                Ako se ovako nešto pojavilo:
+            </p>
+            <p>
+                Pritisnite simbol trokuta ( ▶ ) da biste proširili popis ( ▼ )
+            </p>
+            <p>
+                7. Na popisu automatskih snimaka odaberite vrijeme u kojem je, prema vašim proračunima, projekt bio najviše odrađen i pogledajte koji je broj na početku te linije.
+            </p>
+            <p>
+                8. Utipkajte sljedeći tekst u konzolu:
+            </p>
+            <p>
+                autobackup.RAS(*Ovdje zalijepite broj iz prethodnog stavka*)
+            </p>
+            9. Provjerite ispunjava li obnovljeno stanje vaše zahtjeve. Ako ne, ponovite naredbu iz prethodne točke s drugim brojem dok ne pronađete željeno stanje.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+                aria-expanded="false"
+                aria-controls="qP2">
+            Kako mogu prikazati mrežu u crtežu projekta? Mreža za crtanje ne pojavljuje se prilikom izvoza u PDF / PNG.
+        </button>
+    </p>
+    <div class="collapse" id="qP2" data-parent="#faq">
+        <div class="card card-body">
+        <span>
+            Da biste prikazali mrežu prilikom ispisa, mora se na crtež postaviti kao slika. Na primjer, možete preuzeti mrežu
+        <a
+                href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing" target="_blank">ovdje</a>, I zatim je povećati na crtežu do željene veličine.
+        </span>
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+                aria-expanded="false"
+                aria-controls="qP3">
+            Kako prenijeti projekt s jednog računa na drugi?
+        </button>
+    </p>
+    <div class="collapse" id="qP3" data-parent="#faq">
+        <div class="card card-body">
+            Da biste to učinili, možete preuzeti projektnu datoteku pomoću odgovarajućeg gumba na gornjoj desnoj ploči.
+            Nakon toga stvorite prazan projekt na novom računu i pomoću gumba "Preuzmi" otvorite preuzeti projekt.
+            <br>
+            <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button" width="30%" height="30%">
+        </div>
+    </div>
+    <hr>
+</div>

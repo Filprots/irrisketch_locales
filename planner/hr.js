@@ -89,7 +89,7 @@ this.LNG = {
         action_unlockItem: "Otključaj",
         Circle: "Krug",
         Triangle: "Trokut",
-        BushForm: "Grm",
+        BushForm: "Grmlje",
         BushForm1: "Grm 1",
         BushForm2: "Grm 2",
         BushForm3: "Grm 3",

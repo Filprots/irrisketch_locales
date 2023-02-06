@@ -469,7 +469,7 @@
             stdTrench: "Standard (40cm) (naslijeđeno)",
             normalTrench: "Normalni (Š:10cm D:50cm)",
             narrowTrench: "Uski (Š:5cm D:30cm) (Ručna freza)",
-            wideTrench: "Wide (W:30cm D:60cm) (Mini-Bager)",
+            wideTrench: "Široki (Š:30cm D:60cm) (Mini-Bager)",
             multi: "Ventilska kutija",
             source: "Izvor vode",
             empty: "Prazno",

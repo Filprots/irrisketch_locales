@@ -266,7 +266,7 @@ this.LNG = {
         Bed: "Gredica",
         Shrubs: "Grmlje",
         Path: "Staza",
-        Concrete: "Betonski",
+        Concrete: "Beton",
         Sand: "Pijesak",
         Water: "Voda",
         Bedding: "Pokrov",
@@ -414,7 +414,7 @@ this.LNG = {
         nodesGrp: "Elementi sustava",
         wiresGrp: "Ožičenje",
         pipesGrp: "Cijevi",
-        landscapeGrp: "Landscape",
+        landscapeGrp: "Krajobraz",
         allTogether: "Sve"
     },
     //--------------------------------------------------------------------------
@@ -757,7 +757,7 @@ this.LNG = {
         zonesColoring: "Bojanje Zona",
         coversColoured: "Bojaj markice rasprskivača",
         dripsColoring: "Boje cijevi kap po kap",
-        dripsSameAsZonesColored: "Drip line colored in its zone color",
+        dripsSameAsZonesColored: "Kap po kap cijevi obojane bojom zone",
         //saveOflline
         saveOffline: [
             "Žao nam je... veza je izgubljena",

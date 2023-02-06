@@ -355,12 +355,12 @@
             pavement02_B: "Дыяганаль 2",
             pavement03_A: "Дзікі камень 1",
             pavement03_B: "Дзікі камень 2",
-            pavement04_Red_L:"Соты Чырвоныя Светлыя",
-            pavement04_Red_D:"Соты Чырвоныя Цёмныя",
-            pavement04_Green_L:"Соты Зялёныя Светлыя",
-            pavement04_Green_D:"Соты Зялёныя Цёмныя",
-            pavement04_Blue_L:"Соты Сінія Светлыя",
-            pavement04_Blue_D:"Соты Сінія Цёмныя",
+            pavement04_Red_L: "Соты Чырвоныя Светлыя",
+            pavement04_Red_D: "Соты Чырвоныя Цёмныя",
+            pavement04_Green_L: "Соты Зялёныя Светлыя",
+            pavement04_Green_D: "Соты Зялёныя Цёмныя",
+            pavement04_Blue_L: "Соты Сінія Светлыя",
+            pavement04_Blue_D: "Соты Сінія Цёмныя",
             pool: "Басейн",
             lo_stdDynCurve: "Динамическая",
             lo_stdCurve: "Стандартная",
@@ -521,6 +521,11 @@
             lightIncline: "5-8% (3-5°)",
             mediumIncline: "8-12% (5-7°)",
             hugeIncline: "12%+ (7°+)"
+        },
+        misc: {
+            fixedCntrSubText: "FIXED",
+            standAloneCntrSubText: "SA",
+            modularCntrSubText: "MOD."
         }
     };
 })(this);

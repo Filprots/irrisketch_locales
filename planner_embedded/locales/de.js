@@ -521,6 +521,11 @@
             lightIncline: "5-8% (3-5°)",
             mediumIncline: "8-12% (5-7°)",
             hugeIncline: "12%+ (7°+)",
+        },
+        misc: {
+            fixedCntrSubText: "FIXED",
+            standAloneCntrSubText: "SA",
+            modularCntrSubText: "MOD."
         }
     };
 })(this);

@@ -196,7 +196,7 @@ this.LNG = {
         insetDepth: "Tiefe",
         zoneName: "Zonen Name",
         valveName: "Valve Box", // TODO:translate
-        itemAlias: "Alias",
+        itemAlias: "Naziv",
         //MULTISELECTOR
         itemsSelected: "Ausgewählt",
         totalArea: "Gesamtabdeckung ",

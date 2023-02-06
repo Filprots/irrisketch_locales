@@ -56,7 +56,7 @@ this.LNG = {
         setLineLength: "Podesi veličinu linije (mm):",
         setPressure: "Podesite očekivani dinamički tlak na diznama (bar):",
         setMaxFlow: "Odredite maksimalni protok vode (l/min):",
-        controllerShort: "C",
+        controllerShort: "A",
         sensorShort: "S",
         action_activateEraser: "Aktiviraj gumicu",
         action_deactivateEraser: "Deaktiviraj gumicu",
@@ -240,9 +240,9 @@ this.LNG = {
         "Stream Nozzles": "Stream Nozzles",
         "Short Radius Nozzles": "Dizne kratkog dometa",
         "Pressure compensating": "S kompenzacijom tlaka",
-        "Adjustable flood": "Podesiva poplava",
-        Adjustable: "Podesivo",
-        Fixed: "Fiksno",
+        "Adjustable flood": "Podesiv poplavni",
+        Adjustable: "Podesive",
+        Fixed: "Fiksne",
         "Fixed Arc": "Fiksni kut",
         "Strip Pattern": "Trakasti uzorak",
         "Drip line": "Kap po kap linijski",
@@ -280,7 +280,7 @@ this.LNG = {
         staticText: "Statični tekst",
         dynamicText: "Dinamički tekst",
         stampText: "Tekst sastavnice",
-        stampTextDefault: "Text",
+        stampTextDefault: "Tekst",
         stampTextgr1: "Definicija dokumenta",
         stampTextgr2: "Adresa",
         stampTextgr3: "Naziv objekta",
@@ -310,7 +310,7 @@ this.LNG = {
         //------------------------------------------------------------
         //-------------------SOME OTHER DETAILS-----------------------
         //------------------------------------------------------------
-        noName: "Unnamed",
+        noName: "Neimenovano",
         //------------------------------------------------------------
         //-------------------AJAX LOADING STATUSES--------------------
         //------------------------------------------------------------
@@ -532,7 +532,7 @@ this.LNG = {
         controller: "Programator",
         flowMeter: "Mjerač protoka",
         rainSensor: "Kišni senzor",
-        soilSensor: "Soil sensor",
+        soilSensor: "Senzor tla",
         freezeSensor: "Senzor mraza",
         wrFreezeSensor: "Wireless Rain/Freeze sensor",
         windSensor: "Senzor vjetra",
@@ -572,7 +572,7 @@ this.LNG = {
         sprExt: "Produžetak za rasprskivač",
         popUpToThread: "Adapter za rasprskivač",
         valveBox: "Ventilska kutija",
-        valveBoxExt: "Valve box extension",
+        valveBoxExt: "Ekstenzija ventilske kutije",
         qcPlasticKey: "Plastični Ključ za Q/C ventil",
         qcPlasticElbFit: "Plastično okretno koljeno",
         qcMetalKey: "Metalni Ključ za Q/C ventil",

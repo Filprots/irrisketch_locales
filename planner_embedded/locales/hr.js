@@ -523,9 +523,9 @@
             hugeIncline: "12%+ (7°+)"
         },
         misc: {
-            fixedCntrSubText: "ФИКСИК",
-            standAloneCntrSubText: "SASHA",
-            modularCntrSubText: "БРО."
+            fixedCntrSubText: "24V",
+            standAloneCntrSubText: "BAT",
+            modularCntrSubText: "MOD."
         }
     };
 })(this);

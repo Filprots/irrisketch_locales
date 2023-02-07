@@ -506,7 +506,7 @@
             sbExtMetric: "Prošireno (Metričko)",
             sbStdImperial: "Srednje mjerilo (Imperijalno)",
             sbMinImperial: "Mini (Imperijalno)",
-            sbExtImperial: "Extended (Imperijalno)",
+            sbExtImperial: "Prošireno (Imperijalno)",
             gentleMicroClimate: "Blaga",
             normalMicroClimate: "Normalna",
             toughMicroClimate: "Teška",

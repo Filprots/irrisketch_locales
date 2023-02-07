@@ -253,7 +253,7 @@ this.LNG = {
         "noemitter": "Bez kapaljki",
         "Root zone watering": "Navodnjavanje zone korijena",
         Lateral: "Lateralna",
-        Main: "Glavna",
+        Main: "Opskrbna",
         Trench: "Rov",
         hdpe: "HDPE",
         pvc: "PVC",

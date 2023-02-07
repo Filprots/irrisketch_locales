@@ -441,7 +441,7 @@
             rainSensor: "Senzor kiše",
             soilSensor: "Senzor vlažnosti",
             freezeSensor: "Senzor mraza",
-            wrFreezeSensor: "Wireless Rain/Freeze sensor",
+            wrFreezeSensor: "Bežični senzor za Kišu/Mraz",
             windSensor: "Senzor vjetra",
             solarSensor: "Senzor solarni",
             flowSensor: "Senzor protoka",

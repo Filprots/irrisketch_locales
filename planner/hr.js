@@ -621,7 +621,7 @@ this.LNG = {
         hdpeSDR11: "Cijev HDPE SDR 11",
         hdpeSDR136: "Cijev HDPE SDR 13.6",
         hdpeSDR17: "Cijev HDPE SDR 17",
-        hdpeSDR176: "PiCijevpe HDPE SDR 17.6",
+        hdpeSDR176: "Cijev HDPE SDR 17.6",
         ldpeSDR9: "Cijev LDPE SDR 9",
         ldpeSDR11: "Cijev LDPE SDR 11",
         ldpeSDR136: "Cijev LDPE SDR 13.6",

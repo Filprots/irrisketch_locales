@@ -196,7 +196,7 @@ this.LNG = {
         insetDepth: "Dubina",
         zoneName: "Naziv zone",
         valveName: "Ventilska kutija",
-        itemAlias: "Nadimak",
+        itemAlias: "Naziv",
         //MULTISELECTOR
         itemsSelected: "Odabrano",
         totalArea: "Ukupna površina",
@@ -507,10 +507,10 @@ this.LNG = {
         bubblerNozzle: "Bubbler-dizna",
         rzw: "Sustav navodnjavanja korijena",
         sprayBody: "Tijelo rasprskivača",
-        outBarb: "Ubodni-na-diznu",
+        outBarb: "Ubodna spojnica prema rasprskivaču",
         flexPipe: "Fleksibilna cijev",
         sj: "Zglobni priključak",
-        inBarb: "Ubodni-na-cijev",
+        inBarb: "Ubodna spojnica prema cijevi",
         midSprinkPipeFitting: "Priključak rasprskivača na cijev",
         endSprinkPipeFitting: "Priključak rasprskivača na kraj cijevi",
         midRZWPipeFitting: "Priključak RWS-a na cijev",
@@ -891,7 +891,7 @@ this.LNG = {
             configs_drawing: "Konfiguracija Projekta",
             configs_outlayer: "Konfiguracija Specifikacija",
         },
-        newPresetItem: "New Preset",
+        newPresetItem: "Novi predložak",
         cL_alreadyConnected: [
             "Neuspjelo spajanje linija",
             "Te su linije već spojene na"

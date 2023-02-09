@@ -3727,7 +3727,7 @@
       "miniPro": "K-Rain MiniPro 130{{RR}} Rotor i #{{nozzle}} crvena dizna{{options.en}}",
       "miniPro_body": "K-Rain MiniPro 130{{RR}} Rotor{{options.en}}",
       "miniPro_noz": "K-Rain MiniPro Serija #{{nozzle}} dizna (crvena)",
-      "rps50": "K-Rain RPS{{RR}} Rotor with #{{nozzle}} red nozzle{{options.en}}",
+      "rps50": "K-Rain RPS{{RR}} Rotor with #{{nozzle}} crvena dizna{{options.en}}",
       "rps50_body": "K-Rain RPS{{RR}} Rotor{{options.en}}",
       "rps50_noz": "K-Rain RPS50 Serija #{{nozzle}} dizna (crvena)",
       "common_lang": "K-Rain {{model}} {{series}} Rotor i #{{nozzle}} {{nozzleColor.en}} dizna{{options.en}}",

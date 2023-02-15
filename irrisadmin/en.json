@@ -52,6 +52,7 @@
 		"usages": "Activations",
 		"referals": "Registrations",
 		"max_refs": "Max. usages",
+		"max_usages": "Max. usages",
 		"valid_until": "Valid until",
 		"triggers": "Triggers",
 		"issued": "Issued",

@@ -44,7 +44,19 @@
 		"order": "Order",
 		"items": "Items",
 		"amounts": "Amnts.",
-		"duration": "Duration"
+		"duration": "Duration",
+		"invitations": "Invites",
+		"promocodes": "Promocodes",
+		"code": "Code",
+		"inv_code": "Code",
+		"usages": "Activations",
+		"referals": "Registrations",
+		"max_refs": "Max. usages",
+		"valid_until": "Valid until",
+		"triggers": "Triggers",
+		"issued": "Issued",
+		"revoked": "Revoked",
+		"code_country": "Region"
 	},
 	"MAILING": {
 		"toggleTitle": "Mailing",

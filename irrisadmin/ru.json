@@ -44,7 +44,19 @@
     "order": "Заказ",
     "items": "Товары",
     "amounts": "Суммы",
-    "duration": "Продолж."
+    "duration": "Продолж.",
+    "invitations": "Приглашения",
+    "promocodes": "Промокоды",
+    "code": "Код",
+    "inv_code": "Код",
+    "usages": "Активации",
+    "referals": "Регистрации",
+    "max_refs": "Макс. реф.",
+    "valid_until": "Действителен до",
+    "triggers": "Триггеры",
+    "issued": "Выпущен",
+    "revoked": "Отменён",
+    "code_country": "Регион"
   },
   "MAILING": {
     "toggleTitle": "Рассылка писем",

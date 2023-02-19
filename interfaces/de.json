@@ -1346,5 +1346,9 @@
 	"tool_CntrPlace": "Computerstandort",
 	"tool_SnsrPlace": "Sensorstandort",
 	"tool_WSPlace": "Wasserquelle",
-	"toolSurfaces": "Oberflächen"
+	"toolSurfaces": "Oberflächen",
+	"languageTrialAttention": "You are using a trial version of this localization. Click here to understand why...",
+	"LANG_PACK": "LANGUAGE PACK",
+	"LANG_SUPPORT": "NATIVE LANGUAGE SUPPORT",
+	"WhyYouShouldPayForLanguage": "Our distribution system explained"
 }

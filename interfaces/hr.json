@@ -1348,5 +1348,9 @@
 	"toolSurfaces": "Površine",
 	"toolText": "Tekst",
 	"EditInfoNameplatesOnLayout": "Uredi oznake",
-	"ResetInfoNameplatesOnLayout": "Resetiraj oznake"
+	"ResetInfoNameplatesOnLayout": "Resetiraj oznake",
+	"languageTrialAttention": "Sada koristite probnu verziju ove lokalizacije. Kliknite ovdje da biste razumjeli zašto...",
+	"LANG_PACK": "JEZIČNI PAKET",
+	"LANG_SUPPORT": "TEHNIČKA PODRŠKA NA MATERINSKOM JEZIKU",
+	"WhyYouShouldPayForLanguage": "Mreža našeg distribucijskog sustava objašnjena"
 }

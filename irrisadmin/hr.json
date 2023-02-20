@@ -69,7 +69,7 @@
 		"htmlTextPlaceholder": "Here you can use HTML markup",
 		"readyToSend1Title": "I've spell-checked 500 times, and tested how the HTML markup will look, and now I'm ready to send!",
 		"readyToSend2Title": "Yes, the message I'm going to send does not contain any information that compromise IRRISketch or its affiliates",
-		"readyToSend3Title": "Yes, I realise that if I mess up and send users some bullshit, I'll get f***ing fired!",
+		"readyToSend3Title": "Yes, I realise that this message will be sent to numerous users and if something is messed up there is no way to stop the process",
 		"sendButton": "Send"
 	}
 }

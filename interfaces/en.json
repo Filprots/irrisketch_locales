@@ -1352,5 +1352,9 @@
 	"languageTrialAttention": "You are using a trial version of this localization. Click here to understand why...",
 	"LANG_PACK": "LANGUAGE PACK",
 	"LANG_SUPPORT": "NATIVE LANGUAGE SUPPORT",
-	"WhyYouShouldPayForLanguage": "Our distribution system explained"
+	"WhyYouShouldPayForLanguage": "Our distribution system explained",
+	"Invoice_companyName": "Company name",
+	"Invoice_companyName_Placeholder": "PolivCentrale",
+	"Invoice_vatID": "VAT ID",
+	"Invoice_vatID_Placeholder": "Enter here your VAT ID"
 }

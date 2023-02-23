@@ -1062,7 +1062,7 @@
 	"Invoice_WaitForInvoice": "We process your application. You will soon receive an invoice by email. We process applications and send invoices on weekdays from 9 a.m. to 4 p.m. (UTC)",
 	"Invoice_WaitForRefund": "We have received your refund request and will process it shortly. You do not need to take any further action",
 	"Invoice_ProvideData": "In order to form an invoice, you need to provide us with some information about the beneficiary of the invoice",
-	"Invoice_EditDataButton": "Edit invoice information",
+	"Invoice_EditDataButton": "Show/Hide invoice information",
 	"Invoice_Phone_Number": "Telephone number",
 	"Phone_Number_Placeholder": "+44 12 3456 7890",
 	"Invoice_firstName": "First name",

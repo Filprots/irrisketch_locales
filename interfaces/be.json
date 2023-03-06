@@ -1351,10 +1351,11 @@
 	"ResetInfoNameplatesOnLayout": "Сбросить изменения",
 	"languageTrialAttention": "You are using a trial version of this localization. Click here to understand why...",
 	"LANG_PACK": "LANGUAGE PACK",
-	"LANG_SUPPORT": "NATIVE LANGUAGE SUPPORT",
+	"LANG_SUPPORT": "Техподдержка на нативном языке",
 	"WhyYouShouldPayForLanguage": "Our distribution system explained",
 	"Invoice_companyName": "Название компании",
 	"Invoice_companyName_Placeholder": "PolivCentrale",
 	"Invoice_vatID": "ИНН/ОГРН",
-	"Invoice_vatID_Placeholder": "Введите ваши налоговые идентификаторы"
+	"Invoice_vatID_Placeholder": "Введите ваши налоговые идентификаторы",
+	"LANG_PACK_SAME_PRICE": "Дополнительные преимущества за ту же стоимость"
 }

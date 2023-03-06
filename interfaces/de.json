@@ -1354,5 +1354,6 @@
 	"Invoice_companyName": "Firmenname",
 	"Invoice_companyName_Placeholder": "PolivCentrale",
 	"Invoice_vatID": "Umsatzsteuer-ID",
-	"Invoice_vatID_Placeholder": "Geben Sie hier Ihre Umsatzsteuer-ID ein"
+	"Invoice_vatID_Placeholder": "Geben Sie hier Ihre Umsatzsteuer-ID ein",
+	"LANG_PACK_SAME_PRICE": "Erhalten Sie zusätzliche Vorteile zum gleichen Preis"
 }

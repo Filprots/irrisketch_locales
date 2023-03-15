@@ -467,7 +467,7 @@
             pvcSCH40: "PVC SCH 40",
             pvcSCH80: "PVC SCH 80",
             stdTrench: "Standard (40cm) (héritage)",
-            normalTrench: "Normale (L : 10 cm P : 50 cm)",
+            normalTrench: "Normale (L : 10 cm P : 50 cm)",
             narrowTrench: "Étroit (L : 5 cm P : 30 cm) (trancheuse manuelle)",
             wideTrench: "Large (L : 30 cm P : 60 cm) (mini-pelle)",
             multi: "Boîte à vannes",

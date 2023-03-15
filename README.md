@@ -22,6 +22,10 @@ Belarusian - Eugene (Kirilov-zh@mail.ru)                |||||||||||||||| (COMPLE
 
 Hebrew - Mikhail (irridon@gmail.com)                    ................ (0%)
 
+Croatian - InAqua (inaqua@inaqua.hr)                    |||||||||||||||| (COMPLETED)
+
+French - GPT-4 + Rektalizer (irrishelp@gmail.com)       ||||||||||||||| (COMPLETED)
+
 --HERE CAN BE YOUR NAME--
 </pre>
 

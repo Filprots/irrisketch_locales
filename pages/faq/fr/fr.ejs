@@ -1,0 +1,165 @@
+<script type="module">
+    if (location.hash !== null && location.hash !== "") {
+        $(location.hash + ".collapse").collapse();
+    }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
+</script>
+
+<div class="container" id="faq">
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">General questions</span></div>
+    </div>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+                aria-expanded="false"
+                aria-controls="qA1">
+            J'ai acheté un abonnement, mais les fonctionnalités payantes ne sont pas disponibles, que faire ?
+        </button>
+    </p>
+    <div class="collapse" id="qA1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                Après avoir acheté un abonnement payant IRRISketch, vous devez l'activer manuellement dans votre compte
+                personnel en suivant le lien :
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>,
+            </p>
+            où votre abonnement apparaîtra dans la colonne de droite. Après activation, vous pourrez utiliser librement
+            toutes les fonctionnalités payantes du service.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+                aria-expanded="false"
+                aria-controls="qA2">
+            J'ai payé pour l'abonnement, mais il n'apparaît pas dans mon espace personnel.
+        </button>
+    </p>
+    <div class="collapse" id="qA2" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                Dans ce cas, vous devez accéder à votre compte personnel en suivant ce lien :
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>
+            </p>
+            <p>
+                Vérifiez le bouton en bas de la commande. Le bouton rouge "Répéter" signifie que le paiement a échoué et
+                que vous devriez réessayer, mais d'abord, vérifiez si l'argent a été débité.
+            </p>
+            <p>
+                Si vous voyez le bouton jaune "Paiement en cours" depuis longtemps, il est possible que la transaction
+                n'ait pas été confirmée automatiquement. Dans ce cas, cliquez sur ce bouton pour la compléter et tout
+                devrait fonctionner.
+            </p>
+            Après un paiement réussi et la finalisation de la transaction, vous verrez un bouton vert "Paiement
+            vérifié". Cliquez dessus et votre abonnement apparaîtra dans la colonne de droite.
+        </div>
+    </div>
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Questions sur les projets.</span></div>
+    </div>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+                aria-expanded="false" aria-controls="qP1">
+            Les modifications apportées au projet n'ont pas été enregistrées/Je veux restaurer un certain état du
+            projet, que dois-je faire?
+        </button>
+    </p>
+    <div class="collapse" id="qP1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                (Cette méthode ne fonctionnera que dans les navigateurs disposant d'outils de développement)
+            </p>
+            <p>
+                1. Ouvrez le même navigateur, sur le même ordinateur où vous avez travaillé pour la dernière fois sur le
+                projet.
+            </p>
+            <p>
+                2. Accédez à l'atelier IRRISketch et ouvrez le projet avec le problème.
+            </p>
+            <p>
+                3. Si une fenêtre proposant de restaurer le projet apparaît lorsque vous l'ouvrez, cliquez sur le bouton
+                "Restaurer" et observez le résultat. Si le projet n'a pas été restauré à l'état requis, continuez à
+                suivre les instructions.
+            </p>
+            <p>
+                4. Ouvrez les outils de développement (dans la plupart des navigateurs, appuyez sur la touche F12) et
+                ouvrez l'onglet Console.
+            </p>
+            <p>
+                5. Entrez la commande suivante dans la console et appuyez sur Entrée :
+            </p>
+            <p>
+                autobackup.ASL()
+            </p>
+            <p>
+                6. Une liste de sauvegardes automatiques apparaîtra (généralement les 12 dernières) (La sauvegarde
+                automatique est effectuée toutes les dix minutes, donc 12 x 10 = 120 min = 2 heures). Cela ressemblera à
+                quelque chose comme ça :
+            </p>
+            <p>
+                Ensuite, appuyez sur le symbole de triangle (▶) pour développer la liste (▼).
+            </p>
+            <p>
+                7. Dans la liste des sauvegardes automatiques, sélectionnez l'heure à laquelle, selon vos calculs, le
+                projet était dans l'état le plus souhaité, et regardez quel est le numéro au début de cette ligne.
+            </p>
+            <p>
+                8. Tapez le texte suivant dans la console:
+            </p>
+            <p>
+                autobackup.RAS(collez le numéro du paragraphe précédent ici)
+            </p>
+            9. Assurez-vous que l'état restauré répond à vos exigences. Sinon, appelez la commande du point précédent
+            avec un numéro différent jusqu'à ce que vous trouviez l'état désiré.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+                aria-expanded="false"
+                aria-controls="qP2">
+            Comment afficher la grille dans un dessin de projet ? La grille de dessin n'apparaît pas lors de la sortie
+            en PDF/PNG.
+        </button>
+    </p>
+    <div class="collapse" id="qP2" data-parent="#faq">
+        <div class="card card-body">
+        <span>
+           Pour afficher la grille lors de l'impression, elle doit être placée sur le dessin sous forme d'image. Vous pouvez télécharger la grille, par exemple <a
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing"
+                    target="_blank">from here</a>, et ensuite la redimensionner sur le dessin à la taille souhaitée.
+        </span>
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+                aria-expanded="false"
+                aria-controls="qP3">
+            Comment transférer un projet d'un compte à un autre?
+        </button>
+    </p>
+    <div class="collapse" id="qP3" data-parent="#faq">
+        <div class="card card-body">
+            Pour ce faire, vous pouvez télécharger le fichier de projet en utilisant le bouton approprié dans le panneau
+            en haut à droite. Ensuite, créez un nouveau projet vide sur le nouveau compte et à l'aide du bouton
+            "Télécharger", ouvrez le projet téléchargé.
+            <br>
+            <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+        </div>
+    </div>
+    <hr>
+</div>

@@ -1054,6 +1054,9 @@ this.LNG = {
 //SPRINKLER PRESSURE CONFIGS
         sprinklerConfig: "Consumidores",
         pressureDefinedBy: "La presión esperada en los consumidores es",
+        allowReduceRotors: "Se permite reducir el radio de los rotores",
+        radio_option_yes: "Sí",
+        radio_option_no: "No",
         recommendedPressure: "Recomendada por el proveedor",
         userPressure: "Establecida por el usuario",
         expPressure: "Presión esperada en el consumidor",

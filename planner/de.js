@@ -1054,6 +1054,9 @@ this.LNG = {
         //SPRINKLER PRESSURE CONFIGS
         sprinklerConfig: "Regner",
         pressureDefinedBy: "Der erwartete Druck an den Regnern ist",
+        allowReduceRotors: "Die Reduzierung des Rotorenradius ist erlaubt",
+        radio_option_yes: "Ja",
+        radio_option_no: "Nein",
         recommendedPressure: "vom Verkäufer empfohlen",
         userPressure: "Vom Benutzer festgelegt",
         expPressure: "Erwarteter Druck am Regner",

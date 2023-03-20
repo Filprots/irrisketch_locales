@@ -1054,6 +1054,9 @@ this.LNG = {
         //SPRINKLER PRESSURE CONFIGS
         sprinklerConfig: "Rasprskivači",
         pressureDefinedBy: "Očekivani tlak na rasprskivaču je",
+        allowReduceRotors: "Dopušteno je smanjiti domet rotora",
+        radio_option_yes: "Da",
+        radio_option_no: "Ne",
         recommendedPressure: "Preporučeno od proizvođača",
         userPressure: "Postavljeno od strane korisnika",
         expPressure: "Očekivani tlak na rasprskivaču",

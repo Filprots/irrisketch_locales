@@ -1054,6 +1054,9 @@ this.LNG = {
         //SPRINKLER PRESSURE CONFIGS
         sprinklerConfig: "Зрошувачі",
         pressureDefinedBy: "Очікуваний тиск на зрошувачі",
+        allowReduceRotors: "Разрешается регулировать радиус роторов",
+        radio_option_yes: "Да",
+        radio_option_no: "Нет",
         recommendedPressure: "Рекомендоване виробником",
         userPressure: "Задане користувачем",
         expPressure: "Вкажіть тиск на зрошувачі",

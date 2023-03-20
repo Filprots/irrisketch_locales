@@ -1054,6 +1054,9 @@ this.LNG = {
         //SPRINKLER PRESSURE CONFIGS
         sprinklerConfig: "Потребители",
         pressureDefinedBy: "Ожидаемое давление на потребителе",
+        allowReduceRotors: "Разрешается регулировать радиус роторов",
+        radio_option_yes: "Да",
+        radio_option_no: "Нет",
         recommendedPressure: "Рекомендованное производителем",
         userPressure: "Заданное пользователем",
         expPressure: "Укажите давление на потребителе",

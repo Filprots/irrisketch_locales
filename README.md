@@ -26,6 +26,8 @@ Croatian - InAqua (inaqua@inaqua.hr)                    |||||||||||||||| (COMPLE
 
 French - GPT-4 + Rektalizer (irrishelp@gmail.com)       ||||||||||||||| (COMPLETED)
 
+Spanish - GPT-4 + Rektalizer (irrishelp@gmail.com)      ||||||||||||||| (COMPLETED)
+
 --HERE CAN BE YOUR NAME--
 </pre>
 

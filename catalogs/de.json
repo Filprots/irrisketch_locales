@@ -4179,7 +4179,8 @@
         "SAM": " (with Check Valve)",
         "PRS": " (Pressure regulated 3.1 bar)",
         "NP": " (non-potable water)",
-        "SS": " (Stainless steel)"
+        "SS": " (Stainless steel)",
+        "HS": " (High-speed rotation)"
       },
       "maxi_colors": {
         "red": "red",

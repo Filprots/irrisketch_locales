@@ -4179,7 +4179,8 @@
         "SAM": " (con válvula de retención)",
         "PRS": " (Presión regulada 3,1 bar)",
         "NP": " (agua no potable)",
-        "SS": " (Acero inoxidable)"
+        "SS": " (Acero inoxidable)",
+        "HS": " (High-speed rotation)"
       },
       "maxi_colors": {
         "red": "rojo",

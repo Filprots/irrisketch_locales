@@ -4179,7 +4179,8 @@
         "SAM": " (avec clapet anti-retour)",
         "PRS": " (Pression régulée 3,1 bar)",
         "NP": " (eau non potable)",
-        "SS": " (Acier inoxydable)"
+        "SS": " (Acier inoxydable)",
+        "HS": " (High-speed rotation)"
       },
       "maxi_colors": {
         "red": "rouge",

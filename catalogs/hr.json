@@ -4179,7 +4179,8 @@
         "SAM": " (s bespovratnim ventilom)",
         "PRS": " (regulacija tlaka 3.1 bar)",
         "NP": " (ne-pitka voda)",
-        "SS": " (Obloga stapa od INOX-a)"
+        "SS": " (Obloga stapa od INOX-a)",
+        "HS": " (High-speed rotation)"
       },
       "maxi_colors": {
         "red": "crvena",

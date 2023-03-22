@@ -2576,7 +2576,9 @@
   "Hunter": {
     "_rotors_Hunter": {
       "common_lang": "Роторний зрошувач Hunter {{model}} {{nozzleColor.uk}} форсунка №{{nozzle}}",
+      "common_lang_2": "Роторный дождеватель Hunter {{model}} {{nozzleColor.uk}} сопло №{{nozzle}}{{options.uk}}",
       "common_body": "Роторний зрошувач Hunter {{model}}",
+      "common_body_2": "Роторный дождеватель Hunter {{model}}{{options.uk}}",
       "common_noz": "Форсунка №{{nozzle}} для ротора Hunter {{class}} ({{nozzleColor.uk}})",
       "i20_colors": {
         "blue": "синя",
@@ -2586,6 +2588,12 @@
         "red": "червона",
         "light green": "світло-зелена",
         "beige": "бежева"
+      },
+      "options_texts_1": {
+        "R": " (Непитьевая вода)",
+        "B": " (BSP резьба)",
+        "SS": " (Нержавеющая сталь)",
+        "HS": " (Быстрое вращение)"
       },
       "i25_colors": {
         "yellow": "жовта",

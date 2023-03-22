@@ -230,6 +230,7 @@ this.LNG = {
         //-------------------CLASSES,SERIES,SUBSERIES etc.------------
         //------------------------------------------------------------
         "Stainless steel": "Nehrđajući čelik",
+        "High speed": "Visoka brzina",
         "Plastic": "Plastika",
         "MPR Nozzles": "MPR Dizne",
         "Rotary Nozzles": "Rotacijske dizne",

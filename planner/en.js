@@ -230,6 +230,7 @@ this.LNG = {
         //-------------------CLASSES,SERIES,SUBSERIES etc.------------
         //------------------------------------------------------------
         "Stainless steel": "Stainless steel",
+        "High speed": "High speed",
         "Plastic": "Plastic",
         "MPR Nozzles": "MPR Nozzles",
         "Rotary Nozzles": "Rotary Nozzles",

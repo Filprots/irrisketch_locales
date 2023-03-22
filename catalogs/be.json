@@ -2576,7 +2576,9 @@
   "Hunter": {
     "_rotors_Hunter": {
       "common_lang": "Ротарны дажджавацель Hunter {{model}} {{nozzleColor.be}} сопла №{{nozzle}}",
+      "common_lang_2": "Роторный дождеватель Hunter {{model}} {{nozzleColor.be}} сопло №{{nozzle}}{{options.be}}",
       "common_body": "Ротарны дажджавацель Hunter {{model}}",
+      "common_body_2": "Роторный дождеватель Hunter {{model}}{{options.be}}",
       "common_noz": "Сопла №{{nozzle}} для ротара Hunter {{class}} ({{nozzleColor.be}})",
       "i20_colors": {
         "blue": "сіні",
@@ -2586,6 +2588,12 @@
         "red": "чырвоны",
         "light green": "светла-зялёнае",
         "beige": "бэжавы"
+      },
+      "options_texts_1": {
+        "R": " (Непитьевая вода)",
+        "B": " (BSP резьба)",
+        "SS": " (Нержавеющая сталь)",
+        "HS": " (Быстрое вращение)"
       },
       "i25_colors": {
         "yellow": "жоўты",

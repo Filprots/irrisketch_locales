@@ -230,6 +230,7 @@ this.LNG = {
         //-------------------CLASSES,SERIES,SUBSERIES etc.------------
         //------------------------------------------------------------
         "Stainless steel": "Rostfreier Stahl",
+        "High speed": "Hohe Geschwindigkeit",
         "Plastic": "Kunststoff",
         "MPR Nozzles": "MPR Düsen",
         "Rotary Nozzles": "Rotary Düse",

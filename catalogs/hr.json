@@ -2576,7 +2576,9 @@
   "Hunter": {
     "_rotors_Hunter": {
       "common_lang": "Hunter {{model}} Rotor i #{{nozzle}} {{nozzleColor.hr}} dizna",
+      "common_lang_2": "Hunter {{model}} Rotor with #{{nozzle}} {{nozzleColor.hr}} nozzle{{options.hr}}",
       "common_body": "Hunter {{model}} Rotor",
+      "common_body_2": "Hunter {{model}} Rotor{{options.hr}}",
       "common_noz": "Hunter {{class}} #{{nozzle}} dizna ({{nozzleColor.hr}})",
       "i20_colors": {
         "blue": "plava",
@@ -2586,6 +2588,12 @@
         "red": "crvena",
         "light green": "svjetlo zelena",
         "beige": "bež"
+      },
+      "options_texts_1": {
+        "R": " (Reclaimed water ID)",
+        "B": " (BSP thread inlet)",
+        "SS": " (Stainless steel)",
+        "HS": " (High-speed rotation)"
       },
       "i25_colors": {
         "yellow": "žuta",

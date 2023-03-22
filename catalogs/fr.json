@@ -2575,9 +2575,11 @@
   },
   "Hunter": {
     "_rotors_Hunter": {
-      "common_lang": "Chasseur {{model}} Rotor avec{{nozzle}} {{nozzleColor.fr}} buse",
+      "common_lang": "Chasseur {{model}} Rotor avec #{{nozzle}} {{nozzleColor.fr}} buse",
+      "common_lang_2": "Hunter {{model}} Rotor with #{{nozzle}} {{nozzleColor.fr}} nozzle{{options.fr}}",
       "common_body": "Chasseur {{model}} Rotor",
-      "common_noz": "Chasseur {{class}}{{nozzle}} buse ({{nozzleColor.fr}})",
+      "common_body_2": "Hunter {{model}} Rotor{{options.fr}}",
+      "common_noz": "Chasseur {{class}} #{{nozzle}} buse ({{nozzleColor.fr}})",
       "i20_colors": {
         "blue": "bleu",
         "grey": "gris",
@@ -2586,6 +2588,12 @@
         "red": "rouge",
         "light green": "vert clair",
         "beige": "beige"
+      },
+      "options_texts_1": {
+        "R": " (Reclaimed water ID)",
+        "B": " (BSP thread inlet)",
+        "SS": " (Stainless steel)",
+        "HS": " (High-speed rotation)"
       },
       "i25_colors": {
         "yellow": "jaune",
@@ -2601,17 +2609,17 @@
         "dark green": "vert foncé",
         "black": "noir"
       },
-      "pgj": "Chasseur PGJ-{{RR}} Rotor avec{{nozzle}} buse rouge",
+      "pgj": "Chasseur PGJ-{{RR}} Rotor avec #{{nozzle}} buse rouge",
       "pgj_body": "Chasseur PGJ-{{RR}} Rotor",
-      "pgj_noz": "Chasseur PGJ{{nozzle}} buse (rouge)",
+      "pgj_noz": "Chasseur PGJ #{{nozzle}} buse (rouge)",
       "pgpAdj_colors": {
         "red": "rouge",
         "blue": "bleu",
         "grey": "gris"
       },
-      "srm": "Chasseur SRM-{{RR}} Rotor avec{{nozzle}} buse vert foncé",
+      "srm": "Chasseur SRM-{{RR}} Rotor avec #{{nozzle}} buse vert foncé",
       "srm_body": "Chasseur SRM-{{RR}} Rotor",
-      "srm_noz": "Chasseur SRM{{nozzle}} buse (vert foncé)"
+      "srm_noz": "Chasseur SRM #{{nozzle}} buse (vert foncé)"
     },
     "_bubblers_Hunter": {
       "PCB-25": "Barboteur Hunter PCB-25",
@@ -3724,18 +3732,18 @@
       "SS": " (Acier inoxydable)",
       "CR": " (Joint résistant au chlore)",
       "OS": " (Applications d'eaux usées sur site)",
-      "miniPro": "K-Rain MiniPro 130{{RR}} Rotor avec{{nozzle}} buse rouge{{options.fr}}",
+      "miniPro": "K-Rain MiniPro 130{{RR}} Rotor avec #{{nozzle}} buse rouge{{options.fr}}",
       "miniPro_body": "K-Rain MiniPro 130{{RR}} Rotor{{options.fr}}",
-      "miniPro_noz": "Série K-Rain MiniPro{{nozzle}} buse (rouge)",
-      "rps50": "RPS K-Rain{{RR}} Rotor avec{{nozzle}} buse rouge{{options.fr}}",
+      "miniPro_noz": "Série K-Rain MiniPro #{{nozzle}} buse (rouge)",
+      "rps50": "RPS K-Rain{{RR}} Rotor avec #{{nozzle}} buse rouge{{options.fr}}",
       "rps50_body": "RPS K-Rain{{RR}} Rotor{{options.fr}}",
-      "rps50_noz": "Série K-Rain RPS50{{nozzle}} buse (rouge)",
-      "common_lang": "K-Rain {{model}} {{series}} Rotor avec{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
+      "rps50_noz": "Série K-Rain RPS50 #{{nozzle}} buse (rouge)",
+      "common_lang": "K-Rain {{model}} {{series}} Rotor avec #{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
       "common_body": "K-Rain {{model}} {{series}} Rotor{{options.fr}}",
-      "common_noz": "K-Rain {{series}} Série{{nozzle}} buse ({{nozzleColor.fr}})",
-      "common_1_lang": "K-Rain {{model}} Rotor avec{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
+      "common_noz": "K-Rain {{series}} Série #{{nozzle}} buse ({{nozzleColor.fr}})",
+      "common_1_lang": "K-Rain {{model}} Rotor avec #{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
       "common_1_body": "K-Rain {{model}} Rotor{{options.fr}}",
-      "common_1_noz": "K-Rain {{class}}{{nozzle}} buse ({{nozzleColor.fr}})"
+      "common_1_noz": "K-Rain {{class}} #{{nozzle}} buse ({{nozzleColor.fr}})"
     },
     "_bubblers_KRain": {
       "TB-ADJ": "Bubbler réglable K-Rain TB-ADJ",
@@ -4138,14 +4146,14 @@
   },
   "RainBird": {
     "_rotors_RainBird": {
-      "3500": "Oiseau de pluie 35{{RR}} Rotor avec{{nozzle}} buse bleue{{options.fr}}",
-      "common_lang": "Oiseau de pluie {{model}} Rotor avec{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
+      "3500": "Oiseau de pluie 35{{RR}} Rotor avec #{{nozzle}} buse bleue{{options.fr}}",
+      "common_lang": "Oiseau de pluie {{model}} Rotor avec #{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
       "common_body": "Oiseau de pluie {{model}} Rotor{{options.fr}}",
-      "common_impulse_lang": "Oiseau de pluie {{model}} Rotor d'impulsion avec{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
+      "common_impulse_lang": "Oiseau de pluie {{model}} Rotor d'impulsion avec #{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
       "common_impulse_body": "Oiseau de pluie {{model}} Rotor d'impulsion{{options.fr}}",
-      "common_noz": "Oiseau de pluie {{class}}{{nozzle}} buse ({{nozzleColor.fr}})",
+      "common_noz": "Oiseau de pluie {{class}} #{{nozzle}} buse ({{nozzleColor.fr}})",
       "3500_body": "Oiseau de pluie 35{{RR}} Rotor{{options.fr}}",
-      "3500_noz": "Série Rain Bird 3500{{nozzle}} buse (bleue)",
+      "3500_noz": "Série Rain Bird 3500 #{{nozzle}} buse (bleue)",
       "options_texts_1": {
         "S": " (Modèle arbuste)",
         "SAM": " (avec clapet anti-retour)",
@@ -4590,17 +4598,17 @@
       "P": " (Peinture Pop-up)",
       "S": " (Modèle arbuste)",
       "SS": " (Acier inoxydable)",
-      "300S": "Rotor Toro série 300 avec{{nozzle}} {{nozzleClass}} buse{{options.fr}}",
+      "300S": "Rotor Toro série 300 avec #{{nozzle}} {{nozzleClass}} buse{{options.fr}}",
       "300S_body": "Toro série 300 300-{{RR}}-00{{optionsTogether}} Rotor{{options.fr}}",
       "300S_noz": "Toro 300-{{nozzle}} {{nozzleClass}} buse 3{{arc}}-00 ({{arcDeg}}) disque d'arc",
-      "mini8": "Toro MINI8-{{RR}} Rotor avec{{nozzle}} buse rouge",
+      "mini8": "Toro MINI8-{{RR}} Rotor avec #{{nozzle}} buse rouge",
       "mini8_body": "Toro MINI8-{{RR}} Rotor",
       "mini8_noz": "Toro MINI série 8{{nozzle}} buse (rouge)",
-      "mini8E": "Toro MINI8-{{RR}}-E Rotor avec{{nozzle}} buse rouge (Effluent)",
+      "mini8E": "Toro MINI8-{{RR}}-E Rotor avec #{{nozzle}} buse rouge (Effluent)",
       "mini8E_body": "Toro MINI8-{{RR}}-E Rotor (Effluent)",
-      "t5": "Torô {{model}} {{series}} Rotor avec{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
+      "t5": "Torô {{model}} {{series}} Rotor avec #{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
       "t5_body": "Torô {{model}} {{series}} Rotor{{options.fr}}",
-      "t5_noz": "Torô {{series}} Série{{nozzle}} buse ({{nozzleColor.fr}})"
+      "t5_noz": "Torô {{series}} Série #{{nozzle}} buse ({{nozzleColor.fr}})"
     },
     "_bubblers_Toro": {
       "514-20": "Bulleur d'inondation Toro 514-20",

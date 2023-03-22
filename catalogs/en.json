@@ -2576,7 +2576,9 @@
   "Hunter": {
     "_rotors_Hunter": {
       "common_lang": "Hunter {{model}} Rotor with #{{nozzle}} {{nozzleColor.en}} nozzle",
+      "common_lang_2": "Hunter {{model}} Rotor with #{{nozzle}} {{nozzleColor.en}} nozzle{{options.en}}",
       "common_body": "Hunter {{model}} Rotor",
+      "common_body_2": "Hunter {{model}} Rotor{{options.en}}",
       "common_noz": "Hunter {{class}} #{{nozzle}} nozzle ({{nozzleColor.en}})",
       "i20_colors": {
         "blue": "blue",
@@ -2600,6 +2602,12 @@
         "dark blue": "dark blue",
         "dark green": "dark green",
         "black": "black"
+      },
+      "options_texts_1": {
+        "R": " (Reclaimed water ID)",
+        "B": " (BSP thread inlet)",
+        "SS": " (Stainless steel)",
+        "HS": " (High-speed rotation)"
       },
       "pgj": "Hunter PGJ-{{RR}} Rotor with #{{nozzle}} red nozzle",
       "pgj_body": "Hunter PGJ-{{RR}} Rotor",

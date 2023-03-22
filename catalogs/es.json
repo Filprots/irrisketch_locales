@@ -2575,9 +2575,11 @@
   },
   "Hunter": {
     "_rotors_Hunter": {
-      "common_lang": "Cazador {{model}} Rotor con{{nozzle}} {{nozzleColor.es}} boquilla",
-      "common_body": "Cazador {{model}} Rotor",
-      "common_noz": "Cazador {{class}}{{nozzle}} boquilla ({{nozzleColor.es}})",
+      "common_lang": "Hunter {{model}} Rotor con #{{nozzle}} {{nozzleColor.es}} boquilla",
+      "common_lang_2": "Hunter {{model}} Rotor con #{{nozzle}} {{nozzleColor.es}} nozzle{{options.es}}",
+      "common_body": "Hunter {{model}} Rotor",
+      "common_body_2": "Hunter {{model}} Rotor{{options.es}}",
+      "common_noz": "Hunter {{class}} #{{nozzle}} boquilla ({{nozzleColor.es}})",
       "i20_colors": {
         "blue": "azul",
         "grey": "gris",
@@ -2601,17 +2603,23 @@
         "dark green": "verde oscuro",
         "black": "negro"
       },
-      "pgj": "Hunter PGJ-{{RR}} Rotor con{{nozzle}} boquilla roja",
+      "options_texts_1": {
+        "R": " (Reclaimed water ID)",
+        "B": " (BSP thread inlet)",
+        "SS": " (Stainless steel)",
+        "HS": " (High-speed rotation)"
+      },
+      "pgj": "Hunter PGJ-{{RR}} Rotor con #{{nozzle}} boquilla roja",
       "pgj_body": "Hunter PGJ-{{RR}} Rotor",
-      "pgj_noz": "Cazador PGJ{{nozzle}} boquilla (roja)",
+      "pgj_noz": "Hunter PGJ{{nozzle}} boquilla (roja)",
       "pgpAdj_colors": {
         "red": "rojo",
         "blue": "azul",
         "grey": "gris"
       },
-      "srm": "Hunter SRM-{{RR}} Rotor con{{nozzle}} boquilla verde oscuro",
+      "srm": "Hunter SRM-{{RR}} Rotor con #{{nozzle}} boquilla verde oscuro",
       "srm_body": "Hunter SRM-{{RR}} Rotor",
-      "srm_noz": "Cazador SRM{{nozzle}} boquilla (verde oscuro)"
+      "srm_noz": "Hunter SRM #{{nozzle}} boquilla (verde oscuro)"
     },
     "_bubblers_Hunter": {
       "PCB-25": "Burbujeador Hunter PCB-25",

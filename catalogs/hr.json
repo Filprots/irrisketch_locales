@@ -2593,7 +2593,8 @@
         "R": " (Reclaimed water ID)",
         "B": " (BSP thread inlet)",
         "SS": " (Stainless steel)",
-        "HS": " (High-speed rotation)"
+        "HS": " (High-speed rotation)",
+        "ON": " (Opposing nozzle)"
       },
       "i25_colors": {
         "yellow": "žuta",

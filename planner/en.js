@@ -231,6 +231,7 @@ this.LNG = {
         //------------------------------------------------------------
         "Stainless steel": "Stainless steel",
         "High speed": "High speed",
+        "Opposing nozzle": "Opposing nozzle",
         "Plastic": "Plastic",
         "MPR Nozzles": "MPR Nozzles",
         "Rotary Nozzles": "Rotary Nozzles",

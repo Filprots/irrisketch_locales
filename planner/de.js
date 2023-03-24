@@ -231,6 +231,7 @@ this.LNG = {
         //------------------------------------------------------------
         "Stainless steel": "Rostfreier Stahl",
         "High speed": "Hohe Geschwindigkeit",
+        "Opposing nozzle": "Opposing nozzle",
         "Plastic": "Kunststoff",
         "MPR Nozzles": "MPR Düsen",
         "Rotary Nozzles": "Rotary Düse",

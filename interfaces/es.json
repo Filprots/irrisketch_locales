@@ -728,7 +728,7 @@
   "AreYouSureRemoveOutlay": "Estás seguro de que desea eliminar",
   "Prices": "Precios",
   "OutlayTemplates": "Plantillas",
-  "%s COUNTER_pcs": "%s PCS.",
+  "%s COUNTER_pcs": "%s pcs.",
   "%s COUNTER_m": "%s m.",
   "%s COUNTER_sqm": "%s m²",
   "%s COUNTER_accs": {

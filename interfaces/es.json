@@ -728,20 +728,20 @@
   "AreYouSureRemoveOutlay": "Estás seguro de que desea eliminar",
   "Prices": "Precios",
   "OutlayTemplates": "Plantillas",
-  "%s COUNTER_pcs": "%S PCS.",
+  "%s COUNTER_pcs": "%s PCS.",
   "%s COUNTER_m": "%s m.",
   "%s COUNTER_sqm": "%s m²",
   "%s COUNTER_accs": {
-    "one": "%S Cuenta",
-    "few": "%S Cuentas",
-    "many": "%S Cuentas",
-    "other": "%S Cuentas"
+    "one": "%s Cuenta",
+    "few": "%s Cuentas",
+    "many": "%s Cuentas",
+    "other": "%s Cuentas"
   },
   "%s COUNTER_projs": {
-    "one": "%S Proyecto",
-    "few": "%S Proyectos",
-    "many": "%S Proyectos",
-    "other": "%S Proyectos"
+    "one": "%s Proyecto",
+    "few": "%s Proyectos",
+    "many": "%s Proyectos",
+    "other": "%s Proyectos"
   },
   "%s COUNTER_layouts": {
     "one": "%s de diseño",

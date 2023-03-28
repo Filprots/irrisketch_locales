@@ -41,7 +41,11 @@
 		"selectPipeType": "Выберите вариант трубы:",
 		"inputPipeLength": "Введите длину трубы:",
 		"pipeFlowRate": "Расход:",
-		"inputAltDiff": "Изменение высоты между началом и концом трубы:"
+		"inputAltDiff": "Изменение высоты между началом и концом трубы:",
+		"intakePipeType": "Входная труба:",
+		"offtakePipeType": "Выходная труба:",
+		"nodeType": "Тип элемента трубопровода:",
+		"nodeTypeForm": "Тип элемента трубопровода:"
 	},
 	"INP": {
 		"showExplanation": "Показать подробные шаги",
@@ -66,7 +70,9 @@
 		"decimalPlacesAmount": "Нулей после запятой",
 		"convertUserInput": "Конвертировать пользовательский ввод в редакторе секции",
 		"altDiffForm": "Разница высот:",
-		"altDiffMeasureForm": "Разница высот:"
+		"altDiffMeasureForm": "Разница высот:",
+		"nodeElementNameForm": "Название элемента:",
+		"offtakePipeIsDifferentCheckBox": "Входной и выходной диаметры трубы различаются"
 	},
 	"UNITS": {
 		"celsius": "°С",
@@ -95,7 +101,11 @@
 		"kmph": "км/ч",
 		"mph": "миль/ч",
 		"ftsec": "фут/с",
-		"cm": "см"
+		"cm": "см",
+		"elbow": "Угол",
+		"globeValve": "Сферический клапан",
+		"swingJoint": "Гибкое соединение",
+		"enlargerOrReducer": "Расширение или Сужение"
 	},
 	"BTN": {
 		"addPipeSection": "Добавить секцию",

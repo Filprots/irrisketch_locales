@@ -42,7 +42,10 @@
 		"selectPipeType": "Select pipe type:",
 		"inputPipeLength": "Input pipe length:",
 		"pipeFlowRate": "Flow:",
-		"inputAltDiff": "Altitude difference between beginning and end of the pipe:"
+		"inputAltDiff": "Altitude difference between beginning and end of the pipe:",
+		"intakePipeType": "Intake pipe:",
+		"offtakePipeType": "Offtake pipe:",
+		"nodeType": "Pipeline element:"
 	},
 	"INP": {
 		"showExplanation": "Show detailed steps",
@@ -67,7 +70,10 @@
 		"decimalPlacesAmount": "Decimal places amount",
 		"convertUserInput": "Convert user input in section editor",
 		"altDiffForm": "Altitude difference:",
-		"altDiffMeasureForm": "Altitude difference:"
+		"altDiffMeasureForm": "Altitude difference:",
+		"nodeElementNameForm": "Element name:",
+		"offtakePipeIsDifferentCheckBox": "Intake and offtake pipes are different",
+		"nodeTypeForm": "Pipeline element:"
 	},
 	"UNITS": {
 		"celsius": "°С",
@@ -96,7 +102,11 @@
 		"kmph": "kmph",
 		"mph": "mph",
 		"ftsec": "fps",
-		"cm": "cm"
+		"cm": "cm",
+		"elbow": "Elbow",
+		"globeValve": "Globe valve",
+		"swingJoint": "Swing joint",
+		"enlargerOrReducer": "Enlarger or reducer"
 	},
 	"BTN": {
 		"addPipeSection": "Add section",

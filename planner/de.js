@@ -278,7 +278,7 @@ this.LNG = {
         sizeMark: "Abmessungen",
         scalingBar: "Skalierungsleiste",
         loCurves: "Lines",
-        texts: "Teste",
+        texts: "Texte",
         staticText: "Statischer Text",
         dynamicText: "Dynamischer Text",
         stampText: "Text stempeln",

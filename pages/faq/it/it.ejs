@@ -1,0 +1,167 @@
+<script type="module">
+    if (location.hash !== null && location.hash !== "") {
+        $(location.hash + ".collapse").collapse();
+    }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
+</script>
+
+<div class="container" id="faq">
+<hr>
+<div class="row mb-3">
+    <div class="col-lg-12 text-center"><span class="h3">Domande generali</span></div>
+</div>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+            aria-expanded="false"
+            aria-controls="qA1">
+        Ho acquistato un abbonamento, ma la funzionalità a pagamento non è disponibile, cosa fare?
+    </button>
+</p>
+<div class="collapse" id="qA1" data-parent="#faq">
+    <div class="card card-body">
+        <p>
+            Dopo aver acquistato un abbonamento IRRISketch a pagamento, è necessario attivarlo manualmente nel proprio account personale
+            al link:
+        </p>
+        <p>
+            <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>,
+        </p>
+        wqui il vostro abbonamento sarà nella colonna di destra. Dopo l'attivazione, sarete in grado di utilizzare liberamente tutte le
+        funzionalità a pagamento del servizio.
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+            aria-expanded="false"
+            aria-controls="qA2">
+        Ho pagato l'abbonamento, ma non è apparso nel mio armadietto personale.
+    </button>
+</p>
+<div class="collapse" id="qA2" data-parent="#faq">
+    <div class="card card-body">
+        <p>
+            In questo caso, è necessario accedere al proprio account personale seguendo questo link:
+        </p>
+        <p>
+            <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>
+        </p>
+        <p>
+            Osservate il pulsante in fondo all'ordine. Il pulsante rosso "Ripeti" significa che il pagamento
+            non è andato a buon fine
+            e si dovrebbe riprovare, ma prima bisogna verificare se il denaro è stato addebitato.
+        </p>
+        <p>
+            Se il pulsante giallo "Pagamento in corso" è stato visualizzato per molto tempo, è probabile che la transazione non sia ancora stata effettuata.
+            transazione non è
+            avvenuta
+            conferma automatica. In questo caso, fare clic su questo pulsante per completarla e tutto dovrebbe funzionare.
+            funzionare.
+        </p>
+        Dopo il pagamento e il completamento della transazione, verrà visualizzato il pulsante verde "Pagamento verificato".
+        Facendo clic su di esso, l'abbonamento apparirà nella colonna di destra.
+    </div>
+</div>
+<hr>
+<div class="row mb-3">
+    <div class="col-lg-12 text-center"><span class="h3">Domande sui progetti</span></div>
+</div>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+            aria-expanded="false" aria-controls="qP1">
+        Le modifiche apportate al progetto non sono state salvate/Voglio ripristinare un determinato stato del progetto, cosa devo fare?
+        progetto, cosa devo fare?
+    </button>
+</p>
+<div class="collapse" id="qP1" data-parent="#faq">
+    <div class="card card-body">
+        <p>
+            (Questo metodo funziona solo nei browser che dispongono degli Strumenti per gli sviluppatori.)
+        </p>
+        <p>
+            1. Aprite lo stesso browser, sullo stesso computer dove avete lavorato l'ultima volta al progetto.
+        </p>
+        <p>
+            2. Accedere al laboratorio IRRISketch e aprire il progetto con il problema.
+        </p>
+        <p>
+            3. Se all'apertura del progetto appare una finestra che chiede di ripristinare il progetto, fare clic sul pulsante "Ripristina".
+            pulsante "Ripristina" e
+            e vedere il risultato. Se il progetto non è stato ripristinato allo stato richiesto, continuare a seguire le istruzioni.
+            istruzioni
+        </p>
+        <p>
+            4. Aprite gli strumenti per gli sviluppatori (nella maggior parte dei browser, il pulsante F12) e aprite la scheda Console:
+        </p>
+        <p>
+            5. Immettere il seguente comando nella console e premere Invio:
+        </p>
+        <p>
+            autobackup.ASL()
+        </p>
+        <p>
+            6. Verrà visualizzato un elenco di salvataggi automatici (di solito gli ultimi 12) (il salvataggio automatico viene effettuato ogni dieci minuti).
+            minuti,
+            Quindi 12 × 10 = 120 min = 2 ore).
+        </p>
+        <p>
+            Se si verificasse una cosa del genere:
+        </p>
+        <p>
+            Quindi premere il simbolo del triangolo ( ▶ ) per espandere l'elenco ( ▼ ).
+        </p>
+        <p>
+            7. Nell'elenco dei salvataggi automatici, selezionare il momento in cui, secondo i propri calcoli, il progetto si trovava nella fase più
+            più
+            e vedere quale numero si trova all'inizio della riga.
+        </p>
+        <p>
+            8. Digitare il seguente testo nella console:
+        </p>
+        <p>
+            autobackup.RAS(*Incollare qui il numero del paragrafo precedente*)
+        </p>
+        9. Assicuratevi che le condizioni di ripristino soddisfino le vostre esigenze. In caso contrario, richiamare il comando
+        comando
+        dal punto precedente con un numero diverso fino a trovare lo stato desiderato.
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+            aria-expanded="false"
+            aria-controls="qP2">
+        Come si visualizza la griglia in un disegno di progetto? La griglia del disegno non viene visualizzata durante l'output in PDF/PNG.
+    </button>
+</p>
+<div class="collapse" id="qP2" data-parent="#faq">
+    <div class="card card-body">
+        <span>
+            Per visualizzare la griglia in fase di stampa, è necessario inserirla nel disegno come immagine. È possibile scaricare la griglia,
+            ad esempio <a
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing" target="_blank">from here</a>, and then scale it on the drawing to the desired size.
+        </span>
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+            aria-expanded="false"
+            aria-controls="qP3">
+        Come posso trasferire un progetto da un account a un altro?
+    </button>
+</p>
+<div class="collapse" id="qP3" data-parent="#faq">
+    <div class="card card-body">
+        A tale scopo, è possibile scaricare il file del progetto utilizzando l'apposito pulsante nel pannello in alto a destra.
+        Successivamente, creare un progetto vuoto su un nuovo account e, utilizzando il pulsante "Download", aprire il progetto scaricato.
+        <br>
+        <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button" width="30%" height="30%">
+    </div>
+</div>
+<hr>
+</div>

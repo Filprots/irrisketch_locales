@@ -1,0 +1,142 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style type="text/css">
+        body {
+            margin:0;
+            color:#333;
+        }
+
+        a {
+            text-decoration:none;
+            color:#006699;
+        }
+
+        p {
+            margin:0px;
+        }
+
+        img {
+            border:0;
+            margin:0;
+        }
+
+        /* container */
+        #container {
+            width:540px;
+            margin:0 auto;
+        }
+
+        #content {
+            width:500px;
+            margin:0 20px;
+        }
+
+        /* header */
+        #header {
+            border-bottom:1px solid #eaeaea;
+            padding-top:10px;
+            padding-left:0px;
+            padding-right:0px;
+            padding-bottom:10px;
+        }
+
+        #title p{
+            font-size:20px;
+            font-family: "arial", "sans-serif";
+        }
+
+        #irrisketchLogo{
+            width:107px;
+            height:31px;
+        }
+
+        /* verification msg */
+        #verificationMsg {
+            padding-left:0;
+            padding-top:9px;
+            padding-bottom:9px;
+        }
+
+        #verificationMsg p {
+            font-size:14px;
+            font-family: "arial", "sans-serif";
+        }
+
+        #verificationMsg .otp {
+            font-size:18px;
+            font-weight:bold;
+            padding-top:18px;
+        }
+
+        /* account security */
+        #accountSecurity {
+            padding-left:0;
+            padding-top:9px;
+            padding-bottom:9px;
+        }
+
+        #accountSecurity p {
+            font-size:14px;
+            font-family: "arial", "sans-serif";
+        }
+
+        /* closing */
+        #closing {
+            padding-left:0;
+            padding-top:9px;
+            padding-bottom:9px;
+        }
+
+        #closing p {
+            font-size:14px;
+            font-family: "arial", "sans-serif";
+        }
+
+    </style>
+    <title>Codice di verifica Irrisketch</title>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+<table id="container" cellspacing="0" cellpadding="0" align="center">
+    <tbody>
+    <tr>
+        <td>
+            <table id="content" cellspacing="0" cellpadding="0">
+                <tbody>
+                <tr>
+                    <td id="header">
+                        <table cellspacing="0" cellpadding="0">
+                            <tbody>
+                            <tr>
+                                <td id="logo" width="250">
+                                    <img
+                                            src="https://www.irrisketch.com/images/mylogo_small.png"
+                                            id="irrisketchLogo" moz-do-not-send="true"> </td>
+                                <td id="title" width="250" valign="top"
+                                    align="right">
+                                    <p>Verifica del conto</p>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="verificationMsg">
+                        <p>Per verificare la vostra identità, utilizzate il seguente
+                            codice:</p>
+                        <p class="otp"><%= code %></p>
+                    </td>
+                </tr>
+                    <td id="closing">
+                        <p>In caso di problemi con la verifica della propria identità, si prega di <a href="htpps://www.irrisketch.com/support">contattare l'assistenza.</a> </p>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>

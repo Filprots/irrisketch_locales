@@ -2558,7 +2558,75 @@
       "SADDLE5X3-NPT": "Selle de lampe 5\" x 3\"F (NPT)",
       "SADDLE5X31/2-NPT": "Selle de lampe 5\" x 3½\"F (NPT)",
       "SADDLE5X4-NPT": "Selle de lampe 5\" x 4\"F (NPT)",
-      "SADDLE5X5-NPT": "Selle de lampe 5\" x 5\"F (NPT)"
+      "SADDLE5X5-NPT": "Selle de lampe 5\" x 5\"F (NPT)",
+      "SADDLE201/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 20mm x ½\"F (NPT)",
+      "SADDLE251/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 25mm x ½\"F (NPT)",
+      "SADDLE253/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 25mm x ¾\"F (NPT)",
+      "SADDLE321/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 32mm x ½\"F (NPT)",
+      "SADDLE323/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 32mm x ¾\"F (NPT)",
+      "SADDLE321-NPT": "<<UNTRANSLATED>> Сlamp saddle 32mm x 1\"F (NPT)",
+      "SADDLE401/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 40mm x ½\"F (NPT)",
+      "SADDLE403/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 40mm x ¾\"F (NPT)",
+      "SADDLE401-NPT": "<<UNTRANSLATED>> Сlamp saddle 40mm x 1\"F (NPT)",
+      "SADDLE501/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 50mm x ½\"F (NPT)",
+      "SADDLE503/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 50mm x ¾\"F (NPT)",
+      "SADDLE501-NPT": "<<UNTRANSLATED>> Сlamp saddle 50mm x 1\"F (NPT)",
+      "SADDLE5011/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 50mm x 1¼\"F (NPT)",
+      "SADDLE631/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 63mm x ½\"F (NPT)",
+      "SADDLE633/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 63mm x ¾\"F (NPT)",
+      "SADDLE631-NPT": "<<UNTRANSLATED>> Сlamp saddle 63mm x 1\"F (NPT)",
+      "SADDLE6311/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 63mm x 1¼\"F (NPT)",
+      "SADDLE6311/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 63mm x 1½\"F (NPT)",
+      "SADDLE751/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 75mm x ½\"F (NPT)",
+      "SADDLE753/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 75mm x ¾\"F (NPT)",
+      "SADDLE751-NPT": "<<UNTRANSLATED>> Сlamp saddle 75mm x 1\"F (NPT)",
+      "SADDLE7511/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 75mm x 1¼\"F (NPT)",
+      "SADDLE7511/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 75mm x 1½\"F (NPT)",
+      "SADDLE752-NPT": "<<UNTRANSLATED>> Сlamp saddle 75mm x 2\"F (NPT)",
+      "SADDLE901/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 90mm x ½\"F (NPT)",
+      "SADDLE903/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 90mm x ¾\"F (NPT)",
+      "SADDLE901-NPT": "<<UNTRANSLATED>> Сlamp saddle 90mm x 1\"F (NPT)",
+      "SADDLE9011/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 90mm x 1¼\"F (NPT)",
+      "SADDLE9011/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 90mm x 1½\"F (NPT)",
+      "SADDLE902-NPT": "<<UNTRANSLATED>> Сlamp saddle 90mm x 2\"F (NPT)",
+      "SADDLE1101/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 110mm x ½\"F (NPT)",
+      "SADDLE1103/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 110mm x ¾\"F (NPT)",
+      "SADDLE1101-NPT": "<<UNTRANSLATED>> Сlamp saddle 110mm x 1\"F (NPT)",
+      "SADDLE11011/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 110mm x 1¼\"F (NPT)",
+      "SADDLE11011/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 110mm x 1½\"F (NPT)",
+      "SADDLE1102-NPT": "<<UNTRANSLATED>> Сlamp saddle 110mm x 2\"F (NPT)",
+      "SADDLE11021/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 110mm x 2½\"F (NPT)",
+      "SADDLE1253/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 125mm x ¾\"F (NPT)",
+      "SADDLE1251-NPT": "<<UNTRANSLATED>> Сlamp saddle 125mm x 1\"F (NPT)",
+      "SADDLE12511/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 125mm x 1¼\"F (NPT)",
+      "SADDLE12511/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 125mm x 1½\"F (NPT)",
+      "SADDLE1252-NPT": "<<UNTRANSLATED>> Сlamp saddle 125mm x 2\"F (NPT)",
+      "SADDLE12521/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 125mm x 2½\"F (NPT)",
+      "SADDLE1401-NPT": "<<UNTRANSLATED>> Сlamp saddle 140mm x 1\"F (NPT)",
+      "SADDLE14011/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 140mm x 1¼\"F (NPT)",
+      "SADDLE14011/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 140mm x 1½\"F (NPT)",
+      "SADDLE1402-NPT": "<<UNTRANSLATED>> Сlamp saddle 140mm x 2\"F (NPT)",
+      "SADDLE14021/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 140mm x 2½\"F (NPT)",
+      "SADDLE1601-NPT": "<<UNTRANSLATED>> Сlamp saddle 160mm x 1\"F (NPT)",
+      "SADDLE16011/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 160mm x 1¼\"F (NPT)",
+      "SADDLE16011/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 160mm x 1½\"F (NPT)",
+      "SADDLE1602-NPT": "<<UNTRANSLATED>> Сlamp saddle 160mm x 2\"F (NPT)",
+      "SADDLE16021/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 160mm x 2½\"F (NPT)",
+      "SADDLE2001-NPT": "<<UNTRANSLATED>> Сlamp saddle 200mm x 1\"F (NPT)",
+      "SADDLE20011/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 200mm x 1¼\"F (NPT)",
+      "SADDLE20011/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 200mm x 1½\"F (NPT)",
+      "SADDLE2002-NPT": "<<UNTRANSLATED>> Сlamp saddle 200mm x 2\"F (NPT)",
+      "SADDLE20021/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 200mm x 2½\"F (NPT)",
+      "SADDLE2251-NPT": "<<UNTRANSLATED>> Сlamp saddle 225mm x 1\"F (NPT)",
+      "SADDLE22511/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 225mm x 1¼\"F (NPT)",
+      "SADDLE22511/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 225mm x 1½\"F (NPT)",
+      "SADDLE2252-NPT": "<<UNTRANSLATED>> Сlamp saddle 225mm x 2\"F (NPT)",
+      "SADDLE22521/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 225mm x 2½\"F (NPT)",
+      "SADDLE2501-NPT": "<<UNTRANSLATED>> Сlamp saddle 250mm x 1\"F (NPT)",
+      "SADDLE25011/4-NPT": "<<UNTRANSLATED>> Сlamp saddle 250mm x 1¼\"F (NPT)",
+      "SADDLE25011/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 250mm x 1½\"F (NPT)",
+      "SADDLE2502-NPT": "<<UNTRANSLATED>> Сlamp saddle 250mm x 2\"F (NPT)",
+      "SADDLE25021/2-NPT": "<<UNTRANSLATED>> Сlamp saddle 250mm x 2½\"F (NPT)"
     },
     "_bubblers_Anybrand": {
       "SSDS-ADJ-A-1": "Consommateur réglable - 1 l/min",
@@ -2571,6 +2639,17 @@
       "SSDS-ADJ-A-20": "Consommateur réglable - 20 l/min",
       "SSDS-ADJ-A-50": "Consommateur réglable - 50 l/min",
       "SSDS-ADJ-A-100": "Consommateur réglable - 100 l/min"
+    },
+    "_fc_Anybrand": {
+      "SJ-1/2": "<<UNTRANSLATED>> Swing Joint ½\"",
+      "SJ-3/4": "<<UNTRANSLATED>> Swing Joint ¾\"",
+      "SJ-1/2-3/4": "<<UNTRANSLATED>> Swing Joint ½\"x¾\" ",
+      "SJ-1": "<<UNTRANSLATED>> Swing Joint 1\"",
+      "BRB16-ELB-1/2M": "<<UNTRANSLATED>> Barb elbow * ½\" male thread ",
+      "BRB16-ELB-3/4M": "<<UNTRANSLATED>> Barb elbow * ¾\" male thread ",
+      "BRB16-CPL-1/2M": "<<UNTRANSLATED>> Barb coupling * ½\" male thread ",
+      "BRB16-CPL-3/4M": "<<UNTRANSLATED>> Barb coupling * ¾\" male thread ",
+      "FLEX-PIPE": "<<UNTRANSLATED>> Flexible tubing for sprinkler connection"
     }
   },
   "Hunter": {
@@ -2918,7 +2997,15 @@
       "SJ-712": "Joint pivotant Hunter SJ-712 ¾\" 30cm.",
       "HSBE-050": "Coude cannelé en spirale Hunter HSBE-050 * filetage mâle ½\"",
       "HSBE-075": "Coude cannelé en spirale Hunter HSBE-075 * filetage mâle ¾\"",
-      "FLEXSG": "Tube flexible Hunter FLEXSG"
+      "FLEXSG": "Tube flexible Hunter FLEXSG",
+      "HSJ-0-3-2-2-8": "<<UNTRANSLATED>> Hunter HSJ-0 Swing Joint ¾\" NPTxNPT Single top-out 20cm.",
+      "HSJ-0-3-2-2-12": "<<UNTRANSLATED>> Hunter HSJ-0 Swing Joint ¾\" NPTxNPT Single top-out 30cm.",
+      "HSJ-0-6-5-2-8": "<<UNTRANSLATED>> Hunter HSJ-0 Swing Joint ¾\" BSPxBSP Single top-out 20cm.",
+      "HSJ-0-6-5-2-12": "<<UNTRANSLATED>> Hunter HSJ-0 Swing Joint ¾\" BSPxBSP Single top-out 30cm.",
+      "HSJ-1-3-2-2-12": "<<UNTRANSLATED>> Hunter HSJ-1 Swing Joint 1\" NPTxNPT Single top-out 30cm.",
+      "HSJ-1-3-2-2-18": "<<UNTRANSLATED>> Hunter HSJ-1 Swing Joint 1\" NPTxNPT Single top-out 40cm.",
+      "HSJ-1-6-5-2-12": "<<UNTRANSLATED>> Hunter HSJ-1 Swing Joint 1\" BSPxBSP Single top-out 30cm.",
+      "HSJ-1-6-5-2-18": "<<UNTRANSLATED>> Hunter HSJ-1 Swing Joint 1\" BSPxBSP Single top-out 40cm."
     },
     "_controllers_Hunter": {
       "ELC-401i-E": "Contrôleur intérieur 4 stations Hunter ELC-401i-E",
@@ -3722,6 +3809,27 @@
   "KRain": {
     "_rotors_KRain": {
       "360": " (Cercle complet)",
+      "sureThrow_colors": {
+        "orange": "<<UNTRANSLATED>>orange",
+        "green": "<<UNTRANSLATED>>green",
+        "blue": "<<UNTRANSLATED>>blue",
+        "black": "<<UNTRANSLATED>>black"
+      },
+      "proSport_colors": {
+        "white": "<<UNTRANSLATED>>white",
+        "green": "<<UNTRANSLATED>>green",
+        "grey": "<<UNTRANSLATED>>grey",
+        "brown": "<<UNTRANSLATED>>brown",
+        "blue": "<<UNTRANSLATED>>blue",
+        "black": "<<UNTRANSLATED>>black"
+      },
+      "options_texts_1": {
+        "6INCH": "<<UNTRANSLATED>> (6in. Riser)",
+        "RCW": "<<UNTRANSLATED>> (Reclaimed Water Use)",
+        "SS": "<<UNTRANSLATED>> (Stainless Steel)",
+        "HS": "<<UNTRANSLATED>> (High-speed rotation)",
+        "BSP": "<<UNTRANSLATED>> (BSP inlet thread)"
+      },
       "red": "rouge",
       "green": "vert",
       "black": "noir",
@@ -4166,7 +4274,7 @@
         "green": "vert",
         "beige": "beige"
       },
-      "8000_colors": {
+      "8005_colors": {
         "black": "noir",
         "light blue": "bleu clair",
         "green": "vert",
@@ -4429,7 +4537,9 @@
       "SPX-FLEX": "Tube flexible Rain Bird SPX-FLEX",
       "SBE-050": "Rain Bird SBE-050 Coude cannelé en spirale * Filetage mâle ½\"",
       "SBE-075": "Rain Bird SBE-075 Coude cannelé en spirale * Filetage mâle ¾\"",
-      "SBA-050": "Rain Bird SBA-050 Adaptateur cannelé spiralé * Filetage mâle ½\""
+      "SBA-050": "Rain Bird SBA-050 Adaptateur cannelé spiralé * Filetage mâle ½\"",
+      "TSJ-12075": "<<UNTRANSLATED>> Rain Bird TSJ Swing Joint ¾\\\" NPTxNPT 30.5cm.",
+      "TSJ-12": "<<UNTRANSLATED>> Rain Bird TSJ Swing Joint 1\\\" NPTxNPT 30.5cm."
     },
     "_controllers_RainBird": {
       "RZXe4i-230V": "Rain Bird RZXe, Programmateur intérieur 4 stations 230 V AC",
@@ -4590,6 +4700,20 @@
     "_rotors_Toro": {
       "10": " (Modèle arbuste)",
       "12": " (Haute Pop)",
+      "titan_colors": {
+        "orange": "<<UNTRANSLATED>>orange",
+        "red": "<<UNTRANSLATED>>red",
+        "black": "<<UNTRANSLATED>>black",
+        "blue": "<<UNTRANSLATED>>blue",
+        "green": "<<UNTRANSLATED>>green"
+      },
+      "options_texts_1": {
+        "NP": " <<UNTRANSLATED>>(Non-potable water)",
+        "E": " <<UNTRANSLATED>>(Effluent rubber cover)",
+        "L": " <<UNTRANSLATED>>(Low Flow)",
+        "SS": " <<UNTRANSLATED>>(Stainless Steel)",
+        "BSP": " <<UNTRANSLATED>>(BSP inlet thread)"
+      },
       "grey": "gris",
       "E": " (Effluent)",
       "COM": " (Clapet anti-retour)",
@@ -4609,7 +4733,12 @@
       "mini8E_body": "Toro MINI8-{{RR}}-E Rotor (Effluent)",
       "t5": "Torô {{model}} {{series}} Rotor avec #{{nozzle}} {{nozzleColor.fr}} buse{{options.fr}}",
       "t5_body": "Torô {{model}} {{series}} Rotor{{options.fr}}",
-      "t5_noz": "Torô {{series}} Série #{{nozzle}} buse ({{nozzleColor.fr}})"
+      "t5_noz": "Torô {{series}} Série #{{nozzle}} buse ({{nozzleColor.fr}})",
+      "common_lang": "<<UNTRANSLATED>>Toro {{model}} {{series}} Rotor with #{{nozzle}} {{nozzleColor.fr}} nozzle{{options.fr}}",
+      "common_body": "<<UNTRANSLATED>>Toro {{model}} {{series}} Rotor{{options.fr}}",
+      "common_noz": "<<UNTRANSLATED>>Toro {{series}} Series #{{nozzle}} nozzle ({{nozzleColor.fr}})",
+      "common_lang_1": "<<UNTRANSLATED>>Toro {{model}} {{series}} Rotor with #{{nozzle}} nozzle{{options.fr}}",
+      "common_noz_1": "<<UNTRANSLATED>>Toro {{series}} Series #{{nozzle}} nozzle"
     },
     "_bubblers_Toro": {
       "514-20": "Bulleur d'inondation Toro 514-20",

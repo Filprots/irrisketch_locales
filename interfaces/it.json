@@ -260,8 +260,9 @@
   "locale_be": "Беларуoman",
   "locale_uk": "Ucraina",
   "locale_de": "Tedesca",
-  "locale_fr": "francese",
-  "locale_es": "spagnolo",
+  "locale_fr": "Francese",
+  "locale_es": "Spagnolo",
+  "locale_it": "Italiano",
   "Language": "Lingua",
   "Sign in": "Registrazione",
   "Hi": "CIAO",
@@ -1361,5 +1362,7 @@
   "Invoice_companyName_Placeholder": "Polivcentrarale",
   "Invoice_vatID": "partita Iva",
   "Invoice_vatID_Placeholder": "Inserisci qui il tuo ID IVA",
-  "LANG_PACK_SAME_PRICE": "Ottieni ulteriori vantaggi allo stesso prezzo"
+  "LANG_PACK_SAME_PRICE": "Ottieni ulteriori vantaggi allo stesso prezzo",
+  "getRotorInchPack": "Purchase add-on",
+  "toolRotorInch": "Rotor 1\""
 }

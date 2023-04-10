@@ -262,6 +262,7 @@
 	"locale_de": "German",
 	"locale_fr": "French",
 	"locale_es": "Spanish",
+	"locale_it": "Italian",
 	"Language": "Language",
 	"Sign in": "Sign in",
 	"Hi": "Hi",
@@ -1361,5 +1362,7 @@
 	"Invoice_companyName_Placeholder": "PolivCentrale",
 	"Invoice_vatID": "VAT ID",
 	"Invoice_vatID_Placeholder": "Enter here your VAT ID",
-	"LANG_PACK_SAME_PRICE": "Get additional benefits for the same price"
+	"LANG_PACK_SAME_PRICE": "Get additional benefits for the same price",
+	"getRotorInchPack": "Purchase add-on",
+	"toolRotorInch": "Rotor 1\""
 }

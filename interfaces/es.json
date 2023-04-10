@@ -262,6 +262,7 @@
   "locale_de": "Alemana",
   "locale_fr": "Francesa",
   "locale_es": "Español",
+  "locale_it": "Italiano",
   "Language": "Idioma",
   "Sign in": "Iniciar sesión",
   "Hi": "Hola",
@@ -1361,5 +1362,7 @@
   "Invoice_companyName_Placeholder": "Polivcentrale",
   "Invoice_vatID": "ID de IVA",
   "Invoice_vatID_Placeholder": "Ingrese aquí su ID de IVA",
-  "LANG_PACK_SAME_PRICE": "Obtenga beneficios adicionales por el mismo precio"
+  "LANG_PACK_SAME_PRICE": "Obtenga beneficios adicionales por el mismo precio",
+  "getRotorInchPack": "Purchase add-on",
+  "toolRotorInch": "Rotor 1\""
 }

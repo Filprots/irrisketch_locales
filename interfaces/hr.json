@@ -261,7 +261,8 @@
 	"locale_uk": "Ukrajinski",
 	"locale_de": "Njemački",
 	"locale_fr": "Francuski",
-	"locale_es": "španjolski",
+	"locale_es": "Španjolski",
+	"locale_it": "Talijanski",
 	"Language": "Jezik",
 	"Sign in": "Prijava",
 	"Hi": "Bok",
@@ -1361,5 +1362,7 @@
 	"Invoice_companyName_Placeholder": "PolivCentrale",
 	"Invoice_vatID": "PDV ID",
 	"Invoice_vatID_Placeholder": "Ovdje unesite svoj PDV ID",
-	"LANG_PACK_SAME_PRICE": "Dobijte dodatne pogodnosti za istu cijenu"
+	"LANG_PACK_SAME_PRICE": "Dobijte dodatne pogodnosti za istu cijenu",
+	"getRotorInchPack": "Purchase add-on",
+	"toolRotorInch": "Rotor 1\""
 }

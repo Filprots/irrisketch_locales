@@ -1329,6 +1329,7 @@
 	"SubscrDSPage_options_5": "Restriction of viewing/editing",
 	"SubscrDSPage_options_6": "Unlimited amount of links",
 	"SubscrDS_IncludedInPro": "Attention! Subscription for Design Studio is included in PRO-subscription",
+	"Subscr_IncludedInPro": "Attention! This feature is included in PRO-subscription",
 	"hdpeSDR9": "HDPE SDR 9",
 	"hdpeSDR11": "HDPE SDR 11",
 	"hdpeSDR136": "HDPE SDR 13.6",
@@ -1364,5 +1365,18 @@
 	"Invoice_vatID_Placeholder": "Enter here your VAT ID",
 	"LANG_PACK_SAME_PRICE": "Get additional benefits for the same price",
 	"getRotorInchPack": "Purchase add-on",
-	"toolRotorInch": "Rotor 1\""
+	"toolRotorInch": "Rotor 1\"",
+	"SubscrPage_EquipPackFeature": "Additional equipment",
+	"SubscrPage_Feature_Inch": "Rotors 1\"",
+	"SubscrPage_INCH_options_1": "Hunter: I-25, I-40 Series",
+	"SubscrPage_INCH_options_2": "Rain Bird: 8005, Falcon Series",
+	"SubscrPage_INCH_options_3": "K-Rain: ProSport Series",
+	"SubscrPage_INCH_options_4": "Toro: T7 Series",
+	"equip_pack_inch_year_EUR": "Equipment pack: Rotors 1\" 1 year subscription",
+	"equip_pack_inch_year_RUB": "Equipment pack: Rotors 1\" 1 year subscription",
+	"equip_pack_inch_six-month_EUR": "Equipment pack: Rotors 1\" 1/2 year subscription",
+	"equip_pack_inch_six-month_RUB": "Equipment pack: Rotors 1\" 1/2 year subscription",
+	"equip_pack_inch_month_EUR": "Equipment pack: Rotors 1\" one-month subscription",
+	"equip_pack_inch_month_RUB": "Equipment pack: Rotors 1\" one-month subscription",
+	"SubscrPage_RES_proPlan_options_INCH": "Rotors 1\" included"
 }

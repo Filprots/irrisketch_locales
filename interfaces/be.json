@@ -1329,6 +1329,7 @@
   "SubscrDSPage_options_5": "Ограничение редактируемости проекта",
   "SubscrDSPage_options_6": "Неограниченное количество ссылок",
   "SubscrDS_IncludedInPro": "Внимание! Подписка на Проектное Бюро включена в Пописку PRO",
+  "Subscr_IncludedInPro": "Внимание! Данный функционал по-умолчанию включён в Пописку PRO",
   "hdpeSDR9": "ПНД SDR 9",
   "hdpeSDR11": "ПНД SDR 11",
   "hdpeSDR136": "ПНД SDR 13.6",
@@ -1364,5 +1365,18 @@
   "Invoice_vatID_Placeholder": "Введите ваши налоговые идентификаторы",
   "LANG_PACK_SAME_PRICE": "Дополнительные преимущества за ту же стоимость",
   "getRotorInchPack": "Приобрести дополнение",
-  "toolRotorInch": "Ротор 1\""
+  "toolRotorInch": "Ротор 1\"",
+  "SubscrPage_EquipPackFeature": "Дополнительное оборудование",
+  "SubscrPage_Feature_Inch": "Роторы 1\"",
+  "SubscrPage_INCH_options_1": "Hunter: I-25, I-40 Series",
+  "SubscrPage_INCH_options_2": "Rain Bird: 8005, Falcon Series",
+  "SubscrPage_INCH_options_3": "K-Rain: ProSport Series",
+  "SubscrPage_INCH_options_4": "Toro: T7 Series",
+  "equip_pack_inch_year_EUR": "Набор оборудования: Роторы 1\" на 1 год",
+  "equip_pack_inch_year_RUB": "Набор оборудования: Роторы 1\" на 1 год",
+  "equip_pack_inch_six-month_EUR": "Набор оборудования: Роторы 1\" на пол года",
+  "equip_pack_inch_six-month_RUB": "Набор оборудования: Роторы 1\" на пол года",
+  "equip_pack_inch_month_EUR": "Набор оборудования: Роторы 1\" на месяц",
+  "equip_pack_inch_month_RUB": "Набор оборудования: Роторы 1\" на месяц",
+  "SubscrPage_RES_proPlan_options_INCH": "Роторы 1\" включены"
 }

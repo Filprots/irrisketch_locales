@@ -461,6 +461,7 @@ this.LNG = {
         sprinkler_nozzleFT: "Priključak rasprskivača (Dizna sa Muškim navojem)",
         "sprinkler_rotor1/2F": "Priključak rasprskivača (Rotor) 1/2\" ženski",
         "sprinkler_rotor3/4F": "Priključak rasprskivača (Rotor) 3/4\" ženski",
+        "sprinkler_rotor1F": "Priključak rasprskivača (Rotor) 1\" ženski",
         "sprinkler_rotor1/2M": "Priključak rasprskivača (Rotor) 1/2\" muški",
         "sprinkler_bubbler1/2F": "Priključak rasprskivača (Bubbler) 1/2\" ženski",
         sprinkler_bubblerNozzleMT: "Priključak rasprskivača (Bubbler Dizna sa Ženskim navojem)",

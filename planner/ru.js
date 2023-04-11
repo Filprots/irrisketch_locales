@@ -461,6 +461,7 @@ this.LNG = {
         sprinkler_nozzleFT: "Узел дождевания (Сопло с наружной резьбой)",
         "sprinkler_rotor1/2F": "Узел дождевания (Ротор) 1/2\"ВН",
         "sprinkler_rotor3/4F": "Узел дождевания (Ротор) 3/4\"",
+        "sprinkler_rotor1F": "Узел дождевания (Ротор) 1\"",
         "sprinkler_rotor1/2M": "Узел дождевания (Ротор) 1/2\"НР",
         "sprinkler_bubbler1/2F": "Узел дождевания (Баблер)",
         sprinkler_bubblerNozzleMT: "Узел дождевания (Сопло-баблер с внутренней резьбой)",

@@ -1391,5 +1391,6 @@
 	"equip_pack_inch_six-month_RUB": "Equipment pack: Rotors 1\" 1/2 year subscription",
 	"equip_pack_inch_month_EUR": "Equipment pack: Rotors 1\" one-month subscription",
 	"equip_pack_inch_month_RUB": "Equipment pack: Rotors 1\" one-month subscription",
-	"SubscrPage_RES_proPlan_options_INCH": "Rotors 1\" included"
+	"SubscrPage_RES_proPlan_options_INCH": "<b>Rotors 1\"</b> included",
+	"STD_LANG_PACK": "PRO"
 }

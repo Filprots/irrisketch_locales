@@ -1391,5 +1391,6 @@
 	"equip_pack_inch_six-month_RUB": "Ausrüstung packen: Rotors 1\" Halbjahresabonnement",
 	"equip_pack_inch_month_EUR": "Ausrüstung packen: Rotors 1\" einmonatiges Abonnement",
 	"equip_pack_inch_month_RUB": "Ausrüstung packen: Rotors 1\" einmonatiges Abonnement",
-	"SubscrPage_RES_proPlan_options_INCH": "Rotors 1\" inklusive"
+	"SubscrPage_RES_proPlan_options_INCH": "<b>Rotors 1\"</b> inklusive",
+	"STD_LANG_PACK": "PRO"
 }

@@ -1391,5 +1391,6 @@
   "equip_pack_inch_six-month_RUB": "Pacchetto di attrezzature: Rotori 1\" Abbonamento di 1/2 anni",
   "equip_pack_inch_month_EUR": "Pacchetto di attrezzature: Rotori 1\" abbonamento di un mese",
   "equip_pack_inch_month_RUB": "Pacchetto di attrezzature: Rotori 1\" abbonamento di un mese",
-  "SubscrPage_RES_proPlan_options_INCH": "Rotori 1\" included"
+  "SubscrPage_RES_proPlan_options_INCH": "<b>Rotori 1\"</b> included",
+  "STD_LANG_PACK": "PRO"
 }

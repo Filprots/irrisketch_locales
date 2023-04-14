@@ -1391,5 +1391,6 @@
   "equip_pack_inch_six-month_RUB": "Набор оборудования: Роторы 1\" на пол года",
   "equip_pack_inch_month_EUR": "Набор оборудования: Роторы 1\" на месяц",
   "equip_pack_inch_month_RUB": "Набор оборудования: Роторы 1\" на месяц",
-  "SubscrPage_RES_proPlan_options_INCH": "Роторы 1\" включены"
+  "SubscrPage_RES_proPlan_options_INCH": "<b>Роторы 1\"</b> включены",
+  "STD_LANG_PACK": "PRO"
 }

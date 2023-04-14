@@ -1103,10 +1103,12 @@ this.LNG = {
             "Zone irrigue che sono all'ombra, riparate dal vento e lontane da oggetti secchi e riscaldati\n" +
             "\n" +
             "Normale\n" +
-            "Luoghi nel paesaggio in cui le condizioni del microclima sono rappresentate: la presenza di edifici, marciapiedi e percorsi, ombra, ecc. non influiscono significativamente sui valori dell'evapotraspirazione\n" +
+            "Luoghi nel paesaggio in cui le condizioni del microclima sono rappresentate: la presenza di edifici, " +
+            "marciapiedi e percorsi, ombra, ecc. non influiscono significativamente sui valori dell'evapotraspirazione\n" +
             "\n" +
             "Difficile\n" +
-            "Riflette le condizioni che ostacolano la crescita delle piante e si traducono facilmente in uno stato di stress se la pianta non viene irrigata correttamente. Può essere un luogo aperto, sotto il sole cocente, in prossimità di percorsi, edifici o altre strutture paesaggistiche, che riflettono la luce dai vetri o dagli elementi del paesaggio che assorbono il calore, o può essere un luogo ventoso.",
+            "Riflette le condizioni che ostacolano la crescita delle piante e si traducono " +
+            "facilmente in uno stato di stress se la pianta non viene irrigata correttamente. Può essere un luogo aperto, sotto il sole cocente, in prossimità di percorsi, edifici o altre strutture paesaggistiche, che riflettono la luce dai vetri o dagli elementi del paesaggio che assorbono il calore, o può essere un luogo ventoso.",
         gentleMicroClimate: "Mite",
         normalMicroClimate: "Normale",
         toughMicroClimate: "Difficile",
@@ -1138,4 +1140,3 @@ this.LNG = {
         maxFlowVelocity: "Velocità massima del flusso nella tubazione"
     }
 };
-

@@ -35,7 +35,7 @@
     "ERROR": {
       "no_data": "Geen gegevens voor invoeging gedetecteerd",
       "not_enough_cols": "Er zijn minder kolommen op het klembord dan u hierboven hebt geselecteerd",
-      "too_many_cols": "Er staan ​​meer kolommen op het klembord dan u hierboven hebt geselecteerd"
+      "too_many_cols": "Er staan meer kolommen op het klembord dan u hierboven hebt geselecteerd"
     },
     "GRID": {
       "Brand": "Fabrikant",

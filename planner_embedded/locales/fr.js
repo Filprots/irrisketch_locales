@@ -117,6 +117,7 @@
             sp: "Arroseur",
             ld: "Paysage",
             mixed_sp_lo: "Arroseur/Aménagement",
+            mixed_sp_lo2: "Sprinkler/Layout 2",
             mixed_ld_lo: "Paysage/Mise en page",
             hw: "Hydrawise",
             lo: "Mise en page",

@@ -117,6 +117,7 @@
             sp: "Pabarstukas",
             ld: "Kraštovaizdis",
             mixed_sp_lo: "Pabarstukas / Planas",
+            mixed_sp_lo2: "Sprinkler/Layout 2",
             mixed_ld_lo: "Kraštovaizdis / Planas",
             hw: "Hydrawise",
             lo: "Planas",

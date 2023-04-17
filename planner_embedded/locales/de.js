@@ -117,6 +117,7 @@
             sp: "Sprinkler",
             ld: "Landscape",
             mixed_sp_lo: "Sprinkler/Layout",
+            mixed_sp_lo2: "Sprinkler/Layout 2",
             mixed_ld_lo: "Landscape/Layout",
             hw: "Hydrawise",
             lo: "Layout",

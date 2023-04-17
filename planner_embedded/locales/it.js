@@ -117,6 +117,7 @@
             sp: "Spruzzatore",
             ld: "Paesaggio",
             mixed_sp_lo: "Irrigatore/Disposizione",
+            mixed_sp_lo2: "Sprinkler/Layout 2",
             mixed_ld_lo: "Orizzontale/Layout",
             hw: "Hydrawise",
             lo: "Disposizione",

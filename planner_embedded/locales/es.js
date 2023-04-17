@@ -117,6 +117,7 @@
             sp: "Aspersor",
             ld: "Paisaje",
             mixed_sp_lo: "Rociador/Disposición",
+            mixed_sp_lo2: "Sprinkler/Layout 2",
             mixed_ld_lo: "Paisaje/Diseño",
             hw: "Hidrasabia",
             lo: "Disposición",

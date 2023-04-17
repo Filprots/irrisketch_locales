@@ -117,6 +117,7 @@
             sp: "Sproeier",
             ld: "Landschap",
             mixed_sp_lo: "Sproeier/Lay-out",
+            mixed_sp_lo2: "Sprinkler/Layout 2",
             mixed_ld_lo: "Landschap/Lay-out",
             hw: "Hydrawise",
             lo: "Lay-out",

@@ -117,6 +117,7 @@
             sp: "Zone",
             ld: "Hortikultura",
             mixed_sp_lo: "Instalacija/Potrošači",
+            mixed_sp_lo2: "Sprinkler/Layout 2",
             mixed_ld_lo: "Instalacija/Hortikultura",
             hw: "Hydrawise",
             lo: "Radionički",

@@ -1005,8 +1005,8 @@ this.LNG = {
         //MANIFOLD NODE CONFIGS
         manifoldNode: "Razvod ventila",
         valvesOutlay: "Raspored ventila",
-        fold: "Savijeni",
-        unfold: "Razvijeni",
+        fold: "Grupno",
+        unfold: "Pojedinačno",
         threadsNode: "Navojni spojevi",
         threadTypes: "Vrste navoja",
         //AUTOMATION NODE CONFIGS

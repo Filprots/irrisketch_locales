@@ -1,0 +1,22 @@
+{
+  "name": "irrisketch_locales",
+  "version": "1.0.0",
+  "description": "Translation of irrisketch.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filprots/irrisketch_locales.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filprots/irrisketch_locales/issues"
+  },
+  "homepage": "https://github.com/Filprots/irrisketch_locales#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}

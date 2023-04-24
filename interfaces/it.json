@@ -1412,5 +1412,13 @@
   "equip_pack_inch_month_EUR": "Pacchetto di attrezzature: Rotori 1\" abbonamento di un mese",
   "equip_pack_inch_month_RUB": "Pacchetto di attrezzature: Rotori 1\" abbonamento di un mese",
   "SubscrPage_RES_proPlan_options_INCH": "<b>Rotori 1\"</b> included",
-  "STD_LANG_PACK": "PRO"
+  "STD_LANG_PACK": "PRO",
+  "countryChangeRestrictions": "You can change country only one time. Be careful and properly select country where you are located. This will affect services that we will deliver to you",
+  "PleaseChooseCountry": "Please choose your country",
+  "ChangeCountry": "Set new country",
+  "ChangeCountryPage": "Change country",
+  "CountryWasChanged": "Country was successfully changed",
+  "invalidCountry": "Please choose valid option",
+  "OnlyOneCountryChangeAllowed": "OnlyOneCountryChangeAllowed",
+  "noCountryFail": "No country selected"
 }

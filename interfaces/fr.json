@@ -1412,5 +1412,13 @@
   "equip_pack_inch_month_EUR": "Pack d'équipement: Rotors 1\" abonnement d'un mois",
   "equip_pack_inch_month_RUB": "Pack d'équipement: Rotors 1\" abonnement d'un mois",
   "SubscrPage_RES_proPlan_options_INCH": "<b>Rotors 1\"</b> included",
-  "STD_LANG_PACK": "PRO"
+  "STD_LANG_PACK": "PRO",
+  "countryChangeRestrictions": "You can change country only one time. Be careful and properly select country where you are located. This will affect services that we will deliver to you",
+  "PleaseChooseCountry": "Please choose your country",
+  "ChangeCountry": "Set new country",
+  "ChangeCountryPage": "Change country",
+  "CountryWasChanged": "Country was successfully changed",
+  "invalidCountry": "Please choose valid option",
+  "OnlyOneCountryChangeAllowed": "OnlyOneCountryChangeAllowed",
+  "noCountryFail": "No country selected"
 }

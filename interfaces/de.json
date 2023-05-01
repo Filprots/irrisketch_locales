@@ -1413,12 +1413,13 @@
   "equip_pack_inch_month_RUB": "Ausrüstung packen: Rotors 1\" einmonatiges Abonnement",
   "SubscrPage_RES_proPlan_options_INCH": "<b>Rotors 1\"</b> inklusive",
   "STD_LANG_PACK": "PRO",
-  "countryChangeRestrictions": "You can change country only one time. Be careful and properly select country where you are located. This will affect services that we will deliver to you",
-  "PleaseChooseCountry": "Please choose your country",
-  "ChangeCountry": "Set new country",
-  "ChangeCountryPage": "Change country",
-  "CountryWasChanged": "Country was successfully changed",
-  "invalidCountry": "Please choose valid option",
-  "OnlyOneCountryChangeAllowed": "OnlyOneCountryChangeAllowed",
-  "noCountryFail": "No country selected"
+  "countryChangeRestrictions": "Sie können das Land nur einmal ändern. Seien Sie vorsichtig und wählen Sie das Land, in dem Sie sich befinden, richtig aus. Dies wirkt sich auf die Dienstleistungen aus, die wir Ihnen liefern werden",
+  "PleaseChooseCountry": "Bitte wählen Sie Ihr Land",
+  "ChangeCountry": "Neues Land einstellen",
+  "ChangeCountryPage": "Land ändern",
+  "CountryWasChanged": "Land wurde erfolgreich geändert",
+  "invalidCountry": "Bitte wählen Sie eine gültige Option",
+  "OnlyOneCountryChangeAllowed": "Sie können das Land nur einmal ändern",
+  "noCountryFail": "Kein Land ausgewählt",
+  "AutoActivateSubscriptionsOnPurchaseAndExpiration_CheckLabel": "Automatische Aktivierung des Abonnements"
 }

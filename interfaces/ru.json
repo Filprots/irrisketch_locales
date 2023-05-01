@@ -1413,12 +1413,13 @@
   "equip_pack_inch_month_RUB": "Набор оборудования: Роторы 1\" на месяц",
   "SubscrPage_RES_proPlan_options_INCH": "<b>Роторы 1\"</b> включены",
   "STD_LANG_PACK": "PRO",
-  "countryChangeRestrictions": "You can change country only one time. Be careful and properly select country where you are located. This will affect services that we will deliver to you",
-  "PleaseChooseCountry": "Please choose your country",
-  "ChangeCountry": "Set new country",
-  "ChangeCountryPage": "Change country",
-  "CountryWasChanged": "Country was successfully changed",
-  "invalidCountry": "Please choose valid option",
-  "OnlyOneCountryChangeAllowed": "OnlyOneCountryChangeAllowed",
-  "noCountryFail": "No country selected"
+  "countryChangeRestrictions": "Вы можете изменить страну только один раз. Будьте внимательны и правильно выбирайте страну, в которой вы находитесь. Это повлияет на услуги, которые мы будем предоставлять вам",
+  "PleaseChooseCountry": "Выберите страну",
+  "ChangeCountry": "Выбрать страну",
+  "ChangeCountryPage": "Изменить страну",
+  "CountryWasChanged": "Страна была успешно изменена",
+  "invalidCountry": "Выберите корректный вариант",
+  "OnlyOneCountryChangeAllowed": "Можно менять страну только 1 раз",
+  "noCountryFail": "Не выбрана страна",
+  "AutoActivateSubscriptionsOnPurchaseAndExpiration_CheckLabel": "Авто-активация подписки"
 }

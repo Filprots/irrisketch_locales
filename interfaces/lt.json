@@ -1419,6 +1419,7 @@
   "ChangeCountryPage": "Change country",
   "CountryWasChanged": "Country was successfully changed",
   "invalidCountry": "Please choose valid option",
-  "OnlyOneCountryChangeAllowed": "OnlyOneCountryChangeAllowed",
-  "noCountryFail": "No country selected"
+  "OnlyOneCountryChangeAllowed": "You can change country only once",
+  "noCountryFail": "No country selected",
+  "AutoActivateSubscriptionsOnPurchaseAndExpiration_CheckLabel": "Subscription auto-activation"
 }

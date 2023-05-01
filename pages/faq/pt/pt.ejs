@@ -1,0 +1,168 @@
+<script type="module">
+    if (location.hash !== null && location.hash !== "") {
+        $(location.hash + ".collapse").collapse();
+    }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
+</script>
+
+<div class="container" id="faq">
+<hr>
+<div class="row mb-3">
+    <div class="col-lg-12 text-center"><span class="h3">Perguntas de carácter geral</span></div>
+</div>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+            aria-expanded="false"
+            aria-controls="qA1">
+        Comprei uma subscrição, mas a funcionalidade paga não está disponível, o que fazer?
+    </button>
+</p>
+<div class="collapse" id="qA1" data-parent="#faq">
+    <div class="card card-body">
+        <p>
+            Depois de adquirir uma subscrição paga do IRRISketch, tem de a activar manualmente na sua conta pessoal
+            na ligação:
+        </p>
+        <p>
+            <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>,
+        </p>
+        onde a sua subscrição será apresentada na coluna da direita. Após a activação, poderá utilizar livremente todas as
+        funcionalidades pagas do serviço.
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+            aria-expanded="false"
+            aria-controls="qA2">
+        Paguei a subscrição, mas esta não aparece no meu armário pessoal.
+    </button>
+</p>
+<div class="collapse" id="qA2" data-parent="#faq">
+    <div class="card card-body">
+        <p>
+            Neste caso, tem de aceder à sua conta pessoal através desta ligação:
+        </p>
+        <p>
+            <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>
+        </p>
+        <p>
+            Observe o botão na parte inferior da encomenda. O botão vermelho "Repetir" significa que o pagamento
+            falhou
+            e que deve tentar novamente, mas primeiro verifique se o dinheiro foi debitado.
+        </p>
+        <p>
+            Se o botão amarelo "Pagamento em curso" já aparece há muito tempo, é provável que a
+            transacção não tenha
+            aconteceu
+            confirmação automática. Se for este o caso, clique neste botão para a completar e tudo deverá
+            funcionar.
+        </p>
+        Após o pagamento bem sucedido e a conclusão da transacção, verá um botão verde "Pagamento verificado".
+        Clique nele e a sua subscrição aparecerá na coluna da direita.
+    </div>
+</div>
+<hr>
+<div class="row mb-3">
+    <div class="col-lg-12 text-center"><span class="h3">Perguntas sobre projectos</span></div>
+</div>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+            aria-expanded="false" aria-controls="qP1">
+        As alterações no projecto não foram guardadas/Quero restaurar um determinado estado do
+        projecto, o que devo fazer?
+    </button>
+</p>
+<div class="collapse" id="qP1" data-parent="#faq">
+    <div class="card card-body">
+        <p>
+            (Este método só funciona em browsers que tenham Developer Tools)
+        </p>
+        <p>
+            1. Abrir o mesmo navegador, no mesmo computador onde trabalhou pela última vez no projecto
+        </p>
+        <p>
+            2. Vá para a oficina IRRISketch e abra o projecto com o problema
+        </p>
+        <p>
+            3. Se, ao abrir o projecto, aparecer uma janela a solicitar o restauro do projecto, clique no botão
+            botão "Restaurar" e
+            ver o resultado. Se o projecto não tiver sido restaurado para o estado pretendido, continue a seguir as
+            instruções
+        </p>
+        <p>
+            4. Abra as ferramentas de desenvolvimento (na maioria dos browsers - o botão F12) e abra o separador Consola
+            como mostrado na imagem abaixo:
+        </p>
+        <p>
+            5. Introduza o seguinte comando na consola e prima Enter:
+        </p>
+        <p>
+            autobackup.ASL()
+        </p>
+        <p>
+            6. Aparecerá uma lista das gravações automáticas (normalmente as últimas 12) ( A gravação automática é efectuada a cada dez
+            minutos,
+            Por isso, 12 × 10 = 120 min = 2 horas). A lista será mais ou menos assim:
+        </p>
+        <p>
+            Se surgisse algo deste género:
+        </p>
+        <p>
+            Em seguida, prima o símbolo do triângulo ( ▶ ) para expandir a lista ( ▼ )
+        </p>
+        <p>
+            7. Na lista das gravações automáticas, seleccione o momento em que, de acordo com os seus cálculos, o projecto se encontrava no estado
+            mais
+            e veja o número que aparece no início dessa linha.
+        </p>
+        <p>
+            8. Escreva o seguinte texto na consola:
+        </p>
+        <p>
+            autobackup.RAS(*Paste the number from the previous paragraph here*)
+        </p>
+        9. Certifique-se de que o estado de conservação satisfaz as suas necessidades. Caso contrário, chamar o
+        comando
+        do ponto anterior com um número diferente até encontrar o estado desejado.
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+            aria-expanded="false"
+            aria-controls="qP2">
+        Como posso apresentar a grelha no desenho de um projecto? A grelha de desenho não aparece aquando da saída para PDF/PNG.
+    </button>
+</p>
+<div class="collapse" id="qP2" data-parent="#faq">
+    <div class="card card-body">
+        <span>
+            Para visualizar a grelha durante a impressão, esta deve ser colocada no desenho como uma imagem. É possível descarregar a grelha,
+            por exemplo <a
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing" target="_blank">from here</a>, and then scale it on the drawing to the desired size.
+        </span>
+    </div>
+</div>
+<hr>
+<p>
+    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+            aria-expanded="false"
+            aria-controls="qP3">
+        Como é que transfiro um projecto de uma conta para outra?
+    </button>
+</p>
+<div class="collapse" id="qP3" data-parent="#faq">
+    <div class="card card-body">
+        Para tal, pode descarregar o ficheiro do projecto utilizando o botão apropriado no painel superior direito
+        Depois disso, crie um projecto vazio numa nova conta e, utilizando o botão "Download", abra o projecto descarregado.
+        <br>
+        <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button" width="30%" height="30%">
+    </div>
+</div>
+<hr>
+</div>

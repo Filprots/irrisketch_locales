@@ -6430,11 +6430,11 @@
   },
   "Hunter": {
     "_rotors_Hunter": {
-      "common_lang": "Jager {{model}} Rotor met{{nozzle}} {{nozzleColor.nl}} mondstuk",
-      "common_lang_2": "Jager {{model}} Rotor met{{nozzle}} {{nozzleColor.nl}} mondstuk{{options.nl}}",
-      "common_body": "Jager {{model}} Rotor",
-      "common_body_2": "Jager {{model}} Rotor{{options.nl}}",
-      "common_noz": "Jager {{class}}{{nozzle}} mondstuk ({{nozzleColor.nl}})",
+      "common_lang": "Hunter {{model}} Rotor met{{nozzle}} {{nozzleColor.nl}} mondstuk",
+      "common_lang_2": "Hunter {{model}} Rotor met{{nozzle}} {{nozzleColor.nl}} mondstuk{{options.nl}}",
+      "common_body": "Hunter {{model}} Rotor",
+      "common_body_2": "Hunter {{model}} Rotor{{options.nl}}",
+      "common_noz": "Hunter {{class}}{{nozzle}} mondstuk ({{nozzleColor.nl}})",
       "i20_colors": {
         "blue": "blauw",
         "grey": "grijs",
@@ -6465,17 +6465,17 @@
         "HS": " (rotatie op hoge snelheid)",
         "ON": " (Tegenoverliggende spuitmond)"
       },
-      "pgj": "Jager PGJ-{{RR}} Rotor met{{nozzle}} rood mondstuk",
-      "pgj_body": "Jager PGJ-{{RR}} Rotor",
-      "pgj_noz": "Jager PGJ{{nozzle}} mondstuk (rood)",
+      "pgj": "Hunter PGJ-{{RR}} Rotor met{{nozzle}} rood mondstuk",
+      "pgj_body": "Hunter PGJ-{{RR}} Rotor",
+      "pgj_noz": "Hunter PGJ{{nozzle}} mondstuk (rood)",
       "pgpAdj_colors": {
         "red": "rood",
         "blue": "blauw",
         "grey": "grijs"
       },
-      "srm": "Jager SRM-{{RR}} Rotor met{{nozzle}} donkergroen mondstuk",
-      "srm_body": "Jager SRM-{{RR}} Rotor",
-      "srm_noz": "Jager SRM{{nozzle}} mondstuk (donkergroen)"
+      "srm": "Hunter SRM-{{RR}} Rotor met{{nozzle}} donkergroen mondstuk",
+      "srm_body": "Hunter SRM-{{RR}} Rotor",
+      "srm_noz": "Hunter SRM{{nozzle}} mondstuk (donkergroen)"
     },
     "_bubblers_Hunter": {
       "PCB-25": "Hunter PCB-25 bubbler",

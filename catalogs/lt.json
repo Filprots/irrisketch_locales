@@ -6430,11 +6430,11 @@
   },
   "Hunter": {
     "_rotors_Hunter": {
-      "common_lang": "Medžiotojas {{model}} Rotorius su{{nozzle}} {{nozzleColor.lt}} antgalis",
-      "common_lang_2": "Medžiotojas {{model}} Rotorius su{{nozzle}} {{nozzleColor.lt}} antgalis{{options.lt}}",
-      "common_body": "Medžiotojas {{model}} Rotorius",
-      "common_body_2": "Medžiotojas {{model}} Rotorius{{options.lt}}",
-      "common_noz": "Medžiotojas {{class}}{{nozzle}} antgalis ({{nozzleColor.lt}})",
+      "common_lang": "Hunter {{model}} Rotorius su{{nozzle}} {{nozzleColor.lt}} antgalis",
+      "common_lang_2": "Hunter {{model}} Rotorius su{{nozzle}} {{nozzleColor.lt}} antgalis{{options.lt}}",
+      "common_body": "Hunter {{model}} Rotorius",
+      "common_body_2": "Hunter {{model}} Rotorius{{options.lt}}",
+      "common_noz": "Hunter {{class}}{{nozzle}} antgalis ({{nozzleColor.lt}})",
       "i20_colors": {
         "blue": "mėlyna",
         "grey": "pilka",
@@ -6467,7 +6467,7 @@
       },
       "pgj": "Hunter PGJ-{{RR}} Rotorius su{{nozzle}} raudonas antgalis",
       "pgj_body": "Hunter PGJ-{{RR}} Rotorius",
-      "pgj_noz": "Medžiotojas PGJ{{nozzle}} antgalis (raudonas)",
+      "pgj_noz": "Hunter PGJ{{nozzle}} antgalis (raudonas)",
       "pgpAdj_colors": {
         "red": "raudona",
         "blue": "mėlyna",

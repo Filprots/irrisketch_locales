@@ -94,7 +94,7 @@
         }
 
     </style>
-    <title>Abonnement à IRRISketch EXPIREE</title>
+    <title>IRRISketch - L'abonnement a été activé automatiquement à la fin de la période actuelle.</title>
 </head>
 <body text="#000000" bgcolor="#FFFFFF">
 <table id="container" cellspacing="0" cellpadding="0" align="center">
@@ -114,7 +114,7 @@
                                             id="irrisketchLogo" moz-do-not-send="true"></td>
                                 <td id="title" width="250" valign="top"
                                     align="right">
-                                    <p>Abonnement à IRRISketch EXPIREE</p>
+                                    <p>IRRISketch - L'abonnement a été activé automatiquement à la fin de la période actuelle.</p>
                                 </td>
                             </tr>
                             </tbody>
@@ -123,15 +123,16 @@
                 </tr>
                 <tr>
                     <td id="verificationMsg">
-                        <p class="otp">Bonjour, <%= name %>!</p>
-                        <p>Votre abonnement # <b><%= options.subscription_number %></b> a expiré</p>
-                        <p>Nous espérons que vous en avez déjà acheté un nouveau !</p>
+                        <p class="otp">Bonjour <%= name %> !</p>
+                        <p>Votre abonnement n°<b><%= options.subscription_number %></b> a expiré.</p>
+                        <p>Nous avons automatiquement activé l'abonnement n°<b><%= options.new_subscription_number %></b>.</p>
+                        <p>Si vous ne souhaitez pas que vos abonnements soient activés automatiquement à l'avenir, vous pouvez désactiver ce paramètre <a href="<%= urlBase + '/account/orders' %>">ici</a> !</p>
                         <p>Bonne journée !</p>
                     </td>
                 </tr>
                 <tr>
                     <td id="closing">
-                        <p>IRRISketch Team</p>
+                        <p>Equipe IRRISketch</p>
                     </td>
                 </tr>
                 </tbody>

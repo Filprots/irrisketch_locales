@@ -94,7 +94,7 @@
         }
 
     </style>
-    <title>IRRISketch prenumerata EXPIRED</title>
+    <title>IRRISketch - Prenumerata buvo automatiškai aktyvuota pasibaigus esamajam laikotarpiui.</title>
 </head>
 <body text="#000000" bgcolor="#FFFFFF">
 <table id="container" cellspacing="0" cellpadding="0" align="center">
@@ -114,7 +114,7 @@
                                             id="irrisketchLogo" moz-do-not-send="true"></td>
                                 <td id="title" width="250" valign="top"
                                     align="right">
-                                    <p>IRRISketch prenumerata EXPIRED</p>
+                                    <p>IRRISketch - Prenumerata buvo automatiškai aktyvuota pasibaigus esamajam laikotarpiui.</p>
                                 </td>
                             </tr>
                             </tbody>
@@ -123,15 +123,16 @@
                 </tr>
                 <tr>
                     <td id="verificationMsg">
-                        <p class="otp">Labas, <%= name %>!</p>
-                        <p>Jūsų prenumerata # <b><%= options.subscription_number %></b> nustojo galioti</p>
-                        <p>Tikimės, kad jau įsigijote naują!</p>
+                        <p class="otp">Labas <%= name %>!</p>
+                        <p>Jūsų prenumerata Nr. <b><%= options.subscription_number %></b> pasibaigė.</p>
+                        <p>Mes automatiškai aktyvavome prenumeratą Nr. <b><%= options.new_subscription_number %></b>.</p>
+                        <p>Jei norite, kad jūsų prenumeratos ateityje nebūtų aktyvuojamos automatiškai - šią nustatymą galite išjungti <a href="<%= urlBase + '/account/orders' %>">čia</a>!</p>
                         <p>Geros dienos!</p>
                     </td>
                 </tr>
                 <tr>
                     <td id="closing">
-                        <p>IRRISketch Team</p>
+                        <p>IRRISketch komanda</p>
                     </td>
                 </tr>
                 </tbody>

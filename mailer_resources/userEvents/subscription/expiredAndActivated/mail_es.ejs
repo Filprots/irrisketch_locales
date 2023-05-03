@@ -94,7 +94,8 @@
         }
 
     </style>
-    <title>Suscripción IRRISketch EXPIRADA</title>
+    <title>IRRISketch - La suscripción se activó automáticamente al final del periodo
+        actual.</title>
 </head>
 <body text="#000000" bgcolor="#FFFFFF">
 <table id="container" cellspacing="0" cellpadding="0" align="center">
@@ -114,7 +115,8 @@
                                             id="irrisketchLogo" moz-do-not-send="true"></td>
                                 <td id="title" width="250" valign="top"
                                     align="right">
-                                    <p>Suscripción IRRISketch EXPIRADA</p>
+                                    <p>IRRISketch - La suscripción se activó automáticamente al final del periodo
+                                        actual.</p>
                                 </td>
                             </tr>
                             </tbody>
@@ -123,15 +125,18 @@
                 </tr>
                 <tr>
                     <td id="verificationMsg">
-                        <p class="otp">Hola, <%= name %>!</p>
-                        <p>Su suscripción # <b><%= options.subscription_number %></b> ha expirado</p>
-                        <p>Esperamos que ya haya comprado uno nuevo.!</p>
-                        <p>Que tenga un buen día.</p>
+                        <p class="otp">¡Hola <%= name %>!</p>
+                        <p>Su suscripción n.º <b><%= options.subscription_number %></b> ha caducado.</p>
+                        <p>Hemos activado automáticamente la suscripción n.º
+                            <b><%= options.new_subscription_number %></b>.</p>
+                        <p>Si no desea que sus suscripciones se activen automáticamente en el futuro, puede desactivar
+                            esta configuración <a href="<%= urlBase + '/account/orders' %>">aquí</a>.</p>
+                        <p>¡Que tenga un buen día!</p>
                     </td>
                 </tr>
                 <tr>
                     <td id="closing">
-                        <p>IRRISketch Team</p>
+                        <p>Equipo de IRRISketch</p>
                     </td>
                 </tr>
                 </tbody>

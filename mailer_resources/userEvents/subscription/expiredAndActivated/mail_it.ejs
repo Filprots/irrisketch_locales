@@ -94,7 +94,7 @@
         }
 
     </style>
-    <title>Abbonamento IRRISketch SCADUTO</title>
+    <title>IRRISketch - La sottoscrizione è stata attivata automaticamente alla fine del periodo attuale.</title>
 </head>
 <body text="#000000" bgcolor="#FFFFFF">
 <table id="container" cellspacing="0" cellpadding="0" align="center">
@@ -114,7 +114,7 @@
                                             id="irrisketchLogo" moz-do-not-send="true"></td>
                                 <td id="title" width="250" valign="top"
                                     align="right">
-                                    <p>Abbonamento IRRISketch SCADUTO</p>
+                                    <p>IRRISketch - La sottoscrizione è stata attivata automaticamente alla fine del periodo attuale.</p>
                                 </td>
                             </tr>
                             </tbody>
@@ -123,15 +123,16 @@
                 </tr>
                 <tr>
                     <td id="verificationMsg">
-                        <p class="otp">Ciao, <%= name %>!</p>
-                        <p>Il vostro abbonamento # <b><%= options.subscription_number %></b> è scaduto</p>
-                        <p>Ci auguriamo che abbiate già acquistato un nuovo modello.!</p>
+                        <p class="otp">Ciao <%= name %>!</p>
+                        <p>La tua sottoscrizione n. <b><%= options.subscription_number %></b> è scaduta.</p>
+                        <p>Abbiamo attivato automaticamente la sottoscrizione n. <b><%= options.new_subscription_number %></b>.</p>
+                        <p>Se non desideri che le tue sottoscrizioni vengano attivate automaticamente in futuro, puoi disattivare questa impostazione <a href="<%= urlBase + '/account/orders' %>">qui</a>!</p>
                         <p>Buona giornata!</p>
                     </td>
                 </tr>
                 <tr>
                     <td id="closing">
-                        <p>IRRISketch Team</p>
+                        <p>Team IRRISketch</p>
                     </td>
                 </tr>
                 </tbody>

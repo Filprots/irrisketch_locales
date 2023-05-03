@@ -94,7 +94,7 @@
         }
 
     </style>
-    <title>IRRISketch pretplata je ISTEKLA</title>
+    <title>IRRISketch - Pretplata je automatski aktivirana na kraju trenutnog perioda.</title>
 </head>
 <body text="#000000" bgcolor="#FFFFFF">
 <table id="container" cellspacing="0" cellpadding="0" align="center">
@@ -114,7 +114,7 @@
                                             id="irrisketchLogo" moz-do-not-send="true"></td>
                                 <td id="title" width="250" valign="top"
                                     align="right">
-                                    <p>IRRISketch pretplata je ISTEKLA</p>
+                                    <p>IRRISketch - Pretplata je automatski aktivirana na kraju trenutnog perioda.</p>
                                 </td>
                             </tr>
                             </tbody>
@@ -123,15 +123,16 @@
                 </tr>
                 <tr>
                     <td id="verificationMsg">
-                        <p class="otp">Hello, <%= name %>!</p>
-                        <p>Vaša pretplata # <b><%= options.subscription_number %></b> je istekla</p>
-                        <p>Nadamo se da ste već kupili novu!</p>
+                        <p class="otp">Pozdrav <%= name %>!</p>
+                        <p>Vaša pretplata br. <b><%= options.subscription_number %></b> je istekla.</p>
+                        <p>Automatski smo aktivirali pretplatu br. <b><%= options.new_subscription_number %></b></p>
+                        <p>Ako ne želite da se vaše pretplate automatski aktiviraju u budućnosti - ovu postavku možete onemogućiti <a href="<%= urlBase + '/account/orders' %>">ovdje</a>!</p>
                         <p>Ugodan dan!</p>
                     </td>
                 </tr>
                 <tr>
                     <td id="closing">
-                        <p>IRRISketch Tim</p>
+                        <p>Tim IRRISketch</p>
                     </td>
                 </tr>
                 </tbody>

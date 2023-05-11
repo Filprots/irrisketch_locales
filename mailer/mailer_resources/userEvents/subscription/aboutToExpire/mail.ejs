@@ -1,0 +1,8 @@
+<% layout('../template/template_standard') -%>
+<p class="otp">Hello, <%= name %>!</p>
+<p><%= __("Mail_userEvents_Your_Sub_AboutTo_Expire") %> (# <b><%= options.subscription_number %></b>)</p>
+<p><%= __("Mail_userEvents_Days_Left") %>: <b><%= options.days_left %></b></p>
+<p><a href="<%= urlBase + '/purchase' %>"><%= __("Mail_userEvents_Purchase_One_In_Advance") %></a></p>
+<p><%= __("Mail_userEvents_Have_A_Nice_Day") %></p>
+<% block('title', __("Mail_userEvents_Subscription_AboutToExpire")) -%>
+<% block('closing', __('Mail_Common_TeamContacts')) -%>

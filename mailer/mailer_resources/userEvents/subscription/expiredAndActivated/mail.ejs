@@ -1,0 +1,8 @@
+<% layout('../template/template_standard') -%>
+<p class="otp">Hello, <%= name %>!</p>
+<p><%= __("Mail_userEvents_Your_Sub_Expired")%> (# <b><%= options.old_subscription_number %></b>)</p>
+<p><%= __("Mail_userEvents_We_Automatically_Activated_New")%> (# <b><%= options.new_subscription_number %></b>)</p>
+<p><a href="<%= urlBase + '/account/orders' %>"><%= __("Mail_userEvents_You_Can_Cancel_This_Behaviour") %></a></p>
+<p><%= __("Mail_userEvents_Have_A_Nice_Day") %></p>
+<% block('title', __("Mail_userEvents_Subscription_Expired_Activated")) -%>
+<% block('closing', __('Mail_Common_TeamContacts')) -%>

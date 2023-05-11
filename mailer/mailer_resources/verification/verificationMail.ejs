@@ -1,0 +1,7 @@
+<% layout('../template/template_standard') -%>
+<p><%- __('Mail_verificationMail_ToVerifyUseThisCode')%></p>
+<p class="otp"><%= code %></p>
+<br>
+<p><%- __('Mail_verificationMail_IfYouHaveProblemsContactSupport')%></p>
+<% block('title', __('Mail_verificationMail_Title')) -%>
+<% block('closing', __('Mail_Common_Automailing')) -%>

@@ -1,0 +1,5 @@
+<% layout('../template/template_standard') -%>
+<p class="otp"><%- __('Mail_Common_Hello')%>, <%= name %>!</p><br>
+<div><%- html_text %></div>
+<% block('title', __('Mail_infoToUserMail_Title')) -%>
+<% block('closing', __('Mail_Common_TeamContacts')) -%>

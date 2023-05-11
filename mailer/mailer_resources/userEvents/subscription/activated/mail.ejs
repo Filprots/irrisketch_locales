@@ -1,0 +1,7 @@
+<% layout('../template/template_standard') -%>
+<p class="otp">Hello, <%= name %>!</p>
+<p><%= __("Mail_userEvents_Your_Sub_Activated")%> (# <b><%= options.subscription_number %></b>)</p>
+<p><%= __("Mail_userEvents_Now_You_Have_Full_Access") %></p>
+<p><%= __("Mail_userEvents_Have_A_Nice_Day") %></p>
+<% block('title', __("Mail_userEvents_Subscription_Activated")) -%>
+<% block('closing', __('Mail_Common_TeamContacts')) -%>

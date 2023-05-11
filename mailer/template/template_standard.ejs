@@ -1,0 +1,49 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <%- partial('../partials/inlineCss.ejs') %>
+    <title><%= blocks.title %></title>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+<table id="container" cellspacing="0" cellpadding="0" align="center">
+    <tbody>
+    <tr>
+        <td>
+            <table id="content" cellspacing="0" cellpadding="0">
+                <tbody>
+                <tr>
+                    <td id="header">
+                        <table cellspacing="0" cellpadding="0">
+                            <tbody>
+                            <tr>
+                                <td id="logo" width="250">
+                                    <img
+                                            src="<%= urlBase %>/images/mylogo_small.png"
+                                            id="irrisketchLogo" moz-do-not-send="true"></td>
+                                <td id="title" width="250" valign="top"
+                                    align="right">
+                                    <p><%= blocks.title %></p>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="verificationMsg">
+                        <%- body -%>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="closing">
+                        <%- blocks.closing %>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<% layout('../template/template_standard') -%>
+<p class="otp">Hello, <%= name %>!</p>
+<p><%=__("Mail_userEvents_DS_Req_updated")%> (<%=__("Mail_userEvents_DS_Linkname")%> <b><%= options.link_title %></b>)</p>
+<p><%=__("Mail_userEvents_DS_To_See_Follow_This_Link")%></p>
+<p><a href="<%= options.link_link %>"><%=__("Mail_userEvents_DS_Link_To_Request")%></a></p>
+<% block('title', __("Mail_userEvents_DS_upd_request")) -%>
+<% block('closing', __('Mail_Closing_DS')) -%>

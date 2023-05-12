@@ -1,4 +1,4 @@
-<% layout('../template/template_standard') -%>
+<% layout(templatePath) -%>
 <p class="otp">Hello, <%= name %>!</p>
 <p><%= __("Mail_userEvents_Your_Sub_AboutTo_Expire") %> (# <b><%= options.subscription_number %></b>)</p>
 <p><%= __("Mail_userEvents_Days_Left") %>: <b><%= options.days_left %></b></p>

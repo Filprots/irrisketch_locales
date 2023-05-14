@@ -1427,6 +1427,7 @@
   "JustCancelNotice": "Вы уверены что хотите отменить действие подписки не дожидаясь её завершения? (Это действие невозможно отменить)",
   "email_subject_notificationmail_expiredAndActivated": "IRRISketch - Новая падпіска была аўтаматычна актываваная",
   "email_subject_notificationmail_subscription/purchased": "Падпіска на IRRISketch КУПЛЕНА",
+  "email_subject_notificationmail_subscription/activated": "IRRISketch subscription ACTIVATED",
   "Mail_Common_Hello": "Добры дзень",
   "Mail_infoToUserMail_Title": "IRRISketch Residential Mailing",
   "Mail_Common_TeamContacts": "Каманда IRRISketch",

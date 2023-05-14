@@ -1427,6 +1427,7 @@
   "JustCancelNotice": "Are you sure you want to cancel your subscription without waiting for it to end? (This action cannot be cancelled)",
   "email_subject_notificationmail_expiredAndActivated": "IRRISketch - La nueva suscripción se activó automáticamente",
   "email_subject_notificationmail_subscription/purchased": "Suscripción a IRRISketch COMPRADA",
+  "email_subject_notificationmail_subscription/activated": "IRRISketch subscription ACTIVATED",
   "Mail_Common_Hello": "Hola",
   "Mail_infoToUserMail_Title": "Correo residencial IRRISketch",
   "Mail_Common_TeamContacts": "Equipo de bocetos de IRRIS",

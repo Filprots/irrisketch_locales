@@ -1427,6 +1427,7 @@
   "JustCancelNotice": "Are you sure you want to cancel your subscription without waiting for it to end? (This action cannot be cancelled)",
   "email_subject_notificationmail_expiredAndActivated": "IRRISketch - A nova assinatura foi ativada automaticamente",
   "email_subject_notificationmail_subscription/purchased": "Assinatura IRRISketch COMPRADA",
+  "email_subject_notificationmail_subscription/activated": "IRRISketch subscription ACTIVATED",
   "Mail_Common_Hello": "Olá",
   "Mail_infoToUserMail_Title": "Correspondência Residencial IRRISketch",
   "Mail_Common_TeamContacts": "Equipe IRRISketch",

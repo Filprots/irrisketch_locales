@@ -1427,6 +1427,7 @@
   "JustCancelNotice": "Are you sure you want to cancel your subscription without waiting for it to end? (This action cannot be cancelled)",
   "email_subject_notificationmail_expiredAndActivated": "IRRISketch – nauja prenumerata buvo suaktyvinta automatiškai",
   "email_subject_notificationmail_subscription/purchased": "IRRISketch prenumerata ĮSIGYTA",
+  "email_subject_notificationmail_subscription/activated": "IRRISketch subscription ACTIVATED",
   "Mail_Common_Hello": "Sveiki",
   "Mail_infoToUserMail_Title": "IRRISketch Residential Maling",
   "Mail_Common_TeamContacts": "IRRISketch komanda",

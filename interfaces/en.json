@@ -1427,6 +1427,7 @@
   "JustCancelNotice": "Are you sure you want to cancel your subscription without waiting for it to end? (This action cannot be cancelled)",
   "email_subject_notificationmail_expiredAndActivated": "IRRISketch - New subscription was automatically activated",
   "email_subject_notificationmail_subscription/purchased": "IRRISketch subscription PURCHASED",
+  "email_subject_notificationmail_subscription/activated": "IRRISketch subscription ACTIVATED",
   "Mail_Common_Hello": "Hello",
   "Mail_infoToUserMail_Title": "IRRISketch Residential Mailing",
   "Mail_Common_TeamContacts": "IRRISketch Team",
@@ -1478,6 +1479,5 @@
   "Mail_userEvents_Your_TP_AboutTo_Expire": "Your trial period is about to expire",
   "Mail_userEvents_trial_afterexp_instr": "After trial expires, you can use FREE version forever, or purchase PRO subscription",
   "Mail_userEvents_trial_expd": "IRRISketch trial period EXPIRED",
-  "Mail_userEvents_Your_TP_Expired": "Your trial period has been expired",
-
+  "Mail_userEvents_Your_TP_Expired": "Your trial period has been expired"
 }

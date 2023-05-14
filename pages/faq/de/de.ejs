@@ -10,158 +10,238 @@
 </script>
 
 <div class="container" id="faq">
-<hr>
-<div class="row mb-3">
-    <div class="col-lg-12 text-center"><span class="h3">General questions</span></div>
-</div>
-<p>
-    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
-            aria-expanded="false"
-            aria-controls="qA1">
-        Bought a subscription, but the paid functionality is not available, what to do?
-    </button>
-</p>
-<div class="collapse" id="qA1" data-parent="#faq">
-    <div class="card card-body">
-        <p>
-            After purchasing a paid IRRISketch subscription, you need to activate it manually in your personal account
-            at the link:
-        </p>
-        <p>
-            <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>,
-        </p>
-        where your subscription will be in the right column. After activation, you will be able to freely use all
-        paid functionality of the service.
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">General questions</span></div>
     </div>
-</div>
-<hr>
-<p>
-    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
-            aria-expanded="false"
-            aria-controls="qA2">
-        I paid for the subscription, but it did not appear in my personal cabinet.
-    </button>
-</p>
-<div class="collapse" id="qA2" data-parent="#faq">
-    <div class="card card-body">
-        <p>
-            In this case, you need to go to your personal account by following this link:
-        </p>
-        <p>
-            <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>
-        </p>
-        <p>
-            Look at the button at the bottom of the order. The red "Repeat" button means that the payment
-            failed
-            and you should try again, but first check to see if the money has been charged.
-        </p>
-        <p>
-            If you have been seeing the yellow "Payment in progress" button for a long time, chances are that the
-            transaction has not
-            happened
-            automatic confirmation. If this is the case, click this button to complete it and everything should
-            work.
-        </p>
-        After the successful payment and completion of the transaction you will see a green "Payment Verified" button.
-        Click it and your subscription will appear in the right column.
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+                aria-expanded="false"
+                aria-controls="qA1">
+            Bought a subscription, but the paid functionality is not available, what to do?
+        </button>
+    </p>
+    <div class="collapse" id="qA1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                After purchasing a paid IRRISketch subscription, you need to activate it manually in your personal
+                account
+                at the link:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>,
+            </p>
+            where your subscription will be in the right column. After activation, you will be able to freely use all
+            paid functionality of the service.
+        </div>
     </div>
-</div>
-<hr>
-<div class="row mb-3">
-    <div class="col-lg-12 text-center"><span class="h3">Questions about projects</span></div>
-</div>
-<p>
-    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
-            aria-expanded="false" aria-controls="qP1">
-        Changes in the project have not been saved/I want to restore a certain state of
-        project, what should I do?
-    </button>
-</p>
-<div class="collapse" id="qP1" data-parent="#faq">
-    <div class="card card-body">
-        <p>
-            (This method will only work in browsers that have Developer Tools)
-        </p>
-        <p>
-            1. Open the same browser, on the same computer where you last worked on the project
-        </p>
-        <p>
-            2. Go to the IRRISketch workshop and open the project with the problem
-        </p>
-        <p>
-            3. If a window prompting to restore the project appears when you open the project, click the
-            "Restore" button and
-            see the result. If the project has not been restored to the required state, continue following the
-            instructions
-        </p>
-        <p>
-            4. Open the developer tools (In most browsers - the F12 button) and open the Console tab
-            as shown in the image below:
-        </p>
-        <p>
-            5. Enter the following command into the console and press Enter:
-        </p>
-        <p>
-            autobackup.ASL()
-        </p>
-        <p>
-            6. A list of autosaves will appear (usually the last 12) ( Autosave is done every ten
-            minutes,
-            So 12 × 10 = 120 min = 2 hours) It will look something like this:
-        </p>
-        <p>
-            If something like this came up:
-        </p>
-        <p>
-            Then press the triangle symbol ( ▶ ) to expand the list ( ▼ )
-        </p>
-        <p>
-            7. In the list of autosaves, select the time at which, according to your calculations, the project was in the
-            most
-            and see what number is at the beginning of that line.
-        </p>
-        <p>
-            8. Type the following text into the console:
-        </p>
-        <p>
-            autobackup.RAS(*Paste the number from the previous paragraph here*)
-        </p>
-        9. Make sure that the restored condition meets your requirements. If not, call the
-        command
-        from the previous point with a different number until you find the desired state.
+    <hr>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+                aria-expanded="false"
+                aria-controls="qA2">
+            I paid for the subscription, but it did not appear in my personal cabinet.
+        </button>
+    </p>
+    <div class="collapse" id="qA2" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                In this case, you need to go to your personal account by following this link:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>
+            </p>
+            <p>
+                Look at the button at the bottom of the order. The red "Repeat" button means that the payment
+                failed
+                and you should try again, but first check to see if the money has been charged.
+            </p>
+            <p>
+                If you have been seeing the yellow "Payment in progress" button for a long time, chances are that the
+                transaction has not
+                happened
+                automatic confirmation. If this is the case, click this button to complete it and everything should
+                work.
+            </p>
+            After the successful payment and completion of the transaction you will see a green "Payment Verified"
+            button.
+            Click it and your subscription will appear in the right column.
+        </div>
     </div>
-</div>
-<hr>
-<p>
-    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
-            aria-expanded="false"
-            aria-controls="qP2">
-        How do I display the grid in a project drawing? The drawing grid does not appear when outputting to PDF/PNG.
-    </button>
-</p>
-<div class="collapse" id="qP2" data-parent="#faq">
-    <div class="card card-body">
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Questions about projects</span></div>
+    </div>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+                aria-expanded="false" aria-controls="qP1">
+            Changes in the project have not been saved/I want to restore a certain state of
+            project, what should I do?
+        </button>
+    </p>
+    <div class="collapse" id="qP1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                (This method will only work in browsers that have Developer Tools)
+            </p>
+            <p>
+                1. Open the same browser, on the same computer where you last worked on the project
+            </p>
+            <p>
+                2. Go to the IRRISketch workshop and open the project with the problem
+            </p>
+            <p>
+                3. If a window prompting to restore the project appears when you open the project, click the
+                "Restore" button and
+                see the result. If the project has not been restored to the required state, continue following the
+                instructions
+            </p>
+            <p>
+                4. Open the developer tools (In most browsers - the F12 button) and open the Console tab
+                as shown in the image below:
+                <br>
+                <img src="/images/faq/console.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                5. Enter the following command into the console and press Enter:
+            </p>
+            <p>
+                autobackup.ASL()
+            </p>
+            <p>
+                6. A list of autosaves will appear (usually the last 12) ( Autosave is done every ten
+                minutes,
+                So 12 × 10 = 120 min = 2 hours) It will look something like this:
+                <br>
+                <img src="/images/faq/autobackup.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                If something like this came up:
+                <br>
+                <img src="/images/faq/autobackupFolded.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                Then press the triangle symbol ( ▶ ) to expand the list ( ▼ )
+            </p>
+            <p>
+                7. In the list of autosaves, select the time at which, according to your calculations, the project was
+                in the
+                most
+                and see what number is at the beginning of that line.
+            </p>
+            <p>
+                8. Type the following text into the console:
+            </p>
+            <p>
+                autobackup.RAS(*Paste the number from the previous paragraph here*)
+            </p>
+            9. Make sure that the restored condition meets your requirements. If not, call the
+            command
+            from the previous point with a different number until you find the desired state.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+                aria-expanded="false"
+                aria-controls="qP2">
+            How do I display the grid in a project drawing? The drawing grid does not appear when outputting to PDF/PNG.
+        </button>
+    </p>
+    <div class="collapse" id="qP2" data-parent="#faq">
+        <div class="card card-body">
         <span>
             To display the grid when printing, it must be placed on the drawing as an image. You can download the grid,
             for example <a
-                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing" target="_blank">from here</a>, and then scale it on the drawing to the desired size.
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing"
+                    target="_blank">from here</a>, and then scale it on the drawing to the desired size.
+        </span>
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+                aria-expanded="false"
+                aria-controls="qP3">
+            How do I transfer a project from one account to another?
+        </button>
+    </p>
+    <div class="collapse" id="qP3" data-parent="#faq">
+        <div class="card card-body">
+            To do this, you can download the project file using the appropriate button on the top right panel
+            After that, create an empty project on a new account and using the "Download" button, open the downloaded
+            project.
+            <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP5"
+                aria-expanded="false"
+                aria-controls="qP5">
+            Project "hangs"/Transition to drawing mode takes a lot of time
+        </button>
+    </p>
+    <div class="collapse" id="qP5" data-parent="#faq">
+        <span>
+            <p>
+                Usually, this is related to a very large number of elements in the project, as IRRISketch Residential is not designed for particularly large plots. This problem can be solved by deleting all existing objects in drawing mode and replacing them with a single background.
+            </p>
+            <p>
+                1. Create a copy of the project and open it if you're afraid of accidentally losing data.
+            </p>
+            <p>
+                2. Switch to irrigation mode and use the ctrl+a key combination to select all elements, then cut them using the ctrl+x key combination (they will be saved in the clipboard).
+            </p>
+            <p>
+                3. Switch to drawing mode, set the "Landscape" setting in the "Visual Style" tab to obtain the original landscape of the project, and remove the stamp.
+            </p>
+            <img src="/images/faq/visualStyleEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+            <p>
+                4. Select a sheet format from A1 to A4. The larger the sheet size, the higher the quality of the final image, but the more space it will occupy.
+            </p>
+            <img src="/images/faq/listFormatEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+            <p>
+                5. Use the "Ruler" tool in drawing mode to measure any easily measurable element of the drawing and record its length, as it will be needed later.
+            </p>
+            <img src="/images/faq/rulerEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                6. Switch to "Edit Drawing" mode at the bottom of the screen and insert the drawing into the sheet using the button at the bottom left. Export the project as an image.
+                If the resulting image is larger than 10MB, you won't be able to use it. In that case, if you know how to use various image editors (such as Photoshop, Gimp), compress the image or reduce the number of colors. This will reduce the file size.
+            </p>
+            <img src="/images/faq/fitEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="100%" height="100%">
+            <p>
+                7. Insert the image into the project and set the correct scale using the length recorded in step 5.
+            </p>
+            <img src="/images/faq/resizeEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                8. Align the image with your drawing so that all elements are in the same positions as they appear in the image.
+            </p>
+            <img src="/images/faq/alignEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                9. Lock the image by selecting it and clicking the corresponding button at the bottom left.
+            </p>
+            <img src="/images/faq/lockEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="15%" height="15%">
+            <p>
+                10. Use the ctrl+a key combination to select all elements in drawing mode and delete them. Only your image should remain.
+            </p>
+            <p>
+                11. Return to irrigation mode and paste all previously deleted irrigation elements back onto the drawing using the ctrl+v key combination. If done correctly, all elements should return to their original positions.
+            </p>
         </span>
     </div>
-</div>
-<hr>
-<p>
-    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
-            aria-expanded="false"
-            aria-controls="qP3">
-        How do I transfer a project from one account to another?
-    </button>
-</p>
-<div class="collapse" id="qP3" data-parent="#faq">
-    <div class="card card-body">
-        To do this, you can download the project file using the appropriate button on the top right panel
-        After that, create an empty project on a new account and using the "Download" button, open the downloaded project.
-        <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button" width="30%" height="30%">
-    </div>
-</div>
-<hr>
+    <hr>
 </div>

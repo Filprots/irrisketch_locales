@@ -10,158 +10,240 @@
 </script>
 
 <div class="container" id="faq">
-<hr>
-<div class="row mb-3">
-    <div class="col-lg-12 text-center"><span class="h3">Algemene vragen</span></div>
-</div>
-<p>
-    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
-            aria-expanded="false"
-            aria-controls="qA1">
-        Ik heb een abonnement gekocht, maar de betaalde functionaliteit is niet beschikbaar, wat moet ik doen?
-    </button>
-</p>
-<div class="collapse" id="qA1" data-parent="#faq">
-    <div class="card card-body">
-        <p>
-            Na aankoop van een betaald IRRISketch-abonnement moet u het handmatig activeren in uw persoonlijke account
-            via de link:
-        </p>
-        <p>
-            <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>,
-        </p>
-        waar uw abonnement in de rechterkolom staat. Na activering kunt u vrij gebruik maken van alle
-        betaalde functionaliteit van de dienst.
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Algemene vragen</span></div>
     </div>
-</div>
-<hr>
-<p>
-    <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
-            aria-expanded="false"
-            aria-controls="qA2">
-        Ik betaalde voor het abonnement, maar het verscheen niet in mijn persoonlijke kast.
-    </button>
-</p>
-<div class="collapse" id="qA2" data-parent="#faq">
-    <div class="card card-body">
-        <p>
-            In dat geval moet u naar uw persoonlijke account gaan door deze link te volgen:        </p>
-        <p>
-            <a href="https://www.irrisketch.com/account/orders" target="_blank">www.irrisketch.com/account/orders</a>
-        </p>
-        <p>
-            Kijk naar de knop onderaan de bestelling. De rode "Herhaal" knop betekent dat de betaling
-            mislukt is
-            en dat u het opnieuw moet proberen, maar controleer eerst of het geld is afgeschreven.
-        </p>
-        <p>
-            Als u al lange tijd de gele knop "Betaling bezig" ziet, is de kans groot dat de
-            transactie nog niet
-            gebeurd
-            automatische bevestiging. Als dit het geval is, klikt u op deze knop om het te voltooien en alles zou moeten
-            werken.
-        </p>
-        Na de succesvolle betaling en voltooiing van de transactie ziet u een groene knop "Betaling geverifieerd".
-        Klik erop en uw abonnement verschijnt in de rechterkolom.
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+                aria-expanded="false"
+                aria-controls="qA1">
+            Ik heb een abonnement gekocht, maar de betaalde functionaliteit is niet beschikbaar, wat moet ik doen?
+        </button>
+    </p>
+    <div class="collapse" id="qA1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                Na aankoop van een betaald IRRISketch-abonnement moet u het handmatig activeren in uw persoonlijke
+                account
+                via de link:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>,
+            </p>
+            waar uw abonnement in de rechterkolom staat. Na activering kunt u vrij gebruik maken van alle
+            betaalde functionaliteit van de dienst.
+        </div>
     </div>
-</div>
-<hr>
-<div class="row mb-3">
-    <div class="col-lg-12 text-center"><span class="h3">Vragen over projecten</span></div>
-</div>
-<p>
-    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
-            aria-expanded="false" aria-controls="qP1">
-        Wijzigingen in het project zijn niet opgeslagen/Ik wil een bepaalde toestand van het
-        project, wat moet ik doen?
-    </button>
-</p>
-<div class="collapse" id="qP1" data-parent="#faq">
-    <div class="card card-body">
-        <p>
-            (Deze methode werkt alleen in browsers met Developer Tools)
-        </p>
-        <p>
-            1. Open dezelfde browser, op dezelfde computer waar je het laatst aan het project hebt gewerkt
-        </p>
-        <p>
-            2. Ga naar de IRRISketch-werkplaats en open het project met het probleem.
-        </p>
-        <p>
-            3. Als bij het openen van het project een venster verschijnt met de vraag om het project te herstellen, klik dan op de
-            "Herstellen" knop en
-            en bekijk het resultaat. Als het project niet in de gewenste staat is hersteld, ga dan verder met het volgen van de
-            instructies
-        </p>
-        <p>
-            4. Open de ontwikkelaarstools (in de meeste browsers - de F12-toets) en open het tabblad Console
-            zoals in onderstaande afbeelding:
-        </p>
-        <p>
-            5. Voer het volgende commando in de console in en druk op Enter:
-        </p>
-        <p>
-            autobackup.ASL()
-        </p>
-        <p>
-            6. Een lijst van autosaves zal verschijnen (meestal de laatste 12) ( Autosave wordt elke tien
-            minuten,
-            Dus 12 × 10 = 120 min = 2 uur)
-        </p>
-        <p>
-            Als zoiets als dit zou gebeuren:
-        </p>
-        <p>
-            Druk vervolgens op het driehoeksymbool ( ▶ ) om de lijst uit te breiden ( ▼ )
-        </p>
-        <p>
-            7. Selecteer in de lijst van autosaves het tijdstip waarop, volgens uw berekeningen, het project in de meest
-            meest
-            en kijk welk getal aan het begin van die regel staat.
-        </p>
-        <p>
-            8. Type de volgende tekst in de console:
-        </p>
-        <p>
-            autobackup.RAS(*Plak hier het nummer uit de vorige paragraaf*)
-        </p>
-        9. Controleer of de herstelde toestand aan uw eisen voldoet. Zo niet, roep dan het
-        commando
-        vanaf het vorige punt met een ander nummer totdat u de gewenste toestand vindt.
+    <hr>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+                aria-expanded="false"
+                aria-controls="qA2">
+            Ik betaalde voor het abonnement, maar het verscheen niet in mijn persoonlijke kast.
+        </button>
+    </p>
+    <div class="collapse" id="qA2" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                In dat geval moet u naar uw persoonlijke account gaan door deze link te volgen: </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>
+            </p>
+            <p>
+                Kijk naar de knop onderaan de bestelling. De rode "Herhaal" knop betekent dat de betaling
+                mislukt is
+                en dat u het opnieuw moet proberen, maar controleer eerst of het geld is afgeschreven.
+            </p>
+            <p>
+                Als u al lange tijd de gele knop "Betaling bezig" ziet, is de kans groot dat de
+                transactie nog niet
+                gebeurd
+                automatische bevestiging. Als dit het geval is, klikt u op deze knop om het te voltooien en alles zou
+                moeten
+                werken.
+            </p>
+            Na de succesvolle betaling en voltooiing van de transactie ziet u een groene knop "Betaling geverifieerd".
+            Klik erop en uw abonnement verschijnt in de rechterkolom.
+        </div>
     </div>
-</div>
-<hr>
-<p>
-    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
-            aria-expanded="false"
-            aria-controls="qP2">
-        Hoe toon ik het raster in een projecttekening? Het tekeningraster verschijnt niet bij uitvoer naar PDF/PNG.
-    </button>
-</p>
-<div class="collapse" id="qP2" data-parent="#faq">
-    <div class="card card-body">
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Vragen over projecten</span></div>
+    </div>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+                aria-expanded="false" aria-controls="qP1">
+            Wijzigingen in het project zijn niet opgeslagen/Ik wil een bepaalde toestand van het
+            project, wat moet ik doen?
+        </button>
+    </p>
+    <div class="collapse" id="qP1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                (Deze methode werkt alleen in browsers met Developer Tools)
+            </p>
+            <p>
+                1. Open dezelfde browser, op dezelfde computer waar je het laatst aan het project hebt gewerkt
+            </p>
+            <p>
+                2. Ga naar de IRRISketch-werkplaats en open het project met het probleem.
+            </p>
+            <p>
+                3. Als bij het openen van het project een venster verschijnt met de vraag om het project te herstellen,
+                klik dan op de
+                "Herstellen" knop en
+                en bekijk het resultaat. Als het project niet in de gewenste staat is hersteld, ga dan verder met het
+                volgen van de
+                instructies
+            </p>
+            <p>
+                4. Open de ontwikkelaarstools (in de meeste browsers - de F12-toets) en open het tabblad Console
+                zoals in onderstaande afbeelding:
+                <br>
+                <img src="/images/faq/console.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                5. Voer het volgende commando in de console in en druk op Enter:
+            </p>
+            <p>
+                autobackup.ASL()
+            </p>
+            <p>
+                6. Een lijst van autosaves zal verschijnen (meestal de laatste 12) ( Autosave wordt elke tien
+                minuten,
+                Dus 12 × 10 = 120 min = 2 uur)
+                <br>
+                <img src="/images/faq/autobackup.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                Als zoiets als dit zou gebeuren:
+                <br>
+                <img src="/images/faq/autobackupFolded.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                Druk vervolgens op het driehoeksymbool ( ▶ ) om de lijst uit te breiden ( ▼ )
+            </p>
+            <p>
+                7. Selecteer in de lijst van autosaves het tijdstip waarop, volgens uw berekeningen, het project in de
+                meest
+                meest
+                en kijk welk getal aan het begin van die regel staat.
+            </p>
+            <p>
+                8. Type de volgende tekst in de console:
+            </p>
+            <p>
+                autobackup.RAS(*Plak hier het nummer uit de vorige paragraaf*)
+            </p>
+            9. Controleer of de herstelde toestand aan uw eisen voldoet. Zo niet, roep dan het
+            commando
+            vanaf het vorige punt met een ander nummer totdat u de gewenste toestand vindt.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+                aria-expanded="false"
+                aria-controls="qP2">
+            Hoe toon ik het raster in een projecttekening? Het tekeningraster verschijnt niet bij uitvoer naar PDF/PNG.
+        </button>
+    </p>
+    <div class="collapse" id="qP2" data-parent="#faq">
+        <div class="card card-body">
         <span>
            Om het raster bij het afdrukken weer te geven, moet het als afbeelding op de tekening worden geplaatst. U kunt het raster downloaden,
             bijvoorbeeld <a
-                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing" target="_blank">vanaf hier</a>, en schaal het op de tekening naar de gewenste grootte.
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing"
+                    target="_blank">vanaf hier</a>, en schaal het op de tekening naar de gewenste grootte.
         </span>
+        </div>
     </div>
-</div>
-<hr>
-<p>
-    <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
-            aria-expanded="false"
-            aria-controls="qP3">
-        Hoe zet ik een project over van de ene rekening naar de andere?
-    </button>
-</p>
-<div class="collapse" id="qP3" data-parent="#faq">
-    <div class="card card-body">
-        Om dit te doen, kunt u het projectbestand downloaden met de juiste knop in het paneel rechtsboven.
-        Daarna maakt u een leeg project aan op een nieuwe account en opent u met de knop "Download" het gedownloade project.
-        <br>
-        <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button" width="30%" height="30%">
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+                aria-expanded="false"
+                aria-controls="qP3">
+            Hoe zet ik een project over van de ene rekening naar de andere?
+        </button>
+    </p>
+    <div class="collapse" id="qP3" data-parent="#faq">
+        <div class="card card-body">
+            Om dit te doen, kunt u het projectbestand downloaden met de juiste knop in het paneel rechtsboven.
+            Daarna maakt u een leeg project aan op een nieuwe account en opent u met de knop "Download" het gedownloade
+            project.
+            <br>
+            <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+        </div>
     </div>
-</div>
-<hr>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP4"
+                aria-expanded="false"
+                aria-controls="qP4">
+            Project "hangt"/Overgang naar tekentool duurt lang
+        </button>
+    </p>
+    <div class="collapse" id="qP4" data-parent="#faq">
+        <span>
+            <p>
+                Dit is meestal gerelateerd aan een groot aantal elementen in het project, omdat IRRISketch Residential niet is ontworpen voor bijzonder grote percelen. Dit probleem kan worden opgelost door alle bestaande objecten in de tekentool te verwijderen en te vervangen door een enkele achtergrond.
+            </p>
+            <p>
+                1. Maak een kopie van het project en open het als je bang bent om per ongeluk gegevens te verliezen.
+            </p>
+            <p>
+                2. Schakel over naar de irrigatiemodus en gebruik de ctrl+a toetscombinatie om alle elementen te selecteren, snijd ze vervolgens uit met de ctrl+x toetscombinatie (ze worden opgeslagen in het klembord).
+            </p>
+            <p>
+                3. Schakel over naar de tekentool, stel de "Landscape" instelling in het tabblad "Visuele stijl" in om het oorspronkelijke landschap van het project te verkrijgen en verwijder de stempel.
+            </p>
+            <img src="/images/faq/visualStyleEN.jpg" class="img-thumbnail img-responsive" alt="Download knop"
+                 width="30%" height="30%">
+            <p>
+                4. Selecteer een vel formaat van A1 tot A4. Hoe groter het vel, hoe hoger de kwaliteit van de eindafbeelding, maar hoe meer ruimte het zal innemen.
+            </p>
+            <img src="/images/faq/listFormatEN.jpg" class="img-thumbnail img-responsive" alt="Download knop"
+                 width="30%" height="30%">
+            <p>
+                5. Gebruik het "Meetlint" gereedschap in de tekentool om de lengte van elk meetbaar element in de tekening te meten en op te nemen, omdat dit later nodig zal zijn.
+            </p>
+            <img src="/images/faq/rulerEN.jpg" class="img-thumbnail img-responsive" alt="Download knop"
+                 width="50%" height="50%">
+            <p>
+                6. Schakel over naar de "Bewerk tekening" modus onderaan het scherm en voeg de tekening in op het vel met behulp van de knop linksonder. Exporteer het project als een afbeelding.
+                Als de resulterende afbeelding groter is dan 10 MB, kun je deze niet gebruiken. In dat geval, als je bekend bent met verschillende beeldbewerkingsprogramma's (zoals Photoshop, Gimp), comprimeer de afbeelding dan of verlaag het aantal kleuren. Dit zal de bestandsgrootte verkleinen.
+            </p>
+            <img src="/images/faq/fitEN.jpg" class="img-thumbnail img-responsive" alt="Download knop"
+                 width="100%" height="100%">
+            <p>
+                7. Plaats deafbeelding in het project en stel de juiste schaal in op basis van de in stap 5 opgenomen lengte.
+             </p>
+        <img src="/images/faq/resizeEN.jpg" class="img-thumbnail img-responsive" alt="Download knop"
+             width="50%" height="50%">
+        <p>
+            8. Lijn de afbeelding uit met je tekening, zodat alle elementen op dezelfde posities staan als in de afbeelding.
+        </p>
+        <img src="/images/faq/alignEN.jpg" class="img-thumbnail img-responsive" alt="Download knop"
+             width="50%" height="50%">
+        <p>
+            9. Vergrendel de afbeelding door deze te selecteren en op de overeenkomstige knop linksonder te klikken.
+        </p>
+        <img src="/images/faq/lockEN.jpg" class="img-thumbnail img-responsive" alt="Download knop"
+             width="15%" height="15%">
+        <p>
+            10. Gebruik de ctrl+a toetscombinatie om alle elementen in de tekentool te selecteren en verwijder ze. Alleen je afbeelding moet overblijven.
+        </p>
+        <p>
+            11. Ga terug naar de irrigatiemodus en plak alle eerder verwijderde irrigatie-elementen terug in de tekening met behulp van de ctrl+v toetscombinatie. Als dit correct is gedaan, moeten alle elementen terugkeren naar hun oorspronkelijke posities.
+        </p>
+    </span>
+    </div>
+    <hr>
 </div>

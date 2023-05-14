@@ -1,17 +1,17 @@
 <% layout(templatePath) -%>
-<% block('title', __("Mail_userEvents_Subscription_AboutToExpire")) -%>
+<% block('title', __("Mail_userEvents_trial_bout_to_exp")) -%>
 <% block('closing', __('Mail_Common_TeamContacts')) -%>
 <%- partial(paragraphPath, {
     content: [__('Mail_Common_Hello'), ', ', name]
 }) %>
 <%- partial(paragraphPath, {
-    content: [__('Mail_userEvents_Your_Sub_AboutTo_Expire'), ' (# <b>', options.subscription_number,'</b>)']
+    content: __('Mail_userEvents_Your_TP_AboutTo_Expire')
 }) %>
 <%- partial(paragraphPath, {
     content: [__('Mail_userEvents_Days_Left'), ': <b>', options.days_left,'</b>']
 }) %>
 <%- partial(paragraphPath, {
-    content: __("Mail_userEvents_Purchase_One_In_Advance")
+    content: __("Mail_userEvents_trial_afterexp_instr")
 }) %>
 <%- partial(buttonPath, {
     btn_link: urlBase + '/purchase',

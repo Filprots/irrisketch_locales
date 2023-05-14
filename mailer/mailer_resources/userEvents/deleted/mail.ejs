@@ -1,7 +1,14 @@
 <% layout(templatePath) -%>
-<p class="otp">Hello, <%= name %>!</p>
-<p><%=__("Mail_userEvents_Your_account_has_been_successfully_deleted")  %></p>
-<p><%=__("Mail_userEvents_Hope_to_see_you_again_soon")  %></p>
 <% block('title', __("Mail_userEvents_IRRISketch_account_deleted")) -%>
 <% block('closing', __('Mail_Common_Automailing')) -%>
+<%- partial(paragraphPath, {
+    content: [__('Mail_Common_Hello'), ', ', name]
+}) %>
+<%- partial(paragraphPath, {
+    content: __("Mail_userEvents_Your_account_has_been_successfully_deleted")
+}) %>
+<%- partial(paragraphPath, {
+    content: __("Mail_userEvents_Hope_to_see_you_again_soon")
+}) %>
+
 

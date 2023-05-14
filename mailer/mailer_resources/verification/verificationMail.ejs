@@ -1,7 +1,12 @@
 <% layout(templatePath) -%>
-<p><%- __('Mail_verificationMail_ToVerifyUseThisCode')%></p>
-<p class="otp"><%= code %></p>
-<br>
-<p><%- __('Mail_verificationMail_IfYouHaveProblemsContactSupport')%></p>
 <% block('title', __('Mail_verificationMail_Title')) -%>
 <% block('closing', __('Mail_Common_Automailing')) -%>
+<%- partial(paragraphPath, {
+    content: __('Mail_verificationMail_ToVerifyUseThisCode')
+}) %>
+<%- partial(codeParagraphPath, {
+    content: code
+}) %>
+<%- partial(paragraphPath, {
+    content: ["<a href='", urlBase, "/support'>", __('Mail_verificationMail_IfYouHaveProblemsContactSupport'), "</a>"]
+}) %>

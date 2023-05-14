@@ -1,6 +1,11 @@
 <% layout(templatePath) -%>
-<p class="otp">Hello, <%= name %>!</p>
-<p><%= __("Mail_userEvents_You_have_successfully_changed_your_email") %></p>
 <% block('title', __("Mail_userEvents_Email_was_changed")) -%>
 <% block('closing', __('Mail_Common_Automailing')) -%>
+<%- partial(paragraphPath, {
+    content: [__('Mail_Common_Hello'), ', ', name]
+}) %>
+<%- partial(paragraphPath, {
+    content: __("Mail_userEvents_You_have_successfully_changed_your_email")
+}) %>
+
 

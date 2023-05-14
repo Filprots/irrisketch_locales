@@ -1,7 +1,22 @@
 <% layout(templatePath) -%>
-<p class="otp">Hello, <%= name %>!</p>
-<p><%= __("Mail_userEvents_Thank_You_For_Purchasing_Subscription")%> # <b><%= options.subscription_number%></b></p>
-<p><%= __("Mail_userEvents_PurchaseGreetings") %></p>
-<p><%= __("Mail_userEvents_Have_A_Nice_Day") %></p>
 <% block('title', __("Mail_userEvents_Subscription_Purchased")) -%>
 <% block('closing', __('Mail_Common_TeamContacts')) -%>
+<%- partial(paragraphPath, {
+    content: [__('Mail_Common_Hello'), ', ', name]
+}) %>
+<%- partial(paragraphPath, {
+    content: [__('Mail_userEvents_Thank_You_For_Purchasing_Subscription'), ' (# <b>', options.subscription_number,'</b>)']
+}) %>
+<%- partial(paragraphPath, {
+    content: __("Mail_userEvents_PurchaseGreetings")
+}) %>
+<%- partial(buttonPath, {
+    btn_link: urlBase + '/orders',
+    btn_title: __("OrdersPageLink")
+}) %>
+<%- partial(paragraphPath, {
+    content: __("Mail_userEvents_Have_A_Nice_Day")
+}) %>
+
+
+

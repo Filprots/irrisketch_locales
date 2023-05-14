@@ -1,4 +1,7 @@
 <% layout(templatePath) -%>
-<p class="otp"><%- string %></p>
-<% block('title', "IRRISKETCH USER EVENT") -%>
-<% block('closing', "") -%>
+<% block('title', "IRRISKETCH SYSTEM MESSAGE") -%>
+<% block('closing', "IRRISketch system message") -%>
+<%- partial(codeParagraphPath, {
+    content: string,
+    textFontSize: 16
+}) %>

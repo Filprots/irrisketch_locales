@@ -1,7 +1,16 @@
 <% layout(templatePath) -%>
-<p class="otp">Hello, <%= name %>!</p>
-<p><%= __("Mail_userEvents_DS_your_des_req_has_been_upd") %></p>
-<p><%= __("Mail_userEvents_DS_Go_To_Your_Project_By_Following_This_Link") %></p>
-<p><a href="<%= options.project_link %>"><%= __("Mail_userEvents_DS_Link_To_Request") %></a></p>
 <% block('title', __("Mail_userEvents_DS_you_upd")) -%>
 <% block('closing', __('Mail_Closing_DS')) -%>
+<%- partial(paragraphPath, {
+    content: [__('Mail_Common_Hello'), ', ', name]
+}) %>
+<%- partial(paragraphPath, {
+    content: __("Mail_userEvents_DS_your_des_req_has_been_upd")
+}) %>
+<%- partial(paragraphPath, {
+    content: __("Mail_userEvents_DS_Go_To_Your_Project_By_Following_This_Link")
+}) %>
+<%- partial(buttonPath, {
+    btn_title: __("Mail_userEvents_DS_Link_To_Request"),
+    btn_link: options.project_link
+}) %>

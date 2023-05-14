@@ -1,17 +1,32 @@
 <% layout(templatePath) -%>
-<p class="otp">Hello, <%= name %>!</p>
-<br>
-<p>
+<% block('title', __("Mail_userEvents_Welcome_To_Irrisketch")) -%>
+<% block('closing', __('Mail_Common_TeamContacts')) -%>
+<%- partial(paragraphPath, {
+    content: [__('Mail_Common_Hello'), ', ', name]
+}) %>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">
     <%= __("Mail_userEvents_You_Have_Sucessfully_Registered_New_Account_At") %> <a
             href="<%= urlBase %>"><%= urlBase %></a>
 </p>
-<p>
-    <a href="<%= urlBase %>/tutorials"><%= __("Mail_userEvents_You_Can_Watch_Tutorials_On_How_To_Use_Irrisketch_Residential_Here") %></a>
-</p>
-<p>
+<%- partial(paragraphPath, {
+    content: __("Main_GetStartedRegistered")
+}) %>
+<%- partial(buttonPath, {
+    btn_link: urlBase + '/workshop',
+    background_color: "#28a745",
+    btn_title: __("LinkToWorkshop")
+}) %>
+<%- partial(paragraphPath, {
+    content: __("Main_GetStartedLearinig")
+}) %>
+<%- partial(buttonPath, {
+    btn_link: urlBase + '/workshop',
+    background_color: "#28a745",
+    btn_title: __("LinkToLessons")
+}) %>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">
     <a href="<%= urlBase %>/support"><%= __("Mail_userEvents_If_You_Have_Any_Questions_About_Online_Service_Click_Here") %></a>
 </p>
-<br>
-<p><%= __("Mail_userEvents_Have_A_Nice_Day") %></p>
-<% block('title', __("Mail_userEvents_Welcome_To_Irrisketch")) -%>
-<% block('closing', __('Mail_Common_TeamContacts')) -%>
+<%- partial(paragraphPath, {
+    content: __("Mail_userEvents_Have_A_Nice_Day")
+}) %>

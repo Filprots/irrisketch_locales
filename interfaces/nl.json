@@ -1479,5 +1479,12 @@
   "Mail_userEvents_Your_TP_AboutTo_Expire": "Uw proefperiode verloopt binnenkort",
   "Mail_userEvents_trial_afterexp_instr": "Na het verlopen van de proefperiode kunt u de GRATIS versie blijven gebruiken of een PRO-abonnement aanschaffen",
   "Mail_userEvents_trial_expd": "De proefperiode van IRRISketch is VERLOPEN",
-  "Mail_userEvents_Your_TP_Expired": "Uw proefperiode is verlopen"
+  "Mail_userEvents_Your_TP_Expired": "Uw proefperiode is verlopen",
+  "OrderTime_created": "Created",
+  "OrderTime_processed": "Processed",
+  "OrderTime_deleted": "Deleted",
+  "SubscrTime_created": "Created",
+  "SubscrTime_activated": "Activated",
+  "SubscrTime_cancelled": "Cancelled",
+  "SubscrTime_finished": "Finished"
 }

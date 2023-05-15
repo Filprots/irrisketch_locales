@@ -1479,5 +1479,12 @@
   "Mail_userEvents_Your_TP_AboutTo_Expire": "Ваш пробный период скоро истекает",
   "Mail_userEvents_trial_afterexp_instr": "После окончания пробного периода вы можете продолжать использовать БЕСПЛАТНУЮ версию или приобрести ПРО-подписку",
   "Mail_userEvents_trial_expd": "Истек пробный период IRRISketch",
-  "Mail_userEvents_Your_TP_Expired": "Ваш пробный период истек"
+  "Mail_userEvents_Your_TP_Expired": "Ваш пробный период истек",
+  "OrderTime_created": "Создан",
+  "OrderTime_processed": "Обработан",
+  "OrderTime_deleted": "Удалён",
+  "SubscrTime_created": "Создана",
+  "SubscrTime_activated": "Активирована",
+  "SubscrTime_cancelled": "Отменена",
+  "SubscrTime_finished": "Завершена"
 }

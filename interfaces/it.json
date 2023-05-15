@@ -1479,5 +1479,12 @@
   "Mail_userEvents_Your_TP_AboutTo_Expire": "Il tuo periodo di prova sta per scadere",
   "Mail_userEvents_trial_afterexp_instr": "Dopo la scadenza del periodo di prova, puoi utilizzare gratuitamente la versione BASE per sempre o acquistare l'abbonamento PRO",
   "Mail_userEvents_trial_expd": "Il periodo di prova di IRRISketch è SCADUTO",
-  "Mail_userEvents_Your_TP_Expired": "Il tuo periodo di prova è scaduto"
+  "Mail_userEvents_Your_TP_Expired": "Il tuo periodo di prova è scaduto",
+  "OrderTime_created": "Created",
+  "OrderTime_processed": "Processed",
+  "OrderTime_deleted": "Deleted",
+  "SubscrTime_created": "Created",
+  "SubscrTime_activated": "Activated",
+  "SubscrTime_cancelled": "Cancelled",
+  "SubscrTime_finished": "Finished"
 }

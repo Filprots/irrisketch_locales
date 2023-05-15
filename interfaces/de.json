@@ -1479,5 +1479,12 @@
   "Mail_userEvents_Your_TP_AboutTo_Expire": "Ihre Testphase läuft bald ab",
   "Mail_userEvents_trial_afterexp_instr": "Nach Ablauf der Testphase können Sie die KOSTENLOSE Version unbegrenzt verwenden oder ein PRO-Abonnement erwerben",
   "Mail_userEvents_trial_expd": "Die Testphase von IRRISketch ist abgelaufen",
-  "Mail_userEvents_Your_TP_Expired": "Ihre Testphase ist abgelaufen"
+  "Mail_userEvents_Your_TP_Expired": "Ihre Testphase ist abgelaufen",
+  "OrderTime_created": "Created",
+  "OrderTime_processed": "Processed",
+  "OrderTime_deleted": "Deleted",
+  "SubscrTime_created": "Created",
+  "SubscrTime_activated": "Activated",
+  "SubscrTime_cancelled": "Cancelled",
+  "SubscrTime_finished": "Finished"
 }

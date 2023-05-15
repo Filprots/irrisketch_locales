@@ -1479,5 +1479,12 @@
   "Mail_userEvents_Your_TP_AboutTo_Expire": "Jūsų bandomasis laikotarpis baigsis netrukus",
   "Mail_userEvents_trial_afterexp_instr": "Po bandomojo laikotarpio pabaigos galite nemokamai naudotis NEMOKAMA versija visą laiką arba įsigyti PRO prenumeratą",
   "Mail_userEvents_trial_expd": "IRRISketch bandomasis laikotarpis PASIBAIGĖ",
-  "Mail_userEvents_Your_TP_Expired": "Jūsų bandomasis laikotarpis baigėsi"
+  "Mail_userEvents_Your_TP_Expired": "Jūsų bandomasis laikotarpis baigėsi",
+  "OrderTime_created": "Created",
+  "OrderTime_processed": "Processed",
+  "OrderTime_deleted": "Deleted",
+  "SubscrTime_created": "Created",
+  "SubscrTime_activated": "Activated",
+  "SubscrTime_cancelled": "Cancelled",
+  "SubscrTime_finished": "Finished"
 }

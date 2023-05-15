@@ -1479,5 +1479,12 @@
   "Mail_userEvents_Your_TP_AboutTo_Expire": "Seu período de teste está prestes a expirar",
   "Mail_userEvents_trial_afterexp_instr": "Após o término do período de teste, você pode usar a versão GRATUITA para sempre ou adquirir uma assinatura PRO",
   "Mail_userEvents_trial_expd": "O período de teste do IRRISketch EXPIROU",
-  "Mail_userEvents_Your_TP_Expired": "Seu período de teste expirou"
+  "Mail_userEvents_Your_TP_Expired": "Seu período de teste expirou",
+  "OrderTime_created": "Created",
+  "OrderTime_processed": "Processed",
+  "OrderTime_deleted": "Deleted",
+  "SubscrTime_created": "Created",
+  "SubscrTime_activated": "Activated",
+  "SubscrTime_cancelled": "Cancelled",
+  "SubscrTime_finished": "Finished"
 }

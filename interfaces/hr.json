@@ -1479,5 +1479,12 @@
   "Mail_userEvents_Your_TP_AboutTo_Expire": "Vaše probno razdoblje uskoro istječe",
   "Mail_userEvents_trial_afterexp_instr": "Nakon isteka probnog razdoblja, možete besplatno koristiti verziju zauvijek ili kupiti PRO pretplatu",
   "Mail_userEvents_trial_expd": "Probno razdoblje IRRISketcha je isteklo",
-  "Mail_userEvents_Your_TP_Expired": "Vaše probno razdoblje je isteklo"
+  "Mail_userEvents_Your_TP_Expired": "Vaše probno razdoblje je isteklo",
+  "OrderTime_created": "Created",
+  "OrderTime_processed": "Processed",
+  "OrderTime_deleted": "Deleted",
+  "SubscrTime_created": "Created",
+  "SubscrTime_activated": "Activated",
+  "SubscrTime_cancelled": "Cancelled",
+  "SubscrTime_finished": "Finished"
 }

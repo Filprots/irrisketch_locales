@@ -1,9 +1,7 @@
 <% layout(templatePath) -%>
 <% block('title', __("Mail_userEvents_DS_you_requested")) -%>
 <% block('closing', __('Mail_Closing_DS')) -%>
-<%- partial(paragraphPath, {
-    content: [__('Mail_Common_Hello'), ', ', name]
-}) %>
+<%- partial(helloPath) %>
 <%- partial(paragraphPath, {
     content: __("Mail_userEvents_DS_your_des_req_has_been_registr")
 }) %>

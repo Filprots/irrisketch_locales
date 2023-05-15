@@ -1,9 +1,7 @@
 <% layout(templatePath) -%>
 <% block('title', __("Mail_userEvents_Welcome_To_Irrisketch")) -%>
 <% block('closing', __('Mail_Common_TeamContacts')) -%>
-<%- partial(paragraphPath, {
-    content: [__('Mail_Common_Hello'), ', ', name]
-}) %>
+<%- partial(helloPath) %>
 <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">
     <%= __("Mail_userEvents_You_Have_Sucessfully_Registered_New_Account_At") %> <a
             href="<%= urlBase %>"><%= urlBase %></a>

@@ -1,8 +1,6 @@
 <% layout(templatePath) -%>
 <% block('title', __('Mail_infoToUserMail_Title')) -%>
 <% block('closing', __('Mail_Common_TeamContacts')) -%>
-<%- partial(paragraphPath, {
-    content: [__('Mail_Common_Hello'), ', ', name]
-}) %>
+<%- partial(helloPath) %>
 <div><%- html_text %></div>
 

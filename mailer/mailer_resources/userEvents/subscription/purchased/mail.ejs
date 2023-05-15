@@ -1,9 +1,7 @@
 <% layout(templatePath) -%>
 <% block('title', __("Mail_userEvents_Subscription_Purchased")) -%>
 <% block('closing', __('Mail_Common_TeamContacts')) -%>
-<%- partial(paragraphPath, {
-    content: [__('Mail_Common_Hello'), ', ', name]
-}) %>
+<%- partial(helloPath) %>
 <%- partial(paragraphPath, {
     content: [__('Mail_userEvents_Thank_You_For_Purchasing_Subscription'), ' (# <b>', options.subscription_number,'</b>)']
 }) %>

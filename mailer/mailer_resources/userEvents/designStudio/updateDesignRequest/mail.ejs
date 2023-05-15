@@ -1,9 +1,7 @@
 <% layout(templatePath) -%>
 <% block('title', __("Mail_userEvents_DS_upd_request")) -%>
 <% block('closing', __('Mail_Closing_DS')) -%>
-<%- partial(paragraphPath, {
-    content: [__('Mail_Common_Hello'), ', ', name]
-}) %>
+<%- partial(helloPath) %>
 <%- partial(paragraphPath, {
     content: [__("Mail_userEvents_DS_Req_updated"), ' (', __("Mail_userEvents_DS_Linkname"), ' <b>', options.link_title, '</b>)']
 }) %>

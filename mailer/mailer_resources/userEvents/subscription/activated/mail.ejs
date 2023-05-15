@@ -1,9 +1,7 @@
 <% layout(templatePath) -%>
 <% block('title', __("Mail_userEvents_Subscription_Activated")) -%>
 <% block('closing', __('Mail_Common_TeamContacts')) -%>
-<%- partial(paragraphPath, {
-    content: [__('Mail_Common_Hello'), ', ', name]
-}) %>
+<%- partial(helloPath) %>
 <%- partial(paragraphPath, {
     content: [__('Mail_userEvents_Your_Sub_Activated'), ' (# <b>', options.subscription_number,'</b>)']
 }) %>

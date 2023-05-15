@@ -1,9 +1,7 @@
 <% layout(templatePath) -%>
 <% block('title', __("Mail_userEvents_IRRISketch_account_deleted")) -%>
 <% block('closing', __('Mail_Common_Automailing')) -%>
-<%- partial(paragraphPath, {
-    content: [__('Mail_Common_Hello'), ', ', name]
-}) %>
+<%- partial(helloPath) %>
 <%- partial(paragraphPath, {
     content: __("Mail_userEvents_Your_account_has_been_successfully_deleted")
 }) %>

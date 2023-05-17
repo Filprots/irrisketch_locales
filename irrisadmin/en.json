@@ -1,4 +1,64 @@
 {
+	"MAIN": {
+		"pageTitle": "Admin panel"
+	},
+	"GREET": {
+		"hi": "Hello,",
+		"region": "Administrated regions:"
+	},
+	"STATS": {
+		"counters": "Counters",
+		"title": "Counter",
+		"total": "Total",
+		"dayIncr": "Day",
+		"weekIncr": "Week",
+		"monthIncr": "Month",
+		"yearIncr": "Year",
+		"accounts": "Accounts",
+		"projects": "Projects",
+		"subscriptions": "Subscriptions",
+		"orders": "Orders"
+	},
+	"ENTITY": {
+		"home": "Dashboard",
+		"accounts": "Accounts",
+		"counter_col": "#",
+		"_id": "ID",
+		"email": "Email",
+		"account_name": "Name",
+		"acc_country": "Country",
+		"status": "Status",
+		"created": "Created",
+		"projects": "Projects",
+		"projectsField": "Projects",
+		"subscriptions": "Subscriptions",
+		"orders": "Orders",
+		"title": "Title",
+		"hidden": "Removed",
+		"account_id": "Account",
+		"account_email": "Account",
+		"modified": "Modified",
+		"deleted": "Removed",
+		"number": "Number",
+		"type": "Type",
+		"order": "Order",
+		"items": "Items",
+		"amounts": "Amnts.",
+		"duration": "Duration",
+		"invitations": "Invites",
+		"promocodes": "Promocodes",
+		"code": "Code",
+		"inv_code": "Code",
+		"usages": "Activations",
+		"referals": "Registrations",
+		"max_refs": "Max. usages",
+		"max_usages": "Max. usages",
+		"valid_until": "Valid until",
+		"triggers": "Triggers",
+		"issued": "Issued",
+		"revoked": "Revoked",
+		"code_country": "Region"
+	},
 	"MAILING": {
 		"toggleTitle": "Mailing",
 		"menuTitle": "Mailing",
@@ -20,8 +80,5 @@
 		"daysAskerInputTitle": "Days",
 		"orderNumberInputTitle": "Order number",
 		"sendButton": "Create subscriptions"
-	},
-	"MAIN": {
-		"pageTitle": "Admin panel"
 	}
 }

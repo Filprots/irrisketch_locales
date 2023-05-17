@@ -1408,6 +1408,7 @@
   "SubscrPage_INCH_options_2": "Rain Bird: 8005, Falcon Serija",
   "SubscrPage_INCH_options_3": "K-Rain: ProSport Serija",
   "SubscrPage_INCH_options_4": "Toro: T7 Serija",
+  "equip_pack_inch_DONATED": "Įrangos paketas: Rotoriai 1\"",
   "equip_pack_inch_year_EUR": "Įrangos paketas: Rotoriai 1\" 1 metų prenumerata",
   "equip_pack_inch_year_RUB": "Įrangos paketas: Rotoriai 1\" 1 metų prenumerata",
   "equip_pack_inch_six-month_EUR": "Įrangos paketas: Rotoriai 1\" 1/2 metų prenumerata",
@@ -1487,5 +1488,6 @@
   "SubscrTime_created": "Created",
   "SubscrTime_activated": "Activated",
   "SubscrTime_cancelled": "Cancelled",
-  "SubscrTime_finished": "Finished"
+  "SubscrTime_finished": "Finished",
+  "SubscrTime_duration": "Duration (days)"
 }

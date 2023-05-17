@@ -1408,6 +1408,7 @@
   "SubscrPage_INCH_options_2": "Rain Bird: 8005, Série Falcon",
   "SubscrPage_INCH_options_3": "K-Rain: Série ProSport",
   "SubscrPage_INCH_options_4": "Touro: Série T7",
+  "equip_pack_inch_DONATED": "Pacote de equipamento: Rotores 1\"",
   "equip_pack_inch_year_EUR": "Pacote de equipamento: Rotores 1\" Assinatura de 1 ano",
   "equip_pack_inch_year_RUB": "Pacote de equipamento: Rotores 1\" Assinatura de 1 ano",
   "equip_pack_inch_six-month_EUR": "Pacote de equipamento: Assinatura de rotores 1\" 1/2 ano",
@@ -1487,5 +1488,6 @@
   "SubscrTime_created": "Created",
   "SubscrTime_activated": "Activated",
   "SubscrTime_cancelled": "Cancelled",
-  "SubscrTime_finished": "Finished"
+  "SubscrTime_finished": "Finished",
+  "SubscrTime_duration": "Duration (days)"
 }

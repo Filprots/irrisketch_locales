@@ -1408,6 +1408,7 @@
   "SubscrPage_INCH_options_2": "Rain Bird: 8005, Falcon Series",
   "SubscrPage_INCH_options_3": "K-Rain: ProSport Series",
   "SubscrPage_INCH_options_4": "Toro: T7 Series",
+  "equip_pack_inch_DONATED": "Набор оборудования: Роторы 1\"",
   "equip_pack_inch_year_EUR": "Набор оборудования: Роторы 1\" на 1 год",
   "equip_pack_inch_year_RUB": "Набор оборудования: Роторы 1\" на 1 год",
   "equip_pack_inch_six-month_EUR": "Набор оборудования: Роторы 1\" на пол года",
@@ -1487,5 +1488,6 @@
   "SubscrTime_created": "Создана",
   "SubscrTime_activated": "Активирована",
   "SubscrTime_cancelled": "Отменена",
-  "SubscrTime_finished": "Завершена"
+  "SubscrTime_finished": "Завершена",
+  "SubscrTime_duration": "Длительность (дней)"
 }

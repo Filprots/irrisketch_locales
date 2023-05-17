@@ -1,75 +1,27 @@
 {
-  "MAIN": {
-    "pageTitle": "Administratie Paneel"
-  },
-  "GREET": {
-    "hi": "Hallo,",
-    "region": "Beheerde regio's:"
-  },
-  "STATS": {
-    "counters": "Tellers",
-    "title": "Balie",
-    "total": "Totaal",
-    "dayIncr": "Dag",
-    "weekIncr": "Week",
-    "monthIncr": "Maand",
-    "yearIncr": "Jaar",
-    "accounts": "rekeningen",
-    "projects": "Projecten",
-    "subscriptions": "Abonnementen",
-    "orders": "Bestellingen"
-  },
-  "ENTITY": {
-    "home": "Dashboard",
-    "accounts": "rekeningen",
-    "counter_col": "",
-    "_id": "ID kaart",
-    "email": "E-mail",
-    "account_name": "Naam",
-    "acc_country": "Land",
-    "status": "Toestand",
-    "created": "Gemaakt",
-    "projects": "Projecten",
-    "projectsField": "Projecten",
-    "subscriptions": "Abonnementen",
-    "orders": "Bestellingen",
-    "title": "Titel",
-    "hidden": "VERWIJDERD",
-    "account_id": "Rekening",
-    "account_email": "Rekening",
-    "modified": "Gewijzigd",
-    "deleted": "VERWIJDERD",
-    "number": "Nummer",
-    "type": "Type",
-    "order": "Volgorde",
-    "items": "Artikelen",
-    "amounts": "Hoeveelheid",
-    "duration": "Duur",
-    "invitations": "nodigt uit",
-    "promocodes": "Promotie codes",
-    "code": "Code",
-    "inv_code": "Code",
-    "usages": "Activeringen",
-    "referals": "Registraties",
-    "max_refs": "Max. ",
-    "max_usages": "Max. ",
-    "valid_until": "Geldig tot",
-    "triggers": "Triggers",
-    "issued": "Uitgegeven",
-    "revoked": "Ingetrokken",
-    "code_country": "Regio"
-  },
-  "MAILING": {
-    "toggleTitle": "Mailen",
-    "menuTitle": "Mailen",
-    "recipNumber": "Aantal ontvangers",
-    "subjectTitle": "Onderwerp",
-    "subjectPlaceholder": "Voer onderwerp in",
-    "htmlTextTitle": "HTML-tekst",
-    "htmlTextPlaceholder": "Hier kunt u HTML-opmaak gebruiken",
-    "readyToSend1Title": "Ik heb de spelling 500 keer gecontroleerd en getest hoe de HTML-opmaak eruit zal zien, en nu ben ik klaar om te verzenden!",
-    "readyToSend2Title": "Ja, het bericht dat ik ga verzenden bevat geen informatie die IRRISketch of zijn gelieerde ondernemingen in gevaar kan brengen",
-    "readyToSend3Title": "Ja, ik realiseer me dat dit bericht naar talloze gebruikers zal worden verzonden en als er iets in de war is, is er geen manier om het proces te stoppen",
-    "sendButton": "Versturen"
-  }
+	"MAILING": {
+		"toggleTitle": "Mailen",
+		"menuTitle": "Mailen",
+		"recipNumber": "Aantal ontvangers",
+		"subjectTitle": "Onderwerp",
+		"subjectPlaceholder": "Voer onderwerp in",
+		"htmlTextTitle": "HTML-tekst",
+		"htmlTextPlaceholder": "Hier kunt u HTML-opmaak gebruiken",
+		"readyToSend1Title": "Ik heb de spelling 500 keer gecontroleerd en getest hoe de HTML-opmaak eruit zal zien, en nu ben ik klaar om te verzenden!",
+		"readyToSend2Title": "Ja, het bericht dat ik ga verzenden bevat geen informatie die IRRISketch of zijn gelieerde ondernemingen in gevaar kan brengen",
+		"readyToSend3Title": "Ja, ik realiseer me dat dit bericht naar talloze gebruikers zal worden verzonden en als er iets in de war is, is er geen manier om het proces te stoppen",
+		"sendButton": "Versturen"
+	},
+	"SUBSCRISSUE": {
+		"toggleTitle": "Subscriptions creator",
+		"menuTitle": "Create subscription",
+		"recipNumber": "Number of users selected",
+		"subTypeInputTitle": "Type of subscription",
+		"daysAskerInputTitle": "Days",
+		"orderNumberInputTitle": "Order number",
+		"sendButton": "Create subscriptions"
+	},
+	"MAIN": {
+		"pageTitle": "Administratie Paneel"
+	}
 }

@@ -1,75 +1,27 @@
 {
-  "MAIN": {
-    "pageTitle": "Pannello di Amministrazione"
-  },
-  "GREET": {
-    "hi": "Ciao,",
-    "region": "Regioni amministrate:"
-  },
-  "STATS": {
-    "counters": "Contatrici",
-    "title": "Contatrice",
-    "total": "Totale",
-    "dayIncr": "Giorno",
-    "weekIncr": "Settimana",
-    "monthIncr": "Mese",
-    "yearIncr": "Anno",
-    "accounts": "Account",
-    "projects": "Progetti",
-    "subscriptions": "Abbonamenti",
-    "orders": "Ordini"
-  },
-  "ENTITY": {
-    "home": "Pannello di controllo",
-    "accounts": "Account",
-    "counter_col": "#",
-    "_id": "ID",
-    "email": "E-mail",
-    "account_name": "Nome",
-    "acc_country": "Paese",
-    "status": "Stato",
-    "created": "Creata",
-    "projects": "Progetti",
-    "projectsField": "Progetti",
-    "subscriptions": "Abbonamenti",
-    "orders": "Ordini",
-    "title": "Titolo",
-    "hidden": "Rimossa",
-    "account_id": "Account",
-    "account_email": "Account",
-    "modified": "Modificata",
-    "deleted": "Rimossa",
-    "number": "Numero",
-    "type": "Tipa",
-    "order": "Ordine",
-    "items": "Elementi",
-    "amounts": "Amnts.",
-    "duration": "Durata",
-    "invitations": "Inviti",
-    "promocodes": "Promocodi",
-    "code": "Codice",
-    "inv_code": "Codice",
-    "usages": "Attivazioni",
-    "referals": "Registrazioni",
-    "max_refs": "Max. usi",
-    "max_usages": "Max. usi",
-    "valid_until": "Valido fino a",
-    "triggers": "Trigger",
-    "issued": "Rilasciato",
-    "revoked": "Revocata",
-    "code_country": "Regione"
-  },
-  "MAILING": {
-    "toggleTitle": "Mailing",
-    "menuTitle": "Mailing",
-    "recipNumber": "Numero di destinatari",
-    "subjectTitle": "Soggetta",
-    "subjectPlaceholder": "Immettere il soggetto",
-    "htmlTextTitle": "Testo html",
-    "htmlTextPlaceholder": "Qui puoi usare il markup HTML",
-    "readyToSend1Title": "Ho controllato 500 volte e ho testato come sarà il markup HTML, e ora sono pronto a inviare!",
-    "readyToSend2Title": "Sì, il messaggio che invierò non contiene alcuna informazione che comprometta Irrisket o le sue affiliate",
-    "readyToSend3Title": "Sì, mi rendo conto che questo messaggio verrà inviato a numerosi utenti e se qualcosa è incasinato non c'è modo di fermare il processo",
-    "sendButton": "Inviare"
-  }
+	"MAILING": {
+		"toggleTitle": "Mailing",
+		"menuTitle": "Mailing",
+		"recipNumber": "Numero di destinatari",
+		"subjectTitle": "Soggetta",
+		"subjectPlaceholder": "Immettere il soggetto",
+		"htmlTextTitle": "Testo html",
+		"htmlTextPlaceholder": "Qui puoi usare il markup HTML",
+		"readyToSend1Title": "Ho controllato 500 volte e ho testato come sarà il markup HTML, e ora sono pronto a inviare!",
+		"readyToSend2Title": "Sì, il messaggio che invierò non contiene alcuna informazione che comprometta Irrisket o le sue affiliate",
+		"readyToSend3Title": "Sì, mi rendo conto che questo messaggio verrà inviato a numerosi utenti e se qualcosa è incasinato non c'è modo di fermare il processo",
+		"sendButton": "Inviare"
+	},
+	"SUBSCRISSUE": {
+		"toggleTitle": "Subscriptions creator",
+		"menuTitle": "Create subscription",
+		"recipNumber": "Number of users selected",
+		"subTypeInputTitle": "Type of subscription",
+		"daysAskerInputTitle": "Days",
+		"orderNumberInputTitle": "Order number",
+		"sendButton": "Create subscriptions"
+	},
+	"MAIN": {
+		"pageTitle": "Pannello di Amministrazione"
+	}
 }

@@ -1,75 +1,27 @@
 {
-  "MAIN": {
-    "pageTitle": "Panel de administrador"
-  },
-  "GREET": {
-    "hi": "Hola,",
-    "region": "Regiones administradas:"
-  },
-  "STATS": {
-    "counters": "Contadores",
-    "title": "Encimera",
-    "total": "Total",
-    "dayIncr": "Día",
-    "weekIncr": "Semana",
-    "monthIncr": "Mes",
-    "yearIncr": "Año",
-    "accounts": "cuentas",
-    "projects": "Proyectos",
-    "subscriptions": "Suscripciones",
-    "orders": "Pedidos"
-  },
-  "ENTITY": {
-    "home": "Panel",
-    "accounts": "cuentas",
-    "counter_col": "",
-    "_id": "IDENTIFICACIÓN",
-    "email": "Correo electrónico",
-    "account_name": "Nombre",
-    "acc_country": "País",
-    "status": "Estado",
-    "created": "Creado",
-    "projects": "Proyectos",
-    "projectsField": "Proyectos",
-    "subscriptions": "Suscripciones",
-    "orders": "Pedidos",
-    "title": "Título",
-    "hidden": "Remoto",
-    "account_id": "Cuenta",
-    "account_email": "Cuenta",
-    "modified": "Modificado",
-    "deleted": "Remoto",
-    "number": "Número",
-    "type": "Tipo",
-    "order": "Orden",
-    "items": "Elementos",
-    "amounts": "Cantidades",
-    "duration": "Duración",
-    "invitations": "invita",
-    "promocodes": "Códigos promocionales",
-    "code": "Código",
-    "inv_code": "Código",
-    "usages": "Activaciones",
-    "referals": "Inscripciones",
-    "max_refs": "máx. ",
-    "max_usages": "máx. ",
-    "valid_until": "Válido hasta",
-    "triggers": "disparadores",
-    "issued": "Emitido",
-    "revoked": "revocado",
-    "code_country": "Región"
-  },
-  "MAILING": {
-    "toggleTitle": "Envío",
-    "menuTitle": "Envío",
-    "recipNumber": "Número de destinatarios",
-    "subjectTitle": "Sujeto",
-    "subjectPlaceholder": "Introduce el asunto",
-    "htmlTextTitle": "texto HTML",
-    "htmlTextPlaceholder": "Aquí puede usar marcado HTML",
-    "readyToSend1Title": "Revisé la ortografía 500 veces y probé cómo se verá el marcado HTML, ¡y ahora estoy listo para enviar!",
-    "readyToSend2Title": "Sí, el mensaje que voy a enviar no contiene ninguna información que comprometa a IRRISketch o sus afiliados.",
-    "readyToSend3Title": "Sí, me doy cuenta de que este mensaje se enviará a numerosos usuarios y si algo no funciona, no hay forma de detener el proceso.",
-    "sendButton": "Enviar"
-  }
+	"MAILING": {
+		"toggleTitle": "Envío",
+		"menuTitle": "Envío",
+		"recipNumber": "Número de destinatarios",
+		"subjectTitle": "Sujeto",
+		"subjectPlaceholder": "Introduce el asunto",
+		"htmlTextTitle": "texto HTML",
+		"htmlTextPlaceholder": "Aquí puede usar marcado HTML",
+		"readyToSend1Title": "Revisé la ortografía 500 veces y probé cómo se verá el marcado HTML, ¡y ahora estoy listo para enviar!",
+		"readyToSend2Title": "Sí, el mensaje que voy a enviar no contiene ninguna información que comprometa a IRRISketch o sus afiliados.",
+		"readyToSend3Title": "Sí, me doy cuenta de que este mensaje se enviará a numerosos usuarios y si algo no funciona, no hay forma de detener el proceso.",
+		"sendButton": "Enviar"
+	},
+	"SUBSCRISSUE": {
+		"toggleTitle": "Subscriptions creator",
+		"menuTitle": "Create subscription",
+		"recipNumber": "Number of users selected",
+		"subTypeInputTitle": "Type of subscription",
+		"daysAskerInputTitle": "Days",
+		"orderNumberInputTitle": "Order number",
+		"sendButton": "Create subscriptions"
+	},
+	"MAIN": {
+		"pageTitle": "Panel de administrador"
+	}
 }

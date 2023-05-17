@@ -392,7 +392,7 @@
       "removeImportedInfo": "Perderá el acceso a las listas de precios y todos los artículos usados desaparecerán de sus estimaciones.",
       "removeImportedWarn": "Borrar",
       "share": "Compartir el precio",
-      "shareInfo": "Los precios compartidos serán visibles para todos los usuarios de Irisketch",
+      "shareInfo": "Los precios compartidos serán visibles para todos los usuarios de IRRISketch",
       "shareWarn": "Hacerlo disponible públicamente",
       "stopSharing": "Eliminar de compartido",
       "stopSharingInfo": "Los precios se volverán privados y ya nadie puede usarlos. \n Además, todos sus elementos desaparecerán en los desembolsos de los usuarios, así que solo haga esto si es absolutamente necesario",

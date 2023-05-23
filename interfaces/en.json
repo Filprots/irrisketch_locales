@@ -277,7 +277,7 @@
 	"Account": "Account",
 	"Home": "Home",
 	"Tutorials": "Tutorials",
-	"GoProLinkHeader": "<i class='far fa-coins text-warning'></i> Purchase",
+	"GoProLinkHeader": "Purchase",
 	"FAQ": "FAQ",
 	"Remember me": "Remember me",
 	"Error": "Error occurred",

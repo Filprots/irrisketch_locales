@@ -1489,5 +1489,7 @@
   "SubscrTime_activated": "Активирована",
   "SubscrTime_cancelled": "Отменена",
   "SubscrTime_finished": "Завершена",
-  "SubscrTime_duration": "Длительность (дней)"
+  "SubscrTime_duration": "Длительность (дней)",
+  "Specs_Sheets_Table_Header_Created": "Создано",
+  "Specs_Sheets_Table_Header_Modified": "Изменено"
 }

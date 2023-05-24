@@ -1,5 +1,5 @@
 (function (p) {
-    if (window.paperLocale !== "en") return false;
+    if (window.paperLocale !== "pt") return false;
     !p.ELNG && (p.ELNG = {});//EMBEDDED DICTIONARY
     p.ELNG = {
         types: {

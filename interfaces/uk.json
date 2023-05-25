@@ -1491,5 +1491,6 @@
   "SubscrTime_finished": "Завершена",
   "SubscrTime_duration": "Длительность (дней)",
   "Specs_Sheets_Table_Header_Created": "Создано",
-  "Specs_Sheets_Table_Header_Modified": "Изменено"
+  "Specs_Sheets_Table_Header_Modified": "Изменено",
+  "BookOnlineIntroduction": "Персональная онлайн-демонстрация"
 }

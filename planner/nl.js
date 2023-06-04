@@ -968,6 +968,15 @@ this.LNG = {
             "Bewerkingslink", "kopieer mij",
             "Link om te bekijken", "kopieer mij",
         ],
+        designRequestContacts: [
+            "Contact information",
+            "Organization",
+            "Name",
+            "Email",
+            "Phone",
+            "Address",
+            "Website",
+        ],
         approveActionByCode: [
             "Bevestig actie",
             "Er is een e-mail met een bevestigingscode naar het door u opgegeven e-mailadres verzonden.",

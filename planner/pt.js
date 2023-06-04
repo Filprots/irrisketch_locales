@@ -969,6 +969,15 @@ this.LNG = {
             "Link de edição", "copiar",
             "Link de visualização", "copiar",
         ],
+        designRequestContacts: [
+            "Contact information",
+            "Organization",
+            "Name",
+            "Email",
+            "Phone",
+            "Address",
+            "Website",
+        ],
         approveActionByCode: [
             "Confirmar ação",
             "Um e-mail com um código de confirmação foi enviado para o endereço de e-mail fornecido.",

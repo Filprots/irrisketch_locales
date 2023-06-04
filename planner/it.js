@@ -969,6 +969,15 @@ this.LNG = {
             "Link di modifica", "copia",
             "Link di visualizzazione", "copia",
         ],
+        designRequestContacts: [
+            "Contact information",
+            "Organization",
+            "Name",
+            "Email",
+            "Phone",
+            "Address",
+            "Website",
+        ],
         approveActionByCode: [
             "Conferma azione",
             "È stata inviata un'email con un codice di conferma all'indirizzo email che hai fornito.",

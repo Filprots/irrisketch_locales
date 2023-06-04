@@ -969,6 +969,15 @@ this.LNG = {
             "Link za uređivanje", "kopiraj me",
             "Link za pregled", "kopiraj me",
         ],
+        designRequestContacts: [
+            "Contact information",
+            "Organization",
+            "Name",
+            "Email",
+            "Phone",
+            "Address",
+            "Website",
+        ],
         approveActionByCode: [
             "Potvrdi radnju",
             "Na vašu e-mail adresu je poslan email s potvrdnim kôdom.",

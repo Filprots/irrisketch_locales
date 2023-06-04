@@ -969,6 +969,15 @@ this.LNG = {
             "Redaguoti nuorodą", "nukopijuoti mane",
             "Peržiūros nuoroda", "nukopijuoti mane",
         ],
+        designRequestContacts: [
+            "Contact information",
+            "Organization",
+            "Name",
+            "Email",
+            "Phone",
+            "Address",
+            "Website",
+        ],
         approveActionByCode: [
             "Patvirtinti veiksmą",
             "Patvirtinimo kodas buvo išsiųstas į jūsų pateiktą el. pašto adresą.",

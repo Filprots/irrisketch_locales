@@ -24,7 +24,7 @@
             valign="top" align="center">
             <%- partial('../partials/social', {
                 companyName: typeof companyName !== 'undefined' ? companyName : 'IRRISketch',
-                website: goToWebsite,
+                website: typeof goToWebsite !== 'undefined' ? goToWebsite : '',
                 email: replyToEmail,
                 tel: callToTelephone || callToTelephoneGetter(lang),
                 instagram: instagramPage || instagramPageGetter(lang)

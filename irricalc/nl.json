@@ -89,7 +89,7 @@
     "cmph": "m^3/u",
     "galpm": "gal/min",
     "galph": "gal/u",
-    "pvc": "Pvc",
+    "pvc": "PVC",
     "hdpe": "HDPE",
     "waterColumn": "meter waterkolom",
     "mm": "mm",
@@ -113,7 +113,7 @@
     "deletePipeSection": "Sectie verwijderen",
     "deleteAllPipeSections": "Verwijder alle secties",
     "settings": "Instellingen",
-    "closeSettings": "Dichtbij",
+    "closeSettings": "Sluiten",
     "clonePipeSection": "Kloon sectie"
   }
 }

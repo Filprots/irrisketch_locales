@@ -647,7 +647,7 @@
   "ElemButtonRemove": "Sakrij narudžbu",
   "ElemButtonMoneyBack": "Otkaži pretplatu",
   "SubscrPage_SubscriptionPageTitle": "Pretplate",
-  "SubscrPage_freePlan": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BESPLATNO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+  "SubscrPage_freePlan": "BESPLATNO",
   "SubscrPage_Free": "Besplatno",
   "SubscrPage_freePlan_options_1": "<b>3</b> projekta",
   "SubscrPage_freePlan_options_2": "<b>1</b> nacrt",

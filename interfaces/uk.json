@@ -647,7 +647,7 @@
   "ElemButtonRemove": "Видалити замовлення",
   "ElemButtonMoneyBack": "Відмовитись від підписки",
   "SubscrPage_SubscriptionPageTitle": "Підписки",
-  "SubscrPage_freePlan": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FREE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+  "SubscrPage_freePlan": "FREE",
   "SubscrPage_Free": "Безкоштовно",
   "SubscrPage_freePlan_options_1": "<b>3</b> проєкта",
   "SubscrPage_freePlan_options_2": "<b>1</b> креслення",

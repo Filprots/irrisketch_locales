@@ -647,7 +647,7 @@
   "ElemButtonRemove": "Reihenfolge ausblenden",
   "ElemButtonMoneyBack": "Abonnement kündigen",
   "SubscrPage_SubscriptionPageTitle": "Subscriptions",
-  "SubscrPage_freePlan": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FREE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+  "SubscrPage_freePlan": "FREE",
   "SubscrPage_Free": "Kostenlos",
   "SubscrPage_freePlan_options_1": "<b>3</b> Projekte",
   "SubscrPage_freePlan_options_2": "<b>1</b> layout",

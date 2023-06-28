@@ -647,7 +647,7 @@
 	"ElemButtonRemove": "Удалить заказ",
 	"ElemButtonMoneyBack": "Отказаться от подписки",
 	"SubscrPage_SubscriptionPageTitle": "Подписки",
-	"SubscrPage_freePlan": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FREE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+	"SubscrPage_freePlan": "FREE",
 	"SubscrPage_Free": "Бесплатно",
 	"SubscrPage_freePlan_options_1": "<b>3</b> проекта",
 	"SubscrPage_freePlan_options_2": "<b>1</b> чертеж",

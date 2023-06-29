@@ -2,7 +2,7 @@
   "BTN": {
     "bulkInsert": "Importeren",
     "cancel": "Annuleren",
-    "close": "Dichtbij",
+    "close": "Sluiten",
     "ok": "Bevestigen",
     "remove": "Verwijderen",
     "save": "Redden",
@@ -264,7 +264,7 @@
     "lineGroup": "Lijn",
     "lineTooltip": "Lijn",
     "lineWidth": "Lijnbreedte",
-    "loadingOoo": "Bezig met laden...",
+    "loadingOoo": "Bezig met opslaan...",
     "markerPadding": "Markering opvulling",
     "markerSize": "Marker maat",
     "markerStroke": "Markerslag",
@@ -375,7 +375,7 @@
       "createEquipmentPrice": "Prijs nieuwe uitrusting",
       "createGroup": "Nieuwe map",
       "createLabourPrice": "Nieuwe arbeidsprijs",
-      "loadPublic": "Prijzen laden",
+      "loadPublic": "Prijzen opslaan",
       "previewDistributorCard": "Voorbeeldkaart",
       "resetSearch": "Resetten",
       "searchOptions": "Opties",
@@ -458,7 +458,7 @@
       "share": "Deel",
       "showAboutDistributor": "Distributeur informatie",
       "unshare": "Stop met delen",
-      "updatePrices": "Catalogus opnieuw laden",
+      "updatePrices": "Catalogus opnieuw opslaan",
       "you": "Jij"
     },
     "TYPE": {

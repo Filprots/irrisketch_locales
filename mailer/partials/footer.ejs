@@ -23,8 +23,8 @@
             style="font-family: sans-serif; vertical-align: top; padding-bottom: 0px; padding-top: 10px; color: #999999; font-size: 12px; text-align: center;"
             valign="top" align="center">
             <%- partial('../partials/social', {
-                companyName: companyName || 'IRRISketch',
-                website: goToWebsite,
+                companyName: typeof companyName !== 'undefined' ? companyName : 'IRRISketch',
+                website: typeof goToWebsite !== 'undefined' ? goToWebsite : urlBase,
                 email: replyToEmail,
                 tel: callToTelephone || callToTelephoneGetter(lang),
                 instagram: instagramPage || instagramPageGetter(lang)

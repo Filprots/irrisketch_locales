@@ -785,16 +785,16 @@ this.LNG = {
             "Als je offline wilt werken, kun je een Offline Versie van de applicatie downloaden vanuit je account op http://www.irrisketch.com"
         ],
         brokenSaving: [
-            "Sorry... er is iets misgegaan bij het laden van je project",
+            "Sorry... er is iets misgegaan bij het opslaan van je project",
             "Het lijkt erop dat je vorige opslagbestand op de een of andere manier is beschadigd.",
             "Maar geen zorgen, we kunnen het repareren.",
             "Je project wordt nu gemarkeerd als 'Defect' in je werkplaats.",
             "En ons technische team zal deze situatie zo snel mogelijk oplossen."
         ],
         corruptedSavingFile: [
-            "Sorry... het bestand dat je probeert te laden is niet leesbaar",
+            "Sorry... het bestand dat je probeert te opslaan is niet leesbaar",
             "Maar geen zorgen, we kunnen het repareren.",
-            "Het enige wat je hoeft te doen is dit defecte bestand indienen in het formulier voor het laden van bestanden in je werkplaats.",
+            "Het enige wat je hoeft te doen is dit defecte bestand indienen in het formulier voor het opslaan van bestanden in je werkplaats.",
             "En dan zullen we proberen om het weer aan het werk te krijgen."
         ],
         ajaxReqFail: [
@@ -889,7 +889,7 @@ this.LNG = {
             "Configuratie van specificatieblad"
         ],
         presetsMenu: {
-            title: "Voorinstellingen",
+            title: "Opgeslagen instellingen",
             titleTextboxLabel: "Titel van voorinstelling",
             descriptionTextboxLabel: "Beschrijving",
             applyButton: "<i class='far fa-check-circle'></i> Toepassen",

@@ -290,6 +290,7 @@
             gostSize: "GOST Size",
             landscp: "Landscape table",
             conv: "Symbols table",
+            convAll: "Symbols table (All)",
             zoneT: "Zones table",
             sprinkZoneTimeT: "Zone sprinkling time",
             sprinkT: "Sprinklers table",

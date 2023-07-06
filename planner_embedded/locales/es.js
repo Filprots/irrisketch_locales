@@ -290,6 +290,7 @@
             gostSize: "Tamaño GOST",
             landscp: "Mesa paisaje",
             conv: "Tabla de símbolos",
+            convAll: "Tabla de símbolos (All)",
             zoneT: "Tabla de zonas",
             sprinkZoneTimeT: "Tiempo de riego por zona",
             sprinkT: "Mesa de aspersores",

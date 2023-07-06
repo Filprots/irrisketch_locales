@@ -290,6 +290,7 @@
             gostSize: "Kote",
             landscp: "Tablica Krajobraza",
             conv: "Tablica simbola",
+            convAll: "Tablica simbola (All)",
             zoneT: "Tablica zona",
             sprinkZoneTimeT: "Vrijeme rada zona",
             sprinkT: "Tablica rasprskivača",

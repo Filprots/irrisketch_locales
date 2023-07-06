@@ -290,6 +290,7 @@
             gostSize: "Dimensioni GOST",
             landscp: "Tavolo orizzontale",
             conv: "Tabella dei simboli",
+            convAll: "Tabella dei simboli (All)",
             zoneT: "Tabella delle zone",
             sprinkZoneTimeT: "Tempo di aspersione della zona",
             sprinkT: "Tavolo degli irrigatori",

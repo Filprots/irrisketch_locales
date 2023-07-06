@@ -290,6 +290,7 @@
             gostSize: "GOST Dydis",
             landscp: "Peizažo lentelė",
             conv: "Simbolių lentelė",
+            convAll: "Simbolių lentelė (All)",
             zoneT: "Zonų lentelė",
             sprinkZoneTimeT: "Zonų laistymo laikas",
             sprinkT: "Pakabinami purkštuvai lentelė",

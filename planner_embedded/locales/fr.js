@@ -290,6 +290,7 @@
             gostSize: "Taille GOST",
             landscp: "Tableau paysage",
             conv: "Tableau des symboles",
+            convAll: "Tableau des symboles (All)",
             zoneT: "Tableau des zones",
             sprinkZoneTimeT: "Temps d'arrosage de la zone",
             sprinkT: "Tableau des gicleurs",

@@ -290,6 +290,7 @@
             gostSize: "GOST Grootte",
             landscp: "Landschaps legenda",
             conv: "Symbool legenda",
+            convAll: "Symbool legenda (All)",
             zoneT: "Zone tabel",
             sprinkZoneTimeT: "Besproeiingstijd per zone",
             sprinkT: "Sproeier tabel",

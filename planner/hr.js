@@ -554,6 +554,9 @@ this.LNG = {
         sensorCable: "Žica vremenskog senzora",
         qcPlastic: "Q/C ventil plastični",
         qcMetal: "Q/C ventil metalni",
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
         //typesOfAcessories
         hdpeCOR: "Korugirana cijev",
         expModule: "Modul za proširenje",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Ulazni napon programatora:",
         230: "230 VAC",
         120: "120 VAC",
+        24: "24 VAC",
         autoModules: "Automatski (najbolje odgovara)",
         userModules: "Ručno (kao dodatak)",
         //RZW NODE

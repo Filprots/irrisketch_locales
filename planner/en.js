@@ -554,6 +554,9 @@ this.LNG = {
         sensorCable: "Weather sensor wire",
         qcPlastic: "Q/C Valve plastic",
         qcMetal: "Q/C Valve metal",
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
         //typesOfAcessories
         hdpeCOR: "Corrugated pipe",
         expModule: "Expansion module",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Controller's input voltage:",
         230: "230 VAC",
         120: "120 VAC",
+        24: "24 VAC",
         autoModules: "Automatically (best fit)",
         userModules: "Manually (as accessories)",
         //RZW NODE

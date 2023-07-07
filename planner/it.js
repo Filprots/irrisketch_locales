@@ -554,7 +554,10 @@ this.LNG = {
         sensorCable: "Cavo sensore meteo",
         qcPlastic: "Valvola a sgancio rapido in plastica",
         qcMetal: "Valvola a sgancio rapido in metallo",
-//typesOfAcessories
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
+        //typesOfAcessories
         hdpeCOR: "Tubo corrugato",
         expModule: "Modulo di espansione",
         rzwSleeve: "Fodero in tessuto",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Tensione di ingresso del controller:",
         230: "230 VAC",
         120: "120 VAC",
+        24: "24 VAC",
         autoModules: "Automaticamente (miglior abbinamento)",
         userModules: "Manualmente (come accessori)",
 //RZW NODE

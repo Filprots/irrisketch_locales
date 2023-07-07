@@ -553,7 +553,10 @@ this.LNG = {
         sensorCable: "Weersensor kabel",
         qcPlastic: "Snelaansluiting kunststof",
         qcMetal: "Snelaansluiting metaal",
-//typesOfAcessories
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
+        //typesOfAcessories
         hdpeCOR: "Golfpijp",
         expModule: "Uitbreidingsmodule",
         rzwSleeve: "Stoffen hoes",
@@ -1034,6 +1037,7 @@ this.LNG = {
         controllerVoltage: "Ingangsspanning van de controller:",
         230: "230 VAC",
         120: "120 VAC",
+        24: "24 VAC",
         autoModules: "Automatisch (beste pasvorm)",
         userModules: "Handmatig (als accessoires)",
 //RZW NODE

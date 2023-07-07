@@ -554,6 +554,9 @@ this.LNG = {
         sensorCable: "Проводка датчика",
         qcPlastic: "Пластиковый гидрант",
         qcMetal: "Металлический гидрант",
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
         //typesOfAcessories
         hdpeCOR: "Гофр. труба",
         expModule: "Расширительный модуль",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Входное напряжение контроллера:",
         230: "230В",
         120: "120В",
+        24: "24В",
         autoModules: "Автоматически (оптимально)",
         userModules: "Вручную (как аксессуары)",
         //RZW NODE

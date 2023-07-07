@@ -554,7 +554,10 @@ this.LNG = {
         sensorCable: "Oro jutiklio laidai",
         qcPlastic: "Greito jungimo vožtuvai (plastikiniai)",
         qcMetal: "Greito jungimo vožtuvai (metaliniai)",
-//typesOfAcessories
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
+        //typesOfAcessories
         hdpeCOR: "Vamzdžių apsaugos vamzdis",
         expModule: "Išplėtimo modulis",
         rzwSleeve: "Audinio apsauginės apvalkalas",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Valdiklio įvesties įtampa:",
         230: "230 VAC",
         120: "120 VAC",
+        24: "24 VAC",
         autoModules: "Automatiškai (geriausiai tinka)",
         userModules: "Rankiniu būdu (kaip priedai)",
 //RZW NODE

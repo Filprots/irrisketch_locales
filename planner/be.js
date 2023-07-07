@@ -554,6 +554,9 @@ this.LNG = {
         sensorCable: "Праводка чуйніка",
         qcPlastic: "Пластыкавы гідрант",
         qcMetal: "Металічны гідрант",
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
         //typesOfAcessories
         hdpeCOR: "Гофр. труба",
         expModule: "Пашыральны модуль",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Входное напряжение контроллера:",
         230: "230В",
         120: "120В",
+        24: "24В",
         autoModules: "Аўтаматычна (аптымальна)",
         userModules: "Ручна (як аксэсуары)",
         //RZW NODE

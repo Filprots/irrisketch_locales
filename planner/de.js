@@ -554,6 +554,9 @@ this.LNG = {
         sensorCable: "Sensorkabel",
         qcPlastic: "Wassersteckdose Plastik",
         qcMetal: "Wassersteckdose Metall",
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
         //typesOfAcessories
         hdpeCOR: "geriffeltes Rohr",
         expModule: "Erweiterungsmodul",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Controller's input voltage:",
         230: "230 VAC",
         120: "120 VAC",
+        24: "24 VAC",
         autoModules: "Automatisch (beste Anpassung)",
         userModules: "Manuell (als Zubehör)",
         //RZW NODE

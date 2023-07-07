@@ -554,6 +554,9 @@ this.LNG = {
         sensorCable: "Cabo para sensor meteorológico",
         qcPlastic: "Válvula de acoplamento rápido em plástico",
         qcMetal: "Válvula de acoplamento rápido em metal",
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
         //typesOfAcessories
         hdpeCOR: "Tubo corrugado",
         expModule: "Módulo de expansão",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Tensão de entrada do controlador:",
         230: "230 VAC",
         120: "120 VAC",
+        24: "24 VAC",
         autoModules: "Automático (melhor ajuste)",
         userModules: "Manual (como acessórios)",
 //RZW NODE

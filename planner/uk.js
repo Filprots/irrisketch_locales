@@ -554,6 +554,9 @@ this.LNG = {
         sensorCable: "Провід датчика",
         qcPlastic: "Пластмасовий гідрант",
         qcMetal: "Металевий гідрант",
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
         //typesOfAcessories
         hdpeCOR: "Гофр. труба",
         expModule: "Модуль розширення",
@@ -871,7 +874,7 @@ this.LNG = {
             "Обновить",
             "Обновление спецификаций"
         ],
-        exportLayoutsAsPdf:[
+        exportLayoutsAsPdf: [
             "Экспорт выбранных листов в PDF",
             "По отдельности",
             "В одном файле (В разработке)",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Входное напряжение контроллера:",
         230: "230В",
         120: "120В",
+        24: "24В",
         autoModules: "Автоматично (оптимально)",
         userModules: "Вручну (как аксесуари)",
         //RZW NODE
@@ -1109,7 +1113,7 @@ this.LNG = {
         precipRatePrecision: "Кількість чисел після коми",
         // ZONE PROPS CONFIG
         climateConfig: "Расчёт продолж. полива",
-        lawnCultureType : "Сорт газона",
+        lawnCultureType: "Сорт газона",
         coolLoving: "Прохладолюбивый",
         warmLoving: "Теплолюбивый",
         climateTemp: "Средняя летняя температура",

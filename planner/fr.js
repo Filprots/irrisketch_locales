@@ -554,6 +554,9 @@ this.LNG = {
         sensorCable: "Câble de capteur météo",
         qcPlastic: "Valve Q/C en plastique",
         qcMetal: "Valve Q/C en métal",
+        gateway: "Gateway",
+        antExt: "Antenna extension",
+        loramod: "LoRa modules",
         //typesOfAcessories
         hdpeCOR: "Tuyau ondulé en HDPE",
         expModule: "Module d'extension",
@@ -1035,6 +1038,7 @@ this.LNG = {
         controllerVoltage: "Tension d'entrée du contrôleur :",
         230: "230 VAC",
         120: "120 VAC",
+        24: "24 VAC",
         autoModules: "Automatiquement (meilleur choix)",
         userModules: "Manuellement (comme accessoires)",
         //RZW NODE

@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Форсунка-баблер",
         rzw: "Прикореневий полив",
         sprayBody: "Корпус зрошувача",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Штуцер в зрошувач",
         flexPipe: "Гнучкий підвід",
         sj: "З'єднуюче коліно",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Вузол зрошувача",
-        fcType: "Тип гнучкого з'єднання",
+        fcType: "Тип з'єднання",
         sj: "Шарнірне коліно",
         flexPipeBarbs: "Гнучка труба і штуцекр",
         minFlexPipeLength: "Мінімальний відрізок гнучкої труби на вузол",

@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Сапло-баблер",
         rzw: "Прыкаранёвае паліванне",
         sprayBody: "Корпус дажджавацеля",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Штуцар у дажджавацель",
         flexPipe: "Гнуткая падводка",
         sj: "Злучальнае калена",
@@ -874,7 +875,7 @@ this.LNG = {
             "Абнавіць",
             "Абнаўленне спецыфікацый"
         ],
-        exportLayoutsAsPdf:[
+        exportLayoutsAsPdf: [
             "Экспарт абраных лістоў у PDF",
             "По асобнасці",
             "У адным файле (У распрацоўцы)",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Вузел дажджавацеля",
-        fcType: "Тып гнуткага злучэння",
+        fcType: "Тып злучэння",
         sj: "Шарнірнае калена",
         flexPipeBarbs: "Гнуткая труба і штуцара",
         minFlexPipeLength: "Мінімальны адрэзак гнуткай трубы на вузел",
@@ -1113,7 +1114,7 @@ this.LNG = {
         precipRatePrecision: "Колькасць лічбаў пасля коскі",
         // ZONE PROPS CONFIG
         climateConfig: "Расчёт продолж. полива",
-        lawnCultureType : "Сорт газона",
+        lawnCultureType: "Сорт газона",
         coolLoving: "Прохладолюбивый",
         warmLoving: "Теплолюбивый",
         climateTemp: "Средняя летняя температура",

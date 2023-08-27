@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Сопло-баблер",
         rzw: "Прикорневой полив",
         sprayBody: "Корпус дождевателя",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Штуцер в дождеватель",
         flexPipe: "Гибкая подводка",
         sj: "Соединительное колено",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Узел дождевателя",
-        fcType: "Тип гибкого соединения",
+        fcType: "Тип соединения",
         sj: "Шарнирное колено",
         flexPipeBarbs: "Гибкая труба и штуцера",
         minFlexPipeLength: "Минимальный отрезок гибкой трубы на узел",

@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Boquilla para difusor",
         rzw: "Sistema de riego de zona radicular",
         sprayBody: "Cuerpo de spray",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Barb a boquilla",
         flexPipe: "Tubería flexible",
         sj: "Juntas giratorias",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
 //CONFIGURACIONES DE NODO DE RIEGO
         sprinklerNode: "Nodo de riego",
-        fcType: "Tipo de conexión flexible",
+        fcType: "Tipo de conexión",
         sj: "Junta de pivote",
         flexPipeBarbs: "Tubo flexible + conectores",
         minFlexPipeLength: "Longitud mínima de tubería flexible por conexión",

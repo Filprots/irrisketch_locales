@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Bubbler-nozzle",
         rzw: "Root zone watering system",
         sprayBody: "Spray body",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Barb-to-nozzle",
         flexPipe: "Funny pipe",
         sj: "Swing joint",
@@ -874,7 +875,7 @@ this.LNG = {
             "Update",
             "Updating outlays"
         ],
-        exportLayoutsAsPdf:[
+        exportLayoutsAsPdf: [
             "Choose layouts to export",
             "separate files (in development)",
             "one album",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Sprinkler node",
-        fcType: "Type of flex connection",
+        fcType: "Type of sprinkler connection",
         sj: "Swing joint",
         flexPipeBarbs: "Flex pipe + barbs",
         minFlexPipeLength: "Minimal length of flex pipe per connection",
@@ -1113,7 +1114,7 @@ this.LNG = {
         precipRatePrecision: "Digits after the decimal point",
         // ZONE PROPS CONFIG
         climateConfig: "Calculation of irrigation time",
-        lawnCultureType : "Lawn type",
+        lawnCultureType: "Lawn type",
         coolLoving: "Cool-loving",
         warmLoving: "Warm-loving",
         climateTemp: "Average summer temperature",

@@ -509,6 +509,7 @@ this.LNG = {
         bubblerNozzle: "Lucht-sproeier",
         rzw: "Wortelzone irrigatiesysteem",
         sprayBody: "Sproeibody",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Barb-to-sproeier",
         flexPipe: "Flexibele leiding",
         sj: "Zwenkknie",
@@ -1014,7 +1015,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Sproeierknoop",
-        fcType: "Type van flexibele verbinding",
+        fcType: "Type van verbinding",
         sj: "Zwenkverbinding",
         flexPipeBarbs: "Flexibele buis + barbs",
         minFlexPipeLength: "Minimale lengte van flexibele buis per verbinding",

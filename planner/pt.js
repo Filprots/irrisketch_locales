@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Bico-bubbler",
         rzw: "Sistema de irrigação de zona radicular",
         sprayBody: "Corpo do aspersor",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Barb para bico",
         flexPipe: "Tubo flexível",
         sj: "Junção oscilante",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Nó de aspersor",
-        fcType: "Tipo de conexão flexível",
+        fcType: "Tipo de conexão",
         sj: "Junta oscilante",
         flexPipeBarbs: "Tubo flexível + barbas",
         minFlexPipeLength: "Comprimento mínimo do tubo flexível por conexão",

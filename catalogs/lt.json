@@ -5290,7 +5290,35 @@
       "CSTF-TEE250-4F-BSP": "Individualus jungimo T-vamzdis su sriegio išvestimi 250mm x 4\"F (BSP)",
       "CSTF-TEE250-4F-NPT": "Individualus jungimo T-vamzdis su sriegio išvestimi 250mm x 4\"F (NPT)",
       "CSTF-TEE250-4M-BSP": "Individualus jungimo T-vamzdis su sriegio išvestimi 250mm x 4\"M (BSP)",
-      "CSTF-TEE250-4M-NPT": "Individualus jungimo T-vamzdis su sriegio išvestimi 250mm x 4\"M (NPT)"
+      "CSTF-TEE250-4M-NPT": "Individualus jungimo T-vamzdis su sriegio išvestimi 250mm x 4\"M (NPT)",
+      "SSA-1-1/2IN": "Sprinkler Stand Assembly (1/2in)",
+      "SSA-1-3/4IN": "Sprinkler Stand Assembly (3/4in)",
+      "SSA-1-1IN": "Sprinkler Stand Assembly (1in)",
+      "SSA-1-11/4IN": "Sprinkler Stand Assembly (11/4in)",
+      "SSA-1-11/2IN": "Sprinkler Stand Assembly (11/2in)",
+      "SSA-1-2IN": "Sprinkler Stand Assembly (2in)",
+      "SSA-1-21/2IN": "Sprinkler Stand Assembly (21/2in)",
+      "SSA-1-3IN": "Sprinkler Stand Assembly (3in)",
+      "SSA-1-31/2IN": "Sprinkler Stand Assembly (31/2in)",
+      "SSA-1-4IN": "Sprinkler Stand Assembly (4in)",
+      "SSA-1-5IN": "Sprinkler Stand Assembly (5in)",
+      "SSA-1-16MM": "Sprinkler Stand Assembly (16mm)",
+      "SSA-1-20MM": "Sprinkler Stand Assembly (20mm)",
+      "SSA-1-25MM": "Sprinkler Stand Assembly (25mm)",
+      "SSA-1-32MM": "Sprinkler Stand Assembly (32mm)",
+      "SSA-1-40MM": "Sprinkler Stand Assembly (40mm)",
+      "SSA-1-50MM": "Sprinkler Stand Assembly (50mm)",
+      "SSA-1-63MM": "Sprinkler Stand Assembly (63mm)",
+      "SSA-1-75MM": "Sprinkler Stand Assembly (75mm)",
+      "SSA-1-90MM": "Sprinkler Stand Assembly (90mm)",
+      "SSA-1-110MM": "Sprinkler Stand Assembly (110mm)",
+      "SSA-1-125MM": "Sprinkler Stand Assembly (125mm)",
+      "SSA-1-140MM": "Sprinkler Stand Assembly (140mm)",
+      "SSA-1-160MM": "Sprinkler Stand Assembly (160mm)",
+      "SSA-1-180MM": "Sprinkler Stand Assembly (180mm)",
+      "SSA-1-200MM": "Sprinkler Stand Assembly (200mm)",
+      "SSA-1-225MM": "Sprinkler Stand Assembly (225mm)",
+      "SSA-1-250MM": "Sprinkler Stand Assembly (250mm)"
     },
     "_qcv_Anybrand": {
       "QCVP": "Plastikinis greito sujungimo vožtuvas ",
@@ -6426,6 +6454,9 @@
       "BRB16-CPL-1/2M": " Spygliuočių mova * ½\" išorinis sriegis ",
       "BRB16-CPL-3/4M": " Spygliuočių mova * ¾\" išorinis sriegis ",
       "FLEX-PIPE": " Lankstus vamzdelis purkštuvui prijungti"
+    },
+    "_pipeFittings_Anybrand": {
+      "SSA-1": "Sprinkler Stand Assembly"
     }
   },
   "Hunter": {
@@ -9475,6 +9506,31 @@
       "LR-MS-1": "Solem sensor (1 connection) LoRa/BT 9VDC powered module",
       "LR-MS-4": "Solem sensor (4 connections) LoRa/BT 9VDC powered module",
       "LR-PR": "Solem pressure-sensor LoRa/BT 9VDC powered module"
+    }
+  },
+  "NaanDanJain": {
+    "_rotors_NaanDanJain": {
+      "common_lang": "NaanDanJain {{model}} Rotor with #{{nozzle}} ({{nozzleColor.en}}) nozzle{{options.en}}",
+      "common_body": "NaanDanJain {{model}} Rotor{{options.en}}",
+      "common_noz": "NaanDanJain {{series}} #{{nozzle}} nozzle ({{nozzleColor.en}})",
+      "colors_texts1": {
+        "purple": "purple",
+        "orange": "orange",
+        "black": "black",
+        "green": "green",
+        "blue": "blue",
+        "yellow": "yellow",
+        "red": "red",
+        "brown": "brown",
+        "light_brown": "lt. brown",
+        "grey": "grey"
+      },
+      "features_texts1": {
+        "DN": "Dual nozzle",
+        "SN": "Single nozzle",
+        "FR": "Flow regulator",
+        "PC": "Part circle"
+      }
     }
   }
 }

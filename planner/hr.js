@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Bubbler-dizna",
         rzw: "Sustav navodnjavanja korijena",
         sprayBody: "Tijelo rasprskivača",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Ubodna spojnica prema rasprskivaču",
         flexPipe: "Fleksibilna cijev",
         sj: "Zglobni priključak",
@@ -874,7 +875,7 @@ this.LNG = {
             "Ažuriraj",
             "Ažuriranje izgleda"
         ],
-        exportLayoutsAsPdf:[
+        exportLayoutsAsPdf: [
             "Odaberite nacrte za izvoz",
             "odvojene datoteke (u razvoju)",
             "jedan album",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Priključak rasprskivača",
-        fcType: "Tip fleksibilne veze",
+        fcType: "Tip veze",
         sj: "Zglobni priključak",
         flexPipeBarbs: "Fleksibilne cijevi + Ubodni elementi",
         minFlexPipeLength: "Minimalna duljina fleksibilne cijevi po spoju",
@@ -1113,7 +1114,7 @@ this.LNG = {
         precipRatePrecision: "Znamenke nakon decimalne točke",
         // ZONE PROPS CONFIG
         climateConfig: "Izračun vremena navodnjavanja",
-        lawnCultureType : "Tip trave",
+        lawnCultureType: "Tip trave",
         coolLoving: "Trava za hladnija područja",
         warmLoving: "Trava za toplija područja",
         climateTemp: "Prosječna ljetna temperatura",

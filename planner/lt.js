@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Blizgutės dulkių židinys",
         rzw: "Šaknų zona",
         sprayBody: "Sprejus",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Barb-to-nozzle",
         flexPipe: "Lankstus vamzdis",
         sj: "Posūkio jungtis",
@@ -874,7 +875,7 @@ this.LNG = {
             "Atnaujinti",
             "Atnaujinami išdėstymai"
         ],
-        exportLayoutsAsPdf:[
+        exportLayoutsAsPdf: [
             "Pasirinkite išklotinius eksportavimui",
             "atsekiama failais (plėtojama)",
             "vienas albumas",
@@ -1113,7 +1114,7 @@ this.LNG = {
         precipRatePrecision: "Skaičių skaičius po kablelio",
         // ZONE PROPS CONFIG
         climateConfig: "Laistymo laiko skaičiavimas",
-        lawnCultureType : "Lauko žolės tipas",
+        lawnCultureType: "Lauko žolės tipas",
         coolLoving: "Mėgstantis vėsias klimatas",
         warmLoving: "Mėgstantis šiltas klimatas",
         climateTemp: "Vidutinė vasaros temperatūra",

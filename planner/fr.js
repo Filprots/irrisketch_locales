@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Buse arroseur-bubleur",
         rzw: "Système d'arrosage de la zone racinaire",
         sprayBody: "Corps d'arroseur",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Barb to nozzle",
         flexPipe: "Tuyau souple",
         sj: "Joint pivotant",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Noeud de sprinkler",
-        fcType: "Type de connexion flexible",
+        fcType: "Type de connexion",
         sj: "Joint à rotule",
         flexPipeBarbs: "Tuyau flexible + barbes",
         minFlexPipeLength: "Longueur minimale de tuyau flexible par connexion",

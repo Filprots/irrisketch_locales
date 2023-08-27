@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Spruzzatore con getto",
         rzw: "Sistema di irrigazione della zona radicale",
         sprayBody: "Corpo spruzzatore",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Attacco a barbetta per getto",
         flexPipe: "Tubo flessibile",
         sj: "Articolazione a slitta",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Nodo irrigatore",
-        fcType: "Tipo di connessione flessibile",
+        fcType: "Tipo di connessione",
         sj: "Giunto oscillante",
         flexPipeBarbs: "Tubo flessibile + barbe",
         minFlexPipeLength: "Lunghezza minima del tubo flessibile per connessione",

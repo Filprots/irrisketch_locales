@@ -510,6 +510,7 @@ this.LNG = {
         bubblerNozzle: "Bubbler-Düse",
         rzw: "Wurzelzonenbewässerung",
         sprayBody: "Versenkdüse",
+        sprinklerStandAssembly: "Sprinkler stand",
         outBarb: "Winkelstück Schlauchanschluss ½”",
         flexPipe: "Flexschlauch",
         sj: "flexibler Schlauchanschluss",
@@ -874,7 +875,7 @@ this.LNG = {
             "Update",
             "Updating outlays"
         ],
-        exportLayoutsAsPdf:[
+        exportLayoutsAsPdf: [
             "Choose layouts to export",
             "separate files (in development)",
             "one album",
@@ -1015,7 +1016,7 @@ this.LNG = {
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Sprinkler-Knoten",
-        fcType: "Art der Flexverbindung",
+        fcType: "Art der Verbindung",
         sj: "Schwenkgelenk",
         flexPipeBarbs: "Flexschlauch und Schlauchanschluss",
         minFlexPipeLength: "Minimale Länge des Flexschlauches pro Verbindung",
@@ -1113,7 +1114,7 @@ this.LNG = {
         precipRatePrecision: "Nachkommastellen",
         // ZONE PROPS CONFIG
         climateConfig: "Berechnung der Bewässerungszeit",
-        lawnCultureType : "Rasen Typ",
+        lawnCultureType: "Rasen Typ",
         coolLoving: "Schattenrasen",
         warmLoving: "Gebrauchsrasen",
         climateTemp: "Durchschnittliche Sommertemperatur",

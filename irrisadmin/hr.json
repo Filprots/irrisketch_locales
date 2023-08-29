@@ -1,4 +1,27 @@
 {
+	"MAILING": {
+		"toggleTitle": "Mailing",
+		"menuTitle": "Mailing",
+		"recipNumber": "Number of recipients",
+		"subjectTitle": "Subject",
+		"subjectPlaceholder": "Enter subject",
+		"htmlTextTitle": "HTML text",
+		"htmlTextPlaceholder": "Here you can use HTML markup",
+		"readyToSend1Title": "I've spell-checked 500 times, and tested how the HTML markup will look, and now I'm ready to send!",
+		"readyToSend2Title": "Yes, the message I'm going to send does not contain any information that compromise IRRISketch or its affiliates",
+		"readyToSend3Title": "Yes, I realise that this message will be sent to numerous users and if something is messed up there is no way to stop the process",
+		"notifyAdmins": "Inform all admins",
+		"sendButton": "Send"
+	},
+	"SUBSCRISSUE": {
+		"toggleTitle": "Subscriptions creator",
+		"menuTitle": "Create subscription",
+		"recipNumber": "Number of users selected",
+		"subTypeInputTitle": "Type of subscription",
+		"daysAskerInputTitle": "Days",
+		"orderNumberInputTitle": "Order number",
+		"sendButton": "Create subscriptions"
+	},
 	"MAIN": {
 		"pageTitle": "Admin panel"
 	},
@@ -58,27 +81,5 @@
 		"issued": "Issued",
 		"revoked": "Revoked",
 		"code_country": "Region"
-	},
-	"MAILING": {
-		"toggleTitle": "Mailing",
-		"menuTitle": "Mailing",
-		"recipNumber": "Number of recipients",
-		"subjectTitle": "Subject",
-		"subjectPlaceholder": "Enter subject",
-		"htmlTextTitle": "HTML text",
-		"htmlTextPlaceholder": "Here you can use HTML markup",
-		"readyToSend1Title": "I've spell-checked 500 times, and tested how the HTML markup will look, and now I'm ready to send!",
-		"readyToSend2Title": "Yes, the message I'm going to send does not contain any information that compromise IRRISketch or its affiliates",
-		"readyToSend3Title": "Yes, I realise that this message will be sent to numerous users and if something is messed up there is no way to stop the process",
-		"sendButton": "Send"
-	},
-	"SUBSCRISSUE": {
-		"toggleTitle": "Subscriptions creator",
-		"menuTitle": "Create subscription",
-		"recipNumber": "Number of users selected",
-		"subTypeInputTitle": "Type of subscription",
-		"daysAskerInputTitle": "Days",
-		"orderNumberInputTitle": "Order number",
-		"sendButton": "Create subscriptions"
 	}
 }

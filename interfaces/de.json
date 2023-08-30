@@ -1391,11 +1391,14 @@
   "disable_pipesInfo": "If you activate this option, you will not be able to install new pipes in the project, but any pipes already installed will remain.",
   "tool_doIrrigate": "Wasser",
   "tool_doNotIrrigate": "Kein Wasser",
-  "tool_Lawn": "Delete Lawn",
+  "tool_Lawn": "Rasenfläche",
   "toolText": "Text",
-  "tool_CntrPlace": "Computerstandort",
+  "tool_CntrPlace": "Steuergerät",
   "tool_SnsrPlace": "Sensorstandort",
   "tool_WSPlace": "Wasserquelle",
+  "tool_Shrubs": "Beet & Hecke",
+  "tool_Pavement": "Pflasterfläche",
+  "tool_Buildings": "Gebäude",
   "toolSurfaces": "Oberflächen",
   "EditInfoNameplatesOnLayout": "Edit displacement",
   "ResetInfoNameplatesOnLayout": "Reset",
@@ -1502,5 +1505,7 @@
   "Specs_Sheets_Table_Header_Created": "Created",
   "Specs_Sheets_Table_Header_Modified": "Modified",
   "BookOnlineIntroduction": "Online Einführungsseminar",
-  "tt_ds_ContactUs": "Kontakt"
+  "tt_ds_ContactUs": "Kontakt",
+  "DesignRequestPlannerRequesterWebsiteLabel": "Website",
+  "DesignRequestPlannerRequesterWebsitePlc": "DesignRequestPlannerRequesterWebsitePlc"
 }

@@ -1396,6 +1396,9 @@
   "tool_SnsrPlace": "Lokacija senzora",
   "tool_WSPlace": "Lokacija izvora vode",
   "toolSurfaces": "Površine",
+  "tool_Shrubs": "Grmlje",
+  "tool_Pavement": "Pločnik",
+  "tool_Buildings": "Građevine",
   "toolText": "Tekst",
   "EditInfoNameplatesOnLayout": "Uredi oznake",
   "ResetInfoNameplatesOnLayout": "Resetiraj oznake",
@@ -1502,5 +1505,7 @@
   "Specs_Sheets_Table_Header_Created": "Created",
   "Specs_Sheets_Table_Header_Modified": "Modified",
   "BookOnlineIntroduction": "Zatražite osobni online sastanak",
-  "tt_ds_ContactUs": "Contact us"
+  "tt_ds_ContactUs": "Contact us",
+  "DesignRequestPlannerRequesterWebsiteLabel": "Web stranica",
+  "DesignRequestPlannerRequesterWebsitePlc": "your.domain.com"
 }

@@ -1396,6 +1396,9 @@
   "tool_CntrPlace": "Emplacement du contrôleur",
   "tool_SnsrPlace": "Emplacement du capteur",
   "tool_WSPlace": "Source d'eau",
+  "tool_Shrubs": "Arbustes",
+  "tool_Pavement": "Chaussée",
+  "tool_Buildings": "Bâtiments",
   "toolSurfaces": "Surfaces",
   "EditInfoNameplatesOnLayout": "Modifier le déplacement",
   "ResetInfoNameplatesOnLayout": "Réinitialiser",
@@ -1502,5 +1505,7 @@
   "Specs_Sheets_Table_Header_Created": "Created",
   "Specs_Sheets_Table_Header_Modified": "Modified",
   "BookOnlineIntroduction": "Demande de réunion personnelle en ligne",
-  "tt_ds_ContactUs": "Contact us"
+  "tt_ds_ContactUs": "Contact us",
+  "DesignRequestPlannerRequesterWebsiteLabel": "Website",
+  "DesignRequestPlannerRequesterWebsitePlc": "your.domain.com"
 }

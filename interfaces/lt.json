@@ -1396,6 +1396,9 @@
   "tool_CntrPlace": "Valdiklio vieta",
   "tool_SnsrPlace": "Jutiklio vieta",
   "tool_WSPlace": "Vandens šaltinis",
+  "tool_Shrubs": "Krūmai",
+  "tool_Pavement": "Saligatvis",
+  "tool_Buildings": "Pastatai",
   "toolSurfaces": "Paviršiai",
   "EditInfoNameplatesOnLayout": "Redaguoti poslinkį",
   "ResetInfoNameplatesOnLayout": "Nustatyti iš naujo",
@@ -1502,5 +1505,7 @@
   "Specs_Sheets_Table_Header_Created": "Created",
   "Specs_Sheets_Table_Header_Modified": "Modified",
   "BookOnlineIntroduction": "Užsisakykite asmeninį susitikimą internetu",
-  "tt_ds_ContactUs": "Contact us"
+  "tt_ds_ContactUs": "Contact us",
+  "DesignRequestPlannerRequesterWebsiteLabel": "Interneto svetainė",
+  "DesignRequestPlannerRequesterWebsitePlc": "your.domain.com"
 }

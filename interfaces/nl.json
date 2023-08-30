@@ -1396,6 +1396,9 @@
   "tool_CntrPlace": "Locatie van de controller",
   "tool_SnsrPlace": "Sensor locatie",
   "tool_WSPlace": "Waterbron",
+  "tool_Shrubs": "Struiken",
+  "tool_Pavement": "Stoep",
+  "tool_Buildings": "Gebouwen",
   "toolSurfaces": "Oppervlakken",
   "EditInfoNameplatesOnLayout": "Verplaatsing bewerken",
   "ResetInfoNameplatesOnLayout": "Resetten",
@@ -1502,5 +1505,7 @@
   "Specs_Sheets_Table_Header_Created": "Created",
   "Specs_Sheets_Table_Header_Modified": "Modified",
   "BookOnlineIntroduction": "Persoonlijk online gesprek aanvragen",
-  "tt_ds_ContactUs": "Contact us"
+  "tt_ds_ContactUs": "Contact us",
+  "DesignRequestPlannerRequesterWebsiteLabel": "Website",
+  "DesignRequestPlannerRequesterWebsitePlc": "your.domain.com"
 }

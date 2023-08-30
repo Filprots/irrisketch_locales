@@ -1505,7 +1505,10 @@
   "Specs_Sheets_Table_Header_Created": "Created",
   "Specs_Sheets_Table_Header_Modified": "Modified",
   "BookOnlineIntroduction": "Request Personal Online Meeting",
+  "tt_ds_ContactUs": "Contact us",
   "DesignRequestPlannerRequesterWebsiteLabel": "Website",
   "DesignRequestPlannerRequesterWebsitePlc": "your.domain.com",
-  "tt_ds_ContactUs": "Contact us"
+  "DesignRequestPlannerFileSendUsLabel": "Send additional data",
+  "DesignRequestPlannerFileSendUsButton": "Click this button to provide us with further information",
+  "DesignRequestPlannerFileSendUsEmailBody": "You can attach files here or add links to files in the cloud (Google Drive - Dropbox - etc.). You are also welcome to provide any other additional information about your project"
 }

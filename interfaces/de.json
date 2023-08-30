@@ -1507,5 +1507,8 @@
   "BookOnlineIntroduction": "Online Einführungsseminar",
   "tt_ds_ContactUs": "Kontakt",
   "DesignRequestPlannerRequesterWebsiteLabel": "Website",
-  "DesignRequestPlannerRequesterWebsitePlc": "your.domain.com"
+  "DesignRequestPlannerRequesterWebsitePlc": "your.domain.com",
+  "DesignRequestPlannerFileSendUsLabel": "Weitere Dateien senden",
+  "DesignRequestPlannerFileSendUsButton": "Klicken Sie auf diese Schaltfläche, um uns weitere Informationen zur Verfügung zu stellen",
+  "DesignRequestPlannerFileSendUsEmailBody": "Sie können hier Dateien anhängen oder Links zu Dateien in der Cloud (Google Drive - Dropbox - usw.) hinzufügen. Sie können auch gerne zusätzliche Informationen über Ihr Projekt angeben"
 }

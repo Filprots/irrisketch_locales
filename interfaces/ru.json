@@ -1507,5 +1507,8 @@
   "BookOnlineIntroduction": "Персональная онлайн-демонстрация",
   "DesignRequestPlannerRequesterWebsiteLabel": "Веб-страница",
   "DesignRequestPlannerRequesterWebsitePlc": "your.domain.com",
-  "tt_ds_ContactUs": "Связаться с нами"
+  "tt_ds_ContactUs": "Связаться с нами",
+  "DesignRequestPlannerFileSendUsLabel": "Отправить дополнительные данные",
+  "DesignRequestPlannerFileSendUsButton": "Нажмите эту кнопку, чтобы предоставить нам дополнительную информацию",
+  "DesignRequestPlannerFileSendUsEmailBody": "Вы можете прикрепить здесь файлы или добавить ссылки на файлы в облаке (Google Drive - Dropbox и т.д.). Вы также можете предоставить любую другую дополнительную информацию о вашем проекте"
 }

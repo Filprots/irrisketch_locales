@@ -1,9 +1,10 @@
-<% layout(templatePath) -%>
+<% layout(templateDCSPath) -%>
+<% block('logoUrl', options.logo_url) -%>
 <% block('title', __("Mail_userEvents_DS_you_upd")) -%>
 <% block('closing', __('Mail_Closing_DS')) -%>
 <%- partial(helloPath) %>
 <%- partial(paragraphPath, {
-    content: __("Mail_userEvents_DS_your_des_req_has_been_upd")
+    content: [__("Mail_userEvents_DS_your_des_req_has_been_upd"), ' ', options.request_id]
 }) %>
 <%- partial(paragraphPath, {
     content: __("Mail_userEvents_DS_Go_To_Your_Project_By_Following_This_Link")
@@ -12,3 +13,39 @@
     btn_title: __("Mail_userEvents_DS_Link_To_Request"),
     btn_link: options.project_link
 }) %>
+<%- partial(paragraphPath, {
+    content: ['<strong>', __("DesignRequestContacts"), '</strong> '],
+    textFontSize: 16,
+    textFontWeight: 'bold'
+}) %>
+<hr style="margin-top: -10px; border-bottom: 1px solid #dee2e6!important; border-top: none; border-left: none; border-right: none;">
+<% if (typeof options.issuerContacts.issuerOrg !== 'undefined') { %>
+    <%- partial(paragraphPath, {
+        content: ['<strong>', __("Organisation:"), '</strong> ', options.issuerContacts.issuerOrg]
+    }) %>
+<% } %>
+<% if (typeof options.issuerContacts.issuerName !== 'undefined') { %>
+    <%- partial(paragraphPath, {
+        content: ['<strong>', __("Contact Person:"), '</strong> ', options.issuerContacts.issuerName]
+    }) %>
+<% } %>
+<% if (typeof options.issuerContacts.issuerEmail !== 'undefined') { %>
+    <%- partial(paragraphPath, {
+        content: ['<strong>', __("Email:"), '</strong> ', '<a href="mailto:', options.issuerContacts.issuerEmail, '">', options.issuerContacts.issuerEmail, '</a>']
+    }) %>
+<% } %>
+<% if (typeof options.issuerContacts.issuerPhone !== "undefined") { %>
+    <%- partial(paragraphPath, {
+        content: ['<strong>', __("Phone:"), '</strong> ', '<a href="tel:', options.issuerContacts.issuerPhone, '">', options.issuerContacts.issuerPhone, '</a>']
+    }) %>
+<% } %>
+<% if (typeof options.issuerContacts.issuerAddress !== "undefined") { %>
+    <%- partial(paragraphPath, {
+        content: ['<strong>', __("Address:"), '</strong> ',options.issuerContacts.issuerAddress]
+    }) %>
+<% } %>
+<% if (typeof options.issuerContacts.issuerWebsite !== "undefined") { %>
+    <%- partial(paragraphPath, {
+        content: ['<strong>', __("Website:"), '</strong> ', '<a target="_blank" href="', options.issuerContacts.issuerWebsite, '">', options.issuerContacts.issuerWebsite, '</a>']
+    }) %>
+<% } %>

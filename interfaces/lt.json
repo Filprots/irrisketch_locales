@@ -1525,5 +1525,7 @@
   "Address:": "Adresas:",
   "Website:": "Svetainė:",
   "DesignRequestPlannerRequesterLoopbackLabel": "Nukreipimas po užklausos",
-  "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest"
+  "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest",
+  "DesignRequestPlannerRequesterLogoUrlLabel": "Jūsų Logotipas",
+  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png"
 }

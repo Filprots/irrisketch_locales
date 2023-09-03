@@ -1525,5 +1525,7 @@
   "Address:": "Adresse:",
   "Website:": "Webseite:",
   "DesignRequestPlannerRequesterLoopbackLabel": "Weiterleitung nach Anfrage",
-  "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest"
+  "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest",
+  "DesignRequestPlannerRequesterLogoUrlLabel": "Ihr Logo",
+  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png"
 }

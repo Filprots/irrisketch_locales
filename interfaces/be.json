@@ -1525,5 +1525,7 @@
   "Address:": "Адрес:",
   "Website:": "Веб-Сайт:",
   "DesignRequestPlannerRequesterLoopbackLabel": "Переадресация после запроса",
-  "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest"
+  "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest",
+  "DesignRequestPlannerRequesterLogoUrlLabel": "Ваш логотип",
+  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png"
 }

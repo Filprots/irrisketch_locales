@@ -1525,5 +1525,7 @@
   "Address:": "Dirección:",
   "Website:": "Sitio web:",
   "DesignRequestPlannerRequesterLoopbackLabel": "Redirección después de la solicitud",
-  "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest"
+  "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest",
+  "DesignRequestPlannerRequesterLogoUrlLabel": "Su Logo",
+  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png"
 }

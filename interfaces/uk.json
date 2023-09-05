@@ -1258,7 +1258,7 @@
   "DesignPage_CreateNewLinkBtn": "Создать ссылку",
   "DectivateLinkButton": "Деактивировать",
   "ActivateLinkButton": "Активировать",
-  "DesignRequestsNewTotalNumber": "Запросы (Новые/Всего)",
+  "DesignRequestsNewTotalNumber": "Запросы (Новые/Обновлённые/Всего)",
   "GoToDesignStudio": "В проектное бюро",
   "StageFinalizeRequest": "Опросник",
   "tt_FirstSaveDesign": "Опубликовать",

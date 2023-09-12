@@ -80,6 +80,9 @@
 		"triggers": "Déclencheurs",
 		"issued": "Publié",
 		"revoked": "Révoqué",
-		"code_country": "Région"
+		"code_country": "Région",
+		"activated": "Activated",
+		"cancelled": "Cancelled",
+		"finished": "Finished"
 	}
 }

@@ -80,6 +80,9 @@
 		"triggers": "disparadores",
 		"issued": "Emitido",
 		"revoked": "revocado",
-		"code_country": "Región"
+		"code_country": "Región",
+		"activated": "Activated",
+		"cancelled": "Cancelled",
+		"finished": "Finished"
 	}
 }

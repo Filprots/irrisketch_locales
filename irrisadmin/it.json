@@ -80,6 +80,9 @@
 		"triggers": "Trigger",
 		"issued": "Rilasciato",
 		"revoked": "Revocata",
-		"code_country": "Regione"
+		"code_country": "Regione",
+		"activated": "Activated",
+		"cancelled": "Cancelled",
+		"finished": "Finished"
 	}
 }

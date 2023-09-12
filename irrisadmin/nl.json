@@ -80,6 +80,9 @@
 		"triggers": "Triggers",
 		"issued": "Uitgegeven",
 		"revoked": "Ingetrokken",
-		"code_country": "Regio"
+		"code_country": "Regio",
+		"activated": "Activated",
+		"cancelled": "Cancelled",
+		"finished": "Finished"
 	}
 }

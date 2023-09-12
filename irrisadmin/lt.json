@@ -80,6 +80,9 @@
 		"triggers": "Trigeriai",
 		"issued": "Išduota",
 		"revoked": "Atšauktas",
-		"code_country": "Regionas"
+		"code_country": "Regionas",
+		"activated": "Activated",
+		"cancelled": "Cancelled",
+		"finished": "Finished"
 	}
 }

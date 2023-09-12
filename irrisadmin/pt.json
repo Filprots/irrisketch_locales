@@ -80,6 +80,9 @@
 		"triggers": "Gatilhos",
 		"issued": "Publicada",
 		"revoked": "Revogada",
-		"code_country": "Região"
+		"code_country": "Região",
+		"activated": "Activated",
+		"cancelled": "Cancelled",
+		"finished": "Finished"
 	}
 }

@@ -80,6 +80,9 @@
 		"triggers": "Триггеры",
 		"issued": "Выпущен",
 		"revoked": "Отменён",
-		"code_country": "Регион"
+		"code_country": "Регион",
+		"activated": "Activated",
+		"cancelled": "Cancelled",
+		"finished": "Finished"
 	}
 }

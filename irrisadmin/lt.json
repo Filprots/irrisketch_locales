@@ -83,6 +83,7 @@
 		"code_country": "Regionas",
 		"activated": "Activated",
 		"cancelled": "Cancelled",
-		"finished": "Finished"
+		"finished": "Finished",
+		"excludeSearch": "Exclusion mode"
 	}
 }

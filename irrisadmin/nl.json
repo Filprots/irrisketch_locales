@@ -83,6 +83,7 @@
 		"code_country": "Regio",
 		"activated": "Activated",
 		"cancelled": "Cancelled",
-		"finished": "Finished"
+		"finished": "Finished",
+		"excludeSearch": "Exclusion mode"
 	}
 }

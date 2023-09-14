@@ -461,6 +461,7 @@ this.LNG = {
         sprinkler_nozzleFT: "Sproeierknoop (Sproeikop met mannelijke schroefdraad)",
         "sprinkler_rotor1/2F": "Sproeierknoop (Rotor) 1/2\" vrouwelijk",
         "sprinkler_rotor3/4F": "Sproeierknoop (Rotor) 3/4\"",
+        "sprinkler_rotor1F": "Sprinkler node (Rotor) 1\"",
         "sprinkler_rotor1/2M": "Sproeierknoop (Rotor) 1/2\" mannelijk",
         "sprinkler_bubbler1/2F": "Sproeierknoop (Bubbler)",
         sprinkler_bubblerNozzleMT: "Sproeierknoop (Bubbler sproeikop met vrouwelijke schroefdraad)",
@@ -1172,4 +1173,3 @@ this.LNG = {
         maxFlowVelocity: "Maximale stroomsnelheid in leiding"
     }
 };
-

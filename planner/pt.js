@@ -982,6 +982,12 @@ this.LNG = {
             "Address",
             "Website",
         ],
+        "designRequestInfo": [
+            "Bem-vindo ao Estúdio de Design!",
+            "Aqui você pode criar um pedido para planejar seu sistema de irrigação de forma fácil e rápida.",
+            "Você pode encontrar um <a target='_blank' href='https://youtu.be/OHmm0Jb6EaY'>vídeo de instruções aqui</a>",
+            "Para mais informações ou se tiver alguma dúvida, não hesite em nos contatar."
+        ],
         approveActionByCode: [
             "Confirmar ação",
             "Um e-mail com um código de confirmação foi enviado para o endereço de e-mail fornecido.",

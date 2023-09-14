@@ -982,6 +982,12 @@ this.LNG = {
             "Address",
             "Website",
         ],
+        "designRequestInfo": [
+            "Sveiki atvykę į Dizaino Studiją!",
+            "Čia galite greitai ir lengvai sukurti užklausą savo laistymo sistemos planavimui.",
+            "Čia galite rasti <a target='_blank' href='https://youtu.be/OHmm0Jb6EaY'>instrukcinį vaizdo įrašą</a>",
+            "Jei turite kokių nors klausimų ar reikia daugiau informacijos, nedvejodami susisiekite su mumis."
+        ],
         approveActionByCode: [
             "Patvirtinti veiksmą",
             "Patvirtinimo kodas buvo išsiųstas į jūsų pateiktą el. pašto adresą.",

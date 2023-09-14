@@ -982,6 +982,12 @@ this.LNG = {
             "Address",
             "Website",
         ],
+        "designRequestInfo": [
+            "Dobrodošli u Design Studio!",
+            "Ovdje možete brzo i lako kreirati zahtjev za planiranje vašeg sustava za navodnjavanje.",
+            "Ovdje možete pronaći <a target='_blank' href='https://youtu.be/OHmm0Jb6EaY'>video s uputama</a>",
+            "Za dodatne informacije ili ako imate bilo kakvih pitanja, slobodno nas kontaktirajte."
+        ],
         approveActionByCode: [
             "Potvrdi radnju",
             "Na vašu e-mail adresu je poslan email s potvrdnim kôdom.",

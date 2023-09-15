@@ -994,6 +994,21 @@ this.LNG = {
             "Please enter this code in the field below",
             "You entered an invalid number, try again"
         ],
+        revisionCheckFailedSoft:[
+            'Revision conflict!',
+            'This project is currently opened on another browser or device.',
+            'You can overwrite data on the server (since we are storing only one version of your project) by clicking `overwrite`, but be careful - all progress made in other sessions will be lost!',
+            'Better strategy is to understand where and who opened this project and decide whose version is up to date.',
+            'If you want to take control over the latest version of this simultaneously opened project you can open this project again by duplicating this tab in your browser.',
+        ],
+        revisionBlocked: [
+            'Saving is blocked by Admin!',
+            'Currently your project is being reviewed by our technical staff due to errors happening in it.',
+            'Please wait until the review is completed, then you will be notified by email with further instructions.',
+        ],
+        openInOtherTab: "Open latest",
+        overwrite: "Overwrite",
+        saveToFile: "Save to file",
         filterSelection_exclude: "Exclude from selection",
         filterSelection_include: "Include into selection",
         filterSelectionNames: {

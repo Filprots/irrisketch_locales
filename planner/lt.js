@@ -994,6 +994,21 @@ this.LNG = {
             "Įveskite šį kodą laukelyje žemiau",
             "Įvedėte neteisingą numerį, bandykite dar kartą"
         ],
+        "revisionCheckFailedSoft": [
+            "Revizijos konfliktas!",
+            "Šis projektas šiuo metu atidarytas kitoje naršyklėje ar įrenginyje.",
+            "Galite perrašyti duomenis serveryje (kadangi saugome tik vieną jūsų projekto versiją) spustelėdami `perrašyti`, bet būkite atsargūs - visi kitose sesijose padaryti pažangos praras!",
+            "Geresnė strategija yra suprasti, kur ir kas atidarė šį projektą, ir nuspręsti, kurios versijos yra naujausios.",
+            "Jei norite perimti kontrolę prieš naujausią šio projekto versiją, kuris buvo atidarytas tuo pačiu metu, galite vėl atidaryti šį projektą dubliuodami šią kortelę savo naršyklėje.",
+        ],
+        "revisionBlocked": [
+            "Išsaugojimas yra blokuojamas administratoriaus!",
+            "Šiuo metu mūsų techninis personalas peržiūri jūsų projektą dėl jo klaidų.",
+            "Prašome palaukti, kol peržiūra bus baigta, tada gausite tolesnes instrukcijas el. paštu.",
+        ],
+        "openInOtherTab": "Atidaryti naujausią",
+        "overwrite": "Perrašyti",
+        "saveToFile": "Išsaugoti į failą",
         filterSelection_exclude: "Išskirti iš pasirinkimo",
         filterSelection_include: "Įtraukti į pasirinkimą",
         filterSelectionNames: {

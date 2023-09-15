@@ -994,6 +994,21 @@ this.LNG = {
             "Molimo unesite ovaj kôd u polje ispod",
             "Unijeli ste neispravan broj, pokušajte ponovno"
         ],
+        "revisionCheckFailedSoft": [
+            "Sukob revizija!",
+            "Ovaj projekt trenutno je otvoren u drugom pregledniku ili uređaju.",
+            "Možete prebrisati podatke na serveru (budući da pohranjujemo samo jednu verziju vašeg projekta) klikom na `prepiši`, ali budite oprezni - sav napredak ostvaren u drugim sesijama bit će izgubljen!",
+            "Bolja strategija je razumjeti gdje i tko je otvorio ovaj projekt i odlučiti čija je verzija ažurirana.",
+            "Ako želite preuzeti kontrolu nad najnovijom verzijom ovog istovremeno otvorenog projekta, možete ponovno otvoriti ovaj projekt dupliciranjem ove kartice u pregledniku.",
+        ],
+        "revisionBlocked": [
+            "Spremanje je blokirano od strane Admina!",
+            "Trenutno naš tehnički tim pregledava vaš projekt zbog pogrešaka koje se događaju u njemu.",
+            "Molimo pričekajte dok pregled ne bude završen, nakon toga ćete biti obaviješteni e-poštom s daljnjim uputama.",
+        ],
+        "openInOtherTab": "Otvori najnovije",
+        "overwrite": "Prepiši",
+        "saveToFile": "Spremi u datoteku",
         filterSelection_exclude: "Isključi iz odabira",
         filterSelection_include: "Uključi u odabir",
         filterSelectionNames: {

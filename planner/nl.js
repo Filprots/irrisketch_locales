@@ -994,6 +994,21 @@ this.LNG = {
             "Voer deze code in het veld hieronder in",
             "U heeft een ongeldig nummer ingevoerd, probeer het opnieuw"
         ],
+        "revisionCheckFailedSoft": [
+            "Revisieconflict!",
+            "Dit project is momenteel geopend in een andere browser of op een ander apparaat.",
+            "Je kunt de gegevens op de server overschrijven (aangezien we slechts één versie van je project opslaan) door op `overschrijven` te klikken, maar wees voorzichtig - alle voortgang in andere sessies gaat verloren!",
+            "Een betere strategie is om te begrijpen waar en wie dit project heeft geopend en te beslissen welke versie up-to-date is.",
+            "Als je de controle wilt overnemen over de nieuwste versie van dit gelijktijdig geopende project, kun je dit project opnieuw openen door dit tabblad in je browser te dupliceren.",
+        ],
+        "revisionBlocked": [
+            "Opslaan is geblokkeerd door de beheerder!",
+            "Momenteel wordt je project beoordeeld door onze technische staf vanwege fouten die erin voorkomen.",
+            "Wacht tot de beoordeling is voltooid, daarna ontvang je per e-mail verdere instructies.",
+        ],
+        "openInOtherTab": "Open laatste",
+        "overwrite": "Overschrijven",
+        "saveToFile": "Opslaan als bestand",
         filterSelection_exclude: "Uitsluiten van selectie",
         filterSelection_include: "Toevoegen aan selectie",
         filterSelectionNames: {

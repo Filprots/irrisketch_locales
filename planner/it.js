@@ -1119,7 +1119,10 @@ this.LNG = {
         sprinklerGroupMode: "Raggruppamento dei consumatori",
         safeSprGroupMode: "Modalità sicura (raggruppa solo elementi compatibili)",
         unsafeSprGroupMode: "Modalità non sicura (ATTENZIONE! Nessuna restrizione di raggruppamento)",
-//UNITS CONFIG
+        "sprinklerAttachBulkMode": "Modalità di Connessione Massiva dei Consumatori",
+        "safeSprAttachMode": "Non riconnettere i consumatori già connessi",
+        "unsafeSprAttachMode": "Modalità non sicura (ATTENZIONE! Possibile riconnessione dei consumatori già connessi. Usare a proprio rischio e pericolo)",
+        //UNITS CONFIG
         unitsConfig: "Unità di misura",
         precisionStd: "Cifre decimali",
         unitsSystemGridAndRuler: "Sistema di unità di misura per griglia e righello",

@@ -1119,6 +1119,9 @@ this.LNG = {
         sprinklerGroupMode: "Spreverysių grupavimas",
         safeSprGroupMode: "Griežtas režimas (grupuojami tik suderinami sprev. tipai)",
         unsafeSprGroupMode: "Nesaugus režimas (DĖMESIO! Grupavimo apribojimų nėra!)",
+        "sprinklerAttachBulkMode": "Masinio Vartotojų Prijungimo Režimas",
+        "safeSprAttachMode": "Neprisijungti iš naujo jau prisijungusiems vartotojams",
+        "unsafeSprAttachMode": "Nesaugus režimas (ĮSPĖJIMAS! Galimas jau prisijungusių vartotojų perjungimas. Naudokite savo rizika)",
 //UNITS CONFIG
         unitsConfig: "Matavimo vienetai",
         precisionStd: "Skaičių skaičius po kablelio",

@@ -1119,6 +1119,9 @@ this.LNG = {
         sprinklerGroupMode: "Grupiranje rasprskivača",
         safeSprGroupMode: "Striktni način (grupira samo kompatibilne)",
         unsafeSprGroupMode: "Nesiguran način (UPOZORENJE! Bez ograničenja grupiranja)",
+        "sprinklerAttachBulkMode": "Način Masovnog Povezivanja Potrošača",
+        "safeSprAttachMode": "Ne ponovno povezuj već povezane potrošače",
+        "unsafeSprAttachMode": "Nesiguran način (UPOZORENJE! Moguće je ponovno povezivanje već povezanih potrošača. Koristite na vlastiti rizik)",
         //UNITS CONFIG
         unitsConfig: "Jedinice mjere",
         precisionStd: "Znamenke nakon decimalne točke",

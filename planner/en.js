@@ -1119,6 +1119,9 @@ this.LNG = {
         sprinklerGroupMode: "Grouping consumers",
         safeSprGroupMode: "Strict mode (group only compatible)",
         unsafeSprGroupMode: "Unsafe mode (WARNING! No grouping restrictions)",
+        "sprinklerAttachBulkMode": "Bulk Consumer Connection Mode",
+        "safeSprAttachMode": "Do not reconnect already connected consumers",
+        "unsafeSprAttachMode": "Unsafe mode (WARNING! Possible reconnection of already connected consumers. Use at your own risk)",
         //UNITS CONFIG
         unitsConfig: "Units of Measurement",
         precisionStd: "Digits after the decimal point",

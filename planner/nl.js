@@ -1119,6 +1119,9 @@ this.LNG = {
         sprinklerGroupMode: "Groepering van verbruikers",
         safeSprGroupMode: "Strikte modus (Alleen compitabiele verbruikers groeperen)",
         unsafeSprGroupMode: "Onveilige modus (WAARSCHUWING! Geen groeperingsbeperkingen)",
+        "sprinklerAttachBulkMode": "Bulk Consumenten Aansluitmodus",
+        "safeSprAttachMode": "Sluit reeds aangesloten consumenten niet opnieuw aan",
+        "unsafeSprAttachMode": "Onveilige modus (WAARSCHUWING! Mogelijke heraansluiting van reeds aangesloten consumenten. Gebruik op eigen risico)",
 //UNITS CONFIG
         unitsConfig: "Maat eenheden",
         precisionStd: "Cijfers na de komma",

@@ -1119,6 +1119,9 @@ this.LNG = {
         sprinklerGroupMode: "Gruppierung von Regnern",
         safeSprGroupMode: "Strikter Modus (nur gruppenkompatibel)",
         unsafeSprGroupMode: "Unsicherer Modus (WARNUNG! Keine Gruppierungsbeschränkungen)",
+        "sprinklerAttachBulkMode": "Massenverbraucheranschlussmodus",
+        "safeSprAttachMode": "Bereits angeschlossene Verbraucher nicht erneut anschließen",
+        "unsafeSprAttachMode": "Unsicherer Modus (WARNUNG! Mögliche Wiederverbindung bereits angeschlossener Verbraucher. Benutzung auf eigene Gefahr)",
         //UNITS CONFIG
         unitsConfig: "Maßeinheiten",
         precisionStd: "Nachkommastellen",

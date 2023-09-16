@@ -135,6 +135,11 @@ this.LNG = {
         dl16sDrawer: "Desenhando capa de gotejamento de 16mm",
         dl17CircDrawer: "Desenhando círculos de gotejamento de 17mm",
         dl17sDrawer: "Desenhando capa de gotejamento de 17mm",
+        "ldTextDrawer": "Configuração de Texto",
+        "staticTextDrawer": "Configuração de Texto",
+        "dynamicTextDrawer": "Configuração de Texto",
+        "ldStaticTextDrawer": "Configuração de Texto",
+        "ldtextEditor": "Edição de Texto",
         //------------------------------------------------------------
         //-------------------VALUES-----------------------------------
         //------------------------------------------------------------

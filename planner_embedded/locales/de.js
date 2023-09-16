@@ -111,7 +111,17 @@
             "v": ["Valves manifold", "Valve manifold placing", "Valve manifold editing"],
             "ws": ["Water source", "Water source placing", "Water source editing"],
             "lp": ["Lateral pipe", "Lateral pipe drawing", "Lateral pipe editing"],
-            "mp": ["Main pipe", "Main pipe drawing", "Main pipe editing"]
+            "mp": ["Main pipe", "Main pipe drawing", "Main pipe editing"],
+            "compass": ["Kompass", "Kompass Einstellung", "Kompass Bearbeitung"],
+            "loCurve": ["Linie", "Linie Zeichnen", "Linie Bearbeiten"],
+            "lsz": ["Größe", "Größe Zeichnen", "Größe Bearbeiten"],
+            "text": ["Text", "Text Zeichnen", "Text Bearbeiten"],
+            "ldtext": ["Text", "Text Einstellung", "Text Bearbeiten"],
+            "staticText": ["Text", "Text Einstellung", "Text Bearbeiten"],
+            "dynamicText": ["Text", "Text Einstellung", "Text Bearbeiten"],
+            "lotable": ["Tabelle", "Tabelle Einstellung", "Tabelle Bearbeiten"],
+            "stampText": ["Stempel", "Stempeltext Einstellung", "Stempeltext Bearbeiten"],
+            "sb": ["Maßstab", "Maßstab Zeichnen", "Maßstab Bearbeiten"],
         },
         vars: {
             sp: "Sprinkler",

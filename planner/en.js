@@ -135,6 +135,11 @@ this.LNG = {
         dl16sDrawer: "Drip cover drawing 16mm",
         dl17CircDrawer: "Drip circles laying 17mm",
         dl17sDrawer: "Drip cover drawing 17mm",
+        "ldTextDrawer": "Text Setup",
+        "staticTextDrawer": "Text Setup",
+        "dynamicTextDrawer": "Text Setup",
+        "ldStaticTextDrawer": "Text Setup",
+        "ldtextEditor": "Text Editing",
         //------------------------------------------------------------
         //-------------------VALUES-----------------------------------
         //------------------------------------------------------------

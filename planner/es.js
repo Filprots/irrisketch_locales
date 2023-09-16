@@ -135,6 +135,11 @@ this.LNG = {
         dl16sDrawer: "Dibujo de cubierta de goteo de 16mm",
         dl17CircDrawer: "Dibujo de círculos de goteo de 17mm",
         dl17sDrawer: "Dibujo de cubierta de goteo de 17mm",
+        "ldTextDrawer": "Configuración de Texto",
+        "staticTextDrawer": "Configuración de Texto",
+        "dynamicTextDrawer": "Configuración de Texto",
+        "ldStaticTextDrawer": "Configuración de Texto",
+        "ldtextEditor": "Edición de Texto",
         //------------------------------------------------------------
         //-------------------VALUES-----------------------------------
         //------------------------------------------------------------

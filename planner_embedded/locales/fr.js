@@ -111,7 +111,17 @@
             "v": ["Collecteur de vannes", "Placement du collecteur de vannes", "Édition du collecteur de vannes"],
             "ws": ["Source d'eau", "Placement de la source d'eau", "Modification de la source d'eau"],
             "lp": ["Tuyau latéral", "Dessin de tuyau latéral", "Modification du tuyau latéral"],
-            "mp": ["Tuyau principal", "Dessin du tuyau principal", "Modification du tuyau principal"]
+            "mp": ["Tuyau principal", "Dessin du tuyau principal", "Modification du tuyau principal"],
+            "compass": ["Boussole", "Configuration de la Boussole", "Édition de la Boussole"],
+            "loCurve": ["Ligne", "Dessin de Ligne", "Édition de Ligne"],
+            "lsz": ["Taille", "Dessin de Taille", "Édition de Taille"],
+            "text": ["Texte", "Dessin de Texte", "Édition de Texte"],
+            "ldtext": ["Texte", "Configuration du Texte", "Édition du Texte"],
+            "staticText": ["Texte", "Configuration du Texte", "Édition du Texte"],
+            "dynamicText": ["Texte", "Configuration du Texte", "Édition du Texte"],
+            "lotable": ["Tableau", "Configuration du Tableau", "Édition du Tableau"],
+            "stampText": ["Tampon", "Configuration du Texte du Tampon", "Édition du Texte du Tampon"],
+            "sb": ["Barre d'Échelle", "Dessin de la Barre d'Échelle", "Édition de la Barre d'Échelle"],
         },
         vars: {
             sp: "Arroseur",

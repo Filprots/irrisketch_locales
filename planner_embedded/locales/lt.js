@@ -111,7 +111,17 @@
             "v": ["Ventilių kolektorius", "Ventilių kolektoriaus dedimas", "Ventilių kolektoriaus redagavimas"],
             "ws": ["Vandens šaltinis", "Vandens šaltinio dedimas", "Vandens šaltinio redagavimas"],
             "lp": ["Lateralinis vamzdis", "Lateralinio vamzdžio brėžinys", "Lateralinio vamzdžio redagavimas"],
-            "mp": ["Pagrindinis vamzdis", "Pagrindinio vamzdžio brėžinys", "Pagrindinio vamzdžio redagavimas"]
+            "mp": ["Pagrindinis vamzdis", "Pagrindinio vamzdžio brėžinys", "Pagrindinio vamzdžio redagavimas"],
+            "compass": ["Kompasas", "Kompaso Nustatymas", "Kompaso Redagavimas"],
+            "loCurve": ["Linija", "Linijos Piešimas", "Linijos Redagavimas"],
+            "lsz": ["Dydis", "Dydžio Piešimas", "Dydžio Redagavimas"],
+            "text": ["Tekstas", "Teksto Piešimas", "Teksto Redagavimas"],
+            "ldtext": ["Tekstas", "Teksto Nustatymas", "Teksto Redagavimas"],
+            "staticText": ["Tekstas", "Teksto Nustatymas", "Teksto Redagavimas"],
+            "dynamicText": ["Tekstas", "Teksto Nustatymas", "Teksto Redagavimas"],
+            "lotable": ["Lentelė", "Lentelės Nustatymas", "Lentelės Redagavimas"],
+            "stampText": ["Antspaudas", "Antspaudo Teksto Nustatymas", "Antspaudo Teksto Redagavimas"],
+            "sb": ["Mastelio Juosta", "Mastelio Juostos Piešimas", "Mastelio Juostos Redagavimas"]
         },
         vars: {
             sp: "Pabarstukas",

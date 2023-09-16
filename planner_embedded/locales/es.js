@@ -111,7 +111,17 @@
             "v": ["Colector de válvulas", "Colocación de colectores de válvulas", "Edición de colectores de válvulas"],
             "ws": ["Fuente de agua", "Colocación de fuente de agua", "Edición de fuente de agua"],
             "lp": ["tubería lateral", "Dibujo de tubería lateral", "Edición de tubería lateral"],
-            "mp": ["Tubo principal", "Dibujo de tubería principal", "Edición de tubería principal"]
+            "mp": ["Tubo principal", "Dibujo de tubería principal", "Edición de tubería principal"],
+            "compass": ["Brújula", "Configuración de Brújula", "Edición de Brújula"],
+            "loCurve": ["Línea", "Dibujando Línea", "Edición de Línea"],
+            "lsz": ["Tamaño", "Dibujando Tamaño", "Edición de Tamaño"],
+            "text": ["Texto", "Dibujando Texto", "Edición de Texto"],
+            "ldtext": ["Texto", "Configuración de Texto", "Edición de Texto"],
+            "staticText": ["Texto", "Configuración de Texto", "Edición de Texto"],
+            "dynamicText": ["Texto", "Configuración de Texto", "Edición de Texto"],
+            "lotable": ["Tabla", "Configuración de Tabla", "Edición de Tabla"],
+            "stampText": ["Sello", "Configuración de Texto de Sello", "Edición de Texto de Sello"],
+            "sb": ["Barra de Escala", "Dibujando Barra de Escala", "Edición de Barra de Escala"]
         },
         vars: {
             sp: "Aspersor",

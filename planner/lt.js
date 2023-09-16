@@ -135,6 +135,11 @@ this.LNG = {
         dl16sDrawer: "Lašintuvų dangčių brėžimas 16mm",
         dl17CircDrawer: "Lašintuvų apskritimų dedėjas 17mm",
         dl17sDrawer: "Lašintuvų dangčių brėžimas 17mm",
+        "ldTextDrawer": "Teksto Nustatymas",
+        "staticTextDrawer": "Teksto Nustatymas",
+        "dynamicTextDrawer": "Teksto Nustatymas",
+        "ldStaticTextDrawer": "Teksto Nustatymas",
+        "ldtextEditor": "Teksto Redagavimas",
         //------------------------------------------------------------
         //-------------------VALUES-----------------------------------
         //------------------------------------------------------------

@@ -135,6 +135,11 @@ this.LNG = {
         dl16sDrawer: "Disegno della copertura per il gocciolamento dei tubi da 16mm",
         dl17CircDrawer: "Disegno dei cerchi di gocciolamento per il posizionamento di tubi da 17mm",
         dl17sDrawer: "Disegno della copertura per il gocciolamento dei tubi da 17mm",
+        "ldTextDrawer": "Impostazione del Testo",
+        "staticTextDrawer": "Impostazione del Testo",
+        "dynamicTextDrawer": "Impostazione del Testo",
+        "ldStaticTextDrawer": "Impostazione del Testo",
+        "ldtextEditor": "Modifica del Testo",
         //------------------------------------------------------------
         //-------------------VALUES-----------------------------------
         //------------------------------------------------------------

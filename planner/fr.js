@@ -135,6 +135,11 @@ this.LNG = {
         dl16sDrawer: "Dessin de couvercles de goutte à goutte 16mm",
         dl17CircDrawer: "Dessin de cercles de goutte à goutte 17mm",
         dl17sDrawer: "Dessin de couvercles de goutte à goutte 17mm",
+        "ldTextDrawer": "Configuration du Texte",
+        "staticTextDrawer": "Configuration du Texte",
+        "dynamicTextDrawer": "Configuration du Texte",
+        "ldStaticTextDrawer": "Configuration du Texte",
+        "ldtextEditor": "Édition du Texte",
         //------------------------------------------------------------
         //-------------------VALUES-----------------------------------
         //------------------------------------------------------------

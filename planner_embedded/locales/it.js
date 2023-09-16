@@ -111,7 +111,17 @@
             "v": ["Collettore valvole", "Posizionamento del collettore di valvole", "Modifica del collettore di valvole"],
             "ws": ["Sorgente d'acqua", "Posizionamento della fonte d'acqua", "Modifica della fonte d'acqua"],
             "lp": ["Tubo laterale", "Disegno tubo laterale", "Modifica tubo laterale"],
-            "mp": ["Tubo principale", "Disegno del tubo principale", "Modifica della pipa principale"]
+            "mp": ["Tubo principale", "Disegno del tubo principale", "Modifica della pipa principale"],
+            "compass": ["Bussola", "Impostazione della Bussola", "Modifica della Bussola"],
+            "loCurve": ["Linea", "Disegno della Linea", "Modifica della Linea"],
+            "lsz": ["Dimensione", "Disegno della Dimensione", "Modifica della Dimensione"],
+            "text": ["Testo", "Disegno del Testo", "Modifica del Testo"],
+            "ldtext": ["Testo", "Impostazione del Testo", "Modifica del Testo"],
+            "staticText": ["Testo", "Impostazione del Testo", "Modifica del Testo"],
+            "dynamicText": ["Testo", "Impostazione del Testo", "Modifica del Testo"],
+            "lotable": ["Tabella", "Impostazione della Tabella", "Modifica della Tabella"],
+            "stampText": ["Timbro", "Impostazione del Testo del Timbro", "Modifica del Testo del Timbro"],
+            "sb": ["Barra delle Dimensioni", "Disegno della Barra delle Dimensioni", "Modifica della Barra delle Dimensioni"]
         },
         vars: {
             sp: "Spruzzatore",

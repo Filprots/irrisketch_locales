@@ -111,7 +111,17 @@
             "v": ["Razvod ventila", "Postavljanje razvoda ventila", "Uređivanje razvoda ventila"],
             "ws": ["Izvor vode", "Postavljanje izvora vode", "Uređivanje izvora vode"],
             "lp": ["Lateralne cijevi", "Crtanje lateralnih cijevi", "Uređivanje lateralnih cijevi"],
-            "mp": ["Opskrbni vod", "Crtanje opskrbnog voda", "Uređivanje opskrbnog voda"]
+            "mp": ["Opskrbni vod", "Crtanje opskrbnog voda", "Uređivanje opskrbnog voda"],
+            "compass": ["Kompas", "Postavljanje Kompasa", "Uređivanje Kompasa"],
+            "loCurve": ["Linija", "Crtanje Linije", "Uređivanje Linije"],
+            "lsz": ["Veličina", "Crtanje Veličine", "Uređivanje Veličine"],
+            "text": ["Tekst", "Crtanje Teksta", "Uređivanje Teksta"],
+            "ldtext": ["Tekst", "Postavljanje Teksta", "Uređivanje Teksta"],
+            "staticText": ["Tekst", "Postavljanje Teksta", "Uređivanje Teksta"],
+            "dynamicText": ["Tekst", "Postavljanje Teksta", "Uređivanje Teksta"],
+            "lotable": ["Tablica", "Postavljanje Tablice", "Uređivanje Tablice"],
+            "stampText": ["Štambilj", "Postavljanje Teksta Štambilja", "Uređivanje Teksta Štambilja"],
+            "sb": ["Mjerna Skala", "Crtanje Mjerne Skale", "Uređivanje Mjerne Skale"]
         },
         vars: {
             sp: "Zone",

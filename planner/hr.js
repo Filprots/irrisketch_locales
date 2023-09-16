@@ -135,6 +135,11 @@ this.LNG = {
         dl16sDrawer: "Crtanje rastera kap po kap 16mm",
         dl17CircDrawer: "Polaganje kap po kap krugova 17mm",
         dl17sDrawer: "Crtanje rastera kap po kap 16mm",
+        "ldTextDrawer": "Postavljanje Teksta",
+        "staticTextDrawer": "Postavljanje Teksta",
+        "dynamicTextDrawer": "Postavljanje Teksta",
+        "ldStaticTextDrawer": "Postavljanje Teksta",
+        "ldtextEditor": "Uređivanje Teksta",
         //------------------------------------------------------------
         //-------------------VALUES-----------------------------------
         //------------------------------------------------------------

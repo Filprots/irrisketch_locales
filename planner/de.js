@@ -135,6 +135,11 @@ this.LNG = {
         dl16sDrawer: "Tropffläche zeichnen 16mm",
         dl17CircDrawer: "Tropfkreis zeichnen 17mm",
         dl17sDrawer: "Tropffläche zeichneng 17mm",
+        "ldTextDrawer": "Texteinstellung",
+        "staticTextDrawer": "Texteinstellung",
+        "dynamicTextDrawer": "Texteinstellung",
+        "ldStaticTextDrawer": "Texteinstellung",
+        "ldtextEditor": "Textbearbeitung",
         //------------------------------------------------------------
         //-------------------VALUES-----------------------------------
         //------------------------------------------------------------

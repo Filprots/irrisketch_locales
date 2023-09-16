@@ -135,6 +135,11 @@ this.LNG = {
         dl16sDrawer: "Druppelafdekking tekenen 16mm",
         dl17CircDrawer: "Druppelcirkels leggen 17mm",
         dl17sDrawer: "Druppelafdekking tekenen 17mm",
+        "ldTextDrawer": "Tekst Instelling",
+        "staticTextDrawer": "Tekst Instelling",
+        "dynamicTextDrawer": "Tekst Instelling",
+        "ldStaticTextDrawer": "Tekst Instelling",
+        "ldtextEditor": "Tekst Bewerken",
         //------------------------------------------------------------
         //-------------------VALUES-----------------------------------
         //------------------------------------------------------------

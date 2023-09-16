@@ -111,7 +111,17 @@
             "v": ["Klepstuk", "Plaatsen van klepstuk", "Klepstuk bewerken"],
             "ws": ["Watervoorziening", "Plaatsen van watervoorziening", "Watervoorziening bewerken"],
             "lp": ["Laterale leiding", "Tekenen van laterale leiding", "Laterale leiding bewerken"],
-            "mp": ["Hoofdleiding", "Tekenen van hoofdleiding", "Hoofdleiding bewerken"]
+            "mp": ["Hoofdleiding", "Tekenen van hoofdleiding", "Hoofdleiding bewerken"],
+            "compass": ["Kompas", "Kompas Instelling", "Kompas Bewerking"],
+            "loCurve": ["Lijn", "Lijn Tekenen", "Lijn Bewerken"],
+            "lsz": ["Grootte", "Grootte Tekenen", "Grootte Bewerken"],
+            "text": ["Tekst", "Tekst Tekenen", "Tekst Bewerken"],
+            "ldtext": ["Tekst", "Tekst Instelling", "Tekst Bewerken"],
+            "staticText": ["Tekst", "Tekst Instelling", "Tekst Bewerken"],
+            "dynamicText": ["Tekst", "Tekst Instelling", "Tekst Bewerken"],
+            "lotable": ["Tabel", "Tabel Instelling", "Tabel Bewerken"],
+            "stampText": ["Stempel", "Stempel Tekst Instelling", "Stempel Tekst Bewerken"],
+            "sb": ["Schaalbalk (m)", "Schaalbalk Tekenen", "Schaalbalk Bewerken"],
         },
         vars: {
             sp: "Sproeier",

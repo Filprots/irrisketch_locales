@@ -130,7 +130,7 @@ this.LNG = {
         selectPoly: "Keine ausgewählten Elemente",
         //----Sprinkling
         selectSprink: "Keine ausgewählten Elemente",
-        lpNozzler: "Anschluss von Wasserverbrauchern",
+        lpNozzler: "Verbraucher hinzufügen",
         dl16CircDrawer: "Tropfkreis zeichnen 16mm",
         dl16sDrawer: "Tropffläche zeichnen 16mm",
         dl17CircDrawer: "Tropfkreis zeichnen 17mm",

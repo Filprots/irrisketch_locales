@@ -110,7 +110,7 @@
             "trench": ["Trench", "Trenching", "Trench editing"],
             "v": ["Valves manifold", "Valve manifold placing", "Valve manifold editing"],
             "ws": ["Water source", "Water source placing", "Water source editing"],
-            "lp": ["Lateral pipe", "Lateral pipe drawing", "Lateral pipe editing"],
+            "lp": ["Lateral pipe", "Abgang hinzufügen", "Regnerleitung ändern"],
             "mp": ["Main pipe", "Main pipe drawing", "Main pipe editing"],
             "compass": ["Kompass", "Kompass Einstellung", "Kompass Bearbeitung"],
             "loCurve": ["Linie", "Linie Zeichnen", "Linie Bearbeiten"],

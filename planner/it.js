@@ -1193,6 +1193,13 @@ this.LNG = {
 //UNITS CONFIG
         hydraConfig: "Idraulica",
         waterTemp: "Temperatura dell'acqua",
-        maxFlowVelocity: "Velocità massima del flusso nella tubazione"
+        maxFlowVelocity: "Velocità massima del flusso nella tubazione",
+        "commonConfig": "Impostazioni comuni",
+        "lateralNozzlerSwitch": "Come passare alla modalità di attacco degli ugelli",
+        "NStabonly": "Tab",
+        "NStabshift": "Tab+Shift",
+        "showActionSubtitles": "Mostra sottotitoli d'azione",
+        "Yeah": "Sì",
+        "Nope": "No",
     }
 };

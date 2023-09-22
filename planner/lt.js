@@ -1193,6 +1193,13 @@ this.LNG = {
 //UNITS CONFIG
         hydraConfig: "Hidraulika",
         waterTemp: "Vandens temperatūra",
-        maxFlowVelocity: "Maksimali srovės greitis vamzdyje"
+        maxFlowVelocity: "Maksimali srovės greitis vamzdyje",
+        "commonConfig": "Bendrosios nuostatos",
+        "lateralNozzlerSwitch": "Kaip perjungti į purkštukų tvirtinimo režimą",
+        "NStabonly": "Tab",
+        "NStabshift": "Tab+Shift",
+        "showActionSubtitles": "Rodyti veiksmų subtitrus",
+        "Yeah": "Taip",
+        "Nope": "Ne",
     }
 };

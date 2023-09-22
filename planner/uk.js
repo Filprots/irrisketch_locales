@@ -1194,6 +1194,13 @@ this.LNG = {
         //UNITS CONFIG
         hydraConfig: "Гідравлічний розрахунок",
         waterTemp: "Температура води",
-        maxFlowVelocity: "Максимальна швидкість протоку в трубі"
+        maxFlowVelocity: "Максимальна швидкість протоку в трубі",
+        "commonConfig": "Общие настройки",
+        "lateralNozzlerSwitch": "Как переключиться в режим подключения сопел",
+        "NStabonly": "Tab",
+        "NStabshift": "Tab+Shift",
+        "showActionSubtitles": "Показать субтитры действий",
+        "Yeah": "Да",
+        "Nope": "Нет",
     }
 };

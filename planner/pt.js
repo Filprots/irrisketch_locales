@@ -1193,6 +1193,13 @@ this.LNG = {
 //CONFIGURAÇÕES DE UNIDADES
         hydraConfig: "Hidráulica",
         waterTemp: "Temperatura da água",
-        maxFlowVelocity: "Velocidade máxima de fluxo na tubulação"
+        maxFlowVelocity: "Velocidade máxima de fluxo na tubulação",
+        "commonConfig": "Configurações comuns",
+        "lateralNozzlerSwitch": "Como mudar para o modo de fixação de bicos",
+        "NStabonly": "Tab",
+        "NStabshift": "Tab+Shift",
+        "showActionSubtitles": "Mostrar legendas de ação",
+        "Yeah": "Sim",
+        "Nope": "Não",
     }
 };

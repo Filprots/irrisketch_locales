@@ -1193,6 +1193,13 @@ this.LNG = {
         //UNITS CONFIG
         hydraConfig: "Hydraulics",
         waterTemp: "Water temperature",
-        maxFlowVelocity: "Max flow velocity in pipe"
+        maxFlowVelocity: "Max flow velocity in pipe",
+        commonConfig: "Common settings",
+        lateralNozzlerSwitch: "How to switch to nozzles attachment mode",
+        NStabonly: "Tab",
+        NStabshift: "Tab+Shift",
+        showActionSubtitles: "Show action subtitles",
+        Yeah: "Yes",
+        Nope: "No",
     }
 };

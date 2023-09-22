@@ -1193,6 +1193,13 @@ this.LNG = {
         //UNITS CONFIG
         hydraConfig: "Hydraulik",
         waterTemp: "Wassertemparatur",
-        maxFlowVelocity: "Maximale Fließgeschwindigkeit im Leitungsnetz"
+        maxFlowVelocity: "Maximale Fließgeschwindigkeit im Leitungsnetz",
+        "commonConfig": "Allgemeine Einstellungen",
+        "lateralNozzlerSwitch": "So wechseln Sie in den Düsenaufsatzmodus",
+        "NStabonly": "Tab",
+        "NStabshift": "Tab+Umschalt",
+        "showActionSubtitles": "Aktionsuntertitel anzeigen",
+        "Yeah": "Ja",
+        "Nope": "Nein",
     }
 };

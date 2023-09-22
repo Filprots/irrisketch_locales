@@ -1193,6 +1193,13 @@ this.LNG = {
         //UNITS CONFIG
         hydraConfig: "Hidraulika",
         waterTemp: "Temperatura vode",
-        maxFlowVelocity: "Maksimalna brzina tečenja u cijevima"
+        maxFlowVelocity: "Maksimalna brzina tečenja u cijevima",
+        "commonConfig": "Opće postavke",
+        "lateralNozzlerSwitch": "Kako preći na način pričvršćivanja mlaznica",
+        "NStabonly": "Tab",
+        "NStabshift": "Tab+Shift",
+        "showActionSubtitles": "Prikaži podnaslove akcija",
+        "Yeah": "Da",
+        "Nope": "Ne",
     }
 };

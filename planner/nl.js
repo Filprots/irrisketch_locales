@@ -1193,6 +1193,13 @@ this.LNG = {
 //UNITS CONFIG
         hydraConfig: "Hydrauliek",
         waterTemp: "Watertemperatuur",
-        maxFlowVelocity: "Maximale stroomsnelheid in leiding"
+        maxFlowVelocity: "Maximale stroomsnelheid in leiding",
+        "commonConfig": "Algemene instellingen",
+        "lateralNozzlerSwitch": "Hoe over te schakelen naar de sproeikopbevestigingsmodus",
+        "NStabonly": "Tab",
+        "NStabshift": "Tab+Shift",
+        "showActionSubtitles": "Actie-ondertitels weergeven",
+        "Yeah": "Ja",
+        "Nope": "Nee",
     }
 };

@@ -1527,5 +1527,7 @@
   "DesignRequestPlannerRequesterLoopbackLabel": "Переадресация после запроса",
   "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest",
   "DesignRequestPlannerRequesterLogoUrlLabel": "Ваш логотип",
-  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png"
+  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
+  "ACC_Miscellaneous": "Разное",
+  "misc_imperialUnitsDefaults": "Имперские единицы измерения"
 }

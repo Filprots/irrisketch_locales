@@ -1527,5 +1527,7 @@
   "DesignRequestPlannerRequesterLoopbackLabel": "Reindirizzamento dopo la richiesta",
   "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest",
   "DesignRequestPlannerRequesterLogoUrlLabel": "Il Vostro Logo",
-  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png"
+  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
+  "ACC_Miscellaneous": "Varie",
+  "misc_imperialUnitsDefaults": "Unità Imperiali"
 }

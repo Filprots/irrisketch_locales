@@ -1527,5 +1527,7 @@
   "DesignRequestPlannerRequesterLoopbackLabel": "Preusmjeravanje nakon zahtjeva",
   "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest",
   "DesignRequestPlannerRequesterLogoUrlLabel": "Vaš Logo",
-  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png"
+  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
+  "ACC_Miscellaneous": "Razno",
+  "misc_imperialUnitsDefaults": "Imperijalne Jedinice"
 }

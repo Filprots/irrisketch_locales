@@ -1527,5 +1527,7 @@
   "DesignRequestPlannerRequesterLoopbackLabel": "Nukreipimas po užklausos",
   "DesignRequestPlannerRequesterLoopbackPlc": "your.domain.com/thankyouforrequest",
   "DesignRequestPlannerRequesterLogoUrlLabel": "Jūsų Logotipas",
-  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png"
+  "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
+  "ACC_Miscellaneous": "Įvairūs",
+  "misc_imperialUnitsDefaults": "Imperinės Vienetos"
 }

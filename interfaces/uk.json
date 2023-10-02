@@ -1076,6 +1076,7 @@
   "labours_item_TRENCHES_LENGTH_NORMAL": "Загальна довжина середніх траншей",
   "labours_item_TRENCHES_LENGTH_WIDE": "Загальна довжина широких траншей",
   "labours_item_TRENCHES_VALUE": "Загальний об'єм траншей",
+  "labours_item_TRENCHES_VOLUME": "Загальний об'єм траншей",
   "labours_group_insets": "Закладні/Гільзи",
   "labours_item_INSET": "Закладні/Гільзи всього",
   "labours_item_INSET_PVC": "Гільзи ПВХ всього",

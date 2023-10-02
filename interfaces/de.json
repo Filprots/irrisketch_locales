@@ -1076,6 +1076,7 @@
   "labours_item_TRENCHES_LENGTH_NORMAL": "Normale Gräben Länge total",
   "labours_item_TRENCHES_LENGTH_WIDE": "Breite Gräben Länge total",
   "labours_item_TRENCHES_VALUE": "Gräben Volumen total",
+  "labours_item_TRENCHES_VOLUME": "Gräben Volumen total",
   "labours_group_insets": "Rohr Hülsen",
   "labours_item_INSET": "Total Rohr Hülsen",
   "labours_item_INSET_PVC": "PVC Rohr Hülsen",

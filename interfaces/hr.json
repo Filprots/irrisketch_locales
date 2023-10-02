@@ -1076,6 +1076,7 @@
   "labours_item_TRENCHES_LENGTH_NORMAL": "Ukupna dužina normalnih rovova",
   "labours_item_TRENCHES_LENGTH_WIDE": "Ukupna dužina širokih rovova",
   "labours_item_TRENCHES_VALUE": "Ukupni volumen rovova",
+  "labours_item_TRENCHES_VOLUME": "Ukupni volumen rovova",
   "labours_group_insets": "Proturi",
   "labours_item_INSET": "Proturne cijevi ukupno",
   "labours_item_INSET_PVC": "PVC proturne cijevi",

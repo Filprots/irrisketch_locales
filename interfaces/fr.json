@@ -1076,6 +1076,7 @@
   "labours_item_TRENCHES_LENGTH_NORMAL": "Longueur totale des tranchées normales",
   "labours_item_TRENCHES_LENGTH_WIDE": "Longueur totale des tranchées larges",
   "labours_item_TRENCHES_VALUE": "Volume total des tranchées",
+  "labours_item_TRENCHES_VOLUME": "Volume total des tranchées",
   "labours_group_insets": "Manchons de tuyaux",
   "labours_item_INSET": "Nombre total de manchons de tuyaux",
   "labours_item_INSET_PVC": "Manchons de tuyaux en PVC",

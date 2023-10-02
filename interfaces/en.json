@@ -1076,6 +1076,7 @@
   "labours_item_TRENCHES_LENGTH_NORMAL": "Normal Trenches Total Length",
   "labours_item_TRENCHES_LENGTH_WIDE": "Wide Trenches Total Length",
   "labours_item_TRENCHES_VALUE": "Trenches Total Volume",
+  "labours_item_TRENCHES_VOLUME": "Trenches Total Volume",
   "labours_group_insets": "Pipe sleeves",
   "labours_item_INSET": "Total pipe sleeves",
   "labours_item_INSET_PVC": "PVC pipe sleeves",

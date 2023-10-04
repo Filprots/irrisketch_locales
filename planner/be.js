@@ -36,6 +36,7 @@ this.LNG = {
         in_Alt: "д.",
         mps: "м/с",
         kph: "км/г",
+        ftps: "фут/с",
         degreesCentigrade: "°C",
         mmph: "мм/г",
         mmp24h: "мм/сут",

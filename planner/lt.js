@@ -36,6 +36,7 @@ this.LNG = {
         in_Alt: "colių",
         mps: "m/s",
         kph: "km/val",
+        ftps: "ft/s",
         degreesCentigrade: "°C",
         mmph: "mm/min",
         mmp24h: "mm/24h",

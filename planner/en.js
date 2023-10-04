@@ -1102,6 +1102,7 @@ this.LNG = {
         crossFittingAble: "Cross fitting able",
         compress: "Compression fittings",
         customfit: "Custom fittings",
+        slip: "Slip fittings",
         wiringNode: "Wiring section",
         exportNode: "Export options",
         exportNumbersPrecision: "Digits after the decimal point in numbers",

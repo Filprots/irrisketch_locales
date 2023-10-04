@@ -1103,6 +1103,7 @@ this.LNG = {
         crossFittingAble: "Можливе використання хрестовини",
         compress: "Компресійні фітінги",
         customfit: "Произвольные фитинги",
+        slip: "Клеевые фитинги",
         wiringNode: "Електрокабеля",
         exportNode: "Настройки экспорта",
         exportNumbersPrecision: "Знаков после запятой для цифровых значений",

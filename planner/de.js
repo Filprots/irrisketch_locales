@@ -1102,6 +1102,7 @@ this.LNG = {
         crossFittingAble: "Kreuzverschraubung möglich",
         compress: "Klemmverbinder",
         customfit: "Sonderanfertigungen",
+        slip: "Slip fittings",
         wiringNode: "Verdrahtungsabschnitt",
         exportNode: "Export options",
         exportNumbersPrecision: "Digits after the decimal point in numbers",

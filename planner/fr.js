@@ -1102,6 +1102,7 @@ this.LNG = {
         crossFittingAble: "Compatibilité avec raccord en croix",
         compress: "Raccords de compression",
         customfit: "Raccords personnalisés",
+        slip: "Slip fittings",
         wiringNode: "Section de câblage",
         exportNode: "Options d'exportation",
         exportNumbersPrecision: "Chiffres après la virgule pour les nombres",

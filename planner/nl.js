@@ -1102,6 +1102,7 @@ this.LNG = {
         crossFittingAble: "Kruiskoppeling in staat",
         compress: "Compressie koppelingen",
         customfit: "Op maat gemaakte koppelingen",
+        slip: "Slip fittings",
         wiringNode: "Bedradingsectie",
         exportNode: "Exportopties",
         exportNumbersPrecision: "Cijfers na de decimale punt in nummers",

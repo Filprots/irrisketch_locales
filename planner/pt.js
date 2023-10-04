@@ -1102,6 +1102,7 @@ this.LNG = {
         crossFittingAble: "Compatível com conexões cruzadas",
         compress: "Conexões de compressão",
         customfit: "Conexões personalizadas",
+        slip: "Slip fittings",
         wiringNode: "Seção de fiação",
         exportNode: "Opções de exportação",
         exportNumbersPrecision: "Dígitos após o ponto decimal nos números",

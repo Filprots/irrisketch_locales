@@ -1102,6 +1102,7 @@ this.LNG = {
         crossFittingAble: "Kryžminės jungtys",
         compress: "Spaudimo vamzdžių jungtys",
         customfit: "Individualios jungtys",
+        slip: "Slip fittings",
         wiringNode: "Elektros laidų sekcija",
         exportNode: "Eksportavimo parinktys",
         exportNumbersPrecision: "Skaitmenų po kablelio tikslumas",

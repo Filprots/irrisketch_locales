@@ -1102,6 +1102,7 @@ this.LNG = {
         crossFittingAble: "Križni spoj cijevi omogućen",
         compress: "Kompresijski spojevi",
         customfit: "Prilagođeni priključci",
+        slip: "Slip fittings",
         wiringNode: "Ožičenje",
         exportNode: "Opcije izvoza",
         exportNumbersPrecision: "Znamenke nakon decimalne točke u brojevima",

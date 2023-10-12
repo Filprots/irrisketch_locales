@@ -1534,5 +1534,6 @@
   "DesignRequestPlannerRequesterLogoUrlLabel": "Uw Logo",
   "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
   "ACC_Miscellaneous": "Diversen",
-  "misc_imperialUnitsDefaults": "Imperiale Eenheden"
+  "misc_imperialUnitsDefaults": "Imperiale Eenheden",
+  "action_cloneItem": "Clone"
 }

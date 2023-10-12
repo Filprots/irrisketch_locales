@@ -1534,5 +1534,6 @@
   "DesignRequestPlannerRequesterLogoUrlLabel": "Jūsų Logotipas",
   "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
   "ACC_Miscellaneous": "Įvairūs",
-  "misc_imperialUnitsDefaults": "Imperinės Vienetos"
+  "misc_imperialUnitsDefaults": "Imperinės Vienetos",
+  "action_cloneItem": "Clone"
 }

@@ -1534,5 +1534,6 @@
   "DesignRequestPlannerRequesterLogoUrlLabel": "Votre Logo",
   "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
   "ACC_Miscellaneous": "Divers",
-  "misc_imperialUnitsDefaults": "Unités Impériales"
+  "misc_imperialUnitsDefaults": "Unités Impériales",
+  "action_cloneItem": "Clone"
 }

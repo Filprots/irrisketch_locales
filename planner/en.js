@@ -1012,7 +1012,7 @@ this.LNG = {
             "Please enter this code in the field below",
             "You entered an invalid number, try again"
         ],
-        revisionCheckFailedSoft:[
+        revisionCheckFailedSoft: [
             'Revision conflict!',
             'This project is currently opened on another browser or device.',
             'You can overwrite data on the server (since we are storing only one version of your project) by clicking `overwrite`, but be careful - all progress made in other sessions will be lost!',
@@ -1215,5 +1215,33 @@ this.LNG = {
         showActionSubtitles: "Show action subtitles",
         Yeah: "Yes",
         Nope: "No",
+        start: "Start",
+        recalibrate: "Recalibrate",
+        calibrationSuccess: [
+            "Successfully calibrated",
+            "Now you can use touchscreen in two modes - 'move cursor' (slight touch movement) and 'drag mode' (hard touch movement)"
+        ],
+        calibrationFailEqual: [
+            "Calibration failed",
+            "We did not detected any big difference in way you touch the screen in both modes",
+            "You can try again. And make sure you are using your finger, not a stylus"
+        ],
+        calibrationFailImproper: [
+            "Calibration failed",
+            "We detected bigger pressure on feather than on anvil",
+            "You can try again. And make sure you moving feather with a lighter pressure than anvil"
+        ],
+        calibrationImpossible: [
+            "Calibration impossible",
+            "Seems that your device does not support touch area measurement. So we cannot define two modes for touch-interaction",
+            "In this case you can use virtual mouse to be able to drag anything. It will appear on the left side of the screen.",
+        ],
+        calibrationNeeded: [
+            "Calibration needed!",
+            "We have to calibrate your touchscreen to be able to define two modes for touch-interaction:",
+            "Moving cursor mode - when you want just to move the cursor around or move the polygon segment when drawing ",
+            "And dragging mode - this is when you want to move elements around or resize them. Also you should drag-move when you want to select many items",
+            "Please click Start button and follow the instructions on the screen"
+        ],
     }
 };

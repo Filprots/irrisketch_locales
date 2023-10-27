@@ -1215,5 +1215,33 @@ this.LNG = {
         "showActionSubtitles": "Rodyti veiksmų subtitrus",
         "Yeah": "Taip",
         "Nope": "Ne",
+        start: "Pradėti",
+        recalibrate: "Pakalibruoti iš naujo",
+        calibrationSuccess: [
+            "Sėkmingai sukalibruota",
+            "Dabar galite naudoti lietimui jautrų ekraną dvejopai - 'judinti žymeklį' (lengvas prisilietimas ir judėjimas) ir 'tempimo režimas' (stiprus prisilietimas ir judėjimas)"
+        ],
+        calibrationFailEqual: [
+            "Kalibravimas nepavyko",
+            "Nepastebėjome didelio skirtumo, kaip lietėte ekraną abiem režimais",
+            "Galite bandyti dar kartą. Įsitikinkite, kad naudojate pirštą, o ne rašiklį"
+        ],
+        calibrationFailImproper: [
+            "Kalibravimas nepavyko",
+            "Pastebėjome didesnį spaudimą ant plunksnos nei ant priekalo",
+            "Galite bandyti dar kartą. Įsitikinkite, kad judinate plunksną lengvesniu spaudimu nei priekalą"
+        ],
+        calibrationImpossible: [
+            "Kalibravimas neįmanomas",
+            "Atrodo, kad jūsų įrenginys nepalaiko lietimo ploto matavimo. Todėl negalime apibrėžti dviejų lietimo sąveikos režimų",
+            "Šiuo atveju galite naudoti virtualią pelę, kad galėtumėte tempti bet ką. Ji atsiras ekrano kairėje pusėje."
+        ],
+        calibrationNeeded: [
+            "Reikalingas kalibravimas!",
+            "Turime pakalibruoti jūsų lietimui jautrų ekraną, kad galėtume apibrėžti du lietimo sąveikos režimus:",
+            "Žymeklio judinimo režimas - kai norite tiesiog judinti žymeklį aplink arba perkelti poligono segmentą piešiant",
+            "Ir tempimo režimas - tai, kai norite perkelti elementus aplink arba keisti jų dydį. Taip pat turėtumėte naudoti tempimą, kai norite pasirinkti daug daiktų",
+            "Prašome paspausti 'Pradėti' mygtuką ir laikytis instrukcijų ekrane"
+        ]
     }
 };

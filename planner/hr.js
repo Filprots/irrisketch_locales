@@ -1215,5 +1215,33 @@ this.LNG = {
         "showActionSubtitles": "Prikaži podnaslove akcija",
         "Yeah": "Da",
         "Nope": "Ne",
+        start: "Pokreni",
+        recalibrate: "Ponovno kalibriraj",
+        calibrationSuccess: [
+            "Uspješno kalibrirano",
+            "Sada možete koristiti zaslon osjetljiv na dodir u dva načina - 'pomicanje kursora' (lagani dodir i pokret) i 'način povlačenja' (čvrsti dodir i pokret)"
+        ],
+        calibrationFailEqual: [
+            "Kalibracija nije uspjela",
+            "Nismo otkrili nikakvu značajnu razliku u načinu dodira zaslona u oba načina",
+            "Možete pokušati ponovno. I uvjerite se da koristite prst, a ne olovku"
+        ],
+        calibrationFailImproper: [
+            "Kalibracija nije uspjela",
+            "Otkrili smo veći pritisak na perju nego na nakovnju",
+            "Možete pokušati ponovno. I uvjerite se da premještate pero s manjim pritiskom nego nakovanj"
+        ],
+        calibrationImpossible: [
+            "Kalibracija nije moguća",
+            "Čini se da vaš uređaj ne podržava mjerenje područja dodira. Stoga ne možemo definirati dva načina za dodirnu interakciju",
+            "U tom slučaju možete koristiti virtualni miš kako biste mogli povlačiti bilo što. Pojavit će se na lijevoj strani zaslona."
+        ],
+        calibrationNeeded: [
+            "Potrebna kalibracija!",
+            "Moramo kalibrirati vaš zaslon osjetljiv na dodir kako bismo mogli definirati dva načina dodirne interakcije:",
+            "Način pomicanja kursora - kada samo želite pomicati kursor ili pomaknuti segment poligona prilikom crtanja",
+            "I način povlačenja - to je kada želite premještati elemente ili ih mijenjati veličinu. Također biste trebali povlačiti-pomicati kada želite odabrati više stavki",
+            "Molimo kliknite na gumb Pokreni i slijedite upute na ekranu"
+        ]
     }
 };

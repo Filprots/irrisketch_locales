@@ -1215,5 +1215,33 @@ this.LNG = {
         "showActionSubtitles": "Afficher les sous-titres d'action",
         "Yeah": "Oui",
         "Nope": "Non",
+        start: "Démarrer",
+        recalibrate: "Recalibrer",
+        calibrationSuccess: [
+            "Calibré avec succès",
+            "Vous pouvez maintenant utiliser l'écran tactile en deux modes - 'déplacer le curseur' (mouvement léger au toucher) et 'mode glisser' (mouvement appuyé au toucher)"
+        ],
+        calibrationFailEqual: [
+            "Échec de la calibration",
+            "Nous n'avons détecté aucune grande différence dans la manière dont vous touchez l'écran dans les deux modes",
+            "Vous pouvez réessayer. Et assurez-vous d'utiliser votre doigt, pas un stylet"
+        ],
+        calibrationFailImproper: [
+            "Échec de la calibration",
+            "Nous avons détecté une plus grande pression sur la plume que sur l'enclume",
+            "Vous pouvez réessayer. Et assurez-vous de déplacer la plume avec moins de pression que l'enclume"
+        ],
+        calibrationImpossible: [
+            "Calibration impossible",
+            "Il semble que votre appareil ne prend pas en charge la mesure de la zone tactile. Nous ne pouvons donc pas définir deux modes d'interaction tactile",
+            "Dans ce cas, vous pouvez utiliser une souris virtuelle pour pouvoir faire glisser n'importe quoi. Elle apparaîtra sur le côté gauche de l'écran."
+        ],
+        calibrationNeeded: [
+            "Calibration nécessaire !",
+            "Nous devons calibrer votre écran tactile pour pouvoir définir deux modes d'interaction tactile :",
+            "Mode déplacement du curseur - lorsque vous souhaitez simplement déplacer le curseur ou déplacer le segment de polygone en dessinant",
+            "Et mode glisser - lorsque vous souhaitez déplacer des éléments ou en modifier la taille. Vous devriez également glisser-déplacer lorsque vous souhaitez sélectionner plusieurs éléments",
+            "Veuillez cliquer sur le bouton Démarrer et suivre les instructions à l'écran"
+        ]
     }
 };

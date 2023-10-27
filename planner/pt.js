@@ -1215,5 +1215,33 @@ this.LNG = {
         "showActionSubtitles": "Mostrar legendas de ação",
         "Yeah": "Sim",
         "Nope": "Não",
+        start: "Iniciar",
+        recalibrate: "Recalibrar",
+        calibrationSuccess: [
+            "Calibração bem-sucedida",
+            "Agora você pode usar o touchscreen em dois modos - 'mover cursor' (movimento leve ao tocar) e 'modo de arrastar' (movimento forte ao tocar)"
+        ],
+        calibrationFailEqual: [
+            "Calibração falhou",
+            "Não detectamos nenhuma diferença significativa na forma como você toca a tela em ambos os modos",
+            "Você pode tentar novamente. E certifique-se de estar usando o dedo, não um estilete"
+        ],
+        calibrationFailImproper: [
+            "Calibração falhou",
+            "Detectamos maior pressão na pena do que no bigorna",
+            "Você pode tentar novamente. E certifique-se de mover a pena com uma pressão mais leve do que a bigorna"
+        ],
+        calibrationImpossible: [
+            "Calibração impossível",
+            "Parece que seu dispositivo não suporta a medição da área de toque. Portanto, não podemos definir dois modos de interação por toque",
+            "Neste caso, você pode usar um mouse virtual para arrastar qualquer coisa. Ele aparecerá no lado esquerdo da tela."
+        ],
+        calibrationNeeded: [
+            "Calibração necessária!",
+            "Precisamos calibrar seu touchscreen para poder definir dois modos de interação por toque:",
+            "Modo de mover o cursor - quando você quer apenas mover o cursor ou deslocar o segmento do polígono ao desenhar",
+            "E modo de arrastar - é quando você quer mover elementos ou redimensioná-los. Você também deve usar arrastar-mover quando quiser selecionar vários itens",
+            "Por favor, clique no botão Iniciar e siga as instruções na tela"
+        ]
     }
 };

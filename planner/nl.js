@@ -1215,5 +1215,33 @@ this.LNG = {
         "showActionSubtitles": "Actie-ondertitels weergeven",
         "Yeah": "Ja",
         "Nope": "Nee",
+        start: "Start",
+        recalibrate: "Herkalibreren",
+        calibrationSuccess: [
+            "Succesvol gekalibreerd",
+            "Nu kunt u het touchscreen gebruiken in twee modi - 'cursor verplaatsen' (lichte aanraakbeweging) en 'sleepmodus' (harde aanraakbeweging)"
+        ],
+        calibrationFailEqual: [
+            "Kalibratie mislukt",
+            "We hebben geen groot verschil gedetecteerd in de manier waarop u het scherm aanraakt in beide modi",
+            "U kunt het opnieuw proberen. En zorg ervoor dat u uw vinger gebruikt, niet een stylus"
+        ],
+        calibrationFailImproper: [
+            "Kalibratie mislukt",
+            "We hebben een grotere druk op de veer dan op het aambeeld gedetecteerd",
+            "U kunt het opnieuw proberen. En zorg ervoor dat u de veer met een lichtere druk beweegt dan het aambeeld"
+        ],
+        calibrationImpossible: [
+            "Kalibratie onmogelijk",
+            "Het lijkt erop dat uw apparaat geen aanraakoppervlaktemeting ondersteunt. Dus kunnen we geen twee modi definiëren voor aanraakinteractie",
+            "In dit geval kunt u een virtuele muis gebruiken om alles te kunnen slepen. Deze verschijnt aan de linkerkant van het scherm."
+        ],
+        calibrationNeeded: [
+            "Kalibratie nodig!",
+            "We moeten uw touchscreen kalibreren om twee modi voor aanraakinteractie te kunnen definiëren:",
+            "Cursor verplaatsen modus - wanneer u gewoon de cursor wilt verplaatsen of het polygoonsegment wilt verplaatsen tijdens het tekenen",
+            "En sleepmodus - dit is wanneer u elementen wilt verplaatsen of hun grootte wilt aanpassen. Ook moet u slepen-verplaatsen wanneer u veel items wilt selecteren",
+            "Klik alstublieft op de startknop en volg de instructies op het scherm"
+        ]
     }
 };

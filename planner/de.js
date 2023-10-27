@@ -1215,5 +1215,33 @@ this.LNG = {
         "showActionSubtitles": "Aktionsuntertitel anzeigen",
         "Yeah": "Ja",
         "Nope": "Nein",
+        start: "Start",
+        recalibrate: "Neu kalibrieren",
+        calibrationSuccess: [
+            "Erfolgreich kalibriert",
+            "Jetzt können Sie den Touchscreen in zwei Modi verwenden - 'Cursor bewegen' (leichte Berührungsbewegung) und 'Ziehmodus' (starke Berührungsbewegung)"
+        ],
+        calibrationFailEqual: [
+            "Kalibrierung fehlgeschlagen",
+            "Wir haben keinen großen Unterschied in der Art festgestellt, wie Sie den Bildschirm in beiden Modi berühren",
+            "Sie können es noch einmal versuchen. Stellen Sie sicher, dass Sie Ihren Finger verwenden, nicht einen Stylus"
+        ],
+        calibrationFailImproper: [
+            "Kalibrierung fehlgeschlagen",
+            "Wir haben größeren Druck auf die Feder als auf den Amboss festgestellt",
+            "Sie können es noch einmal versuchen. Stellen Sie sicher, dass Sie die Feder mit weniger Druck als den Amboss bewegen"
+        ],
+        calibrationImpossible: [
+            "Kalibrierung unmöglich",
+            "Es scheint, dass Ihr Gerät die Messung des Berührungsbereichs nicht unterstützt. Daher können wir keine zwei Modi für die Touch-Interaktion festlegen",
+            "In diesem Fall können Sie eine virtuelle Maus verwenden, um Objekte ziehen zu können. Sie wird auf der linken Seite des Bildschirms erscheinen."
+        ],
+        calibrationNeeded: [
+            "Kalibrierung erforderlich!",
+            "Wir müssen Ihren Touchscreen kalibrieren, um zwei Modi für die Touch-Interaktion festlegen zu können:",
+            "Cursorbewegungsmodus - wenn Sie nur den Cursor bewegen oder ein Polygonsegment beim Zeichnen verschieben möchten",
+            "Und Ziehmodus - wenn Sie Elemente bewegen oder deren Größe ändern möchten. Auch sollten Sie im Ziehmodus bewegen, wenn Sie mehrere Elemente auswählen möchten",
+            "Bitte klicken Sie auf die Start-Taste und folgen Sie den Anweisungen auf dem Bildschirm"
+        ]
     }
 };

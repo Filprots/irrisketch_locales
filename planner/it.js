@@ -1215,5 +1215,33 @@ this.LNG = {
         "showActionSubtitles": "Mostra sottotitoli d'azione",
         "Yeah": "Sì",
         "Nope": "No",
+        start: "Avvia",
+        recalibrate: "Ricalibra",
+        calibrationSuccess: [
+            "Calibrato con successo",
+            "Ora puoi usare il touchscreen in due modalità - 'muovi cursore' (movimento leggero al tocco) e 'modalità trascina' (movimento forte al tocco)"
+        ],
+        calibrationFailEqual: [
+            "Calibrazione fallita",
+            "Non abbiamo rilevato grandi differenze nel modo in cui tocchi lo schermo in entrambe le modalità",
+            "Puoi riprovare. E assicurati di usare il dito, non uno stilo"
+        ],
+        calibrationFailImproper: [
+            "Calibrazione fallita",
+            "Abbiamo rilevato una maggiore pressione sulla penna rispetto all'incudine",
+            "Puoi riprovare. E assicurati di muovere la penna con una pressione più leggera rispetto all'incudine"
+        ],
+        calibrationImpossible: [
+            "Calibrazione impossibile",
+            "Sembra che il tuo dispositivo non supporti la misurazione dell'area tattile. Pertanto, non possiamo definire due modalità per l'interazione tattile",
+            "In questo caso puoi usare un mouse virtuale per poter trascinare qualsiasi cosa. Apparirà sul lato sinistro dello schermo."
+        ],
+        calibrationNeeded: [
+            "Calibrazione necessaria!",
+            "Dobbiamo calibrare il tuo touchscreen per poter definire due modalità di interazione tattile:",
+            "Modalità muovi cursore - quando vuoi semplicemente muovere il cursore o spostare il segmento di un poligono durante il disegno",
+            "E modalità trascina - quando vuoi spostare elementi intorno o ridimensionarli. Dovresti anche trascinare-muovere quando vuoi selezionare più elementi",
+            "Per favore clicca sul pulsante Avvia e segui le istruzioni sullo schermo"
+        ]
     }
 };

@@ -1215,5 +1215,33 @@ this.LNG = {
         "showActionSubtitles": "Mostrar subtítulos de acción",
         "Yeah": "Sí",
         "Nope": "No",
+        start: "Iniciar",
+        recalibrate: "Re-calibrar",
+        calibrationSuccess: [
+            "Calibrado exitosamente",
+            "Ahora puedes usar la pantalla táctil en dos modos: 'mover cursor' (movimiento ligero al tocar) y 'modo arrastrar' (movimiento fuerte al tocar)"
+        ],
+        calibrationFailEqual: [
+            "Calibración fallida",
+            "No detectamos ninguna diferencia significativa en la forma en que tocas la pantalla en ambos modos",
+            "Puedes intentarlo de nuevo. Y asegúrate de estar usando tu dedo, no un lápiz"
+        ],
+        calibrationFailImproper: [
+            "Calibración fallida",
+            "Detectamos más presión en la pluma que en el yunque",
+            "Puedes intentarlo de nuevo. Y asegúrate de mover la pluma con menos presión que el yunque"
+        ],
+        calibrationImpossible: [
+            "Calibración imposible",
+            "Parece que tu dispositivo no soporta la medición del área táctil. Por lo tanto, no podemos definir dos modos para la interacción táctil",
+            "En este caso, puedes usar un ratón virtual para poder arrastrar cualquier cosa. Aparecerá en el lado izquierdo de la pantalla."
+        ],
+        calibrationNeeded: [
+            "¡Calibración necesaria!",
+            "Tenemos que calibrar tu pantalla táctil para poder definir dos modos de interacción táctil:",
+            "Modo mover cursor - cuando solo quieres mover el cursor o el segmento de polígono al dibujar",
+            "Y modo arrastrar - cuando quieres mover elementos o cambiar su tamaño. También debes mover-arrastar cuando quieras seleccionar varios elementos",
+            "Por favor, haz clic en el botón Iniciar y sigue las instrucciones en pantalla"
+        ]
     }
 };

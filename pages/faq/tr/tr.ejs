@@ -1,0 +1,261 @@
+<script type="module">
+    if (location.hash !== null && location.hash !== "") {
+        $(location.hash + ".collapse").collapse();
+    }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
+</script>
+
+<div class="container" id="faq">
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Genel sorular</span></div>
+    </div>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+                aria-expanded="false"
+                aria-controls="qA1">
+            Bir abonelik satın aldım, ancak ücretli işlevsellik kullanılamıyor, ne yapmalıyım?
+        </button>
+    </p>
+    <div class="collapse" id="qA1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                Ücretli bir IRRISketch aboneliği satın aldıktan sonra, bunu kişisel hesabınızda manuel olarak etkinleştirmeniz gerekir.
+                hesap
+                linkte:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>,
+            </p>
+            aboneliğinizin sağ sütunda olacağı yer. Aktivasyondan sonra, tüm abonelikleri özgürce kullanabileceksiniz.
+            hizmetin ücretli işlevselliği.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+                aria-expanded="false"
+                aria-controls="qA2">
+            Abonelik için ödeme yaptım, ancak kişisel dolabımda görünmedi.
+        </button>
+    </p>
+    <div class="collapse" id="qA2" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                Bu durumda, bu bağlantıyı takip ederek kişisel hesabınıza gitmeniz gerekir:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>
+            </p>
+            <p>
+                Siparişin altındaki düğmeye bakın. Kırmızı "Tekrarla" düğmesi ödemenin yapıldığı anlamına gelir
+                başarısız oldu
+                ve tekrar denemelisiniz, ancak önce paranın tahsil edilip edilmediğini kontrol edin.
+            </p>
+            <p>
+                Uzun süredir sarı renkli "Ödeme devam ediyor" düğmesini görüyorsanız, büyük olasılıkla
+                işlem gerçekleşmedi
+                oldu
+                otomatik onay. Eğer durum buysa, tamamlamak için bu düğmeye tıklayın ve her şey
+                iş.
+            </p>
+            Başarılı ödeme ve işlemin tamamlanmasının ardından yeşil bir "Ödeme Doğrulandı" yazısı göreceksiniz
+            düğmesine tıklayın.
+            Tıkladığınızda aboneliğiniz sağ sütunda görünecektir.
+        </div>
+    </div>
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Projeler hakkında sorular</span></div>
+    </div>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+                aria-expanded="false" aria-controls="qP1">
+            Projedeki değişiklikler kaydedilmedi/Belirli bir durumu geri yüklemek istiyorum
+            projesi için ne yapmalıyım?
+        </button>
+    </p>
+    <div class="collapse" id="qP1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                (Bu yöntem yalnızca Geliştirici Araçlarına sahip tarayıcılarda çalışacaktır)
+            </p>
+            <p>
+                1. Proje üzerinde en son çalıştığınız bilgisayarda aynı tarayıcıyı açın
+            </p>
+            <p>
+                2. IRRISketch atölyesine gidin ve sorunu içeren projeyi açın
+            </p>
+            <p>
+                3. Projeyi açtığınızda projeyi geri yüklemenizi isteyen bir pencere görünürse
+                "Geri Yükle" düğmesi ve
+                sonucu görün. Proje istenen duruma geri getirilmediyse, aşağıdaki adımları izlemeye devam edin
+                talimatlar
+            </p>
+            <p>
+                4. Geliştirici araçlarını açın (Çoğu tarayıcıda - F12 düğmesi) ve Konsol sekmesini açın
+                aşağıdaki resimde gösterildiği gibi:
+                <br>
+                <img src="/images/faq/console.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                5. Aşağıdaki komutu konsola girin ve Enter tuşuna basın:
+            </p>
+            <p>
+                autobackup.ASL()
+            </p>
+            <p>
+                6. Otomatik kaydetmelerin bir listesi görünecektir (genellikle son 12) ( Otomatik kaydetme her on
+                dakikalar,
+                Yani 12 × 10 = 120 dakika = 2 saat) Şöyle bir şey görünecektir:
+                <br>
+                <img src="/images/faq/autobackup.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                Eğer böyle bir şey olursa:
+                <br>
+                <img src="/images/faq/autobackupFolded.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                Ardından listeyi genişletmek için üçgen sembolüne ( ▶ ) basın ( ▼ )
+            </p>
+            <p>
+                7. Otomatik kaydetmeler listesinde, hesaplamalarınıza göre projenin en son ne zaman kaydedildiğini seçin.
+                içinde
+                en çok
+                ve o satırın başında hangi numaranın olduğuna bakın.
+            </p>
+            <p>
+                8. Aşağıdaki metni konsola yazın:
+            </p>
+            <p>
+                autobackup.RAS(*Önceki paragraftaki numarayı buraya yapıştırın*)
+            </p>
+            9. Restore edilmiş durumun gereksinimlerinizi karşıladığından emin olun. Eğer karşılamıyorsa
+            komuta
+            İstediğiniz durumu bulana kadar bir önceki noktadan farklı bir sayı ile devam edin.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+                aria-expanded="false"
+                aria-controls="qP2">
+            Bir proje çiziminde ızgarayı nasıl görüntüleyebilirim? PDF/PNG çıktısı alınırken çizim ızgarası görünmez.
+        </button>
+    </p>
+    <div class="collapse" id="qP2" data-parent="#faq">
+        <div class="card card-body">
+        <span>
+           Yazdırma sırasında ızgarayı görüntülemek için, ızgara çizim üzerine bir resim olarak yerleştirilmelidir. Izgarayı indirebilirsiniz,
+            örneğin <a
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing"
+                    target="_blank">from here</a>, ve ardından çizim üzerinde istediğiniz boyuta ölçeklendirin.
+        </span>
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+                aria-expanded="false"
+                aria-controls="qP3">
+            Bir projeyi bir hesaptan diğerine nasıl aktarabilirim?
+        </button>
+    </p>
+    <div class="collapse" id="qP3" data-parent="#faq">
+        <div class="card card-body">
+            Bunu yapmak için, sağ üst paneldeki uygun düğmeyi kullanarak proje dosyasını indirebilirsiniz
+            Bundan sonra, yeni bir hesapta boş bir proje oluşturun ve "İndir" düğmesini kullanarak indirilen projeyi açın
+            proje.
+            <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP4"
+                aria-expanded="false"
+                aria-controls="qP4">
+            Proje "kilitleniyor"/Çizim moduna geçiş çok zaman alıyor
+        </button>
+    </p>
+    <div class="collapse" id="qP4" data-parent="#faq">
+        <span>
+            <p>
+                IRRISketch Residential özellikle büyük araziler için tasarlanmadığından, bu genellikle projedeki çok sayıda elemanla ilgilidir. Bu sorun, çizim modunda mevcut tüm nesneleri silerek ve bunları tek bir arka planla değiştirerek çözülebilir.
+            </p>
+            <p>
+                1. Yanlışlıkla veri kaybetmekten korkuyorsanız projenin bir kopyasını oluşturun ve açın.
+            </p>
+            <p>
+                2. Sulama moduna geçin ve tüm öğeleri seçmek için ctrl+a tuş kombinasyonunu kullanın, ardından ctrl+x tuş kombinasyonunu kullanarak bunları kesin (panoya kaydedileceklerdir).
+            </p>
+            <p>
+                3. Çizim moduna geçin, projenin orijinal manzarasını elde etmek için "Görsel Stil" sekmesindeki "Manzara" ayarını yapın ve damgayı kaldırın.
+            </p>
+            <img src="/images/faq/visualStyleEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+            <p>
+                4. A1'den A4'e kadar bir sayfa biçimi seçin. Sayfa boyutu ne kadar büyük olursa, nihai görüntünün kalitesi o kadar yüksek olur, ancak daha fazla yer kaplar.
+            </p>
+            <img src="/images/faq/listFormatEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+            <p>
+                5. Çizim modunda "Cetvel" aracını kullanarak çizimin kolayca ölçülebilen herhangi bir öğesini ölçün ve daha sonra gerekeceği için uzunluğunu kaydedin.
+            </p>
+            <img src="/images/faq/rulerEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                6. Ekranın altındaki "Çizimi Düzenle" moduna geçin ve sol alttaki düğmeyi kullanarak çizimi sayfaya ekleyin. Projeyi görüntü olarak dışa aktarın.
+                Ortaya çıkan görüntü 10 MB'den büyükse, onu kullanamazsınız. Bu durumda, çeşitli görüntü editörlerini (Photoshop, Gimp gibi) nasıl kullanacağınızı biliyorsanız, görüntüyü sıkıştırın veya renk sayısını azaltın. Bu dosya boyutunu azaltacaktır.
+            </p>
+            <img src="/images/faq/fitEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="100%" height="100%">
+            <p>
+                7. Görüntüyü projeye yerleştirin ve 5. adımda kaydedilen uzunluğu kullanarak doğru ölçeği ayarlayın.
+            </p>
+            <img src="/images/faq/resizeEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                8. Görüntüyü çiziminizle hizalayın, böylece tüm öğeler görüntüde göründükleri gibi aynı konumlarda olur.
+            </p>
+            <img src="/images/faq/alignEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                9. Resmi seçerek ve sol alttaki ilgili düğmeye tıklayarak kilitleyin.
+            </p>
+            <img src="/images/faq/lockEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="15%" height="15%">
+            <p>
+                10. Çizim modundaki tüm öğeleri seçmek ve silmek için ctrl+a tuş kombinasyonunu kullanın. Sadece resminiz kalmalıdır.
+            </p>
+            <p>
+                11. Sulama moduna dönün ve ctrl+v tuş kombinasyonunu kullanarak önceden silinmiş tüm sulama elemanlarını çizime geri yapıştırın. Doğru şekilde yapılırsa, tüm elemanlar orijinal konumlarına geri dönmelidir.
+            </p>
+        </span>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP5"
+                aria-expanded="false"
+                aria-controls="qP5">
+            Düzen modunda bazı bölgeler görüntülenmiyor/damlama görüntülenmiyor
+        </button>
+    </p>
+    <div class="collapse" id="qP5" data-parent="#faq">
+        <span>
+           Bu davranış, yerleşimdeki bölge gösterimi ayarlarıyla ilgilidir.
+            Bölge temsil ayarlarını değiştirmek için, sol alt köşede, düzenler modunda, "Bölgeler temsili" düğmesine tıklayın ve düzende görmek istediğiniz bölgelerin yanındaki kutuları işaretleyin. Alternatif olarak, yeni bir düzen oluşturabilirsiniz ve mevcut tüm bölgeler bu düzende görüntülenecektir.
+        </span>
+    </div>
+    <hr>
+</div>

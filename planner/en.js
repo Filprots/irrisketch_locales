@@ -1243,5 +1243,19 @@ this.LNG = {
             "And dragging mode - this is when you want to move elements around or resize them. Also you should drag-move when you want to select many items",
             "Please click Start button and follow the instructions on the screen"
         ],
+        insertImage: 'Insert',
+        mapImagePicker: [
+            "Satellite image loader",
+            "Latitude/Longitude",
+            "Enter Latitude",
+            "Enter Longitude",
+            "Current location",
+            "Go",
+            "Address",
+            "Type part of address and click 'Search'",
+            "Search",
+            "Zoom",
+            "Pan"
+        ]
     }
 };

@@ -1535,5 +1535,6 @@
 	"DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
 	"ACC_Miscellaneous": "Разное",
 	"misc_imperialUnitsDefaults": "Имперские единицы измерения",
-	"action_cloneItem": "Копировать"
+	"action_cloneItem": "Копировать",
+	"toolMapImage": "Satellite image"
 }

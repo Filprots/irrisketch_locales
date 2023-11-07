@@ -1242,6 +1242,20 @@ this.LNG = {
             "Modalità muovi cursore - quando vuoi semplicemente muovere il cursore o spostare il segmento di un poligono durante il disegno",
             "E modalità trascina - quando vuoi spostare elementi intorno o ridimensionarli. Dovresti anche trascinare-muovere quando vuoi selezionare più elementi",
             "Per favore clicca sul pulsante Avvia e segui le istruzioni sullo schermo"
+        ],
+        insertImage: 'Insert',
+        mapImagePicker: [
+            "Satellite image loader",
+            "Latitude/Longitude",
+            "Enter Latitude",
+            "Enter Longitude",
+            "Current location",
+            "Go",
+            "Address",
+            "Type part of address and click 'Search'",
+            "Search",
+            "Zoom",
+            "Pan"
         ]
     }
 };

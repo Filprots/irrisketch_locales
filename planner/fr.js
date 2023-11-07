@@ -1242,6 +1242,20 @@ this.LNG = {
             "Mode déplacement du curseur - lorsque vous souhaitez simplement déplacer le curseur ou déplacer le segment de polygone en dessinant",
             "Et mode glisser - lorsque vous souhaitez déplacer des éléments ou en modifier la taille. Vous devriez également glisser-déplacer lorsque vous souhaitez sélectionner plusieurs éléments",
             "Veuillez cliquer sur le bouton Démarrer et suivre les instructions à l'écran"
+        ],
+        insertImage: 'Insert',
+        mapImagePicker: [
+            "Satellite image loader",
+            "Latitude/Longitude",
+            "Enter Latitude",
+            "Enter Longitude",
+            "Current location",
+            "Go",
+            "Address",
+            "Type part of address and click 'Search'",
+            "Search",
+            "Zoom",
+            "Pan"
         ]
     }
 };

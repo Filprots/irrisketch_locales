@@ -1242,6 +1242,20 @@ this.LNG = {
             "Modo de mover o cursor - quando você quer apenas mover o cursor ou deslocar o segmento do polígono ao desenhar",
             "E modo de arrastar - é quando você quer mover elementos ou redimensioná-los. Você também deve usar arrastar-mover quando quiser selecionar vários itens",
             "Por favor, clique no botão Iniciar e siga as instruções na tela"
+        ],
+        insertImage: 'Insert',
+        mapImagePicker: [
+            "Satellite image loader",
+            "Latitude/Longitude",
+            "Enter Latitude",
+            "Enter Longitude",
+            "Current location",
+            "Go",
+            "Address",
+            "Type part of address and click 'Search'",
+            "Search",
+            "Zoom",
+            "Pan"
         ]
     }
 };

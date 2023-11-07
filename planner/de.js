@@ -1242,6 +1242,20 @@ this.LNG = {
             "Cursorbewegungsmodus - wenn Sie nur den Cursor bewegen oder ein Polygonsegment beim Zeichnen verschieben möchten",
             "Und Ziehmodus - wenn Sie Elemente bewegen oder deren Größe ändern möchten. Auch sollten Sie im Ziehmodus bewegen, wenn Sie mehrere Elemente auswählen möchten",
             "Bitte klicken Sie auf die Start-Taste und folgen Sie den Anweisungen auf dem Bildschirm"
+        ],
+        insertImage: 'Insert',
+        mapImagePicker: [
+            "Satellite image loader",
+            "Latitude/Longitude",
+            "Enter Latitude",
+            "Enter Longitude",
+            "Current location",
+            "Go",
+            "Address",
+            "Type part of address and click 'Search'",
+            "Search",
+            "Zoom",
+            "Pan"
         ]
     }
 };

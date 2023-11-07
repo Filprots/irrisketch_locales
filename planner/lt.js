@@ -1242,6 +1242,20 @@ this.LNG = {
             "Žymeklio judinimo režimas - kai norite tiesiog judinti žymeklį aplink arba perkelti poligono segmentą piešiant",
             "Ir tempimo režimas - tai, kai norite perkelti elementus aplink arba keisti jų dydį. Taip pat turėtumėte naudoti tempimą, kai norite pasirinkti daug daiktų",
             "Prašome paspausti 'Pradėti' mygtuką ir laikytis instrukcijų ekrane"
+        ],
+        insertImage: 'Insert',
+        mapImagePicker: [
+            "Satellite image loader",
+            "Latitude/Longitude",
+            "Enter Latitude",
+            "Enter Longitude",
+            "Current location",
+            "Go",
+            "Address",
+            "Type part of address and click 'Search'",
+            "Search",
+            "Zoom",
+            "Pan"
         ]
     }
 };

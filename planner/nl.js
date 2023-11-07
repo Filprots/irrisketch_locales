@@ -1242,6 +1242,20 @@ this.LNG = {
             "Cursor verplaatsen modus - wanneer u gewoon de cursor wilt verplaatsen of het polygoonsegment wilt verplaatsen tijdens het tekenen",
             "En sleepmodus - dit is wanneer u elementen wilt verplaatsen of hun grootte wilt aanpassen. Ook moet u slepen-verplaatsen wanneer u veel items wilt selecteren",
             "Klik alstublieft op de startknop en volg de instructies op het scherm"
+        ],
+        insertImage: 'Insert',
+        mapImagePicker: [
+            "Satellite image loader",
+            "Latitude/Longitude",
+            "Enter Latitude",
+            "Enter Longitude",
+            "Current location",
+            "Go",
+            "Address",
+            "Type part of address and click 'Search'",
+            "Search",
+            "Zoom",
+            "Pan"
         ]
     }
 };

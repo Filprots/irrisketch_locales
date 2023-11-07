@@ -1535,5 +1535,6 @@
   "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
   "ACC_Miscellaneous": "Verschiedenes",
   "misc_imperialUnitsDefaults": "Imperiale Einheiten",
-  "action_cloneItem": "Kopieren"
+  "action_cloneItem": "Kopieren",
+  "toolMapImage": "Satellite image"
 }

@@ -1242,6 +1242,20 @@ this.LNG = {
             "Рэжым руху курсора - калі вы жадаеце толькі перамяшчаць курсор альбо сегмент палігона пры маляванні",
             "І рэжым перацягвання - гэта калі вы хочаце перамяшчаць элементы ці змяняць іх памеры. Таксама вам варта выкарыстоўваць перацягванне, калі хочаце выбраць некалькі прадметаў",
             "Калі ласка, націсніце кнопку 'Пачаць' і следуйце інструкцыям на экране"
+        ],
+        insertImage: 'Insert',
+        mapImagePicker: [
+            "Satellite image loader",
+            "Latitude/Longitude",
+            "Enter Latitude",
+            "Enter Longitude",
+            "Current location",
+            "Go",
+            "Address",
+            "Type part of address and click 'Search'",
+            "Search",
+            "Zoom",
+            "Pan"
         ]
     }
 };

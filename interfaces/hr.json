@@ -1535,5 +1535,6 @@
   "DesignRequestPlannerRequesterLogoUrlPlc": "your.domain.com/mylogo.png",
   "ACC_Miscellaneous": "Razno",
   "misc_imperialUnitsDefaults": "Imperijalne Jedinice",
-  "action_cloneItem": "Clone"
+  "action_cloneItem": "Clone",
+  "toolMapImage": "Satellite image"
 }

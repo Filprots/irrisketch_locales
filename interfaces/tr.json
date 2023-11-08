@@ -1535,5 +1535,6 @@
   "DesignRequestPlannerRequesterLogoUrlPlc": "alaniniz.com/mylogo.png",
   "ACC_Miscellaneous": "Çeşitli",
   "misc_imperialUnitsDefaults": "İmparatorluk Birimleri",
-  "action_cloneItem": "Klon"
+  "action_cloneItem": "Klon",
+  "toolMapImage": "Uydu görüntüsü"
 }

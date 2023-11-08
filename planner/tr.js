@@ -1242,5 +1242,19 @@ this.LNG = {
             "Ve sürükleme modu - öğeleri sürüklemek veya yeniden boyutlandırmak istediğinizde kullanılan moddur. Ayrıca birçok öğeyi seçmek istediğinizde de sürükleme hareketi yapmalısınız",
             "Lütfen Başla düğmesine tıklayın ve ekrandaki talimatları takip edin"
         ],
+        insertImage: 'Ekle',
+        mapImagePicker: [
+            "Uydu görüntü yükleyici",
+            "Enlem/Boylam",
+            "Enlem gir",
+            "Boylam gir",
+            "Mevcut konum",
+            "Git",
+            "Adres",
+            "Adresin bir kısmını girin ve 'Ara'ya tıklayın",
+            "Ara",
+            "Yakınlaştır",
+            "Kaydır"
+        ]
     }
 };

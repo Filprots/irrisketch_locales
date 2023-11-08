@@ -1243,19 +1243,19 @@ this.LNG = {
             "E modo de arrastar - é quando você quer mover elementos ou redimensioná-los. Você também deve usar arrastar-mover quando quiser selecionar vários itens",
             "Por favor, clique no botão Iniciar e siga as instruções na tela"
         ],
-        insertImage: 'Insert',
+        insertImage: 'Inserir',
         mapImagePicker: [
-            "Satellite image loader",
+            "Carregador de imagem de satélite",
             "Latitude/Longitude",
-            "Enter Latitude",
-            "Enter Longitude",
-            "Current location",
-            "Go",
-            "Address",
-            "Type part of address and click 'Search'",
-            "Search",
+            "Digite a Latitude",
+            "Digite a Longitude",
+            "Localização atual",
+            "Ir",
+            "Endereço",
+            "Digite parte do endereço e clique em 'Pesquisar'",
+            "Pesquisar",
             "Zoom",
-            "Pan"
+            "Panorâmica"
         ]
     }
 };

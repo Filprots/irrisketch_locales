@@ -1243,19 +1243,19 @@ this.LNG = {
             "Ir tempimo režimas - tai, kai norite perkelti elementus aplink arba keisti jų dydį. Taip pat turėtumėte naudoti tempimą, kai norite pasirinkti daug daiktų",
             "Prašome paspausti 'Pradėti' mygtuką ir laikytis instrukcijų ekrane"
         ],
-        insertImage: 'Insert',
+        insertImage: 'Įterpti',
         mapImagePicker: [
-            "Satellite image loader",
-            "Latitude/Longitude",
-            "Enter Latitude",
-            "Enter Longitude",
-            "Current location",
-            "Go",
-            "Address",
-            "Type part of address and click 'Search'",
-            "Search",
-            "Zoom",
-            "Pan"
+            "Palydovinės nuotraukos įkėlėjas",
+            "Platuma/Ilguma",
+            "Įveskite platumą",
+            "Įveskite ilgumą",
+            "Dabartinė vieta",
+            "Eiti",
+            "Adresas",
+            "Įrašykite dalį adreso ir spustelėkite 'Ieškoti'",
+            "Ieškoti",
+            "Artinimas",
+            "Panoraminis vaizdas"
         ]
     }
 };

@@ -1243,17 +1243,17 @@ this.LNG = {
             "E modalità trascina - quando vuoi spostare elementi intorno o ridimensionarli. Dovresti anche trascinare-muovere quando vuoi selezionare più elementi",
             "Per favore clicca sul pulsante Avvia e segui le istruzioni sullo schermo"
         ],
-        insertImage: 'Insert',
+        insertImage: 'Inserisci',
         mapImagePicker: [
-            "Satellite image loader",
-            "Latitude/Longitude",
-            "Enter Latitude",
-            "Enter Longitude",
-            "Current location",
-            "Go",
-            "Address",
-            "Type part of address and click 'Search'",
-            "Search",
+            "Caricatore di immagini satellitari",
+            "Latitudine/Longitudine",
+            "Inserire la Latitudine",
+            "Inserire la Longitudine",
+            "Posizione attuale",
+            "Vai",
+            "Indirizzo",
+            "Digita parte dell'indirizzo e clicca 'Cerca'",
+            "Cerca",
             "Zoom",
             "Pan"
         ]

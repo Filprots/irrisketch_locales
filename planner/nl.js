@@ -1243,19 +1243,19 @@ this.LNG = {
             "En sleepmodus - dit is wanneer u elementen wilt verplaatsen of hun grootte wilt aanpassen. Ook moet u slepen-verplaatsen wanneer u veel items wilt selecteren",
             "Klik alstublieft op de startknop en volg de instructies op het scherm"
         ],
-        insertImage: 'Insert',
+        insertImage: 'Invoegen',
         mapImagePicker: [
-            "Satellite image loader",
-            "Latitude/Longitude",
-            "Enter Latitude",
-            "Enter Longitude",
-            "Current location",
-            "Go",
-            "Address",
-            "Type part of address and click 'Search'",
-            "Search",
-            "Zoom",
-            "Pan"
+            "Satellietbeeldlader",
+            "Breedtegraad/Lengtegraad",
+            "Voer breedtegraad in",
+            "Voer lengtegraad in",
+            "Huidige locatie",
+            "Ga",
+            "Adres",
+            "Typ een deel van het adres en klik op 'Zoeken'",
+            "Zoeken",
+            "Zoomen",
+            "Panorama"
         ]
     }
 };

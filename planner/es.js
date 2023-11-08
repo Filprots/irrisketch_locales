@@ -1243,19 +1243,19 @@ this.LNG = {
             "Y modo arrastrar - cuando quieres mover elementos o cambiar su tamaño. También debes mover-arrastar cuando quieras seleccionar varios elementos",
             "Por favor, haz clic en el botón Iniciar y sigue las instrucciones en pantalla"
         ],
-        insertImage: 'Insert',
+        insertImage: 'Insertar',
         mapImagePicker: [
-            "Satellite image loader",
-            "Latitude/Longitude",
-            "Enter Latitude",
-            "Enter Longitude",
-            "Current location",
-            "Go",
-            "Address",
-            "Type part of address and click 'Search'",
-            "Search",
+            "Cargador de imágenes satelitales",
+            "Latitud/Longitud",
+            "Ingresar latitud",
+            "Ingresar longitud",
+            "Ubicación actual",
+            "Ir",
+            "Dirección",
+            "Escriba parte de la dirección y haga clic en 'Buscar'",
+            "Buscar",
             "Zoom",
-            "Pan"
+            "Panorámica"
         ]
     }
 };

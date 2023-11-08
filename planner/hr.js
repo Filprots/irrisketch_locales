@@ -1243,19 +1243,19 @@ this.LNG = {
             "I način povlačenja - to je kada želite premještati elemente ili ih mijenjati veličinu. Također biste trebali povlačiti-pomicati kada želite odabrati više stavki",
             "Molimo kliknite na gumb Pokreni i slijedite upute na ekranu"
         ],
-        insertImage: 'Insert',
+        insertImage: 'Umetni',
         mapImagePicker: [
-            "Satellite image loader",
-            "Latitude/Longitude",
-            "Enter Latitude",
-            "Enter Longitude",
-            "Current location",
-            "Go",
-            "Address",
-            "Type part of address and click 'Search'",
-            "Search",
-            "Zoom",
-            "Pan"
+            "Učitavač satelitskih slika",
+            "Geografska širina/Dužina",
+            "Unesite geografsku širinu",
+            "Unesite geografsku dužinu",
+            "Trenutna lokacija",
+            "Idi",
+            "Adresa",
+            "Upišite dio adrese i kliknite 'Traži'",
+            "Traži",
+            "Povećaj",
+            "Panorama"
         ]
     }
 };

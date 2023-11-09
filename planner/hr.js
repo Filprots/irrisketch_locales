@@ -1256,6 +1256,10 @@ this.LNG = {
             "Traži",
             "Povećaj",
             "Panorama"
-        ]
+        ],
+        "imageCrop": [
+            "Crop tool"
+        ],
+        cropImage: "Crop",
     }
 };

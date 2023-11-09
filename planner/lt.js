@@ -1256,6 +1256,10 @@ this.LNG = {
             "Ieškoti",
             "Artinimas",
             "Panoraminis vaizdas"
-        ]
+        ],
+        "imageCrop": [
+            "Crop tool"
+        ],
+        cropImage: "Crop",
     }
 };

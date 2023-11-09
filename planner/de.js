@@ -1257,5 +1257,9 @@ this.LNG = {
             "Zoom",
             "Schwenken"
         ]
-    }
+    },
+    "imageCrop": [
+        "Freistellungswerkzeug"
+    ],
+    cropImage: "Zuschneiden",
 };

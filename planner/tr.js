@@ -1255,6 +1255,10 @@ this.LNG = {
             "Ara",
             "Yakınlaştır",
             "Kaydır"
-        ]
+        ],
+        "imageCrop": [
+            "Crop tool"
+        ],
+        cropImage: "Crop",
     }
 };

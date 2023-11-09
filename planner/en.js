@@ -1256,6 +1256,10 @@ this.LNG = {
             "Search",
             "Zoom",
             "Pan"
-        ]
+        ],
+        "imageCrop": [
+            "Crop tool"
+        ],
+        cropImage: "Crop",
     }
 };

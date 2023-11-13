@@ -1256,10 +1256,10 @@ this.LNG = {
             "Suchen",
             "Zoom",
             "Schwenken"
-        ]
-    },
-    "imageCrop": [
-        "Freistellungswerkzeug"
-    ],
-    cropImage: "Zuschneiden",
+        ],
+        "imageCrop": [
+            "Freistellungswerkzeug"
+        ],
+        cropImage: "Zuschneiden"
+    }
 };

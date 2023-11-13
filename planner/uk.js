@@ -1027,7 +1027,6 @@ this.LNG = {
         "openInOtherTab": "Открыть последнее",
         "overwrite": "Перезаписать",
         "saveToFile": "Сохранить в файл",
-
         filterSelection_exclude: "Вилучити із виділеного",
         filterSelection_include: "Додати до виділеного",
         filterSelectionNames: {

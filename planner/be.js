@@ -1260,6 +1260,6 @@ this.LNG = {
         "imageCrop": [
             "Иструменты обрезки изображения",
         ],
-        cropImage: "Crop",
+        cropImage: "Обрезка",
     }
 };

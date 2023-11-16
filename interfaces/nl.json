@@ -1537,5 +1537,8 @@
   "ACC_Miscellaneous": "Diversen",
   "misc_imperialUnitsDefaults": "Imperiale Eenheden",
   "action_cloneItem": "Clone",
-  "toolMapImage": "Satteliet afbeelding"
+  "toolMapImage": "Satteliet afbeelding",
+  "check_EnableWaterSupplyLimit": "Stel Stroomlimiet in",
+  "WaterSupplyLimitActionInput": "Maximum:",
+  "action_setWaterSupplyLimit": "Stroomlimiet"
 }

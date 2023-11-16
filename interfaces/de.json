@@ -1537,5 +1537,8 @@
   "ACC_Miscellaneous": "Verschiedenes",
   "misc_imperialUnitsDefaults": "Imperiale Einheiten",
   "action_cloneItem": "Kopieren",
-  "toolMapImage": "Satellitenbild"
+  "toolMapImage": "Satellitenbild",
+  "check_EnableWaterSupplyLimit": "Flussgrenze festlegen",
+  "WaterSupplyLimitActionInput": "Maximum:",
+  "action_setWaterSupplyLimit": "Flussgrenze"
 }

@@ -1537,5 +1537,8 @@
   "ACC_Miscellaneous": "Razno",
   "misc_imperialUnitsDefaults": "Imperijalne Jedinice",
   "action_cloneItem": "Clone",
-  "toolMapImage": "Satelitska slika"
+  "toolMapImage": "Satelitska slika",
+  "check_EnableWaterSupplyLimit": "Postavi Granicu Protoka",
+  "WaterSupplyLimitActionInput": "Maksimalno:",
+  "action_setWaterSupplyLimit": "Granica Protoka"
 }

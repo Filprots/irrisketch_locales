@@ -1537,5 +1537,8 @@
   "ACC_Miscellaneous": "Įvairūs",
   "misc_imperialUnitsDefaults": "Imperinės Vienetos",
   "action_cloneItem": "Clone",
-  "toolMapImage": "Palydovinis vaizdas"
+  "toolMapImage": "Palydovinis vaizdas",
+  "check_EnableWaterSupplyLimit": "Nustatyti Srauto Ribą",
+  "WaterSupplyLimitActionInput": "Maksimalus:",
+  "action_setWaterSupplyLimit": "Srauto Ribos"
 }

@@ -1537,5 +1537,8 @@
   "ACC_Miscellaneous": "Çeşitli",
   "misc_imperialUnitsDefaults": "İmparatorluk Birimleri",
   "action_cloneItem": "Klon",
-  "toolMapImage": "Uydu görüntüsü"
+  "toolMapImage": "Uydu görüntüsü",
+  "check_EnableWaterSupplyLimit": "Akış Sınırını Ayarla",
+  "WaterSupplyLimitActionInput": "Maksimum:",
+  "action_setWaterSupplyLimit": "Akış Sınırı"
 }

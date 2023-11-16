@@ -1537,5 +1537,8 @@
   "ACC_Miscellaneous": "Разное",
   "misc_imperialUnitsDefaults": "Имперские единицы измерения",
   "action_cloneItem": "Копировать",
-  "toolMapImage": "Карта"
+  "toolMapImage": "Карта",
+  "check_EnableWaterSupplyLimit": "Встановити Ліміт Розходу",
+  "WaterSupplyLimitActionInput": "Максимум:",
+  "action_setWaterSupplyLimit": "Ліміт Розходу"
 }

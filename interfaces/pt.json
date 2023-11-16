@@ -1537,5 +1537,8 @@
   "ACC_Miscellaneous": "Diversos",
   "misc_imperialUnitsDefaults": "Unidades Imperiais",
   "action_cloneItem": "Clone",
-  "toolMapImage": "Imagem de satélite"
+  "toolMapImage": "Imagem de satélite",
+  "check_EnableWaterSupplyLimit": "Definir Limite de Fluxo",
+  "WaterSupplyLimitActionInput": "Máximo:",
+  "action_setWaterSupplyLimit": "Limite de Fluxo"
 }

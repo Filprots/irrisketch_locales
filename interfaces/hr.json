@@ -1303,7 +1303,7 @@
   "DesignRequestPlannerBTPressureStaticLabel": "Statički tlak (Zatvoren ventil)",
   "DesignRequestPlannerBTPressureStaticPlc": "Unesite vrijednost",
   "DesignRequestPlannerUnitsBAR": "bar",
-  "DesignRequestPlannerUnitsPSI": "PSI",
+  "DesignRequestPlannerUnitsPSI": "psi",
   "DesignRequestPlannerUnitsKPA": "KPa",
   "DesignRequestPlannerUnitsATM": "atm",
   "DesignRequestPlannerBTPressureFullLabel": "Tlak kod potpuno otvorenog ventila",

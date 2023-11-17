@@ -1303,7 +1303,7 @@
   "DesignRequestPlannerBTPressureStaticLabel": "Статическое давление (Закрытый затвор)",
   "DesignRequestPlannerBTPressureStaticPlc": "Введите значение",
   "DesignRequestPlannerUnitsBAR": "бар",
-  "DesignRequestPlannerUnitsPSI": "фунт/см^2",
+  "DesignRequestPlannerUnitsPSI": "фунт/дюйм²",
   "DesignRequestPlannerUnitsKPA": "КПа",
   "DesignRequestPlannerUnitsATM": "атм",
   "DesignRequestPlannerBTPressureFullLabel": "Давление при полном открытии затвора",

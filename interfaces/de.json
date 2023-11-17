@@ -1303,7 +1303,7 @@
   "DesignRequestPlannerBTPressureStaticLabel": "Statischer Druck (Kran geschlossen)",
   "DesignRequestPlannerBTPressureStaticPlc": "Wert eingeben",
   "DesignRequestPlannerUnitsBAR": "bar",
-  "DesignRequestPlannerUnitsPSI": "lb/cm^2",
+  "DesignRequestPlannerUnitsPSI": "psi",
   "DesignRequestPlannerUnitsKPA": "KPa",
   "DesignRequestPlannerUnitsATM": "atm",
   "DesignRequestPlannerBTPressureFullLabel": "Druck bei vollständig geöffnetem Kran",

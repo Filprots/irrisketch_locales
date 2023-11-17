@@ -1303,7 +1303,7 @@
   "DesignRequestPlannerBTPressureStaticLabel": "Statische druk (gesloten kraan)",
   "DesignRequestPlannerBTPressureStaticPlc": "Voer waarde in",
   "DesignRequestPlannerUnitsBAR": "bar",
-  "DesignRequestPlannerUnitsPSI": "lb/cm^2",
+  "DesignRequestPlannerUnitsPSI": "psi",
   "DesignRequestPlannerUnitsKPA": "KPa",
   "DesignRequestPlannerUnitsATM": "Geldautomaat",
   "DesignRequestPlannerBTPressureFullLabel": "Druk met volledig geopende kraan",

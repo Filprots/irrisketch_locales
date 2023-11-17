@@ -1303,7 +1303,7 @@
   "DesignRequestPlannerBTPressureStaticLabel": "Statik basınç (kapalı vinç)",
   "DesignRequestPlannerBTPressureStaticPlc": "Değer girin",
   "DesignRequestPlannerUnitsBAR": "çubuk",
-  "DesignRequestPlannerUnitsPSI": "lb/cm^2",
+  "DesignRequestPlannerUnitsPSI": "psi",
   "DesignRequestPlannerUnitsKPA": "KPa",
   "DesignRequestPlannerUnitsATM": "ATM",
   "DesignRequestPlannerBTPressureFullLabel": "Tamamen açık vinçle basınç",

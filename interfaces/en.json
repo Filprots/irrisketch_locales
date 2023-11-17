@@ -1303,7 +1303,7 @@
   "DesignRequestPlannerBTPressureStaticLabel": "Static pressure (closed crane)",
   "DesignRequestPlannerBTPressureStaticPlc": "Enter value",
   "DesignRequestPlannerUnitsBAR": "bar",
-  "DesignRequestPlannerUnitsPSI": "lb/cm^2",
+  "DesignRequestPlannerUnitsPSI": "psi",
   "DesignRequestPlannerUnitsKPA": "KPa",
   "DesignRequestPlannerUnitsATM": "atm",
   "DesignRequestPlannerBTPressureFullLabel": "Pressure with fully open crane",

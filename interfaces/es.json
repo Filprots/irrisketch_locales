@@ -1303,7 +1303,7 @@
   "DesignRequestPlannerBTPressureStaticLabel": "Presión estática (grúa cerrada)",
   "DesignRequestPlannerBTPressureStaticPlc": "Ingresar valor",
   "DesignRequestPlannerUnitsBAR": "bar",
-  "DesignRequestPlannerUnitsPSI": "lb/cm^2",
+  "DesignRequestPlannerUnitsPSI": "psi",
   "DesignRequestPlannerUnitsKPA": "KPA",
   "DesignRequestPlannerUnitsATM": "Cajero automático",
   "DesignRequestPlannerBTPressureFullLabel": "Presión con grúa completamente abierta",

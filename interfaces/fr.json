@@ -1303,7 +1303,7 @@
   "DesignRequestPlannerBTPressureStaticLabel": "Pression statique (grue fermée)",
   "DesignRequestPlannerBTPressureStaticPlc": "Entrer une valeur",
   "DesignRequestPlannerUnitsBAR": "bar",
-  "DesignRequestPlannerUnitsPSI": "lb/po^2",
+  "DesignRequestPlannerUnitsPSI": "psi",
   "DesignRequestPlannerUnitsKPA": "kPa",
   "DesignRequestPlannerUnitsATM": "atm",
   "DesignRequestPlannerBTPressureFullLabel": "Pression avec la grue entièrement ouverte",

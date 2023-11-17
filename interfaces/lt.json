@@ -1303,7 +1303,7 @@
   "DesignRequestPlannerBTPressureStaticLabel": "Statinis slėgis (uždarytas kranas)",
   "DesignRequestPlannerBTPressureStaticPlc": "Įveskite vertę",
   "DesignRequestPlannerUnitsBAR": "baras",
-  "DesignRequestPlannerUnitsPSI": "lb/cm^2",
+  "DesignRequestPlannerUnitsPSI": "psi",
   "DesignRequestPlannerUnitsKPA": "KPa",
   "DesignRequestPlannerUnitsATM": "atm",
   "DesignRequestPlannerBTPressureFullLabel": "Slėgis su visiškai atidarytu kranu",

@@ -44,6 +44,7 @@
             bubbNHPC: ["Фарсунка-баблер", "Усталёўка фарсункі-баблера", "Рэдагаванне фарсункі-баблера"],
             bubbNHDS: ["Фарсунка-баблер", "Усталёўка фарсункі-баблера", "Рэдагаванне фарсункі-баблера"],
             pdcAdj: ["PRO Adjustable Nozzle", "Усталёўка фарсункі PRO Adjustable", "Рэдагаванне фарсункі PRO Adjustable"],
+            proHE: ["PRO-HE Adjustable Nozzle", "Усталёўка фарсункі PRO-HE Adjustable", "Рэдагаванне фарсункі PRO-HE Adjustable"],
             prosFixed: ["PRO Fixed Nozzle", "Усталёўка фарсункі PRO Fixed", "Рэдагаванне фарсункі PRO Fixed"],
             srNoz: ["Short Radius Nozzle", "Усталёўка фарсункі Short Radius Nozzle", "Рэдагаванне фарсункі Short Radius Nozzle"],
             streamNoz: ["Stream Nozzle", "Усталёўка фарсункі Stream Nozzle", "Рэдагаванне фарсункі Stream Nozzle"],

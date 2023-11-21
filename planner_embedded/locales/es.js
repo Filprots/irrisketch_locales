@@ -44,6 +44,7 @@
             bubbNHPC: ["Boquilla burbujeadora", "Colocación de la boquilla del burbujeador", "Edición de boquillas de burbujeo"],
             bubbNHDS: ["Boquilla burbujeadora", "Colocación de la boquilla del burbujeador", "Edición de boquillas de burbujeo"],
             pdcAdj: ["Boquilla regulable PRO", "Colocación de Boquilla Ajustable PRO", "Edición de boquilla ajustable PRO"],
+            proHE: ["Boquilla regulable PRO-HE", "Colocación de Boquilla Ajustable PRO-HE", "Edición de boquilla ajustable PRO-HE"],
             prosFixed: ["Boquilla Fija PRO", "Colocación de Boquilla Fija PRO", "Edición de boquilla fija PRO"],
             srNoz: ["Boquilla de radio corto", "Colocación de boquillas de radio corto", "Edición de boquilla de radio corto"],
             streamNoz: ["Boquilla de chorro", "Colocación de boquillas de chorro", "Edición de boquillas de chorro"],

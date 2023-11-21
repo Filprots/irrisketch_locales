@@ -44,6 +44,7 @@
             bubbNHPC: ["Bubbler-Düse","Bubbler-Düse zeichnen","Bubbler-Düse bearbeiten"],
             bubbNHDS: ["Bubbler-Düse","Bubbler-Düse zeichnen","Bubbler-Düse bearbeiten"],
             pdcAdj: ["PRO verstellbare Düse","PRO verstellbare Düse zeichnen","PRO verstellbare Düse bearbeiten"],
+            proHE: ["PRO-HE verstellbare Düse","PRO-HE verstellbare Düse zeichnen","PRO-HE verstellbare Düse bearbeiten"],
             prosFixed: ["Feste PRO-Düse","Feste PRO-Düse zeichnen","Feste PRO-Düse bearbeiten"],
             srNoz: ["Düse kurz","Düse kurz zeichnen","Düse kurz bearbeiten"],
             streamNoz: ["Stream-Düse","Stream-Düse zeichnen","Stream-Düse bearbeiten"],

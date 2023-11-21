@@ -44,6 +44,7 @@
             bubbNHPC: ["Buse barboteuse", "Placement de la buse du barboteur", "Modification de la buse du barboteur"],
             bubbNHDS: ["Buse barboteuse", "Placement de la buse du barboteur", "Modification de la buse du barboteur"],
             pdcAdj: ["Buse réglable PRO", "Placement de la buse réglable PRO", "Modification de la buse réglable PRO"],
+            proHE: ["Buse réglable PRO-HE", "Placement de la buse réglable PRO-HE", "Modification de la buse réglable PRO-HE"],
             prosFixed: ["Buse fixe PRO", "Placement de la buse fixe PRO", "Modification de la buse fixe PRO"],
             srNoz: ["Buse à rayon court", "Placement de la buse à rayon court", "Modification de la buse à rayon court"],
             streamNoz: ["Buse de flux", "Placement de la buse de flux", "Édition de la buse de flux"],

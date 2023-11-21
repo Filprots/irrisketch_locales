@@ -44,6 +44,7 @@
             bubbNHPC: ["Форсунка-баблер", "Монутвання форсунки-баблера", "Редагування форсунки-баблера"],
             bubbNHDS: ["Форсунка-баблер", "Монутвання форсунки-баблера", "Редагування форсунки-баблера"],
             pdcAdj: ["PRO Adjustable Nozzle", "Монутвання форсунки PRO Adjustable", "Редагування форсунки PRO Adjustable"],
+            proHE: ["PRO-HE Adjustable Nozzle", "Монутвання форсунки PRO-HE Adjustable", "Редагування форсунки PRO-HE Adjustable"],
             prosFixed: ["PRO Fixed Nozzle", "Монутвання форсунки PRO Fixed", "Редагування форсунки PRO Fixed"],
             srNoz: ["Short Radius Nozzle", "Монутвання форсунки Short Radius Nozzle", "Редагування форсунки Short Radius Nozzle"],
             streamNoz: ["Stream Nozzle", "Монутвання форсунки Stream Nozzle", "Редагування форсунки Stream Nozzle"],

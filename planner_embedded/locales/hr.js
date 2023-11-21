@@ -44,7 +44,7 @@
             bubbNHPC: ["Bubbler dizna", "Postavljanje Bubbler dizne", "Uređivanje Bubbler dizne"],
             bubbNHDS: ["Bubbler dizna", "Postavljanje Bubbler dizne", "Uređivanje Bubbler dizne"],
             pdcAdj: ["PRO dizna podesivog kuta", "Postavljanje PRO dizne podesivog kuta", "Uređivanje PRO dizne podesivog kuta"],
-            prosFixed: ["Pro-Spray dizna fiksnog kuta", "Postavljanje Pro-Spray dizne fiksnog kuta", "Uređivanje Pro-Spray dizne fiksnog kuta"],
+            prosFixed: ["PRO dizna fiksnog kuta", "Postavljanje PRO dizne fiksnog kuta", "Uređivanje PRO dizne fiksnog kuta"],
             srNoz: ["Dizna kratkog dometa", "Postavljanje dizne kratkog dometa", "Uređivanje dizne kratkog dometa"],
             streamNoz: ["Višemlazna dizna", "Postavljanje višemlazne dizne", "Uređivanje višemlazne dizne"],
             strPatNoz: ["Trakasta dizna", "Postavljanje trakaste dizne", "Uređivanje trakaste dizne"],

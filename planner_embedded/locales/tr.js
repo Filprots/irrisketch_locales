@@ -44,7 +44,7 @@
             bubbNHPC: ["Kabarcık nozulu", "Kabarcık nozulu yerleştirme", "Kabarcık nozulu düzenleme"],
             bubbNHDS: ["Kabarcık nozulu", "Kabarcık nozulu yerleştirme", "Kabarcık nozulu düzenleme"],
             pdcAdj: ["PRO Ayarlanabilir Nozul", "PRO Ayarlanabilir Nozul yerleştirme", "PRO Ayarlanabilir Nozul düzenleme"],
-            prosFixed: ["Pro-Spray Sabit Nozul", "Pro-Spray Sabit Nozul yerleştirme", "Pro-Spray Sabit Nozul düzenleme"],
+            prosFixed: ["PRO Sabit Nozul", "PRO Sabit Nozul yerleştirme", "PRO Sabit Nozul düzenleme"],
             srNoz: ["Kısa Yarıçap Nozulu", "Kısa Yarıçap Nozulu yerleştirme", "Kısa Yarıçap Nozulu düzenleme"],
             streamNoz: ["Akış Nozulu", "Akış Nozulu yerleştirme", "Akış Nozulu düzenleme"],
             strPatNoz: ["Şerit Desen Nozulu", "Şerit Desen Nozulu yerleştirme", "Şerit Desen Nozulu düzenleme"],

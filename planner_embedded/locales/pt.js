@@ -44,7 +44,7 @@
             bubbNHPC: ["Bubbler nozzle", "Bubbler nozzle placing", "Bubbler nozzle editing"],
             bubbNHDS: ["Bubbler nozzle", "Bubbler nozzle placing", "Bubbler nozzle editing"],
             pdcAdj: ["PRO Adjustable Nozzle", "PRO Adjustable Nozzle placing", "PRO Adjustable Nozzle editing"],
-            prosFixed: ["Pro-Spray Fixed Nozzle", "Pro-Spray Fixed Nozzle placing", "Pro-Spray Fixed Nozzle editing"],
+            prosFixed: ["PRO Fixed Nozzle", "PRO Fixed Nozzle placing", "PRO Fixed Nozzle editing"],
             srNoz: ["Short Radius Nozzle", "Short Radius Nozzle placing", "Short Radius Nozzle editing"],
             streamNoz: ["Stream Nozzle", "Stream Nozzle placing", "Stream Nozzle editing"],
             strPatNoz: ["Strip Pattern Nozzle", "Strip Pattern Nozzle placing", "Strip Pattern Nozzle editing"],

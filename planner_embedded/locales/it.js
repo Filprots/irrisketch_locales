@@ -44,7 +44,7 @@
             bubbNHPC: ["Ugello gorgogliatore", "Posizionamento dell'ugello del gorgogliatore", "Modifica dell'ugello del gorgogliatore"],
             bubbNHDS: ["Ugello gorgogliatore", "Posizionamento dell'ugello del gorgogliatore", "Modifica dell'ugello del gorgogliatore"],
             pdcAdj: ["Ugello regolabile PRO", "Posizionamento dell'ugello regolabile PRO", "Modifica dell'ugello regolabile PRO"],
-            prosFixed: ["Ugello fisso Pro-Spray", "Posizionamento dell'ugello fisso Pro-Spray", "Modifica dell'ugello fisso Pro-Spray"],
+            prosFixed: ["Ugello fisso PRO", "Posizionamento dell'ugello fisso PRO", "Modifica dell'ugello fisso PRO"],
             srNoz: ["Ugello a raggio corto", "Posizionamento dell'ugello a raggio corto", "Modifica dell'ugello a raggio corto"],
             streamNoz: ["Ugello flusso", "Posizionamento dell'ugello di flusso", "Modifica dell'ugello del flusso"],
             strPatNoz: ["Ugello con motivo a strisce", "Posizionamento degli ugelli con motivo a strisce", "Modifica dell'ugello del motivo a striscia"],

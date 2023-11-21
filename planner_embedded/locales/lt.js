@@ -44,7 +44,7 @@
             bubbNHPC: ["Burzgiklio antgalis", "Burzgiklio antgalio montavimas", "Burzgiklio antgalio redagavimas"],
             bubbNHDS: ["Burzgiklio antgalis", "Burzgiklio antgalio montavimas", "Burzgiklio antgalio redagavimas"],
             pdcAdj: ["PRO reguliuojamas antgalis", "PRO reguliuojamo antgalio montavimas", "PRO reguliuojamo antgalio redagavimas"],
-            prosFixed: ["Pro-Spray fiksuotas antgalis", "Pro-Spray fiksuoto antgalio montavimas", "Pro-Spray fiksuoto antgalio redagavimas"],
+            prosFixed: ["PRO fiksuotas antgalis", "PRO fiksuoto antgalio montavimas", "PRO fiksuoto antgalio redagavimas"],
             srNoz: ["Trumpo spindulio antgalis", "Trumpo spindulio antgalio montavimas", "Trumpo spindulio antgalio redagavimas"],
             streamNoz: ["Srauto antgalis", "Srauto antgalio montavimas", "Srauto antgalio redagavimas"],
             strPatNoz: ["Juostinio šilumos antgalis", "Juostinio šilumos antgalio montavimas", "Juostinio šilumos antgalio redagavimas"],

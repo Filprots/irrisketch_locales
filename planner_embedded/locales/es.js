@@ -44,7 +44,7 @@
             bubbNHPC: ["Boquilla burbujeadora", "Colocación de la boquilla del burbujeador", "Edición de boquillas de burbujeo"],
             bubbNHDS: ["Boquilla burbujeadora", "Colocación de la boquilla del burbujeador", "Edición de boquillas de burbujeo"],
             pdcAdj: ["Boquilla regulable PRO", "Colocación de Boquilla Ajustable PRO", "Edición de boquilla ajustable PRO"],
-            prosFixed: ["Boquilla Fija Pro-Spray", "Colocación de Boquilla Fija Pro-Spray", "Edición de boquilla fija Pro-Spray"],
+            prosFixed: ["Boquilla Fija PRO", "Colocación de Boquilla Fija PRO", "Edición de boquilla fija PRO"],
             srNoz: ["Boquilla de radio corto", "Colocación de boquillas de radio corto", "Edición de boquilla de radio corto"],
             streamNoz: ["Boquilla de chorro", "Colocación de boquillas de chorro", "Edición de boquillas de chorro"],
             strPatNoz: ["Boquilla de patrón de franjas", "Colocación de la boquilla de patrón de franjas", "Edición de boquillas de patrón de franjas"],

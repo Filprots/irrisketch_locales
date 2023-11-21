@@ -44,7 +44,7 @@
             bubbNHPC: ["Bubbler sproeier", "Bubbler sproeier plaatsen", "Bubbler sproeier bewerken"],
             bubbNHDS: ["Bubbler sproeier", "Bubbler sproeier plaatsen", "Bubbler sproeier bewerken"],
             pdcAdj: ["PRO verstelbare sproeier", "PRO verstelbare sproeier plaatsen", "PRO verstelbare sproeier bewerken"],
-            prosFixed: ["Pro-Spray vaste sproeier", "Pro-Spray vaste sproeier plaatsen", "Pro-Spray vaste sproeier bewerken"],
+            prosFixed: ["PRO vaste sproeier", "PRO vaste sproeier plaatsen", "PRO vaste sproeier bewerken"],
             srNoz: ["Sproeier voor korte afstanden", "Sproeier voor korte afstanden plaatsen", "Sproeier voor korte afstanden bewerken"],
             streamNoz: ["Stroomsproeier", "Stroomsproeier plaatsen", "Stroomsproeier bewerken"],
             strPatNoz: ["Sproeier met strokenpatroon", "Sproeier met strokenpatroon plaatsen", "Sproeier met strokenpatroon bewerken"],

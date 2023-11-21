@@ -1540,5 +1540,7 @@
   "toolMapImage": "Satteliet afbeelding",
   "check_EnableWaterSupplyLimit": "Stel Stroomlimiet in",
   "WaterSupplyLimitActionInput": "Maximum:",
-  "action_setWaterSupplyLimit": "Stroomlimiet"
+  "action_setWaterSupplyLimit": "Stroomlimiet",
+  "studentAccount": "Student",
+  "tutorAccount": "Tutor"
 }

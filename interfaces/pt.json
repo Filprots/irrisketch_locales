@@ -1540,5 +1540,7 @@
   "toolMapImage": "Imagem de satélite",
   "check_EnableWaterSupplyLimit": "Definir Limite de Fluxo",
   "WaterSupplyLimitActionInput": "Máximo:",
-  "action_setWaterSupplyLimit": "Limite de Fluxo"
+  "action_setWaterSupplyLimit": "Limite de Fluxo",
+  "studentAccount": "Student",
+  "tutorAccount": "Tutor"
 }

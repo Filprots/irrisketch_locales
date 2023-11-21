@@ -1540,5 +1540,7 @@
   "toolMapImage": "Карта",
   "check_EnableWaterSupplyLimit": "Активировать",
   "WaterSupplyLimitActionInput": "Максимум:",
-  "action_setWaterSupplyLimit": "Лимит расхода"
+  "action_setWaterSupplyLimit": "Лимит расхода",
+  "studentAccount": "Student",
+  "tutorAccount": "Tutor"
 }

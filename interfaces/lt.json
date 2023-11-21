@@ -1540,5 +1540,7 @@
   "toolMapImage": "Palydovinis vaizdas",
   "check_EnableWaterSupplyLimit": "Nustatyti Srauto Ribą",
   "WaterSupplyLimitActionInput": "Maksimalus:",
-  "action_setWaterSupplyLimit": "Srauto Ribos"
+  "action_setWaterSupplyLimit": "Srauto Ribos",
+  "studentAccount": "Student",
+  "tutorAccount": "Tutor"
 }

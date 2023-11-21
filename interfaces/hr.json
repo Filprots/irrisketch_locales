@@ -1540,5 +1540,7 @@
   "toolMapImage": "Satelitska slika",
   "check_EnableWaterSupplyLimit": "Postavi Granicu Protoka",
   "WaterSupplyLimitActionInput": "Maksimalno:",
-  "action_setWaterSupplyLimit": "Granica Protoka"
+  "action_setWaterSupplyLimit": "Granica Protoka",
+  "studentAccount": "Student",
+  "tutorAccount": "Tutor"
 }

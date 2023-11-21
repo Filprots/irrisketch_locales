@@ -1540,5 +1540,7 @@
   "toolMapImage": "Uydu görüntüsü",
   "check_EnableWaterSupplyLimit": "Akış Sınırını Ayarla",
   "WaterSupplyLimitActionInput": "Maksimum:",
-  "action_setWaterSupplyLimit": "Akış Sınırı"
+  "action_setWaterSupplyLimit": "Akış Sınırı",
+  "studentAccount": "Student",
+  "tutorAccount": "Tutor"
 }

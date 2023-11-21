@@ -1540,5 +1540,7 @@
   "toolMapImage": "Image satellite",
   "check_EnableWaterSupplyLimit": "Définir la Limite de Débit",
   "WaterSupplyLimitActionInput": "Maximum:",
-  "action_setWaterSupplyLimit": "Limite de Débit"
+  "action_setWaterSupplyLimit": "Limite de Débit",
+  "studentAccount": "Student",
+  "tutorAccount": "Tutor"
 }

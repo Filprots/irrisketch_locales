@@ -1540,5 +1540,7 @@
   "toolMapImage": "Satellitenbild",
   "check_EnableWaterSupplyLimit": "Flussgrenze festlegen",
   "WaterSupplyLimitActionInput": "Maximum:",
-  "action_setWaterSupplyLimit": "Flussgrenze"
+  "action_setWaterSupplyLimit": "Flussgrenze",
+  "studentAccount": "Student",
+  "tutorAccount": "Tutor"
 }

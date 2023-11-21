@@ -16,7 +16,8 @@
     "url": "https://github.com/Filprots/irrisketch_locales/issues"
   },
   "homepage": "https://github.com/Filprots/irrisketch_locales#readme",
-  "dependencies": {
-    "gulp": "^4.0.2"
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "through2": "^4.0.2"
   }
 }

@@ -1,8 +1,9 @@
 'use strict';
 
 const gulp = require('gulp');
-const del = require('del');
+// const del = require('del');
 const path = require('path');
+const through2 = require('through2');
 
 function lazyRequireTask(taskName, path, options) {
     options = options || {};
@@ -24,6 +25,16 @@ function lazyRequireTask(taskName, path, options) {
 // if no string -> add to file and mark as untranslated and put to translation pipe or not - based on config
 
 
+gulp.task('check-json-lines-cat', function () {
+    return gulp.src('catalogs/**/*.json') // Adjust the path to your JSON files
+        .pipe(through2.obj(function (file, _, cb) {
+            if (file.isBuffer()) {
+                const lines = file.contents.toString().split('\n').length;
+                console.log(`${file.relative}: ${lines} lines`);
+            }
+            cb(null, file);
+        }));
+});
 
 
 

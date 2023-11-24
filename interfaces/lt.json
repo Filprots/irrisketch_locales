@@ -1543,5 +1543,6 @@
   "action_setWaterSupplyLimit": "Srauto Ribos",
   "studentAccount": "Student",
   "tutorAccount": "Tutor",
-  "tool_Obstacle": "Obstacle"
+  "tool_Obstacle": "Obstacle",
+  "ai_researcherAccount": "Researcher"
 }

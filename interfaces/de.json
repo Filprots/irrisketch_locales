@@ -1543,5 +1543,6 @@
   "action_setWaterSupplyLimit": "Flussgrenze",
   "studentAccount": "Student",
   "tutorAccount": "Tutor",
-  "tool_Obstacle": "Hindernis"
+  "tool_Obstacle": "Hindernis",
+  "ai_researcherAccount": "Forscher"
 }

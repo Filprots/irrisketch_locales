@@ -1542,5 +1542,6 @@
   "WaterSupplyLimitActionInput": "Максімум:",
   "action_setWaterSupplyLimit": "Ліміт Расходу",
   "studentAccount": "Student",
-  "tutorAccount": "Tutor"
+  "tutorAccount": "Tutor",
+  "tool_Obstacle": "Препятствие"
 }

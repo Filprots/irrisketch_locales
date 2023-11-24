@@ -1542,5 +1542,6 @@
   "WaterSupplyLimitActionInput": "Maximum:",
   "action_setWaterSupplyLimit": "Stroomlimiet",
   "studentAccount": "Student",
-  "tutorAccount": "Tutor"
+  "tutorAccount": "Tutor",
+  "tool_Obstacle": "Obstacle"
 }

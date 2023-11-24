@@ -1542,5 +1542,6 @@
   "WaterSupplyLimitActionInput": "Maksimum:",
   "action_setWaterSupplyLimit": "Akış Sınırı",
   "studentAccount": "Student",
-  "tutorAccount": "Tutor"
+  "tutorAccount": "Tutor",
+  "tool_Obstacle": "Obstacle"
 }

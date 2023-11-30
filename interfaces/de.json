@@ -1544,5 +1544,7 @@
   "studentAccount": "Student",
   "tutorAccount": "Tutor",
   "tool_Obstacle": "Hindernis",
-  "ai_researcherAccount": "Forscher"
+  "ai_researcherAccount": "Forscher",
+  "TogPrecip": "Niederschlag",
+  "AIResearch": "KI-Forschung"
 }

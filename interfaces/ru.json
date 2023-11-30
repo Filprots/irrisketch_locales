@@ -1544,5 +1544,7 @@
 	"studentAccount": "Student",
 	"tutorAccount": "Tutor",
 	"tool_Obstacle": "Препятствие",
-	"ai_researcherAccount": "Исследователь"
+	"ai_researcherAccount": "Исследователь",
+	"TogPrecip": "Осадки",
+	"AIResearch": "Исследование ИИ"
 }

@@ -1544,5 +1544,7 @@
   "studentAccount": "Student",
   "tutorAccount": "Tutor",
   "tool_Obstacle": "Obstacle",
-  "ai_researcherAccount": "Researcher"
+  "ai_researcherAccount": "Researcher",
+  "TogPrecip": "Neerslag",
+  "AIResearch": "AI Onderzoek"
 }

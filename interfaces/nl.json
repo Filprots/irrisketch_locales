@@ -1546,5 +1546,6 @@
   "tool_Obstacle": "Obstacle",
   "ai_researcherAccount": "Researcher",
   "TogPrecip": "Neerslag",
-  "AIResearch": "AI Onderzoek"
+  "AIResearch": "AI Onderzoek",
+  "ProjectButtonCheck": "Check Validity"
 }

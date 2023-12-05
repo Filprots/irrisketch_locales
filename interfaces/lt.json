@@ -1546,5 +1546,6 @@
   "tool_Obstacle": "Obstacle",
   "ai_researcherAccount": "Researcher",
   "TogPrecip": "Kritulių",
-  "AIResearch": "Dirbtinio Intelekto Tyrimai"
+  "AIResearch": "Dirbtinio Intelekto Tyrimai",
+  "ProjectButtonCheck": "Check Validity"
 }

@@ -36,6 +36,17 @@ gulp.task('check-json-lines-cat', function () {
         }));
 });
 
+gulp.task('check-json-lines-int', function () {
+    return gulp.src('interfaces/**/*.json') // Adjust the path to your JSON files
+        .pipe(through2.obj(function (file, _, cb) {
+            if (file.isBuffer()) {
+                const lines = file.contents.toString().split('\n').length;
+                console.log(`${file.relative}: ${lines} lines`);
+            }
+            cb(null, file);
+        }));
+});
+
 
 
 // gulp.task('buildTest', gulp.series());

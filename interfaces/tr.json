@@ -1546,5 +1546,6 @@
   "tool_Obstacle": "Obstacle",
   "ai_researcherAccount": "Researcher",
   "TogPrecip": "Yağış",
-  "AIResearch": "Yapay Zeka Araştırması"
+  "AIResearch": "Yapay Zeka Araştırması",
+  "ProjectButtonCheck": "Check Validity"
 }

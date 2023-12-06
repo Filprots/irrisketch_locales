@@ -1260,6 +1260,14 @@ this.LNG = {
         "imageCrop": [
             "Freistellungswerkzeug"
         ],
-        cropImage: "Zuschneiden"
+        cropImage: "Zuschneiden",
+        invalid_dataset_1: 'Ungültiger Datensatz. Das Projekt enthält verbotene Oberflächentypen. Nur beregnete (RASEN), nicht beregnete Oberflächen und Hindernisse sind erlaubt.',
+        invalid_dataset_2: 'Ungültiger Datensatz. Nicht mehr oder weniger als EINE beregnete Oberfläche ist erlaubt.',
+        invalid_dataset_3: 'Ungültiger Datensatz. Die beregnete Oberfläche schneidet sich selbst.',
+        invalid_dataset_4: 'Ungültiger Datensatz. Hindernismarker dürfen nicht zusammengesetzt sein (aus mehr als einem Polygon bestehen)',
+        invalid_dataset_5: 'Ungültiger Datensatz. Hindernisfläche sollte vollständig innerhalb der beregneten Oberfläche enthalten sein.',
+        invalid_dataset_6: 'Ungültiger Datensatz. Das Projekt enthält verbotene Sprinklertypen',
+        invalid_dataset_7: 'Ungültiger Datensatz. Niederschlagsrate der Sprinkler liegt außerhalb des zulässigen Bereichs'
+
     }
 };

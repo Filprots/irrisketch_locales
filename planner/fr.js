@@ -1261,5 +1261,12 @@ this.LNG = {
             "Crop tool"
         ],
         cropImage: "Crop",
+        invalid_dataset_1: 'Invalid dataset. Project contains prohibited types of surfaces. Only irrigated (LAWN), non-irrigated and obstacles are allowed.',
+        invalid_dataset_2: 'Invalid dataset. Not more or less than ONE irrigated surface is allowed.',
+        invalid_dataset_3: 'Invalid dataset. Irrigated surface is self-intersected.',
+        invalid_dataset_4: 'Invalid dataset. Obstacle marker should not be compound (Made of more than one polygon)',
+        invalid_dataset_5: 'Invalid dataset. Obstacle surface should be fully contained within irrigated surface.',
+        invalid_dataset_6: 'Invalid dataset. Project contains prohibited types of sprinklers. Allowed:',
+        invalid_dataset_7: 'Invalid dataset. Precipitation rate of sprinklers is out of range'
     }
 };

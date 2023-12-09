@@ -550,7 +550,7 @@ this.LNG = {
         controller: "Controlador",
         flowMeter: "Medidor de flujo",
         rainSensor: "Sensor de lluvia",
-        soilSensor: "Sensor de suelo",
+        soilSensor: "Sensor de humedad",
         freezeSensor: "Sensor de heladas",
         wrFreezeSensor: "Sensor de lluvia/heladas inalámbrico",
         windSensor: "Sensor de viento",
@@ -588,7 +588,7 @@ this.LNG = {
         wifiModule: "Módulo Wi-Fi",
         wallMount: "Soporte de pared",
         rwsSock: "Manga de tela para riego en la zona de raíces",
-        rwsGrate: "Rejilla para RWS",
+        rwsGrate: "Cuadricula para RWS",
         npCover: "Cubierta para agua no potable",
         sprExt: "Extensión para aspersor",
         popUpToThread: "Adaptador para aspersor emergente",
@@ -817,7 +817,7 @@ this.LNG = {
         corruptedSavingFile: [
             "Lo sentimos... el archivo que está intentando cargar no es legible",
             "Pero no se preocupe, podemos repararlo.",
-            "Todo lo que necesita hacer es enviar este archivo roto en el formulario de carga de archivos de su taller.",
+            "Todo lo que necesita hacer es enviar este archivo roto en el formulario de abrir de archivos de su taller.",
             "Y luego intentaremos hacer que funcione de nuevo."
         ],
         ajaxReqFail: [

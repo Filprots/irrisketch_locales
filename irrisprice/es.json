@@ -2,10 +2,10 @@
   "BTN": {
     "bulkInsert": "Importar",
     "cancel": "Cancelar",
-    "close": "Cerca",
+    "close": "Cerrar",
     "ok": "Confirmar",
     "remove": "Borrar",
-    "save": "Ahorrar",
+    "save": "Guardar",
     "submit": "Entregar"
   },
   "DIALOG": {
@@ -28,7 +28,7 @@
       "groupsAndDiscounts": "Grupos y descuentos",
       "item": "Elemento",
       "proceed": "Insertar",
-      "save": "Ahorrar",
+      "save": "Guardar",
       "setup": "Configuración",
       "setupAddItem": "Añadir artículo"
     },
@@ -375,7 +375,7 @@
       "createEquipmentPrice": "Nuevo precio del equipo",
       "createGroup": "Nueva carpeta",
       "createLabourPrice": "Nuevo precio de trabajo",
-      "loadPublic": "Precios de carga",
+      "loadPublic": "Precios de abrir",
       "previewDistributorCard": "Tarjeta de vista previa",
       "resetSearch": "Reiniciar",
       "searchOptions": "Opción",

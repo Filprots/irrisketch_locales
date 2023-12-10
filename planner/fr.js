@@ -176,7 +176,7 @@ this.LNG = {
         precipRate: "Taux de précipitation",
         totalPrecipArea: "Surface totale",
         uniformity: "Uniformity (CU)",
-        precipRateShort: "Précip.",
+        overwatered: "Overwatered",precipRateShort: "Précip.",
         coveredArea: "Surface",
         microClimateInd: "M/Climate",
         soilTypeInd: "Sol",

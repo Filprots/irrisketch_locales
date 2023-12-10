@@ -176,7 +176,7 @@ this.LNG = {
         precipRate: "Yağış hızı",
         totalPrecipArea: "Toplam kapsama",
         uniformity: "Uniformity (CU)",
-        precipRateShort: "Yağış",
+        overwatered: "Overwatered",precipRateShort: "Yağış",
         coveredArea: "Alan",
         microClimateInd: "M/İklim",
         soilTypeInd: "Toprak",

@@ -176,7 +176,7 @@ this.LNG = {
         precipRate: "Kritulių intensyvumas",
         totalPrecipArea: "Visas dangos plotas",
         uniformity: "Uniformity (CU)",
-        precipRateShort: "Kritul.",
+        overwatered: "Overwatered",precipRateShort: "Kritul.",
         coveredArea: "Plotas",
         microClimateInd: "Mikroklimatas",
         soilTypeInd: "Dirvožemis",

@@ -176,7 +176,7 @@ this.LNG = {
         precipRate: "Intenzitet kišenja",
         totalPrecipArea: "Ukupna pokrivena površina",
         uniformity: "Uniformity (CU)",
-        precipRateShort: "Int.Kiš.",
+        overwatered: "Overwatered",precipRateShort: "Int.Kiš.",
         coveredArea: "Površina",
         microClimateInd: "M/Klima",
         soilTypeInd: "Tlo",

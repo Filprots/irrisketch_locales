@@ -10809,7 +10809,7 @@
       "RWS-S-B-C-1401": "Rain Bird RWS-S-B-C-1401 Sistema de riego de raíces suplementario",
       "RWS-S-B-C-PCT5": "Sistema de riego de raíces suplementario Rain Bird RWS-S-B-C-PCT5",
       "RWS-SOCK": "Calcetín Rain Bird Root Watering System",
-      "RWS-GRATE-P": "Sistema de riego de raíces Rain Bird Rejilla morada"
+      "RWS-GRATE-P": "Sistema de riego de raíces Rain Bird Cuadricula morada"
     },
     "_dripLines_RainBird": {
       "XFD1633": "Línea de goteo Rain Bird de 16 mm XFD1633 (caudal de 1,6 l/h) (espaciado de 33 cm)",
@@ -11622,8 +11622,8 @@
     "_sensors_Toro": {
       "53853": "Sensor de lluvia/heladas Toro 53853",
       "EVO-WS-EU": "Sensor meteorológico Toro EVO-WS-EU E/T",
-      "PSS-SEN-EU": "Sonda de sensor de suelo de precisión de Toro",
-      "PSS-KIT-EU": "Sensor de suelo de precisión Toro (receptor de sonda)",
+      "PSS-SEN-EU": "Sonda de sensor de humedad de precisión de Toro",
+      "PSS-KIT-EU": "Sensor de humedad de precisión Toro (receptor de sonda)",
       "TWRS-I": "Sensor de lluvia inalámbrico Toro TWRS-I",
       "TWRFS-I": "Sensor inalámbrico de lluvia/heladas Toro TWRFS-I",
       "TRS": "Sensor de lluvia Toro TRS",
@@ -11640,8 +11640,8 @@
       "TFS-200": "Toro TFS-200 2\" receptáculo del sensor de flujo en T",
       "TFS-300": "Toro TFS-300 Conector en T para sensor de caudal de 3\"",
       "EVO-WS": "Sensor meteorológico ET inalámbrico Toro EVO-WS",
-      "PSS-SEN": "Sonda de sensor de suelo inalámbrica de precisión de Toro",
-      "TPS-SS": "Sensor de suelo Toro Serie Pro",
+      "PSS-SEN": "Sonda de sensor de humedad inalámbrica de precisión de Toro",
+      "TPS-SS": "Sensor de humedad Toro Serie Pro",
       "TPS-RX": "Receptor interno de la serie Toro Pro",
       "TS-TGB": "Receptor de la serie Toro Pro",
       "TWRFS-I-FR": "Sensor inalámbrico de lluvia/heladas Toro TWRFS-I"

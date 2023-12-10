@@ -41,7 +41,7 @@
     "inputFlowRate": "Caudal de entrada:",
     "selectPipeType": "Seleccione Tipo de tubería:",
     "inputPipeLength": "Longitud de la tubería de entrada:",
-    "pipeFlowRate": "Fluir:",
+    "pipeFlowRate": "Flujo:",
     "inputAltDiff": "Diferencia de altitud entre el principio y el final de la tubería:",
     "intakePipeType": "Tubería de admisión:",
     "offtakePipeType": "Tubo de compensación:",
@@ -113,7 +113,7 @@
     "deletePipeSection": "Sección de eliminación",
     "deleteAllPipeSections": "Eliminar todas las secciones",
     "settings": "Ajustes",
-    "closeSettings": "Cerca",
+    "closeSettings": "Cerrar",
     "clonePipeSection": "Sección clon"
   }
 }

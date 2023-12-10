@@ -1268,6 +1268,10 @@ this.LNG = {
         invalid_dataset_4: 'Invalid dataset. Obstacle marker should not be compound (Made of more than one polygon)',
         invalid_dataset_5: 'Invalid dataset. Obstacle surface should be fully contained within irrigated surface.',
         invalid_dataset_6: 'Invalid dataset. Project contains prohibited types of sprinklers. Allowed:',
-        invalid_dataset_7: 'Invalid dataset. Precipitation rate of sprinklers is out of range'
+        invalid_dataset_7: 'Invalid dataset. Precipitation rate of sprinklers is out of range',
+        invalid_dataset_8: 'Invalid dataset. Sprinklers must not have individual pressure settings',
+        invalid_dataset_9: 'Invalid dataset. The project should not set a custom expected pressure at the sprinklers',
+        invalid_dataset_10: 'Invalid dataset. Uniformity is too low.',
+        invalid_dataset_11: 'Invalid dataset. Overwatered area is too big.',
     }
 };

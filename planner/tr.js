@@ -175,6 +175,7 @@ this.LNG = {
         flow: "Su akışı",
         precipRate: "Yağış hızı",
         totalPrecipArea: "Toplam kapsama",
+        uniformity: "Uniformity (CU)",
         precipRateShort: "Yağış",
         coveredArea: "Alan",
         microClimateInd: "M/İklim",

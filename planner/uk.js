@@ -175,6 +175,7 @@ this.LNG = {
         flow: "Розхід води",
         precipRate: "Кількість опадів",
         totalPrecipArea: "Площина зрошення",
+        uniformity: "Uniformity (CU)",
         precipRateShort: "Опади",
         coveredArea: "Покриття",
         microClimateInd: "М/Климат",

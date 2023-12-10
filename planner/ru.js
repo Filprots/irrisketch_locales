@@ -175,6 +175,7 @@ this.LNG = {
         flow: "Расход воды",
         precipRate: "Количество осадков",
         totalPrecipArea: "Поливаемая площадь",
+        uniformity: "Равномерность (CU)",
         precipRateShort: "Осадки",
         coveredArea: "Покрытие",
         microClimateInd: "М/Климат",

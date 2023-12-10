@@ -175,6 +175,7 @@ this.LNG = {
         flow: "Vandens tekėjimas",
         precipRate: "Kritulių intensyvumas",
         totalPrecipArea: "Visas dangos plotas",
+        uniformity: "Uniformity (CU)",
         precipRateShort: "Kritul.",
         coveredArea: "Plotas",
         microClimateInd: "Mikroklimatas",

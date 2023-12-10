@@ -175,6 +175,7 @@ this.LNG = {
         flow: "Waterstroom",
         precipRate: "Neerslag",
         totalPrecipArea: "Totale dekking",
+        uniformity: "Uniformity (CU)",
         precipRateShort: "Neerslag",
         coveredArea: "Oppervlakte",
         microClimateInd: "M/Microklimaat",

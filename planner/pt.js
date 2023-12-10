@@ -175,6 +175,7 @@ this.LNG = {
         flow: "Fluxo de água",
         precipRate: "Taxa de precipitação",
         totalPrecipArea: "Área de cobertura total",
+        uniformity: "Uniformity (CU)",
         precipRateShort: "Taxa de precip.",
         coveredArea: "Área",
         microClimateInd: "Microclima",

@@ -175,6 +175,7 @@ this.LNG = {
         flow: "Выдатак вады",
         precipRate: "Колькасць ападкаў",
         totalPrecipArea: "Які паліваецца пляц",
+        uniformity: "Равномерность (CU)",
         precipRateShort: "Ападкі",
         coveredArea: "Пакрыццё",
         microClimateInd: "М/Климат",

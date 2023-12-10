@@ -175,6 +175,7 @@ this.LNG = {
         flow: "Protok vode",
         precipRate: "Intenzitet kišenja",
         totalPrecipArea: "Ukupna pokrivena površina",
+        uniformity: "Uniformity (CU)",
         precipRateShort: "Int.Kiš.",
         coveredArea: "Površina",
         microClimateInd: "M/Klima",

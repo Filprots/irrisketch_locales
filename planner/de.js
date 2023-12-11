@@ -1269,7 +1269,7 @@ this.LNG = {
         invalid_dataset_4: 'Ungültiger Datensatz. Hindernismarker dürfen nicht zusammengesetzt sein (aus mehr als einem Polygon bestehen)',
         invalid_dataset_5: 'Ungültiger Datensatz. Hindernisfläche sollte vollständig innerhalb der beregneten Oberfläche enthalten sein.',
         invalid_dataset_6: 'Ungültiger Datensatz. Das Projekt enthält verbotene Sprinklertypen',
-        invalid_dataset_7: 'Ungültiger Datensatz. Niederschlagsrate der Sprinkler liegt außerhalb des zulässigen Bereichs'
+        invalid_dataset_7: 'Ungültiger Datensatz. Niederschlagsrate der Sprinkler liegt außerhalb des zulässigen Bereichs',
         invalid_dataset_8: 'Ungültiger Datensatz. Sprinkler dürfen keine individuellen Druckeinstellungen haben',
         invalid_dataset_9: 'Ungültiger Datensatz. Das Projekt sollte keinen benutzerdefinierten erwarteten Druck bei den Sprinklern einstellen',
         invalid_dataset_10: 'Ungültiger Datensatz. Die Gleichmäßigkeit ist zu niedrig.',

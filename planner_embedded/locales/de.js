@@ -137,6 +137,8 @@
             loPM: "Niederschlag",
             doIrrigate: "Bewässerte Zone",
             doNotIrrigate: "NICHT bewässerte Zone",
+            obstacles: "Hindernisse für Bewässerung",
+            placementObstacles: "Hindernisse für die Platzierung",
             stdSurf: "Standard",
             fineCut: "Fein geschnittener Rasen",
             raw: "Beton",

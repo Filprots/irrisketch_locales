@@ -1548,5 +1548,7 @@
   "ai_researcherAccount": "Researcher",
   "TogPrecip": "Precipitation",
   "AIResearch": "AI Research",
-  "ProjectButtonCheck": "Check Validity"
+  "ProjectButtonCheck": "Check Validity",
+  "tool_Obstacle_examples": "Anything that affects sprinklers disposition + PREVENTS THE WATER JET from reaching the desired area. For example, small architectural forms, a wall, a tree, a tall bush, etc.",
+  "tool_PlacementObstacle_examples": "Anything that affects sprinklers disposition + DOES NOT PREVENT THE WATER JET from reaching the desired area. For example, a path, a low flowerbed, a small bush, a stone composition on a lawn etc."
 }

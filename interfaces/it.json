@@ -1548,5 +1548,7 @@
   "ai_researcherAccount": "Researcher",
   "TogPrecip": "Precipitazioni",
   "AIResearch": "Ricerca sull'IA",
-  "ProjectButtonCheck": "Check Validity"
+  "ProjectButtonCheck": "Check Validity",
+  "tool_Obstacle_examples": "Tutto ciò che influisce sulla disposizione degli irrigatori e IMPEDISCE AL GETTO D'ACQUA di raggiungere l'area desiderata. Ad esempio, piccole forme architettoniche, un muro, un albero, un cespuglio alto, ecc.",
+  "tool_PlacementObstacle_examples": "Tutto ciò che influisce sulla disposizione degli irrigatori e NON IMPEDISCE AL GETTO D'ACQUA di raggiungere l'area desiderata. Ad esempio, un sentiero, un'aiuola bassa, un cespuglio piccolo, una composizione di pietre su un prato, ecc."
 }

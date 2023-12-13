@@ -1548,5 +1548,7 @@
   "ai_researcherAccount": "Researcher",
   "TogPrecip": "Neerslag",
   "AIResearch": "AI Onderzoek",
-  "ProjectButtonCheck": "Check Validity"
+  "ProjectButtonCheck": "Check Validity",
+  "tool_Obstacle_examples": "Alles wat de opstelling van de sproeiers beïnvloedt en DE WATERSTRAAL verhindert het gewenste gebied te bereiken. Bijvoorbeeld kleine architecturale vormen, een muur, een boom, een hoge struik, enz.",
+  "tool_PlacementObstacle_examples": "Alles wat de opstelling van de sproeiers beïnvloedt en DE WATERSTRAAL NIET verhindert het gewenste gebied te bereiken. Bijvoorbeeld een pad, een lage bloembed, een kleine struik, een stenen compositie op een gazon, enz."
 }

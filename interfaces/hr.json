@@ -1548,5 +1548,7 @@
   "ai_researcherAccount": "Researcher",
   "TogPrecip": "Oborine",
   "AIResearch": "AI Istraživanje",
-  "ProjectButtonCheck": "Check Validity"
+  "ProjectButtonCheck": "Check Validity",
+  "tool_Obstacle_examples": "Sve što utječe na raspored prskalica i SPRJEČAVA VODENI MLAZ da dosegne željeno područje. Na primjer, male arhitektonske forme, zid, drvo, visoki grm itd.",
+  "tool_PlacementObstacle_examples": "Sve što utječe na raspored prskalica i NE SPRJEČAVA VODENI MLAZ da dosegne željeno područje. Na primjer, staza, nizak cvjetnjak, mali grm, kameni sastav na travnjaku itd."
 }

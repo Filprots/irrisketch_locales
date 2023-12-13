@@ -1548,5 +1548,7 @@
   "ai_researcherAccount": "Researcher",
   "TogPrecip": "Yağış",
   "AIResearch": "Yapay Zeka Araştırması",
-  "ProjectButtonCheck": "Check Validity"
+  "ProjectButtonCheck": "Check Validity",
+  "tool_Obstacle_examples": "Sulama başlıklarının yerleşimini etkileyen ve SU JETİNİN istenen alana ulaşmasını ENGELLEYEN her şey. Örneğin, küçük mimari formlar, bir duvar, bir ağaç, yüksek bir çalı vb.",
+  "tool_PlacementObstacle_examples": "Sulama başlıklarının yerleşimini etkileyen ve SU JETİNİN istenen alana ulaşmasını ENGELLEMEYEN her şey. Örneğin, bir yol, alçak bir çiçek yatağı, küçük bir çalı, bir çim üzerinde taş kompozisyonu vb."
 }

@@ -1,0 +1,16 @@
+<style>
+    .seminar-header {
+        background-color: #f2f2f2;
+        padding: 20px;
+    }
+    .bonus-section {
+        background-color: #e7f1ff;
+        padding: 20px;
+        margin-top: 20px;
+    }
+</style>
+<% if (locale === 'de') { %>
+    <%- partial('./de/de.ejs') %>
+<% } else { %>
+    <%- partial('./en/en.ejs') %>
+<% } %>

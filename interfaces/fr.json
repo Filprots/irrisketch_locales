@@ -1550,5 +1550,6 @@
   "AIResearch": "Recherche en IA",
   "ProjectButtonCheck": "Check Validity",
   "tool_Obstacle_examples": "Tout ce qui affecte la disposition des arroseurs et EMPÊCHE LE JET D'EAU d'atteindre la zone souhaitée. Par exemple, de petites formes architecturales, un mur, un arbre, un grand buisson, etc.",""
-  "tool_PlacementObstacle_examples": "Tout ce qui affecte la disposition des arroseurs et NE PAS EMPÊCHER LE JET D'EAU d'atteindre la zone souhaitée. Par exemple, un chemin, un parterre bas, un petit buisson, une composition de pierres sur une pelouse, etc."
+  "tool_PlacementObstacle_examples": "Tout ce qui affecte la disposition des arroseurs et NE PAS EMPÊCHER LE JET D'EAU d'atteindre la zone souhaitée. Par exemple, un chemin, un parterre bas, un petit buisson, une composition de pierres sur une pelouse, etc.",
+  "OnlineIntroPageTitle": "Bienvenue sur IRRISketch!"
 }

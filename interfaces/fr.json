@@ -813,6 +813,11 @@
   "labours_item_PIPE_PVC_3": "Tuyau en PVC de 3''",
   "labours_item_PIPE_PVC_4": "Tuyau en PVC de 4''",
   "labours_item_PIPE_PVC_5": "Tuyau en PVC de 5''",
+  "labours_item_PIPE_LDPE": "Tuyau LDPE total",
+  "labours_item_PIPE_LDPE_13": "Tuyau LDPE de 13 mm",
+  "labours_item_PIPE_LDPE_19": "Tuyau LDPE de 19 mm",
+  "labours_item_PIPE_LDPE_25": "Tuyau LDPE de 25 mm",
+  "labours_item_PIPE_LDPE_32": "Tuyau LDPE de 32 mm",
   "labours_group_fittings": "Raccords",
   "labours_item_FITTING": "Raccords total",
   "labours_item_COMPRESSION_FITTING": "Raccords de compression total",
@@ -1553,7 +1558,7 @@
   "TogPrecip": "Précipitations",
   "AIResearch": "Recherche en IA",
   "ProjectButtonCheck": "Check Validity",
-  "tool_Obstacle_examples": "Tout ce qui affecte la disposition des arroseurs et EMPÊCHE LE JET D'EAU d'atteindre la zone souhaitée. Par exemple, de petites formes architecturales, un mur, un arbre, un grand buisson, etc.",""
+  "tool_Obstacle_examples": "Tout ce qui affecte la disposition des arroseurs et EMPÊCHE LE JET D'EAU d'atteindre la zone souhaitée. Par exemple, de petites formes architecturales, un mur, un arbre, un grand buisson, etc.",
   "tool_PlacementObstacle_examples": "Tout ce qui affecte la disposition des arroseurs et NE PAS EMPÊCHER LE JET D'EAU d'atteindre la zone souhaitée. Par exemple, un chemin, un parterre bas, un petit buisson, une composition de pierres sur une pelouse, etc.",
   "OnlineIntroPageTitle": "Bienvenue sur IRRISketch!"
 }

@@ -1098,6 +1098,7 @@ this.LNG = {
         dripCrossFittingAble: "Adatto a raccordi a croce",
         pipesNode: "Sezione tubi",
         hdpeConnectionType: "Tipo di raccordi HDPE",
+        ldpeConnectionType: "Tipo di raccordi LDPE",
         pvcConnectionType: "Tipo di raccordi PVC",
         pipeAddon: "Additivo per tubi per ciascun diametro",
         pipeLengthPrecision: "Cifre decimali nella lunghezza dei tubi",

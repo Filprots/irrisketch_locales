@@ -1098,6 +1098,7 @@ this.LNG = {
         dripCrossFittingAble: "Cross fitting able",
         pipesNode: "Piping section",
         hdpeConnectionType: "HDPE fittings type",
+        ldpeConnectionType: "LDPE fittings type",
         pvcConnectionType: "PVC fittings type",
         pipeAddon: "Pipe additive for each diameter",
         pipeLengthPrecision: "Digits after the decimal point in pipes length",

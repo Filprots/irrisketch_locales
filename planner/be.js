@@ -1098,6 +1098,7 @@ this.LNG = {
         dripCrossFittingAble: "Магчыма выкарыстанне крыжавіны",
         pipesNode: "Трубавод",
         hdpeConnectionType: "Тып злучэння ПНД труб",
+        ldpeConnectionType: "Тып злучэння ПВД труб",
         pvcConnectionType: "Тып злучэння ПВХ труб",
         pipeAddon: "Назапасіў трубы для кожнага дыяметра",
         pipeLengthPrecision: "Лічбаў пасля коскі ў даўжыні трубы",

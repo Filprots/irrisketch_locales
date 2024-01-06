@@ -1098,6 +1098,7 @@ this.LNG = {
         dripCrossFittingAble: "Capaz de conexión en cruz",
         pipesNode: "Sección de tuberías",
         hdpeConnectionType: "Tipo de conexión de tubería HDPE",
+        ldpeConnectionType: "Tipo de conexión de tubería LDPE",
         pvcConnectionType: "Tipo de conexiones PVC",
         pipeAddon: "Aditivo de tubería para cada diámetro",
         pipeLengthPrecision: "Dígitos después del punto decimal en longitud de tubería",

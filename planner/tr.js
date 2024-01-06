@@ -1098,6 +1098,7 @@ this.LNG = {
         "dripCrossFittingAble": "Çapraz bağlantı parçası kullanabilir",
         "pipesNode": "Boru bölümü",
         "hdpeConnectionType": "HDPE bağlantı türü",
+        "ldpeConnectionType": "LDPE bağlantı türü",
         "pvcConnectionType": "PVC bağlantı türü",
         "pipeAddon": "Her çap için boru katkısı",
         "pipeLengthPrecision": "Boru uzunluğundan sonra ondalık basamak sayısı",

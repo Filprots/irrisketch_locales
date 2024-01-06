@@ -1098,6 +1098,7 @@ this.LNG = {
         dripCrossFittingAble: "Kryžminės jungtys",
         pipesNode: "Vamzdžių sekcija",
         hdpeConnectionType: "HDPE vamzdžių jungtys",
+        ldpeConnectionType: "LDPE vamzdžių jungtys",
         pvcConnectionType: "PVC vamzdžių jungtys",
         pipeAddon: "Priedai kiekvienam vamzdžių skersmeniui",
         pipeLengthPrecision: "Skaitmenų po kablelio tikslumas vamzdžio ilgiui",

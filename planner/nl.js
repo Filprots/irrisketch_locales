@@ -1098,6 +1098,7 @@ this.LNG = {
         dripCrossFittingAble: "Kruiskoppeling in staat",
         pipesNode: "Pijpleidingsectie",
         hdpeConnectionType: "HDPE-koppelingstype",
+        ldpeConnectionType: "LDPE-koppelingstype",
         pvcConnectionType: "PVC-koppelingstype",
         pipeAddon: "Pijptoename voor elke diameter",
         pipeLengthPrecision: "Cijfers na de decimale punt in lengte van de pijp",

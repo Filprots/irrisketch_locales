@@ -1098,6 +1098,7 @@ this.LNG = {
         dripCrossFittingAble: "Križni spoj cijevi kap po kap omogućen",
         pipesNode: "Cjevovod",
         hdpeConnectionType: "Tip spojeva za HDPE",
+        ldpeConnectionType: "Tip spojeva za LDPE",
         pvcConnectionType: "Tip spojeva za PVC",
         pipeAddon: "Dodatak cijevima za svaki promjer",
         pipeLengthPrecision: "Znamenke nakon decimalne točke u duljini cijevi",

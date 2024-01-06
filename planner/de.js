@@ -1099,6 +1099,7 @@ this.LNG = {
         dripCrossFittingAble: "Kreuzverschraubung möglich",
         pipesNode: "Rohrleitungsabschnitt",
         hdpeConnectionType: "Art der HDPE Kupplungsstücke",
+        ldpeConnectionType: "Art der LDPE Kupplungsstücke",
         pvcConnectionType: "Art der PVC Kupplungsstücke",
         pipeAddon: "Rohradapter für jeden Durchmesser",
         pipeLengthPrecision: "Nachkommastellen bei der Rohrlänge",

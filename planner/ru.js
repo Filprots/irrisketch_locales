@@ -1099,6 +1099,7 @@ this.LNG = {
         dripCrossFittingAble: "Возможно использование крестовины",
         pipesNode: "Трубопровод",
         hdpeConnectionType: "Тип соединения ПНД труб",
+        ldpeConnectionType: "Тип соединения ПВД труб",
         pvcConnectionType: "Тип соединения ПВХ труб",
         pipeAddon: "Запас трубы для каждого диаметра",
         pipeLengthPrecision: "Цифр после запятой в длине трубы",

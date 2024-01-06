@@ -1098,6 +1098,7 @@ this.LNG = {
         dripCrossFittingAble: "Compatibilité avec raccord en croix",
         pipesNode: "Section de tuyauterie",
         hdpeConnectionType: "Type de raccord pour le PEHD",
+        ldpeConnectionType: "Type de raccord pour le PELD",
         pvcConnectionType: "Type de raccord pour le PVC",
         pipeAddon: "Additif pour chaque diamètre de tuyau",
         pipeLengthPrecision: "Chiffres après la virgule pour la longueur de tuyau",

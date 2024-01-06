@@ -1398,6 +1398,8 @@
   "pvcCL125": "PVC CLASS 125",
   "hdpe": "HDPE",
   "pvc": "PVC",
+  "ldpe": "LDPE",
+  "ldpeCLASS3": "LDPE CLASS 3",
   "pipesSwitchesControlLabel": "Beschikbare leidingen",
   "pipesSubSwitchesControlLabel": "Beschikbare varianten",
   "pipesSubDiamsSwitchesControlLabel": "Beschikbare diameters",

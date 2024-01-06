@@ -1398,6 +1398,8 @@
   "pvcCL125": "ПВХ CLASS 125",
   "hdpe": "ПНД",
   "pvc": "ПВХ",
+  "ldpe": "ПВД",
+  "ldpeCLASS3": "ПВД CLASS 3",
   "pipesSwitchesControlLabel": "Ассортимент труб",
   "pipesSubSwitchesControlLabel": "Доступные варианты",
   "pipesSubDiamsSwitchesControlLabel": "Доступные диаметры",

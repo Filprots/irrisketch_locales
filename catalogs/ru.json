@@ -7708,7 +7708,11 @@
       "PVC-4-CL125": "ПВХ напорная труба 4\" CLASS 125 SDR 32.5",
       "PVC-6-CL125": "ПВХ напорная труба 6\" CLASS 125 SDR 32.5",
       "PVC-6-SCH40": "ПВХ напорная труба 6\" Schedule 40",
-      "PVC-6-SCH80": "ПВХ напорная труба 6\" Schedule 80"
+      "PVC-6-SCH80": "ПВХ напорная труба 6\" Schedule 80",
+      "LDPE-13-CL3": "LDPE pressure pipe 13mm CLASS 3",
+      "LDPE-19-CL3": "LDPE pressure pipe 19mm CLASS 3",
+      "LDPE-25-CL3": "LDPE pressure pipe 25mm CLASS 3",
+      "LDPE-32-CL3": "LDPE pressure pipe 32mm CLASS 3"
     },
     "_saddles_Anybrand": {
       "SADDLE201/2": "Седелка 20мм х ½\"ВН",

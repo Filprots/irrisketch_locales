@@ -1398,6 +1398,8 @@
   "pvcCL125": "PVC CLASS 125",
   "hdpe": "PEAD",
   "pvc": "PVC",
+  "ldpe": "LDPE",
+  "ldpeCLASS3": "LDPE CLASS 3",
   "pipesSwitchesControlLabel": "Canos disponíveis",
   "pipesSubSwitchesControlLabel": "variantes disponíveis",
   "pipesSubDiamsSwitchesControlLabel": "Diâmetros disponíveis",

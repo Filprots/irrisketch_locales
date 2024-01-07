@@ -267,6 +267,8 @@ this.LNG = {
         Trench: "Trench", // TODO:translate
         hdpe: "HDPE",
         pvc: "PVC",
+        pvcm: "PVC(Metric)",
+        ldpe: "LDPE",
         Controller: "Steuergerät",
         Sensor: "Sensor",
         Wiring: "Verdrahtung",

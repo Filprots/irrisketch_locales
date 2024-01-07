@@ -267,6 +267,8 @@ this.LNG = {
         "Trench": "Çukur",
         "hdpe": "HDPE",
         "pvc": "PVC",
+        pvcm: "PVC(Metric)",
+        ldpe: "LDPE",
         "Controller": "Kontrol cihazı",
         "Sensor": "Sensör",
         "Wiring": "Kablolar",

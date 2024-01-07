@@ -267,6 +267,8 @@ this.LNG = {
         Trench: "Траншея",
         hdpe: "ПНД",
         pvc: "ПВХ",
+        pvcm: "PVC(Metric)",
+        ldpe: "LDPE",
         Controller: "Контроллер",
         Sensor: "Датчик",
         Wiring: "Проводка",

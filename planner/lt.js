@@ -267,6 +267,8 @@ this.LNG = {
         Trench: "Kasimo duobė",
         hdpe: "HDPE",
         pvc: "PVC",
+        pvcm: "PVC(Metric)",
+        ldpe: "LDPE",
         Controller: "Valdiklis",
         Sensor: "Jutiklis",
         Wiring: "Elektrinis laidumas",

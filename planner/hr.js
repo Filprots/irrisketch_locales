@@ -267,6 +267,8 @@ this.LNG = {
         Trench: "Rov",
         hdpe: "HDPE",
         pvc: "PVC",
+        pvcm: "PVC(Metric)",
+        ldpe: "LDPE",
         Controller: "Programator",
         Sensor: "Senzor",
         Wiring: "Ožičenje",

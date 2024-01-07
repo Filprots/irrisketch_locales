@@ -267,6 +267,8 @@ this.LNG = {
         Trench: "Fossa",
         hdpe: "HDPE",
         pvc: "PVC",
+        pvcm: "PVC(Metric)",
+        ldpe: "LDPE",
         Controller: "Controller",
         Sensor: "Sensore",
         Wiring: "Cablaggio",

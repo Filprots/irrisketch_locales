@@ -12313,6 +12313,7 @@
     },
     "_sprayBodies_RainBird": {
       "1802": "Rain Bird 1802 sprey gövdesi",
+      "1803": "(U)Rain Bird 1803 spray body",
       "1804": "Rain Bird 1804 sprey gövdesi",
       "1806": "Rain Bird 1806 sprey gövdesi",
       "1812": "Rain Bird 1812 sprey gövdesi",
@@ -12364,7 +12365,8 @@
       "1804-P45": "Rain Bird 1804-P45 sprey gövdesi (3,1 bar ayarlı)",
       "1806-P45": "Rain Bird 1806-P45 sprey gövdesi (3,1 bar ayarlı)",
       "1812-P45": "Rain Bird 1812-P45 sprey gövdesi (3,1 bar ayarlı)",
-      "RD-04": "Rain Bird RD-04 sprey gövdesi"
+      "RD-04": "Rain Bird RD-04 sprey gövdesi",
+      "1803-PRS": "(U)Rain Bird 1803-PRS spray body (2.1 bar regulated)"
     },
     "_sensors_RainBird": {
       "RSD-BEX": "Rain Bird RSD-BEX yağmur sensörü",

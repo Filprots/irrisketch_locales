@@ -12313,6 +12313,7 @@
     },
     "_sprayBodies_RainBird": {
       "1802": "Corpo spruzzatore Rain Bird 1802",
+      "1803": "(U)Rain Bird 1803 spray body",
       "1804": "Corpo spruzzatore Rain Bird 1804",
       "1806": "Corpo spruzzatore Rain Bird 1806",
       "1812": "Corpo spruzzatore Rain Bird 1812",
@@ -12364,7 +12365,8 @@
       "1804-P45": "Corpo spruzzatore Rain Bird 1804-P45 (regolato a 3,1 bar)",
       "1806-P45": "Corpo spruzzatore Rain Bird 1806-P45 (regolato a 3,1 bar)",
       "1812-P45": "Corpo spruzzatore Rain Bird 1812-P45 (regolato a 3,1 bar)",
-      "RD-04": "Corpo spruzzatore Rain Bird RD-04"
+      "RD-04": "Corpo spruzzatore Rain Bird RD-04",
+      "1803-PRS": "(U)Rain Bird 1803-PRS spray body (2.1 bar regulated)"
     },
     "_sensors_RainBird": {
       "RSD-BEX": "Sensore pioggia Rain Bird RSD-BEX",

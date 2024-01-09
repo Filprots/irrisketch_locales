@@ -12313,6 +12313,7 @@
     },
     "_sprayBodies_RainBird": {
       "1802": "Corps de gicleur Rain Bird 1802",
+      "1803": "(U)Rain Bird 1803 spray body",
       "1804": "Corps de pulvérisation Rain Bird 1804",
       "1806": "Corps de gicleur Rain Bird 1806",
       "1812": "Corps de gicleur Rain Bird 1812",
@@ -12364,7 +12365,8 @@
       "1804-P45": "Corps de pulvérisation Rain Bird 1804-P45 (régulé à 3,1 bar)",
       "1806-P45": "Corps de pulvérisation Rain Bird 1806-P45 (régulé à 3,1 bar)",
       "1812-P45": "Corps de pulvérisation Rain Bird 1812-P45 (régulé à 3,1 bars)",
-      "RD-04": "Corps de pulvérisation Rain Bird RD-04"
+      "RD-04": "Corps de pulvérisation Rain Bird RD-04",
+      "1803-PRS": "(U)Rain Bird 1803-PRS spray body (2.1 bar regulated)"
     },
     "_sensors_RainBird": {
       "RSD-BEX": "Capteur de pluie Rain Bird RSD-BEX",

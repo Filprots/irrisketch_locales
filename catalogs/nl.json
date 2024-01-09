@@ -12313,6 +12313,7 @@
     },
     "_sprayBodies_RainBird": {
       "1802": "Rain Bird 1802 spuitlichaam",
+      "1803": "(U)Rain Bird 1803 spray body",
       "1804": "Rain Bird 1804 sproeilichaam",
       "1806": "Rain Bird 1806 spuitlichaam",
       "1812": "Rain Bird 1812 spuitlichaam",
@@ -12364,7 +12365,8 @@
       "1804-P45": "Rain Bird 1804-P45 sproeilichaam (3,1 bar gereguleerd)",
       "1806-P45": "Rain Bird 1806-P45 sproeilichaam (3,1 bar gereguleerd)",
       "1812-P45": "Rain Bird 1812-P45 sproeilichaam (3,1 bar gereguleerd)",
-      "RD-04": "Rain Bird RD-04 spuitlichaam"
+      "RD-04": "Rain Bird RD-04 spuitlichaam",
+      "1803-PRS": "(U)Rain Bird 1803-PRS spray body (2.1 bar regulated)"
     },
     "_sensors_RainBird": {
       "RSD-BEX": "Rain Bird RSD-BEX regensensor",

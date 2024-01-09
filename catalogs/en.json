@@ -12313,6 +12313,7 @@
     },
     "_sprayBodies_RainBird": {
       "1802": "Rain Bird 1802 spray body",
+      "1803": "Rain Bird 1803 spray body",
       "1804": "Rain Bird 1804 spray body",
       "1806": "Rain Bird 1806 spray body",
       "1812": "Rain Bird 1812 spray body",
@@ -12364,7 +12365,8 @@
       "1804-P45": "Rain Bird 1804-P45 spray body (3.1 bar regulated)",
       "1806-P45": "Rain Bird 1806-P45 spray body (3.1 bar regulated)",
       "1812-P45": "Rain Bird 1812-P45 spray body (3.1 bar regulated)",
-      "RD-04": "Rain Bird RD-04 spray body"
+      "RD-04": "Rain Bird RD-04 spray body",
+      "1803-PRS": "Rain Bird 1803-PRS spray body (2.1 bar regulated)"
     },
     "_sensors_RainBird": {
       "RSD-BEX": "Rain Bird RSD-BEX rain sensor",

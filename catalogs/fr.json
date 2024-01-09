@@ -12226,7 +12226,19 @@
       "XFS-CVP-09-12": "Goutte-à-goutte souterrain Rain Bird 16 mm XFS-CVP-09-12 (débit de 3,5 l/h) (espacement de 12\") (non potable) (clapet anti-retour)",
       "XFS-CVP-04-18": "Goutte-à-goutte souterrain Rain Bird 16 mm XFS-CVP-04-18 (débit de 1,6 l/h) (espacement de 18\") (non potable) (clapet anti-retour)",
       "XFS-CVP-06-18": "Goutte-à-goutte souterrain Rain Bird 16 mm XFS-CVP-06-18 (débit de 2,3 l/h) (espacement de 18\") (non potable) (clapet anti-retour)",
-      "XFS-CVP-09-18": "Goutte-à-goutte souterrain Rain Bird 16 mm XFS-CVP-09-18 (débit de 3,5 l/h) (espacement de 18\") (non potable) (clapet anti-retour)"
+      "XFS-CVP-09-18": "Goutte-à-goutte souterrain Rain Bird 16 mm XFS-CVP-09-18 (débit de 3,5 l/h) (espacement de 18\") (non potable) (clapet anti-retour)",
+      "XFA1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)"
     },
     "_rotators_RainBird": {
       "R-VAN14": "Buse rotative Rain Bird R-VAN 14",

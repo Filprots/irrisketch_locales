@@ -12226,7 +12226,19 @@
       "XFS-CVP-09-12": "Rain Bird 16 mm toprak altı damlama hattı XFS-CVP-09-12 (3,5 l/sa akış) (12\" aralık) (içilemez) (çek valf)",
       "XFS-CVP-04-18": "Rain Bird 16 mm toprak altı damlama hattı XFS-CVP-04-18 (1,6 l/sa akış) (18\" aralık) (içilemez) (çek valf)",
       "XFS-CVP-06-18": "Rain Bird 16 mm toprak altı damlama hattı XFS-CVP-06-18 (2,3 l/saat akış) (18\" aralık) (içilemez) (çek valf)",
-      "XFS-CVP-09-18": "Rain Bird 16 mm toprak altı damlama hattı XFS-CVP-09-18 (3,5 l/sa akış) (18\" aralık) (içilemez) (çek valf)"
+      "XFS-CVP-09-18": "Rain Bird 16 mm toprak altı damlama hattı XFS-CVP-09-18 (3,5 l/sa akış) (18\" aralık) (içilemez) (çek valf)",
+      "XFA1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)"
     },
     "_rotators_RainBird": {
       "R-VAN14": "Rain Bird R-VAN 14 döner nozul",

@@ -12226,7 +12226,19 @@
       "XFS-CVP-09-12": "Капельная линия подземная 16мм Rain Bird XFS-CVP-09-12 (3.5 л/час) (Расстояние 12\") (не питьевая вода) (запорный клапан)",
       "XFS-CVP-04-18": "Капельная линия подземная 16мм Rain Bird XFS-CVP-04-18 (1.6 л/час) (Расстояние 18\") (не питьевая вода) (запорный клапан)",
       "XFS-CVP-06-18": "Капельная линия подземная 16мм Rain Bird XFS-CVP-06-18 (2.3 л/час) (Расстояние 18\") (не питьевая вода) (запорный клапан)",
-      "XFS-CVP-09-18": "Капельная линия подземная 16мм Rain Bird XFS-CVP-09-18 (3.5 л/час) (Расстояние 18\") (не питьевая вода) (запорный клапан)"
+      "XFS-CVP-09-18": "Капельная линия подземная 16мм Rain Bird XFS-CVP-09-18 (3.5 л/час) (Расстояние 18\") (не питьевая вода) (запорный клапан)",
+      "XFA1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)"
     },
     "_rotators_RainBird": {
       "R-VAN14": "Форсунка Rain Bird R-VAN 14",

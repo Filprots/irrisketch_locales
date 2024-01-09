@@ -12226,7 +12226,19 @@
       "XFS-CVP-09-12": "Rain Bird 16 mm požeminė lašinimo linija XFS-CVP-09-12 (3,5 l/h srautas) (12\" atstumas) (netinkamas gerti) (atbulinis vožtuvas)",
       "XFS-CVP-04-18": "Rain Bird 16 mm požeminė lašinimo linija XFS-CVP-04-18 (1,6 l/h srautas) (18\" atstumas) (negeriama) (atbulinis vožtuvas)",
       "XFS-CVP-06-18": "Rain Bird 16 mm požeminė lašinimo linija XFS-CVP-06-18 (2,3 l/h srautas) (18\" atstumas) (netinkamas gerti) (atbulinis vožtuvas)",
-      "XFS-CVP-09-18": "Rain Bird 16 mm požeminė lašinimo linija XFS-CVP-09-18 (3,5 l/h srautas) (18\" atstumas) (netinkamas gerti) (atbulinis vožtuvas)"
+      "XFS-CVP-09-18": "Rain Bird 16 mm požeminė lašinimo linija XFS-CVP-09-18 (3,5 l/h srautas) (18\" atstumas) (netinkamas gerti) (atbulinis vožtuvas)",
+      "XFA1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)"
     },
     "_rotators_RainBird": {
       "R-VAN14": "Rain Bird R-VAN 14 sukamasis antgalis",

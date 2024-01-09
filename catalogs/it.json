@@ -12226,7 +12226,19 @@
       "XFS-CVP-09-12": "Ala gocciolante interrata Rain Bird da 16 mm XFS-CVP-09-12 (portata 3,5 l/h) (spaziatura 12\") (non potabile) (valvola di ritegno)",
       "XFS-CVP-04-18": "Ala gocciolante interrata Rain Bird da 16 mm XFS-CVP-04-18 (portata 1,6 l/h) (spaziatura 18\") (non potabile) (valvola di ritegno)",
       "XFS-CVP-06-18": "Ala gocciolante interrata Rain Bird da 16 mm XFS-CVP-06-18 (portata 2,3 l/h) (spaziatura 18\") (non potabile) (valvola di ritegno)",
-      "XFS-CVP-09-18": "Ala gocciolante interrata Rain Bird da 16 mm XFS-CVP-09-18 (portata 3,5 l/h) (spaziatura 18\") (non potabile) (valvola di non ritorno)"
+      "XFS-CVP-09-18": "Ala gocciolante interrata Rain Bird da 16 mm XFS-CVP-09-18 (portata 3,5 l/h) (spaziatura 18\") (non potabile) (valvola di non ritorno)",
+      "XFA1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFA3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFA3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL1530": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL1540": "(U)Rain Bird XFA 13mm dripline (1.5 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL2030": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL2040": "(U)Rain Bird XFA 13mm dripline (2.0 l/h flow) (40cm spacing) (anti-siphon)",
+      "XFAL3530": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (30cm spacing) (anti-siphon)",
+      "XFAL3540": "(U)Rain Bird XFA 13mm dripline (3.5 l/h flow) (40cm spacing) (anti-siphon)"
     },
     "_rotators_RainBird": {
       "R-VAN14": "Ugello rotante Rain Bird R-VAN 14",

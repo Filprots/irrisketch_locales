@@ -1592,5 +1592,6 @@
   "ProjectButtonCheck": "Проверить корректность",
   "tool_Obstacle_examples": "Усё, што ўплывае на размяшчэнне зраскідачаў і ПЕРАШКАДЖАЕ ВАДНАМУ СТРУМЕНЮ дасягнуць пажаданай вобласці. Напрыклад, малыя архітэктурныя формы, сцяна, дрэва, высокі куст і г.д.",
   "tool_PlacementObstacle_examples": "Усё, што ўплывае на размяшчэнне зраскідачаў і НЕ ПЕРАШКАДЖАЕ ВАДНАМУ СТРУМЕНЮ дасягнуць пажаданай вобласці. Напрыклад, сцяжка, нізкая клумба, малы куст, кампазіцыя з камянёў на газоне і г.д.",
-  "OnlineIntroPageTitle": "Ласкава запрашаем у IRRISketch!"
+  "OnlineIntroPageTitle": "Ласкава запрашаем у IRRISketch!",
+  "irrisketch_residential_year_RUB+=MOHOV10REF": "irrisketch_residential_year_RUB+=MOHOV10REF"
 }

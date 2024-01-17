@@ -1592,5 +1592,6 @@
   "ProjectButtonCheck": "Check Validity",
   "tool_Obstacle_examples": "Viskas, kas veikia purkštukų išdėstymą ir TRUKDO VANDENS SROVEI pasiekti pageidaujamą plotą. Pavyzdžiui, mažos architektūrinės formos, siena, medis, aukštas krūmas ir t.t.",
   "tool_PlacementObstacle_examples": "Viskas, kas veikia purkštukų išdėstymą ir NETRUKDO VANDENS SROVEI pasiekti pageidaujamą plotą. Pavyzdžiui, takas, žemas gėlynas, mažas krūmas, akmenų kompozicija ant vejos ir t.t.",
-  "OnlineIntroPageTitle": "Sveiki atvykę į IRRISketch!"
+  "OnlineIntroPageTitle": "Sveiki atvykę į IRRISketch!",
+  "irrisketch_residential_year_RUB+=MOHOV10REF": "irrisketch_residential_year_RUB+=MOHOV10REF"
 }

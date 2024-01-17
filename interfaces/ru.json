@@ -1592,5 +1592,6 @@
   "ProjectButtonCheck": "Проверить корректность",
   "tool_Obstacle_examples": "Всё, что влияет на расположение дождевателей и ПРЕПЯТСТВУЕТ СТРУЕ достичь желаемой области. Например, малые архитектурные формы, стена, дерево, высокий куст и т.д.",
   "tool_PlacementObstacle_examples": "Всё, что влияет на расположение дождевателей и НЕ ПРЕПЯТСТВУЕТ СТРУЕ достичь желаемой области. Например, тропинка, низкая клумба, маленький куст, композиция из камней на газоне и т.д.",
-  "OnlineIntroPageTitle": "Добро пожаловать в IRRISketch!"
+  "OnlineIntroPageTitle": "Добро пожаловать в IRRISketch!",
+  "irrisketch_residential_year_RUB+=MOHOV10REF": "irrisketch_residential_year_RUB+=MOHOV10REF"
 }

@@ -1592,5 +1592,6 @@
   "ProjectButtonCheck": "Check Validity",
   "tool_Obstacle_examples": "Sve što utječe na raspored prskalica i SPRJEČAVA VODENI MLAZ da dosegne željeno područje. Na primjer, male arhitektonske forme, zid, drvo, visoki grm itd.",
   "tool_PlacementObstacle_examples": "Sve što utječe na raspored prskalica i NE SPRJEČAVA VODENI MLAZ da dosegne željeno područje. Na primjer, staza, nizak cvjetnjak, mali grm, kameni sastav na travnjaku itd.",
-  "OnlineIntroPageTitle": "Dobrodošli u IRRISketch!"
+  "OnlineIntroPageTitle": "Dobrodošli u IRRISketch!",
+  "irrisketch_residential_year_RUB+=MOHOV10REF": "irrisketch_residential_year_RUB+=MOHOV10REF"
 }

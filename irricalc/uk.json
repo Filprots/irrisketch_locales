@@ -72,7 +72,8 @@
 		"altDiffForm": "Разница высот:",
 		"altDiffMeasureForm": "Разница высот:",
 		"nodeElementNameForm": "Название элемента:",
-		"offtakePipeIsDifferentCheckBox": "Входной и выходной диаметры трубы различаются"
+		"offtakePipeIsDifferentCheckBox": "Входной и выходной диаметры трубы различаются",
+		"nodeTypeForm": "Элемент трубы:"
 	},
 	"UNITS": {
 		"celsius": "°С",

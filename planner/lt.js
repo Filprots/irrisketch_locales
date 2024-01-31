@@ -50,7 +50,7 @@ this.LNG = {
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
     drawing: {
-        autoDrawer: "Automatinis atsargiklis",
+        autoDrawer: "Automatinis parinkimas",
         chooseSprinkler: "Pasirinkite purkštuką:",
         auto: "Nustatyti automatiškai",
         waterSource2row: ["Vanduo", "Priėmimas"],
@@ -366,7 +366,7 @@ this.LNG = {
         E: "R",
         W: "V",
 //conventions
-        sprinklers: "Pabarstukai",
+        sprinklers: "Purkštukai",
         dripStarts: "Lašelinės pradžios",
         rzwLayer: "Šaknų zonos laistymas",
         dripLines: "Lašelinės linijos",
@@ -377,7 +377,7 @@ this.LNG = {
         sensorsLayer: "Jutikliai",
         mainPipes: "Pagrindinis vamzdis",
         lateralPipes: "Šoniniai vamzdeliai",
-        lateralPipes_sprinklerZone: "Zona (Pabarstukai)",
+        lateralPipes_sprinklerZone: "Zona (Purkštukai)",
         lateralPipes_dripZone: "Zona (Lašelinės linijos)",
         lateralPipes_rzwZone: "Zona (Šaknų zonos laistymas)",
         lateralPipes_emptyZone: "Zona (Be vartotojų)",

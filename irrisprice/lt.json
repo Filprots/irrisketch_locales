@@ -5,7 +5,7 @@
     "close": "Uždaryti",
     "ok": "Patvirtinti",
     "remove": "Ištrinti",
-    "save": "Sutaupyti",
+    "save": "Išsaugoti",
     "submit": "Pateikti"
   },
   "DIALOG": {
@@ -28,7 +28,7 @@
       "groupsAndDiscounts": "Grupės ir nuolaidos",
       "item": "Elementas",
       "proceed": "Įdėti",
-      "save": "Sutaupyti",
+      "save": "Išsaugoti",
       "setup": "Sąranka",
       "setupAddItem": "Pridėti daiktą"
     },

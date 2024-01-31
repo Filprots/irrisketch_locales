@@ -2,10 +2,10 @@
   "BTN": {
     "bulkInsert": "Import",
     "cancel": "Anulować",
-    "close": "Zamknąć",
+    "close": "Zamknij",
     "ok": "Potwierdzać",
     "remove": "Usuwać",
-    "save": "Ratować",
+    "save": "Zapisz",
     "submit": "Składać"
   },
   "DIALOG": {
@@ -28,7 +28,7 @@
       "groupsAndDiscounts": "Grupy i zniżki",
       "item": "Element",
       "proceed": "Wstawić",
-      "save": "Ratować",
+      "save": "Zapisz",
       "setup": "Organizować coś",
       "setupAddItem": "Dodaj Przedmiot"
     },
@@ -49,7 +49,7 @@
       "rangeFrom": "Z",
       "rangeTo": "DO",
       "value": "Wartość",
-      "valueDepOnAmount": "Koszt w zależności od ilości"
+      "valueDepOnAmount": "Cena w zależności od ilości"
     },
     "PLCH": {
       "addDiscountGroup": "Dodaj modyfikator grupy",
@@ -106,7 +106,7 @@
     "OR": "LUB",
     "_id": "Elementy",
     "art": "Sztuka.",
-    "autoAdd": "Automatyczna kwota",
+    "autoAdd": "Automatyczna Ilość",
     "brand": "Producent",
     "currency": "Waluta",
     "groups": "Grupy",
@@ -183,8 +183,8 @@
     "bold": "Pogrubiony",
     "boldItalic": "Pogrubiona kursywa",
     "bottom": "Spód",
-    "bubble": "Bańka",
-    "bubbleTooltip": "Bańka",
+    "bubble": "Płuczkowa",
+    "bubbleTooltip": "Płuczkowa",
     "callout": "Zawołać",
     "cancelFilter": "Anulować",
     "categories": "Kategorie",
@@ -427,9 +427,9 @@
       "distributorInfo": "Informacje o właścicielu cena",
       "editDescription": "Zmień opis",
       "enthusiast": "Entuzjasta",
-      "equipment": "Sprzęt",
+      "equipment": "Materiały",
       "from": "z",
-      "labours": "Trud",
+      "labours": "Robocizna",
       "manufacturer": "Producent",
       "privacyPolicy": "Zgoda użytkownika",
       "privatePrices": "Ceny osobiste",

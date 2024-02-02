@@ -103,7 +103,7 @@
     "mph": "mile na godzinę",
     "ftsec": "fps",
     "cm": "cm",
-    "elbow": "Łokieć",
+    "elbow": "Kolano",
     "globeValve": "Zawór kulowy",
     "swingJoint": "Złącze obrotowe",
     "enlargerOrReducer": "Powiększanie lub zmniejszanie"
@@ -113,7 +113,7 @@
     "deletePipeSection": "Usuń sekcję",
     "deleteAllPipeSections": "Usuń wszystkie sekcje",
     "settings": "Ustawienia",
-    "closeSettings": "Zamknąć",
+    "closeSettings": "Zamknij",
     "clonePipeSection": "Sekcja klonowania"
   }
 }

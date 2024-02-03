@@ -271,7 +271,7 @@ this.LNG = {
         ldpe: "LDPE",
         Controller: "Кантролер",
         Sensor: "Чуйнік",
-        Wiring: "Праводка",
+        Wiring: "Падключэнне",
         IrrigateMarks: "Зоны",
         Surface: "Паверхня",
         Lawn: "Траўнік",

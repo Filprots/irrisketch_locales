@@ -271,7 +271,7 @@ this.LNG = {
         ldpe: "LDPE",
         Controller: "Programator",
         Sensor: "Senzor",
-        Wiring: "Ožičenje",
+        Wiring: "Povezivanje",
         IrrigateMarks: "Zones",
         Surface: "Površina",
         Lawn: "Travnjak",

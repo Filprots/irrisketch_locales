@@ -271,7 +271,7 @@ this.LNG = {
         ldpe: "LDPE",
         Controller: "Valdiklis",
         Sensor: "Jutiklis",
-        Wiring: "Elektrinis laidumas",
+        Wiring: "Prijungimas",
         IrrigateMarks: "Zonos",
         Surface: "Paviršius",
         Lawn: "Lawn",

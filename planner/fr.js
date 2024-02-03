@@ -271,7 +271,7 @@ this.LNG = {
         ldpe: "LDPE",
         Controller: "Contrôleur",
         Sensor: "Capteur",
-        Wiring: "Câblage",
+        Wiring: "Connexion",
         IrrigateMarks: "Zones",
         Surface: "Surface",
         Lawn: "Pelouse",

@@ -271,7 +271,7 @@ this.LNG = {
         ldpe: "LDPE",
         "Controller": "Kontrol cihazı",
         "Sensor": "Sensör",
-        "Wiring": "Kablolar",
+        Wiring: "Bağlantı",
         "IrrigateMarks": "Sulama bölgeleri",
         "Surface": "Yüzey",
         "Lawn": "Çim",

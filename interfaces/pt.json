@@ -1595,5 +1595,19 @@
   "tool_Obstacle_examples": "Qualquer coisa que afete a disposição dos aspersores e IMPEÇA O JATO DE ÁGUA de alcançar a área desejada. Por exemplo, pequenas formas arquitetônicas, uma parede, uma árvore, um arbusto alto, etc.",
   "tool_PlacementObstacle_examples": "Qualquer coisa que afete a disposição dos aspersores e NÃO IMPEÇA O JATO DE ÁGUA de alcançar a área desejada. Por exemplo, um caminho, um canteiro baixo, um arbusto pequeno, uma composição de pedras em um gramado, etc.",
   "OnlineIntroPageTitle": "Bem-vindo ao IRRISketch!",
-  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru"
+  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru",
+  "subscr_status_terminated": "Terminada",
+  "subscr_status_suspended": "Suspensa",
+  "SubscrTime_billing_period": "Período de faturação",
+  "SubscrTime_next_bill_date": "Próximo pagamento em",
+  "SubscrTime_next_bill_amt": "Valor do próximo pagamento",
+  "SubscrTime_finishes": "Termina",
+  "undefined": "Indefinido",
+  "SUBSCR_MANAGE": "Gerir subscrição",
+  "SendLoginLinkNotice": "Enviar link de acesso único para gestão da subscrição para",
+  "Otl_info": "Poderá gerir a sua subscrição, alterar métodos de pagamento e os seus dados pessoais",
+  "Send": "Enviar",
+  "irrisketch_residential_year_EUR_paypro": "Subscrição IRRISketch Residential PRO (Facturada anualmente)",
+  "irrisketch_residential_six-month_EUR_paypro": "Subscrição IRRIKetch Residential PRO (Facturada semestralmente)",
+  "irrisketch_residential_month_EUR_paypro": "Subscrição IRRISketch Residential PRO (Facturada mensalmente)"
 }

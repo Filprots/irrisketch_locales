@@ -1595,5 +1595,19 @@
   "tool_Obstacle_examples": "Sulama başlıklarının yerleşimini etkileyen ve SU JETİNİN istenen alana ulaşmasını ENGELLEYEN her şey. Örneğin, küçük mimari formlar, bir duvar, bir ağaç, yüksek bir çalı vb.",
   "tool_PlacementObstacle_examples": "Sulama başlıklarının yerleşimini etkileyen ve SU JETİNİN istenen alana ulaşmasını ENGELLEMEYEN her şey. Örneğin, bir yol, alçak bir çiçek yatağı, küçük bir çalı, bir çim üzerinde taş kompozisyonu vb.",
   "OnlineIntroPageTitle": "IRRISketch'e Hoş Geldiniz!",
-  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru"
+  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru",
+  "subscr_status_terminated": "Sonlandırıldı",
+  "subscr_status_suspended": "Askıya alındı",
+  "SubscrTime_billing_period": "Faturalandırma dönemi",
+  "SubscrTime_next_bill_date": "Sonraki ödeme tarihi",
+  "SubscrTime_next_bill_amt": "Sonraki ödeme tutarı",
+  "SubscrTime_finishes": "Bitiş",
+  "undefined": "Tanımsız",
+  "SUBSCR_MANAGE": "Aboneliği yönet",
+  "SendLoginLinkNotice": "Abonelik yönetimi için tek seferlik giriş bağlantısı gönder",
+  "Otl_info": "Aboneliğinizi yönetebilir, ödeme yöntemlerini ve kişisel bilgilerinizi değiştirebilirsiniz",
+  "Send": "Gönder",
+  "irrisketch_residential_year_EUR_paypro": "IRRISketch Konut PRO Aboneliği (Yıllık faturalandırılmış)",
+  "irrisketch_residential_six-month_EUR_paypro": "IRRIKetch Konut PRO Aboneliği (Altı aylık faturalandırılmış)",
+  "irrisketch_residential_month_EUR_paypro": "IRRISketch Konut PRO Aboneliği (Aylık faturalandırılmış)"
 }

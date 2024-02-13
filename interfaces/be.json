@@ -1595,5 +1595,19 @@
   "tool_Obstacle_examples": "Усё, што ўплывае на размяшчэнне зраскідачаў і ПЕРАШКАДЖАЕ ВАДНАМУ СТРУМЕНЮ дасягнуць пажаданай вобласці. Напрыклад, малыя архітэктурныя формы, сцяна, дрэва, высокі куст і г.д.",
   "tool_PlacementObstacle_examples": "Усё, што ўплывае на размяшчэнне зраскідачаў і НЕ ПЕРАШКАДЖАЕ ВАДНАМУ СТРУМЕНЮ дасягнуць пажаданай вобласці. Напрыклад, сцяжка, нізкая клумба, малы куст, кампазіцыя з камянёў на газоне і г.д.",
   "OnlineIntroPageTitle": "Ласкава запрашаем у IRRISketch!",
-  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru"
+  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru",
+  "subscr_status_terminated": "Прыпынена",
+  "subscr_status_suspended": "Прыпынена",
+  "SubscrTime_billing_period": "Перыяд аплаты",
+  "SubscrTime_next_bill_date": "Дата наступнай аплаты",
+  "SubscrTime_next_bill_amt": "Сума наступнай аплаты",
+  "SubscrTime_finishes": "Заканчваецца",
+  "undefined": "Не вызначана",
+  "SUBSCR_MANAGE": "Кіраванне падпіскай",
+  "SendLoginLinkNotice": "Адправіць аднакратную спасылку для кіравання падпіскай на",
+  "Otl_info": "Вы зможаце кіраваць сваёй падпіскай, змяняць метады аплаты і асабістыя даныя",
+  "Send": "Адправіць",
+  "irrisketch_residential_year_EUR_paypro": "Падпіска IRRISketch Residential PRO (Аплата штогод)",
+  "irrisketch_residential_six-month_EUR_paypro": "Падпіска IRRIKetch Residential PRO (Аплата кожныя паўгода)",
+  "irrisketch_residential_month_EUR_paypro": "Падпіска IRRISketch Residential PRO (Аплата штомесяц)"
 }

@@ -1595,5 +1595,19 @@
   "tool_Obstacle_examples": "Alles wat de opstelling van de sproeiers beïnvloedt en DE WATERSTRAAL verhindert het gewenste gebied te bereiken. Bijvoorbeeld kleine architecturale vormen, een muur, een boom, een hoge struik, enz.",
   "tool_PlacementObstacle_examples": "Alles wat de opstelling van de sproeiers beïnvloedt en DE WATERSTRAAL NIET verhindert het gewenste gebied te bereiken. Bijvoorbeeld een pad, een lage bloembed, een kleine struik, een stenen compositie op een gazon, enz.",
   "OnlineIntroPageTitle": "Welkom bij IRRISketch!",
-  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru"
+  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru",
+  "subscr_status_terminated": "Beëindigd",
+  "subscr_status_suspended": "Opgeschort",
+  "SubscrTime_billing_period": "Factureringsperiode",
+  "SubscrTime_next_bill_date": "Volgende betaling op",
+  "SubscrTime_next_bill_amt": "Bedrag van de volgende betaling",
+  "SubscrTime_finishes": "Eindigt",
+  "undefined": "Ongedefinieerd",
+  "SUBSCR_MANAGE": "Abonnement beheren",
+  "SendLoginLinkNotice": "Eenmalige inloglink voor abonnementsbeheer versturen naar",
+  "Otl_info": "U kunt uw abonnement beheren, betaalmethoden wijzigen en uw persoonlijke gegevens bijwerken",
+  "Send": "Versturen",
+  "irrisketch_residential_year_EUR_paypro": "IRRISketch Residential PRO Abonnement (Jaarlijks gefactureerd)",
+  "irrisketch_residential_six-month_EUR_paypro": "IRRIKetch Residential PRO Abonnement (Halfjaarlijks gefactureerd)",
+  "irrisketch_residential_month_EUR_paypro": "IRRISketch Residential PRO Abonnement (Maandelijks gefactureerd)"
 }

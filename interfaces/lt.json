@@ -1595,5 +1595,19 @@
   "tool_Obstacle_examples": "Viskas, kas veikia purkštukų išdėstymą ir TRUKDO VANDENS SROVEI pasiekti pageidaujamą plotą. Pavyzdžiui, mažos architektūrinės formos, siena, medis, aukštas krūmas ir t.t.",
   "tool_PlacementObstacle_examples": "Viskas, kas veikia purkštukų išdėstymą ir NETRUKDO VANDENS SROVEI pasiekti pageidaujamą plotą. Pavyzdžiui, takas, žemas gėlynas, mažas krūmas, akmenų kompozicija ant vejos ir t.t.",
   "OnlineIntroPageTitle": "Sveiki atvykę į IRRISketch!",
-  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru"
+  "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru",
+  "subscr_status_terminated": "Terminuotas",
+  "subscr_status_suspended": "Suspenduotas",
+  "SubscrTime_billing_period": "Apmokėjimo periodas",
+  "SubscrTime_next_bill_date": "Kitas mokėjimas",
+  "SubscrTime_next_bill_amt": "Kito mokėjimo suma",
+  "SubscrTime_finishes": "Baigiasi",
+  "undefined": "Neapibrėžta",
+  "SUBSCR_MANAGE": "Valdyti prenumeratą",
+  "SendLoginLinkNotice": "Siųsti vienkartinę prisijungimo nuorodą prenumeratos valdymui",
+  "Otl_info": "Galėsite valdyti savo prenumeratą, keisti mokėjimo būdus ir asmeninius duomenis",
+  "Send": "Siųsti",
+  "irrisketch_residential_year_EUR_paypro": "IRRISketch Residential PRO prenumerata (Mokama kasmet)",
+  "irrisketch_residential_six-month_EUR_paypro": "IRRIKetch Residential PRO prenumerata (Mokama kas šešis mėnesius)",
+  "irrisketch_residential_month_EUR_paypro": "IRRISketch Residential PRO prenumerata (Mokama kas mėnesį)"
 }

@@ -8803,7 +8803,20 @@
       "VLV-BSP-3M-24AC": "Zawór nawadniający 24VAC 3\"M (BSP)",
       "VLV-BSP-3M-9DC": "Zawór nawadniający 9VDC 3\"M (BSP)",
       "VLV-NPT-3M-24AC": "Zawór nawadniający 24VAC 3\"M (NPT)",
-      "VLV-NPT-3M-9DC": "Zawór irygacyjny 9VDC 3\"M (NPT)"
+      "VLV-NPT-3M-9DC": "Zawór irygacyjny 9VDC 3\"M (NPT)",
+      "VBAS-01": "Zmontowany zestaw skrzynki zaworowej z 1 zaworem",
+      "VBAS-02": "Zmontowany zestaw skrzynki zaworowej z 2 zaworami",
+      "VBAS-03": "Zmontowany zestaw skrzynki zaworowej z 3 zaworami",
+      "VBAS-04": "Zmontowany zestaw skrzynki zaworowej z 4 zaworami",
+      "VBAS-05": "Zmontowany zestaw skrzynki zaworowej z 5 zaworami",
+      "VBAS-06": "Zmontowany zestaw skrzynki zaworowej z 6 zaworami",
+      "VBAS-07": "Zmontowany zestaw skrzynki zaworowej z 7 zaworami",
+      "VBAS-08": "Zmontowany zestaw skrzynki zaworowej z 8 zaworami",
+      "VBAS-09": "Zmontowany zestaw skrzynki zaworowej z 9 zaworami",
+      "VBAS-10": "Zmontowany zestaw skrzynki zaworowej z 10 zaworami",
+      "VBAS-11": "Zmontowany zestaw skrzynki zaworowej z 11 zaworami",
+      "VBAS-12": "Zmontowany zestaw skrzynki zaworowej z 12 zaworami",
+      "VBAS-13": "Zmontowany zestaw skrzynki zaworowej z 13 zaworami"
     },
     "_pipes_Anybrand": {
       "HDPE-16-SDR9": "Rura ciśnieniowa HDPE 16mm SDR 9",

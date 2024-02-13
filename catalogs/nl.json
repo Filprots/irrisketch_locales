@@ -8803,7 +8803,20 @@
       "VLV-BSP-3M-24AC": "Irrigatieklep 24VAC 3\"M (BSP)",
       "VLV-BSP-3M-9DC": "Irrigatieklep 9VDC 3\"M (BSP)",
       "VLV-NPT-3M-24AC": "Irrigatieklep 24VAC 3\"M (NPT)",
-      "VLV-NPT-3M-9DC": "Irrigatieklep 9VDC 3\"M (NPT)"
+      "VLV-NPT-3M-9DC": "Irrigatieklep 9VDC 3\"M (NPT)",
+      "VBAS-01": "Voorgemonteerde ventielbox met 1 ventiel",
+      "VBAS-02": "Voorgemonteerde ventielbox met 2 ventielen",
+      "VBAS-03": "Voorgemonteerde ventielbox met 3 ventielen",
+      "VBAS-04": "Voorgemonteerde ventielbox met 4 ventielen",
+      "VBAS-05": "Voorgemonteerde ventielbox met 5 ventielen",
+      "VBAS-06": "Voorgemonteerde ventielbox met 6 ventielen",
+      "VBAS-07": "Voorgemonteerde ventielbox met 7 ventielen",
+      "VBAS-08": "Voorgemonteerde ventielbox met 8 ventielen",
+      "VBAS-09": "Voorgemonteerde ventielbox met 9 ventielen",
+      "VBAS-10": "Voorgemonteerde ventielbox met 10 ventielen",
+      "VBAS-11": "Voorgemonteerde ventielbox met 11 ventielen",
+      "VBAS-12": "Voorgemonteerde ventielbox met 12 ventielen",
+      "VBAS-13": "Voorgemonteerde ventielbox met 13 ventielen"
     },
     "_pipes_Anybrand": {
       "HDPE-16-SDR9": "HDPE drukleiding 16mm SDR 9",

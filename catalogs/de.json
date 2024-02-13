@@ -8803,7 +8803,20 @@
       "VLV-BSP-3M-24AC": "Bewässerungsventil 24VAC 3\"M (BSP)",
       "VLV-BSP-3M-9DC": "Bewässerungsventil 9VDC 3\"M (BSP)",
       "VLV-NPT-3M-24AC": "Bewässerungsventil 24VAC 3\"M (NPT)",
-      "VLV-NPT-3M-9DC": "Bewässerungsventil 9VDC 3\"M (NPT)"
+      "VLV-NPT-3M-9DC": "Bewässerungsventil 9VDC 3\"M (NPT)",
+      "VBAS-01": "Vormontierte Ventilbox mit 1 Ventil",
+      "VBAS-02": "Vormontierte Ventilbox mit 2 Ventilen",
+      "VBAS-03": "Vormontierte Ventilbox mit 3 Ventilen",
+      "VBAS-04": "Vormontierte Ventilbox mit 4 Ventilen",
+      "VBAS-05": "Vormontierte Ventilbox mit 5 Ventilen",
+      "VBAS-06": "Vormontierte Ventilbox mit 6 Ventilen",
+      "VBAS-07": "Vormontierte Ventilbox mit 7 Ventilen",
+      "VBAS-08": "Vormontierte Ventilbox mit 8 Ventilen",
+      "VBAS-09": "Vormontierte Ventilbox mit 9 Ventilen",
+      "VBAS-10": "Vormontierte Ventilbox mit 10 Ventilen",
+      "VBAS-11": "Vormontierte Ventilbox mit 11 Ventilen",
+      "VBAS-12": "Vormontierte Ventilbox mit 12 Ventilen",
+      "VBAS-13": "Vormontierte Ventilbox mit 13 Ventilen"
     },
     "_pipes_Anybrand": {
       "HDPE-16-SDR9": "HDPE-Druckrohr 16mm SDR 9",

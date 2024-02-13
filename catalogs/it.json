@@ -8803,7 +8803,20 @@
       "VLV-BSP-3M-24AC": "Valvola di irrigazione 24VAC 3\"M (BSP)",
       "VLV-BSP-3M-9DC": "Valvola di irrigazione 9VDC 3\"M (BSP)",
       "VLV-NPT-3M-24AC": "Valvola di irrigazione 24VAC 3\"M (NPT)",
-      "VLV-NPT-3M-9DC": "Valvola di irrigazione 9VDC 3\"M (NPT)"
+      "VLV-NPT-3M-9DC": "Valvola di irrigazione 9VDC 3\"M (NPT)",
+      "VBAS-01": "Cassetta valvole preassemblata con 1 valvola",
+      "VBAS-02": "Cassetta valvole preassemblata con 2 valvole",
+      "VBAS-03": "Cassetta valvole preassemblata con 3 valvole",
+      "VBAS-04": "Cassetta valvole preassemblata con 4 valvole",
+      "VBAS-05": "Cassetta valvole preassemblata con 5 valvole",
+      "VBAS-06": "Cassetta valvole preassemblata con 6 valvole",
+      "VBAS-07": "Cassetta valvole preassemblata con 7 valvole",
+      "VBAS-08": "Cassetta valvole preassemblata con 8 valvole",
+      "VBAS-09": "Cassetta valvole preassemblata con 9 valvole",
+      "VBAS-10": "Cassetta valvole preassemblata con 10 valvole",
+      "VBAS-11": "Cassetta valvole preassemblata con 11 valvole",
+      "VBAS-12": "Cassetta valvole preassemblata con 12 valvole",
+      "VBAS-13": "Cassetta valvole preassemblata con 13 valvole"
     },
     "_pipes_Anybrand": {
       "HDPE-16-SDR9": "Tubo a pressione HDPE 16mm SDR 9",

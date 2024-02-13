@@ -8803,7 +8803,20 @@
       "VLV-BSP-3M-24AC": "Válvula de riego 24VAC 3\"M (BSP)",
       "VLV-BSP-3M-9DC": "Válvula de riego 9VDC 3\"M (BSP)",
       "VLV-NPT-3M-24AC": "Válvula de riego 24VAC 3\"M (NPT)",
-      "VLV-NPT-3M-9DC": "Válvula de riego 9VDC 3\"M (NPT)"
+      "VLV-NPT-3M-9DC": "Válvula de riego 9VDC 3\"M (NPT)",
+      "VBAS-01": "Caja de válvulas preensamblada con 1 válvula",
+      "VBAS-02": "Caja de válvulas preensamblada con 2 válvulas",
+      "VBAS-03": "Caja de válvulas preensamblada con 3 válvulas",
+      "VBAS-04": "Caja de válvulas preensamblada con 4 válvulas",
+      "VBAS-05": "Caja de válvulas preensamblada con 5 válvulas",
+      "VBAS-06": "Caja de válvulas preensamblada con 6 válvulas",
+      "VBAS-07": "Caja de válvulas preensamblada con 7 válvulas",
+      "VBAS-08": "Caja de válvulas preensamblada con 8 válvulas",
+      "VBAS-09": "Caja de válvulas preensamblada con 9 válvulas",
+      "VBAS-10": "Caja de válvulas preensamblada con 10 válvulas",
+      "VBAS-11": "Caja de válvulas preensamblada con 11 válvulas",
+      "VBAS-12": "Caja de válvulas preensamblada con 12 válvulas",
+      "VBAS-13": "Caja de válvulas preensamblada con 13 válvulas"
     },
     "_pipes_Anybrand": {
       "HDPE-16-SDR9": "Tubo de presión HDPE 16mm SDR 9",

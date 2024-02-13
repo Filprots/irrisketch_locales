@@ -8803,7 +8803,20 @@
       "VLV-BSP-3M-24AC": "Valve d'irrigation 24VAC 3\"M (BSP)",
       "VLV-BSP-3M-9DC": "Valve d'irrigation 9VDC 3\"M (BSP)",
       "VLV-NPT-3M-24AC": "Valve d'irrigation 24VAC 3\"M (NPT)",
-      "VLV-NPT-3M-9DC": "Valve d'irrigation 9VDC 3\"M (NPT)"
+      "VLV-NPT-3M-9DC": "Valve d'irrigation 9VDC 3\"M (NPT)",
+      "VBAS-01": "Boîte de vannes pré-assemblée avec 1 vanne",
+      "VBAS-02": "Boîte de vannes pré-assemblée avec 2 vannes",
+      "VBAS-03": "Boîte de vannes pré-assemblée avec 3 vannes",
+      "VBAS-04": "Boîte de vannes pré-assemblée avec 4 vannes",
+      "VBAS-05": "Boîte de vannes pré-assemblée avec 5 vannes",
+      "VBAS-06": "Boîte de vannes pré-assemblée avec 6 vannes",
+      "VBAS-07": "Boîte de vannes pré-assemblée avec 7 vannes",
+      "VBAS-08": "Boîte de vannes pré-assemblée avec 8 vannes",
+      "VBAS-09": "Boîte de vannes pré-assemblée avec 9 vannes",
+      "VBAS-10": "Boîte de vannes pré-assemblée avec 10 vannes",
+      "VBAS-11": "Boîte de vannes pré-assemblée avec 11 vannes",
+      "VBAS-12": "Boîte de vannes pré-assemblée avec 12 vannes",
+      "VBAS-13": "Boîte de vannes pré-assemblée avec 13 vannes"
     },
     "_pipes_Anybrand": {
       "HDPE-16-SDR9": "Tube sous pression HDPE 16mm SDR 9",

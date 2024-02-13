@@ -8803,7 +8803,20 @@
       "VLV-BSP-3M-24AC": "Ventil za navodnjavanje 24VAC 3\"M (BSP)",
       "VLV-BSP-3M-9DC": "Ventil za navodnjavanje 9VDC 3\"M (BSP)",
       "VLV-NPT-3M-24AC": "Ventil za navodnjavanje 24VAC 3\"M (NPT)",
-      "VLV-NPT-3M-9DC": "Ventil za navodnjavanje 9VDC 3\"M (NPT)"
+      "VLV-NPT-3M-9DC": "Ventil za navodnjavanje 9VDC 3\"M (NPT)",
+      "VBAS-01": "Unaprijed sastavljena kutija ventila s 1 ventilom",
+      "VBAS-02": "Unaprijed sastavljena kutija ventila s 2 ventila",
+      "VBAS-03": "Unaprijed sastavljena kutija ventila s 3 ventila",
+      "VBAS-04": "Unaprijed sastavljena kutija ventila s 4 ventila",
+      "VBAS-05": "Unaprijed sastavljena kutija ventila s 5 ventila",
+      "VBAS-06": "Unaprijed sastavljena kutija ventila s 6 ventila",
+      "VBAS-07": "Unaprijed sastavljena kutija ventila s 7 ventila",
+      "VBAS-08": "Unaprijed sastavljena kutija ventila s 8 ventila",
+      "VBAS-09": "Unaprijed sastavljena kutija ventila s 9 ventila",
+      "VBAS-10": "Unaprijed sastavljena kutija ventila s 10 ventila",
+      "VBAS-11": "Unaprijed sastavljena kutija ventila s 11 ventila",
+      "VBAS-12": "Unaprijed sastavljena kutija ventila s 12 ventila",
+      "VBAS-13": "Unaprijed sastavljena kutija ventila s 13 ventila"
     },
     "_pipes_Anybrand": {
       "HDPE-16-SDR9": "HDPE tlačna cijev 16mm SDR 9",

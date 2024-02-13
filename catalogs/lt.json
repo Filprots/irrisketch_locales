@@ -8803,7 +8803,20 @@
       "VLV-BSP-3M-24AC": "Laistymo vožtuvas 24VAC 3\"M (BSP)",
       "VLV-BSP-3M-9DC": "Laistymo vožtuvas 9VDC 3\"M (BSP)",
       "VLV-NPT-3M-24AC": "Laistymo vožtuvas 24VAC 3\"M (NPT)",
-      "VLV-NPT-3M-9DC": "Laistymo vožtuvas 9VDC 3\"M (NPT)"
+      "VLV-NPT-3M-9DC": "Laistymo vožtuvas 9VDC 3\"M (NPT)",
+      "VBAS-01": "Iš anksto surinkta vožtuvo dėžė su 1 vožtuvu",
+      "VBAS-02": "Iš anksto surinkta vožtuvo dėžė su 2 vožtuvais",
+      "VBAS-03": "Iš anksto surinkta vožtuvo dėžė su 3 vožtuvais",
+      "VBAS-04": "Iš anksto surinkta vožtuvo dėžė su 4 vožtuvais",
+      "VBAS-05": "Iš anksto surinkta vožtuvo dėžė su 5 vožtuvais",
+      "VBAS-06": "Iš anksto surinkta vožtuvo dėžė su 6 vožtuvais",
+      "VBAS-07": "Iš anksto surinkta vožtuvo dėžė su 7 vožtuvais",
+      "VBAS-08": "Iš anksto surinkta vožtuvo dėžė su 8 vožtuvais",
+      "VBAS-09": "Iš anksto surinkta vožtuvo dėžė su 9 vožtuvais",
+      "VBAS-10": "Iš anksto surinkta vožtuvo dėžė su 10 vožtuvais",
+      "VBAS-11": "Iš anksto surinkta vožtuvo dėžė su 11 vožtuvais",
+      "VBAS-12": "Iš anksto surinkta vožtuvo dėžė su 12 vožtuvais",
+      "VBAS-13": "Iš anksto surinkta vožtuvo dėžė su 13 vožtuvais"
     },
     "_pipes_Anybrand": {
       "HDPE-16-SDR9": "HDPE slėgio vamzdis 16 mm SDR 9",

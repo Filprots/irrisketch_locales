@@ -8803,7 +8803,20 @@
       "VLV-BSP-3M-24AC": "Sulama vanası 24VAC 3\"M (BSP)",
       "VLV-BSP-3M-9DC": "Sulama vanası 9VDC 3\"M (BSP)",
       "VLV-NPT-3M-24AC": "Sulama vanası 24VAC 3\"M (NPT)",
-      "VLV-NPT-3M-9DC": "Sulama vanası 9VDC 3\"M (NPT)"
+      "VLV-NPT-3M-9DC": "Sulama vanası 9VDC 3\"M (NPT)",
+      "VBAS-01": "1 valfli önceden montajlı valf kutusu",
+      "VBAS-02": "2 valfli önceden montajlı valf kutusu",
+      "VBAS-03": "3 valfli önceden montajlı valf kutusu",
+      "VBAS-04": "4 valfli önceden montajlı valf kutusu",
+      "VBAS-05": "5 valfli önceden montajlı valf kutusu",
+      "VBAS-06": "6 valfli önceden montajlı valf kutusu",
+      "VBAS-07": "7 valfli önceden montajlı valf kutusu",
+      "VBAS-08": "8 valfli önceden montajlı valf kutusu",
+      "VBAS-09": "9 valfli önceden montajlı valf kutusu",
+      "VBAS-10": "10 valfli önceden montajlı valf kutusu",
+      "VBAS-11": "11 valfli önceden montajlı valf kutusu",
+      "VBAS-12": "12 valfli önceden montajlı valf kutusu",
+      "VBAS-13": "13 valfli önceden montajlı valf kutusu"
     },
     "_pipes_Anybrand": {
       "HDPE-16-SDR9": "HDPE basınçlı boru 16mm SDR 9",

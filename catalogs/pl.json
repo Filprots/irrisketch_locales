@@ -12154,7 +12154,8 @@
         "PRS": " (Ciśnienie regulowane 3,1 bar)",
         "NP": " (woda niezdatna do picia)",
         "SS": " (Stal nierdzewna)",
-        "HS": " (Wysoka prędkość obrotowa)"
+        "HS": " (Wysoka prędkość obrotowa)",
+        "ON": " (Opposing nozzle)"
       },
       "maxi_colors": {
         "red": "czerwony",

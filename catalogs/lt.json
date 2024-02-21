@@ -12154,7 +12154,8 @@
         "PRS": " (Reguliuojamas slėgis 3,1 baro)",
         "NP": " (negeriamas vanduo)",
         "SS": " (Nerūdijantis plienas)",
-        "HS": " (Spartus sukimasis)"
+        "HS": " (Spartus sukimasis)",
+        "ON": " (Opposing nozzle)"
       },
       "maxi_colors": {
         "red": "raudona",

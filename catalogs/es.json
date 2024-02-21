@@ -12154,7 +12154,8 @@
         "PRS": " (Presión regulada 3,1 bar)",
         "NP": " (agua no potable)",
         "SS": " (Acero inoxidable)",
-        "HS": " (High-speed rotation)"
+        "HS": " (High-speed rotation)",
+        "ON": " (Opposing nozzle)"
       },
       "maxi_colors": {
         "red": "rojo",

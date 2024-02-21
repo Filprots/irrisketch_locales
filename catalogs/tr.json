@@ -12154,7 +12154,8 @@
         "PRS": " (Basınç ayarlı 3,1 bar)",
         "NP": " (içilemez su)",
         "SS": " (Paslanmaz çelik)",
-        "HS": " (Yüksek hızlı dönüş)"
+        "HS": " (Yüksek hızlı dönüş)",
+        "ON": " (Opposing nozzle)"
       },
       "maxi_colors": {
         "red": "kırmızı",

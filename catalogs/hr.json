@@ -12154,7 +12154,8 @@
         "PRS": " (regulacija tlaka 3.1 bar)",
         "NP": " (ne-pitka voda)",
         "SS": " (Obloga stapa od INOX-a)",
-        "HS": " (High-speed rotation)"
+        "HS": " (High-speed rotation)",
+        "ON": " (Opposing nozzle)"
       },
       "maxi_colors": {
         "red": "crvena",

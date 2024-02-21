@@ -12154,7 +12154,8 @@
         "PRS": " (Druk geregeld 3,1 bar)",
         "NP": " (niet-drinkbaar water)",
         "SS": " (RVS)",
-        "HS": " (rotatie op hoge snelheid)"
+        "HS": " (rotatie op hoge snelheid)",
+        "ON": " (Opposing nozzle)"
       },
       "maxi_colors": {
         "red": "rood",

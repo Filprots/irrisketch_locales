@@ -1,0 +1,261 @@
+<script type="module">
+    if (location.hash !== null && location.hash !== "") {
+        $(location.hash + ".collapse").collapse();
+    }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
+</script>
+
+<div class="container" id="faq">
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Általános kérdések</span></div>
+    </div>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+                aria-expanded="false"
+                aria-controls="qA1">
+            Előfizetést vásároltam, de a fizetős funkció nem elérhető, mi a teendő?
+        </button>
+    </p>
+    <div class="collapse" id="qA1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                Miután megvásárolt egy fizetős IRRISketch előfizetést, azt manuálisan kell aktiválnia a személyes
+                fiókjában
+                a linkre kattintva:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>,
+            </p>
+            ahol az előfizetésed a jobb oldali oszlopban lesz. Az aktiválás után szabadon használhatja az összes
+            szolgáltatás fizetett funkcióit.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+                aria-expanded="false"
+                aria-controls="qA2">
+            Kifizettem az előfizetést, de nem jelent meg a személyes szekrényemben.
+        </button>
+    </p>
+    <div class="collapse" id="qA2" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                Ebben az esetben a következő linkre kattintva kell belépnie a személyes fiókjába:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>
+            </p>
+            <p>
+                Nézze meg a rendelés alján található gombot. A piros "Ismétlés" gomb azt jelenti, hogy a fizetés
+                nem sikerült
+                és meg kell próbálnia újra, de először ellenőrizze, hogy a pénz le lett-e terhelve.
+            </p>
+            <p>
+                Ha már régóta látja a sárga "Folyamatban lévő fizetés" gombot, akkor jó eséllyel a
+                tranzakció nem
+                megtörtént
+                automatikus megerősítés. Ha ez a helyzet, kattintson erre a gombra a befejezéshez, és mindennek meg kell történnie
+                működni.
+            </p>
+            A sikeres fizetés és a tranzakció befejezése után a zöld "Payment Verified" feliratot látja.
+            gombot.
+            Kattintson rá, és az előfizetése megjelenik a jobb oldali oszlopban.
+        </div>
+    </div>
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Kérdések a projektekkel kapcsolatban</span></div>
+    </div>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+                aria-expanded="false" aria-controls="qP1">
+            A projektben végrehajtott változtatások nem lettek elmentve/vissza akarom állítani a projekt egy bizonyos állapotát.
+            projektet, mit kell tennem?
+        </button>
+    </p>
+    <div class="collapse" id="qP1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                (Ez a módszer csak a fejlesztői eszközökkel rendelkező böngészőkben működik.)
+            </p>
+            <p>
+                1. Nyissa meg ugyanazt a böngészőt ugyanazon a számítógépen, ahol utoljára dolgozott a projekten.
+            </p>
+            <p>
+                2. Menjen az IRRISketch műhelybe, és nyissa meg a problémát tartalmazó projektet.
+            </p>
+            <p>
+                3. Ha a projekt megnyitásakor megjelenik egy ablak, amely a projekt visszaállítására szólít fel, kattintson a
+                "Visszaállítás" gombra, és
+                nézze meg az eredményt. Ha a projektet nem sikerült a kívánt állapotba visszaállítani, folytassa a
+                a  weboldalon található utasításokat.
+            </p>
+            <p>
+                4. Nyissa meg a fejlesztői eszközöket (a legtöbb böngészőben - az F12 gomb) és nyissa meg a Konzol lapot.
+                az alábbi képen látható módon:
+                <br>
+                <img src="/images/faq/console.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                5. Írja be a következő parancsot a konzolba, és nyomja meg az Enter billentyűt:
+            </p>
+            <p>
+                autobackup.ASL()
+            </p>
+            <p>
+                6. Megjelenik az automatikus mentések listája (általában az utolsó 12) ( Az automatikus mentés tízévente történik.
+                percenként,
+                Tehát 12 × 10 = 120 perc = 2 óra) Valahogy így fog kinézni:
+                <br>
+                <img src="/images/faq/autobackup.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                Ha valami ilyesmi merülne fel:
+                <br>
+                <img src="/images/faq/autobackupFolded.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                     width="30%" height="30%">
+            </p>
+            <p>
+                Ezután nyomja meg a háromszög szimbólumot ( ▶ ) a lista kibővítéséhez ( ▼ ).
+            </p>
+            <p>
+                7. Az automatikus mentések listájában válassza ki azt az időpontot, amikor a számításai szerint a projektet
+                a
+                a legtöbb
+                és nézze meg, hogy milyen szám áll a sor elején.
+            </p>
+            <p>
+                8. Írja be a következő szöveget a konzolba:
+            </p>
+            <p>
+                autobackup.RAS(*Illessze be az előző bekezdésben szereplő számot ide*)
+            </p>
+            9. Győződjön meg arról, hogy a helyreállított állapot megfelel az Ön igényeinek. Ha nem, hívja fel a
+            parancsot
+            az előző pontból egy másik számmal, amíg meg nem találja a kívánt állapotot.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+                aria-expanded="false"
+                aria-controls="qP2">
+            Hogyan jeleníthetem meg a rácsot egy projektrajzon? A rajzrács nem jelenik meg a PDF/PNG formátumba történő kiadáskor.
+        </button>
+    </p>
+    <div class="collapse" id="qP2" data-parent="#faq">
+        <div class="card card-body">
+        <span>
+            Ahhoz, hogy a rács nyomtatáskor megjelenjen, azt képként kell elhelyezni a rajzon. A rácshálót letöltheti,
+            például <a
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing"
+                    target="_blank">innen</a>, majd méretezze a rajzon a kívánt méretre.
+        </span>
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+                aria-expanded="false"
+                aria-controls="qP3">
+            Hogyan vihetek át egy projektet egyik fiókból a másikba?
+        </button>
+    </p>
+    <div class="collapse" id="qP3" data-parent="#faq">
+        <div class="card card-body">
+            Ehhez a projektfájlt a jobb felső panelen található megfelelő gomb segítségével töltheti le.
+            Ezt követően hozzon létre egy üres projektet egy új fiókban, és a "Load" gomb segítségével nyissa meg a korábban letöltött
+            fájlt.
+            <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP4"
+                aria-expanded="false"
+                aria-controls="qP4">
+            A projekt "lóg"/A rajzolási módba való átmenet sok időt vesz igénybe
+        </button>
+    </p>
+    <div class="collapse" id="qP4" data-parent="#faq">
+        <span>
+           <p>
+                Ez általában a projekt nagyon nagy elemszámával függ össze, mivel az IRRISketch Residential nem különösen nagyméretű telkekhez készült. Ez a probléma úgy oldható meg, hogy a rajzolási módban az összes meglévő objektumot törli, és egyetlen háttérrel helyettesíti.
+            </p>
+            <p>
+                1. Hozzon létre egy másolatot a projektről, és nyissa meg, ha fél, hogy véletlenül elveszíti az adatokat.
+            </p>
+            <p>
+                2. Váltson öntözési módba, és a ctrl+a billentyűkombinációval jelölje ki az összes elemet, majd a ctrl+x billentyűkombinációval vágja ki őket (a vágólapra kerülnek).
+            </p>
+            <p>
+               3. Váltson rajzolási módba, állítsa be a "Tájkép" beállítást a "Vizuális stílus" lapon, hogy a projekt eredeti tájképét kapja, és távolítsa el a bélyeget.
+            </p>
+            <img src="/images/faq/visualStyleEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+            <p>
+                4. Válassza ki az A1 és A4 közötti lapformátumot. Minél nagyobb a lapméret, annál jobb minőségű lesz a végső kép, de annál több helyet foglal el.
+            </p>
+            <img src="/images/faq/listFormatEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+            <p>
+                5. Használja a "vonalzó" eszközt rajzolási módban, hogy megmérje a rajz bármely könnyen mérhető elemét, és rögzítse a hosszát, mivel később szükség lesz rá.
+            </p>
+            <img src="/images/faq/rulerEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                6. Váltson a képernyő alján lévő "Rajz szerkesztése" üzemmódba, és illessze be a rajzot a lapba a bal alsó sarokban lévő gomb segítségével. Exportálja a projektet képként.
+                Ha a kapott kép nagyobb, mint 10 MB, akkor nem tudja majd használni. Ebben az esetben, ha ért a különböző képszerkesztők (pl. Photoshop, Gimp) használatához, tömörítse a képet, vagy csökkentse a színek számát. Ez csökkenti a fájl méretét.
+            </p>
+            <img src="/images/faq/fitEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="100%" height="100%">
+            <p>
+                7. Helyezze be a képet a projektbe, és állítsa be a megfelelő méretarányt az 5. lépésben rögzített hossz segítségével.
+            </p>
+            <img src="/images/faq/resizeEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                8. Igazítsa a képet a rajzához úgy, hogy minden elem ugyanabban a pozícióban legyen, mint ahogyan a képen szerepel.
+            </p>
+            <img src="/images/faq/alignEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                9. Zárolja a képet a kép kiválasztásával és a bal alsó sarokban lévő megfelelő gombra kattintással.
+            </p>
+            <img src="/images/faq/lockEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="15%" height="15%">
+            <p>
+                10. A ctrl+a billentyűkombinációval jelölje ki az összes elemet rajzolási módban, és törölje őket. Csak a képednek kell megmaradnia.
+            </p>
+            <p>
+                11. Térjen vissza az öntözési módba, és illessze vissza a korábban törölt öntözési elemeket a rajzra a ctrl+v billentyűkombinációval. Ha helyesen tette, minden elemnek vissza kell térnie az eredeti pozíciójába.
+            </p>
+        </span>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP5"
+                aria-expanded="false"
+                aria-controls="qP5">
+            Az elrendezési módban egyes zónák nem jelennek meg/nem jelenik meg a csepegtetés
+        </button>
+    </p>
+    <div class="collapse" id="qP5" data-parent="#faq">
+       <span>
+           This behaviour is related to the zone representation settings in the layout.
+            To change the zone representation settings, in the lower left corner, in the layouts mode, click on the "Zones representation" button and check the boxes next to the zones you want to see in the layout. Alternatively, you can create a new layout and all existing zones will be displayed on it.
+        </span>
+    </div>
+    <hr>
+</div>

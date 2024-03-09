@@ -7,7 +7,8 @@
         una traducción incorrecta. Si amas IRRISketch y deseas utilizarlo en tu idioma nativo con traducciones de alta
         calidad,
         puedes <a class="social-icon text-xs-center" target="_blank"
-                  href="mailto:mail@irrisketch.ru?subject=IRRISKETCH_Translation_Offer_(ES)">ponerte en contacto con nosotros sobre este tema</a>.
+                  href="mailto:mail@irrisketch.ru?subject=IRRISKETCH_Translation_Offer_(ES)">ponerte en contacto con
+            nosotros sobre este tema</a>.
         ¡Al apoyar a IRRISketch, obtendrás ventajas únicas!
     </div>
 <% }  else if (locale === 'fr') { %>
@@ -19,7 +20,18 @@
         une traduction incorrecte. Si vous aimez IRRISketch et souhaitez l'utiliser dans votre langue maternelle avec
         des traductions de haute qualité,
         vous pouvez <a class="social-icon text-xs-center" target="_blank"
-                       href="mailto:mail@irrisketch.ru?subject=IRRISKETCH_Translation_Offer_(ES)">nous contacter à ce sujet</a>.
+                       href="mailto:mail@irrisketch.ru?subject=IRRISKETCH_Translation_Offer_(ES)">nous contacter à ce
+            sujet</a>.
         En soutenant IRRISketch, vous bénéficierez d'avantages uniques !
+    </div>
+<% } %>
+
+<% if (typeof not_a_chrome !== 'undefined') { %>
+    <% if (typeof no_header === 'undefined') { %>
+        <hr>
+    <% } %>
+    <div class="alert alert-warning fade show"
+         role="alert">
+        <%- __("Not_A_Chrome_Attention") %>
     </div>
 <% } %>

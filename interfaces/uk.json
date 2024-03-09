@@ -1613,5 +1613,6 @@
   "irrisketch_residential_six-month_EUR_paypro": "Підписка IRRISketch Residential PRO (Оплата кожні півроку)",
   "irrisketch_residential_month_EUR_paypro": "Підписка IRRISketch Residential PRO (Щомісячна оплата)",
   "Impressum": "Імпресум",
-  "ImpressumPage": "Імпресум"
+  "ImpressumPage": "Імпресум",
+  "Not_A_Chrome_Attention": "Для кращого досвіду користувача ми рекомендуємо використовувати <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>браузер Chrome</a>, оскільки він забезпечує найкращу продуктивність і сумісність з нашим сервісом"
 }

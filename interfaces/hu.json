@@ -1613,5 +1613,6 @@
   "irrisketch_residential_six-month_EUR_paypro": "IRRISketch Residential PRO előfizetés (félévente számlázva)",
   "irrisketch_residential_month_EUR_paypro": "IRRISketch Residential PRO előfizetés (havonta számlázva)",
   "Impressum": "Impresszum",
-  "ImpressumPage": "Impresszum"
+  "ImpressumPage": "Impresszum",
+  "Not_A_Chrome_Attention": "A jobb felhasználói élmény érdekében ajánljuk a <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>Chrome böngésző</a> használatát, mivel ez biztosítja a legjobb teljesítményt és kompatibilitást szolgáltatásunkkal"
 }

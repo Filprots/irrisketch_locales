@@ -1613,5 +1613,6 @@
   "irrisketch_residential_six-month_EUR_paypro": "Subscrição IRRISketch Residential PRO (Facturada semestralmente)",
   "irrisketch_residential_month_EUR_paypro": "Subscrição IRRISketch Residential PRO (Facturada mensalmente)",
   "Impressum": "Nota legal",
-  "ImpressumPage": "Nota legal"
+  "ImpressumPage": "Nota legal",
+  "Not_A_Chrome_Attention": "Para uma melhor experiência do usuário, recomendamos usar <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>o navegador Chrome</a>, pois ele oferece o melhor desempenho e compatibilidade com nosso serviço"
 }

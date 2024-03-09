@@ -5,6 +5,7 @@
         types: {
             brushSurface: ["Oberfläche","Oberfläche zeichnen","Oberfläche bearbeiten"],
             brushLawn: ["Rasen","Rasen zeichnen","Rasen bearbeiten"],
+            brushIrrigateMarks: ["Special marker", "Special marker drawing", "Special marker editing"],
             brushConcrete: ["Beton","Beton zeichnen","Beton bearbeiten"],
             brushSand: ["Sand","Sand zeichnen","Sand bearbeiten"],
             brushBed: ["Beet","Beet zeichnen","Beet bearbeiten"],
@@ -18,6 +19,7 @@
             tree: ["Baum","Baum zeichnen","Baum bearbeiten"],
             polySurface: ["Oberfläche","Oberfläche zeichnen","Oberfläche bearbeiten"],
             polyLawn: ["Rasen","Rasen zeichnen","Rasen bearbeiten"],
+            polyIrrigateMarks: ["Special marker", "Special marker drawing", "Special marker editing"],
             polyConcrete: ["Beton","Beton zeichnen","Beton bearbeiten"],
             polySand: ["Sand","Sand zeichnen","Sand bearbeiten"],
             polyBed: ["Beet","Beet zeichnen","Beet bearbeiten"],

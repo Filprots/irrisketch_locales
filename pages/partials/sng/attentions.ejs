@@ -31,12 +31,4 @@
 <!--    </button>-->
 <!--</div>-->
 
-<% if (typeof not_a_chrome !== 'undefined') { %>
-    <% if (typeof no_header === 'undefined') { %>
-        <hr>
-    <% } %>
-    <div class="alert alert-warning fade show"
-         role="alert">
-        <%- __("Not_A_Chrome_Attention") %>
-    </div>
-<% } %>
+<%- partial('../notChrome') %>

@@ -1,0 +1,30 @@
+<% if (typeof not_a_chrome !== 'undefined') { %>
+    <% if (typeof no_header === 'undefined') { %>
+        <hr>
+    <% } %>
+    <div class="alert alert-warning alert-dismissible fade show" role="alert" id="chromeAlert" style="display:none;">
+        <strong><%- __("Not_A_Chrome_Attention") %></strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close" onclick="setDismissCookie()">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+    <script>
+        function setDismissCookie() {
+            var d = new Date();
+            d.setTime(d.getTime() + (30 * 24 * 60 * 60 * 1000)); // set the expiration to 30 days
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = "alertDismissed=true;" + expires + ";path=/";
+        }
+
+        function checkCookie() {
+            if (document.cookie.indexOf('alertDismissed=true') === -1) {
+                // If the cookie is not set, show the alert
+                document.getElementById('chromeAlert').style.display = 'block';
+            }
+        }
+
+        window.onload = function () {
+            checkCookie();
+        }
+    </script>
+<% } %>

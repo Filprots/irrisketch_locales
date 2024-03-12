@@ -10636,7 +10636,15 @@
       "PLD-06-24": "Ala gocciolante Hunter da 17 mm PLD-06-24 (flusso 2,2 l/h) (spaziatura 60cm/24in)",
       "PLD-10-12": "Ala gocciolante Hunter da 17 mm PLD-10-12 (portata 3,8 l/h) (spaziatura 30cm/12in)",
       "PLD-10-18": "Ala gocciolante Hunter da 17 mm PLD-10-18 (portata 3,8 l/h) (spaziatura 18\")",
-      "PLD-10-24": "Ala gocciolante Hunter da 17 mm PLD-10-24 (portata 3,8 l/h) (spaziatura 60cm/24in)"
+      "PLD-10-24": "Ala gocciolante Hunter da 17 mm PLD-10-24 (portata 3,8 l/h) (spaziatura 60cm/24in)",
+      "HDL-04-12": "<U>Hunter 17mm drip line HDL-04-12 (0.4 GPH) (12in spacing)",
+      "HDL-04-18": "<U>Hunter 17mm drip line HDL-04-18 (0.4 GPH) (18in spacing)",
+      "HDL-06-12": "<U>Hunter 17mm drip line HDL-06-12 (0.6 GPH) (12in spacing)",
+      "HDL-06-18": "<U>Hunter 17mm drip line HDL-06-18 (0.6 GPH) (18in spacing)",
+      "HDL-06-24": "<U>Hunter 17mm drip line HDL-06-24 (0.6 GPH) (24in spacing)",
+      "HDL-09-12": "<U>Hunter 17mm drip line HDL-09-12 (0.9 GPH) (12in spacing)",
+      "HDL-09-18": "<U>Hunter 17mm drip line HDL-09-18 (0.9 GPH) (18in spacing)",
+      "HDL-09-24": "<U>Hunter 17mm drip line HDL-09-24 (0.9 GPH) (24in spacing)"
     },
     "_staticNozzles_Hunter": {
       "PDC-ADJ-4A": "Ugello regolabile Hunter PDC 4A",

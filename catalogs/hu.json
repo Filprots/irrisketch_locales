@@ -10636,7 +10636,15 @@
       "PLD-06-24": "Hunter 17 mm-es cseppvezeték PLD-06-24 (2,2 l/h áramlás) (60 cm/24 hüvelyk távolság)",
       "PLD-10-12": "Hunter 17 mm-es cseppvezeték PLD-10-12 (3,8 l/h áramlás) (30 cm/12 hüvelyk távolság)",
       "PLD-10-18": "Hunter 17 mm-es cseppvezeték PLD-10-18 (3,8 l/h áramlás) (45 cm/18 hüvelyk távolság)",
-      "PLD-10-24": "Hunter 17 mm-es cseppvezeték PLD-10-24 (3,8 l/h áramlás) (60 cm/24 hüvelyk távolság)"
+      "PLD-10-24": "Hunter 17 mm-es cseppvezeték PLD-10-24 (3,8 l/h áramlás) (60 cm/24 hüvelyk távolság)",
+      "HDL-04-12": "<U>Hunter 17mm drip line HDL-04-12 (0.4 GPH) (12in spacing)",
+      "HDL-04-18": "<U>Hunter 17mm drip line HDL-04-18 (0.4 GPH) (18in spacing)",
+      "HDL-06-12": "<U>Hunter 17mm drip line HDL-06-12 (0.6 GPH) (12in spacing)",
+      "HDL-06-18": "<U>Hunter 17mm drip line HDL-06-18 (0.6 GPH) (18in spacing)",
+      "HDL-06-24": "<U>Hunter 17mm drip line HDL-06-24 (0.6 GPH) (24in spacing)",
+      "HDL-09-12": "<U>Hunter 17mm drip line HDL-09-12 (0.9 GPH) (12in spacing)",
+      "HDL-09-18": "<U>Hunter 17mm drip line HDL-09-18 (0.9 GPH) (18in spacing)",
+      "HDL-09-24": "<U>Hunter 17mm drip line HDL-09-24 (0.9 GPH) (24in spacing)"
     },
     "_staticNozzles_Hunter": {
       "PDC-ADJ-4A": "Hunter PDC 4A állítható fúvóka",

@@ -11785,7 +11785,13 @@
       "RNS-LES-515": "Полосовая форсунка K-Rain RNS-LES-515",
       "RN100-ADJ": "Форсунка K-Rain RN100-ADJ",
       "RN200-ADJ": "Форсунка K-Rain RN200-ADJ",
-      "RN300-ADJ": "Форсунка K-Rain RN300-ADJ"
+      "RN300-ADJ": "Форсунка K-Rain RN300-ADJ",
+      "RN100-ADJ-90-210": "Форсунка K-Rain RN100-ADJ-90-210",
+      "RN100-ADJ-210-270": "Форсунка K-Rain RN100-ADJ-210-270",
+      "RN200-ADJ-90-210": "Форсунка K-Rain RN200-ADJ-90-210",
+      "RN200-ADJ-210-270": "Форсунка K-Rain RN200-ADJ-210-270",
+      "RN300-ADJ-90-210": "Форсунка K-Rain RN300-ADJ-90-210",
+      "RN300-ADJ-210-270": "Форсунка K-Rain RN300-ADJ-210-270"
     },
     "_sprayBodies_KRain": {
       "71201": "Корпус дождевателя K-Rain 71201 K-Spray",

@@ -11785,7 +11785,13 @@
       "RNS-LES-515": "K-Rain RNS-LES-515 döner şerit nozulu",
       "RN100-ADJ": "K-Rain RN100-ADJ döner nozul",
       "RN200-ADJ": "K-Rain RN200-ADJ döner nozul",
-      "RN300-ADJ": "K-Rain RN300-ADJ döner nozul"
+      "RN300-ADJ": "K-Rain RN300-ADJ döner nozul",
+      "RN100-ADJ-90-210": "K-Rain RN100-ADJ-90-210 rotary nozzle",
+      "RN100-ADJ-210-270": "K-Rain RN100-ADJ-210-270 rotary nozzle",
+      "RN200-ADJ-90-210": "K-Rain RN200-ADJ-90-210 rotary nozzle",
+      "RN200-ADJ-210-270": "K-Rain RN200-ADJ-210-270 rotary nozzle",
+      "RN300-ADJ-90-210": "K-Rain RN300-ADJ-90-210 rotary nozzle",
+      "RN300-ADJ-210-270": "K-Rain RN300-ADJ-210-270 rotary nozzle"
     },
     "_sprayBodies_KRain": {
       "71201": "K-Rain 71201 K-Sprey sprey gövdesi",

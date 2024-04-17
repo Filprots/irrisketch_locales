@@ -1623,5 +1623,7 @@
   "irrisketch_residential_month_EUR_paypro": "IRRISketch Konut PRO Aboneliği (Aylık faturalandırılmış)",
   "Impressum": "Yasal Uyarı",
   "ImpressumPage": "Yasal Uyarı",
-  "Not_A_Chrome_Attention": "Daha iyi bir kullanıcı deneyimi için, <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>Chrome Tarayıcı</a>'yı kullanmanızı öneririz, çünkü bu, servisimizle en iyi performansı ve uyumluluğu sağlar"
+  "Not_A_Chrome_Attention": "Daha iyi bir kullanıcı deneyimi için, <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>Chrome Tarayıcı</a>'yı kullanmanızı öneririz, çünkü bu, servisimizle en iyi performansı ve uyumluluğu sağlar",
+  "misc_use2FAMail": "Email üzerinden 2FA",
+  "/loginVerificationPage": "İki faktörlü kimlik doğrulama"
 }

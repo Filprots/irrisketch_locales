@@ -1624,5 +1624,6 @@
 	"Impressum": "Impressum",
 	"ImpressumPage": "Impressum",
 	"Not_A_Chrome_Attention": "For better user experience, we recommend to use <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>Chrome Browser</a>, because it is providing the best performance and compatibility with our service",
-	"misc_use2FAMail": "misc_use2FAMail"
+	"misc_use2FAMail": "2FA via email",
+	"/loginVerificationPage": "Two factor authentication"
 }

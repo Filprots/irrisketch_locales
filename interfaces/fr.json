@@ -1623,5 +1623,7 @@
   "irrisketch_residential_month_EUR_paypro": "Abonnement IRRISketch Residential PRO (Facturé mensuellement)",
   "Impressum": "Mentions légales",
   "ImpressumPage": "Mentions légales",
-  "Not_A_Chrome_Attention": "Pour une meilleure expérience utilisateur, nous recommandons d'utiliser <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>le navigateur Chrome</a>, car il offre la meilleure performance et compatibilité avec notre service"
+  "Not_A_Chrome_Attention": "Pour une meilleure expérience utilisateur, nous recommandons d'utiliser <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>le navigateur Chrome</a>, car il offre la meilleure performance et compatibilité avec notre service",
+  "misc_use2FAMail": "2FA par courriel",
+  "/loginVerificationPage": "Authentification à deux facteurs"
 }

@@ -1623,5 +1623,7 @@
   "irrisketch_residential_month_EUR_paypro": "Subskrypcja IRRISketch Residential PRO (Rozliczana miesięcznie)",
   "Impressum": "Stopka redakcyjna",
   "ImpressumPage": "Stopka redakcyjna",
-  "Not_A_Chrome_Attention": "Dla lepszego doświadczenia użytkownika, polecamy korzystać z <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>przeglądarki Chrome</a>, ponieważ zapewnia ona najlepszą wydajność i kompatybilność z naszą usługą"
+  "Not_A_Chrome_Attention": "Dla lepszego doświadczenia użytkownika, polecamy korzystać z <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>przeglądarki Chrome</a>, ponieważ zapewnia ona najlepszą wydajność i kompatybilność z naszą usługą",
+  "misc_use2FAMail": "2FA przez e-mail",
+  "/loginVerificationPage": "Uwierzytelnianie dwuskładnikowe"
 }

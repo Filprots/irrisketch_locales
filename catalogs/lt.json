@@ -12059,7 +12059,8 @@
       "3203-KIT-PORT-SPAN": "K-Rain 3203-KIT, rankinis nuotolinio valdymo pultas ir RF modulis PRO EX 2.0 valdikliui",
       "3202-220-WIFI-BUNDLE-KIT": "K-Rain 3202-WIFI-BUNDLE-KIT, WiFi paketo rinkinys PRO EX 2.0 valdikliui",
       "3202-220-WIFI-BUNDLE-KIT-GERMA": "K-Rain 3202-WIFI-BUNDLE-KIT, WiFi paketo rinkinys PRO EX 2.0 valdikliui",
-      "3912-220-P": "K-Rain RPS469, 12 stočių su kištuku lauko 220V kintamosios srovės valdikliu"
+      "3912-220-P": "K-Rain RPS469, 12 stočių su kištuku lauko 220V kintamosios srovės valdikliu",
+      "3100-BRIDGE": "K-Rain BRIDGE Wi-Fi Module for PRO-LC controller"
     },
     "_valves_KRain": {
       "7001": "K-Rain 7001 1“ vožtuvas, srauto reguliatorius, vidinis NPT sriegis",
@@ -12493,7 +12494,29 @@
       "MJ100B": "Rain Bird MJ100B Žalvarinis srauto matuoklis su 1“ NPT sriegiu",
       "RC2-230V": "Rain Bird RC2, 8 stočių lauko 230V kintamosios srovės valdiklis",
       "RC2-AUS": "Rain Bird RC2, 8 stočių lauko 230 V kintamosios srovės (Australija) valdiklis",
-      "RC2-120V": "Rain Bird RC2, 8 stočių lauko 120V kintamosios srovės valdiklis"
+      "RC2-120V": "Rain Bird RC2, 8 stočių lauko 120V kintamosios srovės valdiklis",
+      "TRU8O": "Rain Bird TRU, 8-Station outdoor 120V AC controller",
+      "TRU4I": "Rain Bird TRU, 4-Station indoor 120V AC controller",
+      "TRU6I": "Rain Bird TRU, 6-Station indoor 120V AC controller",
+      "ARC6": "Rain Bird ARC, 6-Station indoor 120V AC controller",
+      "ARC8": "Rain Bird ARC, 8-Station outdoor 120V AC controller",
+      "ESPBAT-BT1": "Rain Bird ESPBAT-BT1, battery operated 1-Station Bluetooth/infrared port controller",
+      "ESPBAT-BT2": "Rain Bird ESPBAT-BT2, battery operated 2-Station Bluetooth/infrared port controller",
+      "ESPBAT-BT4": "Rain Bird ESPBAT-BT4, battery operated 4-Station Bluetooth/infrared port controller",
+      "ESPBAT-BT6": "Rain Bird ESPBAT-BT6, battery operated 6-Station Bluetooth/infrared port controller",
+      "LNKWIFI2": "Rain Bird LNKWIFI WiF-2 Module for ESP-ME3, ESP-TM2, ESP-RZXe, ESP-LXME2, and ESP-LXIVM controllers",
+      "A83926": "Rain Bird FG100 1\" / 25.4 mm Flow Sensor NPT thread",
+      "A83927": "Rain Bird FG100 1\" / 25.4 mm Flow Sensor Slip",
+      "A83928": "Rain Bird FG100 1\" / 25.4 mm Flow Sensor BSP thread",
+      "TM2i4-230V": "Rain Bird ESP-TM2, 4-Station indoor 230V AC controller",
+      "TM2i6-230V": "Rain Bird ESP-TM2, 6-Station indoor 230V AC controller",
+      "TM2i8-230V": "Rain Bird ESP-TM2, 8-Station indoor 230V AC controller",
+      "TM2i12-230V": "Rain Bird ESP-TM2, 12-Station indoor 230V AC controller",
+      "RC2I4-230V": "Rain Bird RC2, 4-Station indoor 230V AC controller",
+      "RC2I6-230V": "Rain Bird RC2, 6-Station indoor 230V AC controller",
+      "RC2I8-230V": "Rain Bird RC2, 8-Station indoor 230V AC controller",
+      "TRU6I-230V": "Rain Bird TRU, 6-Station indoor 230V AC controller",
+      "TRU6O-AUS": "Rain Bird TRU, 6-Station outdoor 230V AC controller"
     },
     "_valves_RainBird": {
       "LFV-075": "Rain Bird LFV-075 ¾“ vožtuvas, vidinis BSP sriegis",

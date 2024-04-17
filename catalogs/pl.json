@@ -12059,7 +12059,8 @@
       "3203-KIT-PORT-SPAN": "K-Rain 3203-KIT, pilot ręczny i moduł RF do sterownika PRO EX 2.0",
       "3202-220-WIFI-BUNDLE-KIT": "K-Rain 3202-WIFI-BUNDLE-KIT, zestaw Wi-Fi do sterownika PRO EX 2.0",
       "3202-220-WIFI-BUNDLE-KIT-GERMA": "K-Rain 3202-WIFI-BUNDLE-KIT, zestaw Wi-Fi do sterownika PRO EX 2.0",
-      "3912-220-P": "K-Rain RPS469, 12-sekcyjny sterownik zewnętrzny 220V AC z wtyczką"
+      "3912-220-P": "K-Rain RPS469, 12-sekcyjny sterownik zewnętrzny 220V AC z wtyczką",
+      "3100-BRIDGE": "K-Rain BRIDGE Wi-Fi Module for PRO-LC controller"
     },
     "_valves_KRain": {
       "7001": "Zawór K-Rain 7001 1”, kontrola przepływu, gwint wewnętrzny NPT",
@@ -12493,7 +12494,29 @@
       "MJ100B": "Rain Bird MJ100B Przepływomierz mosiężny z gwintem 1” NPT",
       "RC2-230V": "Rain Bird RC2, 8-sekcyjny sterownik zewnętrzny 230 V AC",
       "RC2-AUS": "Rain Bird RC2, 8-sekcyjny sterownik zewnętrzny 230 V AC (Australia).",
-      "RC2-120V": "Rain Bird RC2, 8-sekcyjny sterownik zewnętrzny 120 V AC"
+      "RC2-120V": "Rain Bird RC2, 8-sekcyjny sterownik zewnętrzny 120 V AC",
+      "TRU8O": "Rain Bird TRU, 8-Station outdoor 120V AC controller",
+      "TRU4I": "Rain Bird TRU, 4-Station indoor 120V AC controller",
+      "TRU6I": "Rain Bird TRU, 6-Station indoor 120V AC controller",
+      "ARC6": "Rain Bird ARC, 6-Station indoor 120V AC controller",
+      "ARC8": "Rain Bird ARC, 8-Station outdoor 120V AC controller",
+      "ESPBAT-BT1": "Rain Bird ESPBAT-BT1, battery operated 1-Station Bluetooth/infrared port controller",
+      "ESPBAT-BT2": "Rain Bird ESPBAT-BT2, battery operated 2-Station Bluetooth/infrared port controller",
+      "ESPBAT-BT4": "Rain Bird ESPBAT-BT4, battery operated 4-Station Bluetooth/infrared port controller",
+      "ESPBAT-BT6": "Rain Bird ESPBAT-BT6, battery operated 6-Station Bluetooth/infrared port controller",
+      "LNKWIFI2": "Rain Bird LNKWIFI WiF-2 Module for ESP-ME3, ESP-TM2, ESP-RZXe, ESP-LXME2, and ESP-LXIVM controllers",
+      "A83926": "Rain Bird FG100 1\" / 25.4 mm Flow Sensor NPT thread",
+      "A83927": "Rain Bird FG100 1\" / 25.4 mm Flow Sensor Slip",
+      "A83928": "Rain Bird FG100 1\" / 25.4 mm Flow Sensor BSP thread",
+      "TM2i4-230V": "Rain Bird ESP-TM2, 4-Station indoor 230V AC controller",
+      "TM2i6-230V": "Rain Bird ESP-TM2, 6-Station indoor 230V AC controller",
+      "TM2i8-230V": "Rain Bird ESP-TM2, 8-Station indoor 230V AC controller",
+      "TM2i12-230V": "Rain Bird ESP-TM2, 12-Station indoor 230V AC controller",
+      "RC2I4-230V": "Rain Bird RC2, 4-Station indoor 230V AC controller",
+      "RC2I6-230V": "Rain Bird RC2, 6-Station indoor 230V AC controller",
+      "RC2I8-230V": "Rain Bird RC2, 8-Station indoor 230V AC controller",
+      "TRU6I-230V": "Rain Bird TRU, 6-Station indoor 230V AC controller",
+      "TRU6O-AUS": "Rain Bird TRU, 6-Station outdoor 230V AC controller"
     },
     "_valves_RainBird": {
       "LFV-075": "Zawór Rain Bird LFV-075 ¾”, gwint wewnętrzny BSP",

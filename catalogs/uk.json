@@ -12059,7 +12059,8 @@
       "3203-KIT-PORT-SPAN": "K-Rain 3203-KIT, пульт дистанционного управления и радиочастотный модуль для контроллера PRO EX 2.0",
       "3202-220-WIFI-BUNDLE-KIT": "K-Rain 3202-WIFI-BUNDLE-KIT, комплект WiFi для контроллера PRO EX 2.0 controller",
       "3202-220-WIFI-BUNDLE-KIT-GERMA": "K-Rain 3202-WIFI-BUNDLE-KIT, комплект WiFi для контроллера PRO EX 2.0 controller",
-      "3912-220-P": "Контроллер K-Rain RPS469, 12 зон, наружный монтаж, с вилкой 220В"
+      "3912-220-P": "Контроллер K-Rain RPS469, 12 зон, наружный монтаж, с вилкой 220В",
+      "3100-BRIDGE": "K-Rain BRIDGE Wi-Fi Модуль для контроллера PRO-LC"
     },
     "_valves_KRain": {
       "7001": "Электромагнитный клапан K-Rain 7001 1“ контроль потока, внутренняя резьба NPT",
@@ -12493,7 +12494,29 @@
       "MJ100B": "Rain Bird MJ100B латунный расходометр 1“ резьба NPT",
       "RC2-230V": "Контроллер Rain Bird RC2, 8 зон, наружный монтаж 230В",
       "RC2-AUS": "Контроллер Rain Bird RC2, 8 зон, наружный монтаж 230В (Для Австралии)",
-      "RC2-120V": "Контроллер Rain Bird RC2, 8 зон, наружный монтаж 120В"
+      "RC2-120V": "Контроллер Rain Bird RC2, 8 зон, наружный монтаж 120В",
+      "TRU8O": "Контроллер Rain Bird TRU, 8 зон наруж. 120V AC",
+      "TRU4I": "Контроллер Rain Bird TRU, 4 зоны внутр. 120V AC",
+      "TRU6I": "Контроллер Rain Bird TRU, 6 зон внутр. 120V AC",
+      "ARC6": "Контроллер Rain Bird ARC, 6 зон внутр. 120V AC",
+      "ARC8": "Контроллер Rain Bird ARC, 8 зон наруж. 120V AC",
+      "ESPBAT-BT1": "Контроллер Rain Bird ESPBAT-BT1, автономный 1 зона Bluetooth/ИК-порт",
+      "ESPBAT-BT2": "Контроллер Rain Bird ESPBAT-BT2, автономный 2 зоны Bluetooth/ИК-порт",
+      "ESPBAT-BT4": "Контроллер Rain Bird ESPBAT-BT4, автономный 4 зоны Bluetooth/ИК-порт",
+      "ESPBAT-BT6": "Контроллер Rain Bird ESPBAT-BT6, автономный 6 зон Bluetooth/ИК-порт",
+      "LNKWIFI2": "Rain Bird LNKWIFI WiF-2 Модуль для контроллеров серий ESP-ME3, ESP-TM2, ESP-RZXe, ESP-LXME2, и ESP-LXIVM",
+      "A83926": "Контроллер Rain Bird FG100 1\" / 25.4 mm Flow Sensor NPT thread",
+      "A83927": "Контроллер Rain Bird FG100 1\" / 25.4 mm Flow Sensor Slip",
+      "A83928": "Контроллер Rain Bird FG100 1\" / 25.4 mm Flow Sensor BSP thread",
+      "TM2i4-230V": "Контроллер Rain Bird ESP-TM2, 4 зоны внутр. 230V AC",
+      "TM2i6-230V": "Контроллер Rain Bird ESP-TM2, 6 зон внутр. 230V AC",
+      "TM2i8-230V": "Контроллер Rain Bird ESP-TM2, 8 зон внутр. 230V AC",
+      "TM2i12-230V": "Контроллер Rain Bird ESP-TM2, 12 зон внутр. 230V AC",
+      "RC2I4-230V": "Контроллер Rain Bird RC2, 4 зоны внутр. 230V AC",
+      "RC2I6-230V": "Контроллер Rain Bird RC2, 6 зон внутр. 230V AC",
+      "RC2I8-230V": "Контроллер Rain Bird RC2, 8 зон внутр. 230V AC",
+      "TRU6I-230V": "Контроллер Rain Bird TRU, 6 зон внутр. 230V AC",
+      "TRU6O-AUS": "Контроллер Rain Bird TRU, 6 зон наруж. 230V AC"
     },
     "_valves_RainBird": {
       "LFV-075": "Електромагнітний клапан Rain Bird LFV-075 ¾“ внутрішня різьба BSP",

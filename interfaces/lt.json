@@ -1544,7 +1544,7 @@
   "Mail_userEvents_Subscription_Expired_Activated": "IRRISketch – nauja prenumerata buvo suaktyvinta, kai pasibaigė ankstesnės galiojimo laikas",
   "Mail_userEvents_Your_Sub_AboutTo_Expire": "Jūsų prenumerata netrukus baigsis",
   "Mail_userEvents_Days_Left": "Dienos iki galiojimo pabaigos:",
-  "Mail_userEvents_Purchase_One_In_Advance": "Galite laiku įsigyti naują ir suaktyvinti vėliau, kai baigsis dabartinės prenumeratos galiojimas. Jei jūsų prenumerata baigiasi, nesijaudinkite - jūsų esami projektai nebus įtakoti jokiu būdu. Kol bus atnaujinta jūsų prenumerata, turėsite prieigą tik prie mokamų funkcijų. \n\n Šis laiškas taikomas tik nurodytai prenumeratai. Jei jau įsigijote naują prenumeratą, ji bus automatiškai suaktyvinta, jei jūsų profilyje įjungtas atitinkamas nustatymas.",
+  "Mail_userEvents_Purchase_One_In_Advance": "Galite laiku įsigyti naują ir suaktyvinti vėliau, kai baigsis dabartinės prenumeratos galiojimas. Jei jūsų prenumerata baigiasi, nesijaudinkite - jūsų esami projektai nebus įtakoti jokiu būdu. Kol bus atnaujinta jūsų prenumerata, turėsite prieigą tik prie mokamų funkcijų. <br><br> Šis laiškas taikomas tik nurodytai prenumeratai. Jei jau įsigijote naują prenumeratą, ji bus automatiškai suaktyvinta, jei jūsų profilyje įjungtas atitinkamas nustatymas.",
   "Mail_userEvents_Subscription_AboutToExpire": "IRRISketch prenumerata netrukus baigsis",
   "Mail_userEvents_Your_Sub_Activated": "Sveikiname, jūsų prenumerata dabar aktyvi!",
   "Mail_userEvents_Now_You_Have_Full_Access": "Dabar įjungtos papildomos funkcijos (žr. prenumeratos aprašymą)",

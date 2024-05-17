@@ -1544,7 +1544,7 @@
   "Mail_userEvents_Subscription_Expired_Activated": "IRRISketch - a nova assinatura foi ativada quando a anterior expirou",
   "Mail_userEvents_Your_Sub_AboutTo_Expire": "Sua assinatura está prestes a expirar",
   "Mail_userEvents_Days_Left": "Dias até o vencimento:",
-  "Mail_userEvents_Purchase_One_In_Advance": "Você pode comprar um novo em tempo hábil e ativá-lo mais tarde, quando a assinatura atual expirar. Se sua assinatura expirar, não se preocupe - seus projetos existentes não serão afetados de forma alguma. Até que sua assinatura seja renovada, você só não terá acesso a funcionalidades pagas. \n\n Esta carta aplica-se apenas à assinatura especificada. Se você já adquiriu uma nova assinatura, ela será ativada automaticamente se a configuração correspondente estiver habilitada em seu perfil.",
+  "Mail_userEvents_Purchase_One_In_Advance": "Você pode comprar um novo em tempo hábil e ativá-lo mais tarde, quando a assinatura atual expirar. Se sua assinatura expirar, não se preocupe - seus projetos existentes não serão afetados de forma alguma. Até que sua assinatura seja renovada, você só não terá acesso a funcionalidades pagas. <br><br> Esta carta aplica-se apenas à assinatura especificada. Se você já adquiriu uma nova assinatura, ela será ativada automaticamente se a configuração correspondente estiver habilitada em seu perfil.",
   "Mail_userEvents_Subscription_AboutToExpire": "A assinatura do IRRISketch está prestes a expirar",
   "Mail_userEvents_Your_Sub_Activated": "Parabéns, sua assinatura agora está ativa!",
   "Mail_userEvents_Now_You_Have_Full_Access": "Agora você tem recursos adicionais ativados (consulte a descrição da assinatura)",

@@ -1544,7 +1544,7 @@
   "Mail_userEvents_Subscription_Expired_Activated": "IRRISketch - il nuovo abbonamento è stato attivato quando il precedente è scaduto",
   "Mail_userEvents_Your_Sub_AboutTo_Expire": "Il tuo abbonamento sta per scadere",
   "Mail_userEvents_Days_Left": "Giorni alla scadenza:",
-  "Mail_userEvents_Purchase_One_In_Advance": "Puoi acquistarne uno nuovo in tempo utile e attivarlo successivamente, alla scadenza dell'abbonamento in corso. Se il tuo abbonamento scade, non preoccuparti - i tuoi progetti esistenti non saranno affetti in alcun modo. Fino a quando l'abbonamento non sarà rinnovato, avrai accesso solo alle funzionalità a pagamento. \n\n Questa lettera si applica solo all'abbonamento specificato. Se hai già acquistato un nuovo abbonamento, verrà attivato automaticamente se l'impostazione corrispondente è abilitata nel tuo profilo.",
+  "Mail_userEvents_Purchase_One_In_Advance": "Puoi acquistarne uno nuovo in tempo utile e attivarlo successivamente, alla scadenza dell'abbonamento in corso. Se il tuo abbonamento scade, non preoccuparti - i tuoi progetti esistenti non saranno affetti in alcun modo. Fino a quando l'abbonamento non sarà rinnovato, avrai accesso solo alle funzionalità a pagamento. <br><br> Questa lettera si applica solo all'abbonamento specificato. Se hai già acquistato un nuovo abbonamento, verrà attivato automaticamente se l'impostazione corrispondente è abilitata nel tuo profilo.",
   "Mail_userEvents_Subscription_AboutToExpire": "L'abbonamento IRRISketch sta per scadere",
   "Mail_userEvents_Your_Sub_Activated": "Congratulazioni, il tuo abbonamento è ora attivo!",
   "Mail_userEvents_Now_You_Have_Full_Access": "Ora hai funzionalità aggiuntive abilitate (Vedi la descrizione dell'abbonamento)",

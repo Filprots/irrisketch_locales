@@ -1544,7 +1544,7 @@
   "Mail_userEvents_Subscription_Expired_Activated": "IRRISketch – új előfizetés aktiválva volt, amikor az előző lejárt",
   "Mail_userEvents_Your_Sub_AboutTo_Expire": "Előfizetése hamarosan lejár",
   "Mail_userEvents_Days_Left": "Napok a lejáratig:",
-  "Mail_userEvents_Purchase_One_In_Advance": "Időben vásárolhat újat, és később aktiválhatja, amikor az aktuális előfizetés lejár. ",
+  "Mail_userEvents_Purchase_One_In_Advance": "Időben vásárolhat újat, és később aktiválhatja, amikor az aktuális előfizetés lejár. \n\n Ez a levél csak a megadott előfizetésre vonatkozik. Ha már megvásárolt egy új előfizetést, az automatikusan aktiválódik, ha a megfelelő beállítás engedélyezve van a profiljában.",
   "Mail_userEvents_Subscription_AboutToExpire": "Az IRRISketch előfizetés hamarosan lejár",
   "Mail_userEvents_Your_Sub_Activated": "Gratulálunk, előfizetése aktív!",
   "Mail_userEvents_Now_You_Have_Full_Access": "Mostantól további funkciók is engedélyezve vannak (lásd az előfizetés leírását)",

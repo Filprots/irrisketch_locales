@@ -1544,7 +1544,7 @@
   "Mail_userEvents_Subscription_Expired_Activated": "IRRISketch - nieuw abonnement werd geactiveerd toen het vorige afliep",
   "Mail_userEvents_Your_Sub_AboutTo_Expire": "Je abonnement loopt bijna af",
   "Mail_userEvents_Days_Left": "Dagen tot vervaldatum:",
-  "Mail_userEvents_Purchase_One_In_Advance": "U kunt tijdig een nieuwe aanschaffen en deze later activeren als het huidige abonnement afloopt. Als uw abonnement verloopt, maak u geen zorgen - uw bestaande projecten zullen op geen enkele manier worden beïnvloed. Totdat uw abonnement is verlengd, heeft u alleen geen toegang tot betaalde functionaliteiten.",
+  "Mail_userEvents_Purchase_One_In_Advance": "U kunt tijdig een nieuwe aanschaffen en deze later activeren als het huidige abonnement afloopt. Als uw abonnement verloopt, maak u geen zorgen - uw bestaande projecten zullen op geen enkele manier worden beïnvloed. Totdat uw abonnement is verlengd, heeft u alleen geen toegang tot betaalde functionaliteiten. \n\n Deze brief is alleen van toepassing op het opgegeven abonnement. Als u al een nieuw abonnement heeft aangeschaft, wordt dit automatisch geactiveerd als de overeenkomstige instelling in uw profiel is ingeschakeld.",
   "Mail_userEvents_Subscription_AboutToExpire": "IRRISketch-abonnement verloopt bijna",
   "Mail_userEvents_Your_Sub_Activated": "Gefeliciteerd, je abonnement is nu actief!",
   "Mail_userEvents_Now_You_Have_Full_Access": "Nu heb je extra functies ingeschakeld (zie abonnementsbeschrijving)",

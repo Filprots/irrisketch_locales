@@ -1544,7 +1544,7 @@
   "Mail_userEvents_Subscription_Expired_Activated": "IRRISketch - önceki abonelik süresi dolduğunda yeni abonelik etkinleştirildi",
   "Mail_userEvents_Your_Sub_AboutTo_Expire": "Aboneliğiniz sona ermek üzere",
   "Mail_userEvents_Days_Left": "Son kullanma tarihine kalan günler:",
-  "Mail_userEvents_Purchase_One_In_Advance": "Uygun bir zamanda yeni bir tane satın alabilir ve daha sonra mevcut aboneliğiniz sona erdiğinde etkinleştirebilirsiniz. ",
+  "Mail_userEvents_Purchase_One_In_Advance": "Uygun bir zamanda yeni bir tane satın alabilir ve daha sonra mevcut aboneliğiniz sona erdiğinde etkinleştirebilirsiniz. \n\n Bu mektup yalnızca belirtilen abonelik için geçerlidir. Zaten yeni bir abonelik satın aldıysanız, profilinizdeki ilgili ayar etkinleştirilmişse otomatik olarak etkinleştirilecektir.",
   "Mail_userEvents_Subscription_AboutToExpire": "IRRISketch aboneliğinin süresi dolmak üzere",
   "Mail_userEvents_Your_Sub_Activated": "Tebrikler, aboneliğiniz artık aktif!",
   "Mail_userEvents_Now_You_Have_Full_Access": "Artık ek özellikleri etkinleştirdiniz (Abonelik açıklamasına bakın)",

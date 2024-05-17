@@ -1544,7 +1544,7 @@
   "Mail_userEvents_Subscription_Expired_Activated": "IRRISketch - nowa subskrypcja została aktywowana po wygaśnięciu poprzedniej",
   "Mail_userEvents_Your_Sub_AboutTo_Expire": "Twoja subskrypcja wkrótce wygaśnie",
   "Mail_userEvents_Days_Left": "Dni do wygaśnięcia:",
-  "Mail_userEvents_Purchase_One_In_Advance": "Możesz kupić nowy w odpowiednim czasie i aktywować go później, gdy wygaśnie bieżąca subskrypcja. ",
+  "Mail_userEvents_Purchase_One_In_Advance": "Możesz kupić nowy w odpowiednim czasie i aktywować go później, gdy wygaśnie bieżąca subskrypcja. \n\n Ten list dotyczy tylko określonej subskrypcji. Jeśli już zakupiłeś nową subskrypcję, zostanie ona automatycznie aktywowana, jeśli odpowiednie ustawienie jest włączone w Twoim profilu.",
   "Mail_userEvents_Subscription_AboutToExpire": "Subskrypcja IRRISketch wkrótce wygaśnie",
   "Mail_userEvents_Your_Sub_Activated": "Gratulacje, Twoja subskrypcja jest teraz aktywna!",
   "Mail_userEvents_Now_You_Have_Full_Access": "Teraz masz włączone dodatkowe funkcje (zobacz opis subskrypcji)",

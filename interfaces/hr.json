@@ -1544,7 +1544,7 @@
   "Mail_userEvents_Subscription_Expired_Activated": "IRRISketch - nova pretplata je aktivirana kada je prethodna istekla",
   "Mail_userEvents_Your_Sub_AboutTo_Expire": "Vaša pretplata uskoro ističe",
   "Mail_userEvents_Days_Left": "Dana do isteka:",
-  "Mail_userEvents_Purchase_One_In_Advance": "Možete unaprijed kupiti novu i aktivirati je kasnije, kada trenutna pretplata istekne. Ako vaša pretplata istekne, ne brinite - vaši postojeći projekti neće biti pogođeni na bilo koji način. Dok se vaša pretplata ne obnovi, imat ćete pristup samo plaćenim funkcionalnostima.",
+  "Mail_userEvents_Purchase_One_In_Advance": "Možete unaprijed kupiti novu i aktivirati je kasnije, kada trenutna pretplata istekne. Ako vaša pretplata istekne, ne brinite - vaši postojeći projekti neće biti pogođeni na bilo koji način. Dok se vaša pretplata ne obnovi, imat ćete pristup samo plaćenim funkcionalnostima. \n\n Ovo pismo se odnosi samo na navedenu pretplatu. Ako ste već kupili novu pretplatu, ona će se automatski aktivirati ako je odgovarajuća postavka omogućena u vašem profilu.",
   "Mail_userEvents_Subscription_AboutToExpire": "IRRISketch pretplata uskoro ističe",
   "Mail_userEvents_Your_Sub_Activated": "Čestitamo, vaša pretplata je sada aktivna!",
   "Mail_userEvents_Now_You_Have_Full_Access": "Sada imate omogućene dodatne značajke (vidi opis pretplate)",

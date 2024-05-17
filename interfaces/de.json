@@ -1544,7 +1544,7 @@
 	"Mail_userEvents_Subscription_Expired_Activated": "IRRISketch - neues Abonnement wurde aktiviert, als das vorherige abgelaufen ist",
 	"Mail_userEvents_Your_Sub_AboutTo_Expire": "Ihr Abonnement läuft bald ab",
 	"Mail_userEvents_Days_Left": "Tage bis zum Ablauf:",
-	"Mail_userEvents_Purchase_One_In_Advance": "Sie können rechtzeitig ein neues erwerben und es später aktivieren, wenn das aktuelle Abonnement abläuft. Wenn Ihr Abonnement abläuft, machen Sie sich keine Sorgen - Ihre bestehenden Projekte werden in keiner Weise beeinträchtigt. Bis Ihr Abonnement erneuert wird, haben Sie keinen Zugriff auf kostenpflichtige Funktionen.",
+	"Mail_userEvents_Purchase_One_In_Advance": "Sie können rechtzeitig ein neues erwerben und es später aktivieren, wenn das aktuelle Abonnement abläuft. Wenn Ihr Abonnement abläuft, machen Sie sich keine Sorgen - Ihre bestehenden Projekte werden in keiner Weise beeinträchtigt. Bis Ihr Abonnement erneuert wird, haben Sie keinen Zugriff auf kostenpflichtige Funktionen. \n\n Dieses Schreiben gilt nur für das angegebene Abonnement. Wenn Sie bereits ein neues Abonnement erworben haben, wird es automatisch aktiviert, wenn die entsprechende Einstellung in Ihrem Profil aktiviert ist.",
 	"Mail_userEvents_Subscription_AboutToExpire": "IRRISketch Abonnement läuft bald ab",
 	"Mail_userEvents_Your_Sub_Activated": "Herzlichen Glückwunsch, Ihr Abonnement ist jetzt aktiv!",
 	"Mail_userEvents_Now_You_Have_Full_Access": "Jetzt haben Sie zusätzliche Funktionen aktiviert (siehe Abonnementbeschreibung)",

@@ -13635,5 +13635,12 @@
         "PC": "Part circle"
       }
     }
+  },
+  "AZUD": {
+    "_dripLines_AZUD": {
+      "AZUD-PREMIER-PC-AS-16-2.3-0.33": "AZUD PREMIER PC AS Línea de goteo de 16 mm (caudal de 2.3 l/h) (espacio de 30cm) (antisifón)",
+      "AZUD-PREMIER-PC-AS-16-2.3-0.35": "AZUD PREMIER PC AS Línea de goteo de 16 mm (caudal de 2.3 l/h) (espacio de 35cm) (antisifón)",
+      "AZUD-PREMIER-PC-AS-16-2.3-0.50": "AZUD PREMIER PC AS Línea de goteo de 16 mm (caudal de 2.3 l/h) (espacio de 50cm) (antisifón)"
+    }
   }
 }

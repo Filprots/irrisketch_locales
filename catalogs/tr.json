@@ -13635,5 +13635,12 @@
         "PC": "Kısmi daire"
       }
     }
+  },
+  "AZUD": {
+    "_dripLines_AZUD": {
+      "AZUD-PREMIER-PC-AS-16-2.3-0.33": "AZUD PREMIER PC AS 16mm drip line (2.3 l/h flow) (33cm) (anti-suction)",
+      "AZUD-PREMIER-PC-AS-16-2.3-0.35": "AZUD PREMIER PC AS 16mm drip line (2.3 l/h flow) (35cm) (anti-suction)",
+      "AZUD-PREMIER-PC-AS-16-2.3-0.50": "AZUD PREMIER PC AS 16mm drip line (2.3 l/h flow) (50cm) (anti-suction)"
+    }
   }
 }

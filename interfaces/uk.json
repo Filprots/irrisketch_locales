@@ -1625,5 +1625,6 @@
   "ImpressumPage": "Імпресум",
   "Not_A_Chrome_Attention": "Для кращого досвіду користувача ми рекомендуємо використовувати <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>браузер Chrome</a>, оскільки він забезпечує найкращу продуктивність і сумісність з нашим сервісом",
   "misc_use2FAMail": "2FA через електронну пошту",
-  "/loginVerificationPage": "Двофакторна автентифікація"
+  "/loginVerificationPage": "Двофакторна автентифікація",
+  "ZoneNumber": "Номер зони"
 }

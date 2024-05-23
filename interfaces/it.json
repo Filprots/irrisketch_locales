@@ -1625,5 +1625,6 @@
   "ImpressumPage": "Note legali",
   "Not_A_Chrome_Attention": "Per una migliore esperienza utente, raccomandiamo di utilizzare <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>il browser Chrome</a>, in quanto offre le migliori prestazioni e compatibilità con il nostro servizio",
   "misc_use2FAMail": "2FA via email",
-  "/loginVerificationPage": "Autenticazione a due fattori"
+  "/loginVerificationPage": "Autenticazione a due fattori",
+  "ZoneNumber": "Numero di zona"
 }

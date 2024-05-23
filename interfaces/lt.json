@@ -1625,5 +1625,6 @@
   "ImpressumPage": "Leidėjas",
   "Not_A_Chrome_Attention": "Geresnei naudotojo patirčiai rekomenduojame naudoti <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>Chrome naršyklę</a>, nes ji užtikrina geriausią našumą ir suderinamumą su mūsų paslauga",
   "misc_use2FAMail": "2FA per el. paštą",
-  "/loginVerificationPage": "Dviejų veiksnių autentifikacija"
+  "/loginVerificationPage": "Dviejų veiksnių autentifikacija",
+  "ZoneNumber": "Zonos numeris"
 }

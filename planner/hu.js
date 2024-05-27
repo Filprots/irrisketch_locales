@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Egyenletesség (CU)",
         overwatered: "Túlöntözött",
         precipRateShort: "Csapadék.",
+        runtimeInd: "Futási idő",
         coveredArea: "Terület",
         microClimateInd: "M/Klíma",
         soilTypeInd: "Talajtípus",
@@ -989,6 +990,23 @@ this.LNG = {
             "Sajnáljuk, nem találjuk néhány alap képet a szerveren",
             "Ez a kép nem található:"
         ],
+        precipCalcError_mixedError: [
+            'Csapadéktérkép hiba',
+            'Nem sikerült létrehozni a csapadéktérképeket az öntözőfejek kombinációjához:',
+        ],
+        precipCalcError_mprNonMprRot: 'Nem lehet keverni a normál rotorokat és az MPR fúvókákkal rendelkező rotorokat',
+        precipCalcError_mprNozNonMprRot: 'Nem lehet keverni az MPR fúvókákat és a normál rotorokat',
+        precipCalcError_staticNozRot: 'Nem lehet keverni a statikus fúvókákat a rotorokkal',
+        precipCalcError_staticMprNoz: 'Nem lehet keverni a statikus fúvókákat az MPR fúvókákkal',
+        precipCalcError_missingError: [
+            'Csapadéktérkép hiba',
+            'Hiányzó csapadékprofilok az öntözőfejekhez:',
+        ],
+        precipCalcError_zoningError: [
+            'Csapadéktérkép zónázási hiba',
+            'Nem sikerült létrehozni a csapadéktérképeket az öntözőfejek kombinációjához:',
+        ],
+        precipCalcError_noZoneAndZone: 'Nem lehet egyszerre kiszámítani a csapadékot a csatlakoztatott és nem csatlakoztatott rotorokhoz. Az üzemidő ismeretlen, ezért a rotorok fordulatszáma bizonytalan',
         cannotSaveBecauseOffline: [
             "Nem sikerült a kérés küldése a szerverhez",
             "Nincs kapcsolat a szerverrel",

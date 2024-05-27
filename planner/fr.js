@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Uniformity (CU)",
         overwatered: "Overwatered",
         precipRateShort: "Précip.",
+        runtimeInd: "Temps d'exécution",
         coveredArea: "Surface",
         microClimateInd: "M/Climate",
         soilTypeInd: "Sol",
@@ -989,6 +990,23 @@ this.LNG = {
             "Désolé, nous ne pouvons pas trouver certaines des images de fond sur le serveur",
             "Cette image n'a pas été trouvée:"
         ],
+        precipCalcError_mixedError: [
+            'Erreur des cartes de précipitation',
+            'Échec de la création des cartes de précipitation pour la combinaison d’arroseurs :',
+        ],
+        precipCalcError_mprNonMprRot: 'Impossible de mélanger les rotors normaux et les rotors avec des buses MPR',
+        precipCalcError_mprNozNonMprRot: 'Impossible de mélanger les buses MPR et les rotors normaux',
+        precipCalcError_staticNozRot: 'Impossible de mélanger les buses statiques avec les rotors',
+        precipCalcError_staticMprNoz: 'Impossible de mélanger les buses statiques avec les buses MPR',
+        precipCalcError_missingError: [
+            'Erreur des cartes de précipitation',
+            'Profils de précipitation manquants pour les arroseurs :',
+        ],
+        precipCalcError_zoningError: [
+            'Erreur de zonage des cartes de précipitation',
+            'Échec de la création des cartes de précipitation pour la combinaison d’arroseurs :',
+        ],
+        precipCalcError_noZoneAndZone: 'Impossible de calculer les précipitations pour les rotors connectés et non connectés simultanément. Le temps d’exécution est inconnu, donc le nombre de révolutions des rotors est incertain',
         cannotSaveBecauseOffline: [
             "Impossible d'envoyer une demande au serveur",
             "Pas de connexion au serveur",

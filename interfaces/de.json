@@ -1626,5 +1626,6 @@
 	"Not_A_Chrome_Attention": "Für ein besseres Benutzererlebnis empfehlen wir, den <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>Chrome-Browser</a> zu verwenden, da er die beste Leistung und Kompatibilität mit unserem Service bietet",
 	"misc_use2FAMail": "2FA per E-Mail",
 	"/loginVerificationPage": "Zwei-Faktor-Authentifizierung",
-	"ZoneNumber": "Zonennummer"
+	"ZoneNumber": "Zonennummer",
+	"action_setZoneRuntime": "Laufzeit der Zone"
 }

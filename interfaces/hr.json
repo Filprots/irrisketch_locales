@@ -1626,5 +1626,6 @@
   "Not_A_Chrome_Attention": "Za bolje korisničko iskustvo, preporučujemo korištenje <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>Chrome preglednika</a>, jer pruža najbolju izvedbu i kompatibilnost s našom uslugom",
   "misc_use2FAMail": "2FA putem e-pošte",
   "/loginVerificationPage": "Dvofaktorska autentikacija",
-  "ZoneNumber": "Broj zone"
+  "ZoneNumber": "Broj zone",
+  "action_setZoneRuntime": "Vrijeme rada zone"
 }

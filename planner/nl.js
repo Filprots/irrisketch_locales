@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Uniformity (CU)",
         overwatered: "Overwatered",
         precipRateShort: "Neerslag",
+        runtimeInd: "Looptijd",
         coveredArea: "Oppervlakte",
         microClimateInd: "M/Microklimaat",
         soilTypeInd: "B/Grondtype",
@@ -989,6 +990,23 @@ this.LNG = {
             "Sorry, we kunnen sommige onderliggende afbeeldingen niet vinden op de server",
             "Deze afbeelding is niet gevonden:"
         ],
+        precipCalcError_mixedError: [
+            'Neerslagkaartfout',
+            'Niet gelukt om neerslagkaarten te maken voor combinatie van sproeiers:',
+        ],
+        precipCalcError_mprNonMprRot: 'Kan normale rotors en rotors met MPR-nozzles niet mixen',
+        precipCalcError_mprNozNonMprRot: 'Kan MPR-nozzles en normale rotors niet mixen',
+        precipCalcError_staticNozRot: 'Kan statische nozzles niet met rotors mixen',
+        precipCalcError_staticMprNoz: 'Kan statische nozzles niet met MPR-nozzles mixen',
+        precipCalcError_missingError: [
+            'Neerslagkaartfout',
+            'Ontbrekende neerslagprofielen voor sproeiers:',
+        ],
+        precipCalcError_zoningError: [
+            'Neerslagkaart zoneringsfout',
+            'Niet gelukt om neerslagkaarten te maken voor combinatie van sproeiers:',
+        ],
+        precipCalcError_noZoneAndZone: 'Kan neerslag niet berekenen voor aangesloten en niet aangesloten rotors tegelijk. Looptijd is onbekend, daarom is het aantal omwentelingen van rotors onzeker',
         cannotSaveBecauseOffline: [
             "Kan verzoek niet naar server verzenden",
             "Geen verbinding met de server",

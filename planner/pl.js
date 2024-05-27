@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Jednolitość (CU)",
         overwatered: "Przesadzone",
         precipRateShort: "Opad.",
+        runtimeInd: "Czas pracy",
         coveredArea: "Powierzchnia",
         microClimateInd: "M/Klimat",
         soilTypeInd: "Typ gleby",
@@ -989,6 +990,23 @@ this.LNG = {
             "Przepraszamy, nie możemy odnaleźć niektórych obrazów podkładowych na serwerze",
             "Ten obraz nie został znaleziony:"
         ],
+        precipCalcError_mixedError: [
+            'Błąd map opadów',
+            'Nie udało się stworzyć map opadów dla kombinacji zraszaczy:',
+        ],
+        precipCalcError_mprNonMprRot: 'Nie można mieszać zwykłych rotorów i rotorów z dyszami MPR',
+        precipCalcError_mprNozNonMprRot: 'Nie można mieszać dysz MPR i zwykłych rotorów',
+        precipCalcError_staticNozRot: 'Nie można mieszać statycznych dysz z rotorami',
+        precipCalcError_staticMprNoz: 'Nie można mieszać statycznych dysz z dyszami MPR',
+        precipCalcError_missingError: [
+            'Błąd map opadów',
+            'Brakujące profile opadów dla zraszaczy:',
+        ],
+        precipCalcError_zoningError: [
+            'Błąd strefowania map opadów',
+            'Nie udało się stworzyć map opadów dla kombinacji zraszaczy:',
+        ],
+        precipCalcError_noZoneAndZone: 'Nie można obliczyć opadów dla rotorów podłączonych i niepodłączonych jednocześnie. Czas pracy jest nieznany, dlatego liczba obrotów rotorów jest niepewna',
         cannotSaveBecauseOffline: [
             "Nie udało się wysłać żądania do serwera",
             "Brak połączenia z serwerem",

@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Uniformity (CU)",
         overwatered: "Overwatered",
         precipRateShort: "Taxa de precip.",
+        runtimeInd: "Tempo de execução",
         coveredArea: "Área",
         microClimateInd: "Microclima",
         soilTypeInd: "Tipo de solo",
@@ -989,6 +990,24 @@ this.LNG = {
             "Desculpe, não conseguimos encontrar algumas das imagens de plano de fundo no servidor",
             "Esta imagem não foi encontrada:"
         ],
+        precipCalcError_mixedError: [
+            'Erro nos mapas de precipitação',
+            'Falha ao construir mapas de precipitação para a combinação de aspersores:',
+        ],
+        precipCalcError_mprNonMprRot: 'Não é possível misturar rotores normais e rotores com bicos MPR',
+        precipCalcError_mprNozNonMprRot: 'Não é possível misturar bicos MPR e rotores normais',
+        precipCalcError_staticNozRot: 'Não é possível misturar bicos estáticos com rotores',
+        precipCalcError_staticMprNoz: 'Não é possível misturar bicos estáticos com bicos MPR',
+        precipCalcError_missingError: [
+            'Erro nos mapas de precipitação',
+            'Perfis de precipitação ausentes para aspersores:',
+        ],
+        precipCalcError_zoningError: [
+            'Erro de zoneamento nos mapas de precipitação',
+            'Falha ao construir mapas de precipitação para a combinação de aspersores:',
+        ],
+        precipCalcError_noZoneAndZone: 'Não é possível calcular a precipitação para rotores conectados e não conectados simultaneamente. O tempo de execução é desconhecido, portanto, a quantidade de revoluções dos rotores é incerta',
+        precipCalcError_noZoneAndZone: 'Não é possível calcular a precipitação para rotores conectados e não conectados simultaneamente. O tempo de execução é desconhecido, portanto, a quantidade de revoluções dos rotores é incerta',
         cannotSaveBecauseOffline: [
             "Falha ao enviar solicitação para o servidor",
             "Sem conexão com o servidor",

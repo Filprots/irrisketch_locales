@@ -1626,5 +1626,6 @@
   "Not_A_Chrome_Attention": "Voor een betere gebruikerservaring raden we aan om <i class=\"fab fa-chrome\"></i>&nbsp;<a target='_blank' href='https://www.google.com/chrome'>Chrome-browser</a> te gebruiken, omdat deze de beste prestaties en compatibiliteit met onze service biedt",
   "misc_use2FAMail": "2FA via e-mail",
   "/loginVerificationPage": "Tweefactorauthenticatie",
-  "ZoneNumber": "Zonenummer"
+  "ZoneNumber": "Zonenummer",
+  "action_setZoneRuntime": "Zone looptijd"
 }

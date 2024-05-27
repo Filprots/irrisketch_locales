@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Uniformity (CU)",
         overwatered: "Overwatered",
         precipRateShort: "Int. precip.",
+        runtimeInd: "Tempo di esecuzione",
         coveredArea: "Area coperta",
         microClimateInd: "M/Climate",
         soilTypeInd: "Tipo di suolo",
@@ -989,6 +990,23 @@ this.LNG = {
             "Spiacenti, non possiamo trovare alcune delle immagini di sottofondo sul server",
             "Questa immagine non è stata trovata:"
         ],
+        precipCalcError_mixedError: [
+            'Errore nelle mappe di precipitazione',
+            'Impossibile creare mappe di precipitazione per la combinazione di irrigatori:',
+        ],
+        precipCalcError_mprNonMprRot: 'Non è possibile mescolare rotori normali e rotori con ugelli MPR',
+        precipCalcError_mprNozNonMprRot: 'Non è possibile mescolare ugelli MPR e rotori normali',
+        precipCalcError_staticNozRot: 'Non è possibile mescolare ugelli statici con rotori',
+        precipCalcError_staticMprNoz: 'Non è possibile mescolare ugelli statici con ugelli MPR',
+        precipCalcError_missingError: [
+            'Errore nelle mappe di precipitazione',
+            'Profili di precipitazione mancanti per gli irrigatori:',
+        ],
+        precipCalcError_zoningError: [
+            'Errore di zonizzazione delle mappe di precipitazione',
+            'Impossibile creare mappe di precipitazione per la combinazione di irrigatori:',
+        ],
+        precipCalcError_noZoneAndZone: 'Non è possibile calcolare la precipitazione per rotori collegati e non collegati contemporaneamente. Il tempo di esecuzione è sconosciuto, pertanto il numero di rivoluzioni dei rotori è incerto',
         cannotSaveBecauseOffline: [
             "Impossibile inviare la richiesta al server",
             "Nessuna connessione al server",

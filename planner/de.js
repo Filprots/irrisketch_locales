@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Gleichmäßigkeit (CU)",
         overwatered: "Überwässerung",
         precipRateShort: "Niederschlagsrate",
+        runtimeInd: "Laufzeit",
         coveredArea: "Fläche",
         microClimateInd: "M/Kima",
         soilTypeInd: "Boden",
@@ -989,6 +990,23 @@ this.LNG = {
             "Entschuldigung, aber wir können einige der Unterlagebilder auf dem Server nicht finden.",
             "Dieses Bild wurde nicht gefunden:"
         ],
+        precipCalcError_mixedError: [
+            'Niederschlagskartenfehler',
+            'Fehler beim Erstellen der Niederschlagskarten für die Kombination der Sprinkler:',
+        ],
+        precipCalcError_mprNonMprRot: 'Normale Rotoren und Rotoren mit MPR-Düsen können nicht gemischt werden',
+        precipCalcError_mprNozNonMprRot: 'MPR-Düsen und normale Rotoren können nicht gemischt werden',
+        precipCalcError_staticNozRot: 'Statische Düsen können nicht mit Rotoren gemischt werden',
+        precipCalcError_staticMprNoz: 'Statische Düsen können nicht mit MPR-Düsen gemischt werden',
+        precipCalcError_missingError: [
+            'Niederschlagskartenfehler',
+            'Fehlende Niederschlagsprofile für Sprinkler:',
+        ],
+        precipCalcError_zoningError: [
+            'Niederschlagskarten-Zonierungsfehler',
+            'Fehler beim Erstellen der Niederschlagskarten für die Kombination der Sprinkler:',
+        ],
+        precipCalcError_noZoneAndZone: 'Niederschlag kann nicht gleichzeitig für angeschlossene und nicht angeschlossene Rotoren berechnet werden. Die Laufzeit ist unbekannt, daher ist die Anzahl der Umdrehungen der Rotoren ungewiss',
         cannotSaveBecauseOffline: [
             "Failed to send request to server",
             "No connection to the server",

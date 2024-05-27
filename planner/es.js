@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Uniformity (CU)",
         overwatered: "Overwatered",
         precipRateShort: "Precip.",
+        runtimeInd: "Tiempo de ejecución",
         coveredArea: "Área",
         microClimateInd: "M/Clima",
         soilTypeInd: "Tipo de suelo",
@@ -989,6 +990,23 @@ this.LNG = {
             "Lo sentimos, no podemos encontrar algunas de las imágenes de fondo en el servidor",
             "Esta imagen no se encontró:"
         ],
+        precipCalcError_mixedError: [
+            'Error en los mapas de precipitación',
+            'Error al construir mapas de precipitación para la combinación de aspersores:',
+        ],
+        precipCalcError_mprNonMprRot: 'No se pueden mezclar rotores normales y rotores con boquillas MPR',
+        precipCalcError_mprNozNonMprRot: 'No se pueden mezclar boquillas MPR y rotores normales',
+        precipCalcError_staticNozRot: 'No se pueden mezclar boquillas estáticas con rotores',
+        precipCalcError_staticMprNoz: 'No se pueden mezclar boquillas estáticas con boquillas MPR',
+        precipCalcError_missingError: [
+            'Error en los mapas de precipitación',
+            'Faltan perfiles de precipitación para los aspersores:',
+        ],
+        precipCalcError_zoningError: [
+            'Error de zonificación en los mapas de precipitación',
+            'Error al construir mapas de precipitación para la combinación de aspersores:',
+        ],
+        precipCalcError_noZoneAndZone: 'No se puede calcular la precipitación para rotores conectados y no conectados simultáneamente. El tiempo de ejecución es desconocido, por lo tanto, la cantidad de revoluciones de los rotores es incierta',
         cannotSaveBecauseOffline: [
             "Fallo al enviar la solicitud al servidor",
             "Sin conexión al servidor",

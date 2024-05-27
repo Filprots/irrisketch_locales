@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Uniformity (CU)",
         overwatered: "Overwatered",
         precipRateShort: "Yağış",
+        runtimeInd: "Çalışma süresi",
         coveredArea: "Alan",
         microClimateInd: "M/İklim",
         soilTypeInd: "Toprak",
@@ -989,6 +990,23 @@ this.LNG = {
             "Üzgünüz, sunucuda bazı arka plan resimlerini bulamıyoruz",
             "Bu resim bulunamadı:"
         ],
+        precipCalcError_mixedError: [
+            'Yağış haritaları hatası',
+            'Püskürtücülerin kombinasyonu için yağış haritaları oluşturulamadı:',
+        ],
+        precipCalcError_mprNonMprRot: 'Normal rotorlar ve MPR memeleri olan rotorlar karıştırılamaz',
+        precipCalcError_mprNozNonMprRot: 'MPR memeleri ve normal rotorlar karıştırılamaz',
+        precipCalcError_staticNozRot: 'Statik memeler rotorlarla karıştırılamaz',
+        precipCalcError_staticMprNoz: 'Statik memeler MPR memeleri ile karıştırılamaz',
+        precipCalcError_missingError: [
+            'Yağış haritaları hatası',
+            'Püskürtücüler için eksik yağış profilleri:',
+        ],
+        precipCalcError_zoningError: [
+            'Yağış haritaları bölgeleme hatası',
+            'Püskürtücülerin kombinasyonu için yağış haritaları oluşturulamadı:',
+        ],
+        precipCalcError_noZoneAndZone: 'Bağlı ve bağlantısız rotorlar için aynı anda yağış hesaplanamaz. Çalışma süresi bilinmiyor, bu nedenle rotorların dönüş sayısı belirsiz',
         "cannotSaveBecauseOffline": [
             "Sunucuya istek gönderilemedi",
             "Sunucuya bağlantı yok",

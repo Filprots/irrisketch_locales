@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Uniformity (CU)",
         overwatered: "Overwatered",
         precipRateShort: "Kritul.",
+        runtimeInd: "Veikimo laikas",
         coveredArea: "Plotas",
         microClimateInd: "Mikroklimatas",
         soilTypeInd: "Dirvožemis",
@@ -989,6 +990,23 @@ this.LNG = {
             "Atsiprašome, mes negalime rasti kai kurių pagrindo paveikslų serveryje",
             "Šis paveikslas nebuvo rastas:"
         ],
+        precipCalcError_mixedError: [
+            'Kritulių žemėlapių klaida',
+            'Nepavyko sukurti kritulių žemėlapių purkštuvų deriniui:',
+        ],
+        precipCalcError_mprNonMprRot: 'Negalima maišyti įprastų rotorių ir rotorių su MPR purkštukais',
+        precipCalcError_mprNozNonMprRot: 'Negalima maišyti MPR purkštukų ir įprastų rotorių',
+        precipCalcError_staticNozRot: 'Negalima maišyti statinių purkštukų su rotoriais',
+        precipCalcError_staticMprNoz: 'Negalima maišyti statinių purkštukų su MPR purkštukais',
+        precipCalcError_missingError: [
+            'Kritulių žemėlapių klaida',
+            'Trūksta kritulių profilių purkštuvams:',
+        ],
+        precipCalcError_zoningError: [
+            'Kritulių žemėlapių zonų klaida',
+            'Nepavyko sukurti kritulių žemėlapių purkštuvų deriniui:',
+        ],
+        precipCalcError_noZoneAndZone: 'Negalima apskaičiuoti kritulių prijungtiems ir neprijungtiems rotoriams tuo pačiu metu. Veikimo laikas nežinomas, todėl rotorių apsisukimų skaičius yra neaiškus',
         cannotSaveBecauseOffline: [
             "Nepavyko siųsti užklausos į serverį",
             "Nėra ryšio su serveriu",

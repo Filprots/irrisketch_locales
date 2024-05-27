@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Uniformity (CU)",
         overwatered: "Overwatered",
         precipRateShort: "Int.Kiš.",
+        runtimeInd: "Vrijeme rada",
         coveredArea: "Površina",
         microClimateInd: "M/Klima",
         soilTypeInd: "Tlo",
@@ -989,6 +990,23 @@ this.LNG = {
             "Nažalost, ne možemo pronaći neke slika podloge na poslužitelju",
             "Ova slika nije pronađena:"
         ],
+        precipCalcError_mixedError: [
+            'Pogreška u kartama oborina',
+            'Neuspjelo stvaranje karata oborina za kombinaciju prskalica:',
+        ],
+        precipCalcError_mprNonMprRot: 'Ne mogu se miješati obični rotori i rotori s MPR mlaznicama',
+        precipCalcError_mprNozNonMprRot: 'Ne mogu se miješati MPR mlaznice i obični rotori',
+        precipCalcError_staticNozRot: 'Ne mogu se miješati statičke mlaznice s rotorima',
+        precipCalcError_staticMprNoz: 'Ne mogu se miješati statičke mlaznice s MPR mlaznicama',
+        precipCalcError_missingError: [
+            'Pogreška u kartama oborina',
+            'Nedostaju profili oborina za prskalice:',
+        ],
+        precipCalcError_zoningError: [
+            'Pogreška zoniranja u kartama oborina',
+            'Neuspjelo stvaranje karata oborina za kombinaciju prskalica:',
+        ],
+        precipCalcError_noZoneAndZone: 'Nije moguće izračunati oborine za povezane i nepovezane rotore istovremeno. Vrijeme rada je nepoznato, stoga je broj okretaja rotora neizvjestan',
         cannotSaveBecauseOffline: [
             "Nije uspjelo slanje zahtjeva poslužitelju",
             "Nema veze s poslužiteljem",

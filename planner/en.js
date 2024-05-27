@@ -178,6 +178,7 @@ this.LNG = {
         uniformity: "Uniformity (CU)",
         overwatered: "Overwatered",
         precipRateShort: "Precip.",
+        runtimeInd: "Runtime",
         coveredArea: "Area",
         microClimateInd: "M/Climate",
         soilTypeInd: "Soil",
@@ -989,6 +990,23 @@ this.LNG = {
             "Sorry we cannot find some of underlay images on server",
             "This image was not found:"
         ],
+        precipCalcError_mixedError: [
+            'Precipitation maps error',
+            'Failed to build precipitation maps for combination of sprinklers:',
+        ],
+        precipCalcError_mprNonMprRot: 'Cannot mix normal Rotors and Rotors with MPR nozzles',
+        precipCalcError_mprNozNonMprRot: 'Cannot mix MPR nozzles and normal Rotors',
+        precipCalcError_staticNozRot: 'Cannot mix Static Nozzles with Rotors',
+        precipCalcError_staticMprNoz: 'Cannot mix Static Nozzles with MPR nozzles',
+        precipCalcError_missingError: [
+            'Precipitation maps error',
+            'Missing precipitation profiles for sprinklers:',
+        ],
+        precipCalcError_zoningError: [
+            'Precipitation maps zoning error',
+            'Failed to build precipitation maps for combination of sprinklers:',
+        ],
+        precipCalcError_noZoneAndZone: 'Cannot calculate precipitation for connected and not connected rotors simultaneously. Runtime is unknown, therefore amount of revolutions of rotors is uncertain',
         cannotSaveBecauseOffline: [
             "Failed to send request to server",
             "No connection to the server",

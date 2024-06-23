@@ -13642,5 +13642,15 @@
       "AZUD-PREMIER-PC-AS-16-2.3-0.35": "AZUD PREMIER PC AS 16mm drip line (2.3 l/h flow) (35cm) (anti-suction)",
       "AZUD-PREMIER-PC-AS-16-2.3-0.50": "AZUD PREMIER PC AS 16mm drip line (2.3 l/h flow) (50cm) (anti-suction)"
     }
+  },
+  "DROPBYDROP": {
+    "_dripLines_DROPBYDROP": {
+      "DBD-16472233": "Капельная трубка DROPBYDROP PC 16mm 47mil (2.2 l/h flow) (33cm)",
+      "DBD-16442233": "Капельная трубка DROPBYDROP PC 16mm 44mil(2.2 l/h flow) (33cm)",
+      "DBD-16473233": "Капельная трубка DROPBYDROP PC 16mm 47mil(3.2 l/h flow) (33cm)",
+      "DBD-164400B": "Трубка DROPBYDROP 16mm 44mil. Чёрная (Без Эмиттеров)",
+      "DBD-164400": "Трубка DROPBYDROP 16mm 44mil. Коричневая (Без Эмиттеров)",
+      "DBD-164700": "Трубка DROPBYDROP 16mm 47mil PREMIUM. Коричневая (Без Эмиттеров)"
+    }
   }
 }

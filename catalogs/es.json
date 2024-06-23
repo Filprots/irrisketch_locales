@@ -13642,5 +13642,15 @@
       "AZUD-PREMIER-PC-AS-16-2.3-0.35": "AZUD PREMIER PC AS Línea de goteo de 16 mm (caudal de 2.3 l/h) (espacio de 35cm) (antisifón)",
       "AZUD-PREMIER-PC-AS-16-2.3-0.50": "AZUD PREMIER PC AS Línea de goteo de 16 mm (caudal de 2.3 l/h) (espacio de 50cm) (antisifón)"
     }
+  },
+  "DROPBYDROP": {
+    "_dripLines_DROPBYDROP": {
+      "DBD-16472233": "DROPBYDROP PC 16mm 47mil drip line (2.2 l/h flow) (33cm)",
+      "DBD-16442233": "DROPBYDROP PC 16mm 44mil drip line (2.2 l/h flow) (33cm)",
+      "DBD-16473233": "DROPBYDROP PC 16mm 47mil drip line (3.2 l/h flow) (33cm)",
+      "DBD-164400B": "DROPBYDROP 16mm blank tubing 44mil. Black (No emitters)",
+      "DBD-164400": "DROPBYDROP 16mm blank tubing 44mil. Brown (No emitters)",
+      "DBD-164700": "DROPBYDROP 16mm blank tubing 47mil PREMIUM. Brown (No emitters)"
+    }
   }
 }

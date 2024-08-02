@@ -1123,7 +1123,7 @@
   "labours_item_TRENCHES_LENGTH_NORMAL": "Comprimento Total de Trincheiras Normais",
   "labours_item_TRENCHES_LENGTH_WIDE": "Comprimento total de trincheiras largas",
   "labours_item_TRENCHES_VALUE": "Volume Total das Trincheiras",
-"labours_item_TRENCHES_VOLUME": "Volume Total das Trincheiras",
+  "labours_item_TRENCHES_VOLUME": "Volume Total das Trincheiras",
   "labours_group_insets": "mangas de tubo",
   "labours_item_INSET": "Mangas de tubos totais",
   "labours_item_INSET_PVC": "mangas de tubo de PVC",
@@ -1627,5 +1627,6 @@
   "misc_use2FAMail": "2FA via email",
   "/loginVerificationPage": "Autenticação de dois fatores",
   "ZoneNumber": "Número da zona",
-  "action_setZoneRuntime": "Tempo de execução da zona"
+  "action_setZoneRuntime": "Tempo de execução da zona",
+  "action_exportToMoasureLayout": "Moasure® Layout Export"
 }

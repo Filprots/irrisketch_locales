@@ -1627,5 +1627,6 @@
   "misc_use2FAMail": "2FA e-mailen keresztül",
   "/loginVerificationPage": "Kétfaktoros azonosítás",
   "ZoneNumber": "Zónaszám",
-  "action_setZoneRuntime": "Zóna futási ideje"
+  "action_setZoneRuntime": "Zóna futási ideje",
+  "action_exportToMoasureLayout": "Moasure® Layout Export"
 }

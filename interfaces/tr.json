@@ -1627,5 +1627,6 @@
   "misc_use2FAMail": "Email üzerinden 2FA",
   "/loginVerificationPage": "İki faktörlü kimlik doğrulama",
   "ZoneNumber": "Bölge Numarası",
-  "action_setZoneRuntime": "Bölge çalışma süresi"
+  "action_setZoneRuntime": "Bölge çalışma süresi",
+  "action_exportToMoasureLayout": "Moasure® Layout Export"
 }

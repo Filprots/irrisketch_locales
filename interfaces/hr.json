@@ -1627,5 +1627,6 @@
   "misc_use2FAMail": "2FA putem e-pošte",
   "/loginVerificationPage": "Dvofaktorska autentikacija",
   "ZoneNumber": "Broj zone",
-  "action_setZoneRuntime": "Vrijeme rada zone"
+  "action_setZoneRuntime": "Vrijeme rada zone",
+  "action_exportToMoasureLayout": "Moasure® Layout Export"
 }

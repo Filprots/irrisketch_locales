@@ -1627,5 +1627,6 @@
   "misc_use2FAMail": "2FA per el. paštą",
   "/loginVerificationPage": "Dviejų veiksnių autentifikacija",
   "ZoneNumber": "Zonos numeris",
-  "action_setZoneRuntime": "Zonos veikimo laikas"
+  "action_setZoneRuntime": "Zonos veikimo laikas",
+  "action_exportToMoasureLayout": "Moasure® Layout Export"
 }

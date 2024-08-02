@@ -1627,5 +1627,6 @@
   "misc_use2FAMail": "2FA через електронну пошту",
   "/loginVerificationPage": "Двофакторна автентифікація",
   "ZoneNumber": "Номер зони",
-  "action_setZoneRuntime": "Час роботи зони"
+  "action_setZoneRuntime": "Час роботи зони",
+  "action_exportToMoasureLayout": "Moasure® Layout Export"
 }

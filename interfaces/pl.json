@@ -1627,5 +1627,6 @@
   "misc_use2FAMail": "2FA przez e-mail",
   "/loginVerificationPage": "Uwierzytelnianie dwuskładnikowe",
   "ZoneNumber": "Numer strefy",
-  "action_setZoneRuntime": "Czas pracy strefy"
+  "action_setZoneRuntime": "Czas pracy strefy",
+  "action_exportToMoasureLayout": "Moasure® Layout Export"
 }

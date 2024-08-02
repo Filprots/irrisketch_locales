@@ -1627,5 +1627,6 @@
   "misc_use2FAMail": "2FA par courriel",
   "/loginVerificationPage": "Authentification à deux facteurs",
   "ZoneNumber": "Numéro de zone",
-  "action_setZoneRuntime": "Temps d'exécution de la zone"
+  "action_setZoneRuntime": "Temps d'exécution de la zone",
+  "action_exportToMoasureLayout": "Moasure® Layout Export"
 }

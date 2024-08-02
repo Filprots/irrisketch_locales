@@ -1627,5 +1627,6 @@
   "misc_use2FAMail": "2FA via e-mail",
   "/loginVerificationPage": "Tweefactorauthenticatie",
   "ZoneNumber": "Zonenummer",
-  "action_setZoneRuntime": "Zone looptijd"
+  "action_setZoneRuntime": "Zone looptijd",
+  "action_exportToMoasureLayout": "Moasure® Layout Export"
 }

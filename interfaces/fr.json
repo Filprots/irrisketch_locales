@@ -1628,5 +1628,6 @@
   "/loginVerificationPage": "Authentification à deux facteurs",
   "ZoneNumber": "Numéro de zone",
   "action_setZoneRuntime": "Temps d'exécution de la zone",
-  "action_exportToMoasureLayout": "Moasure® Layout Export"
+  "action_exportToMoasureLayout": "Moasure® Layout Export",
+  "action_setNozzleVariants": "Définir les variantes de buse"
 }

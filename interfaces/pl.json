@@ -1628,5 +1628,6 @@
   "/loginVerificationPage": "Uwierzytelnianie dwuskładnikowe",
   "ZoneNumber": "Numer strefy",
   "action_setZoneRuntime": "Czas pracy strefy",
-  "action_exportToMoasureLayout": "Moasure® Layout Export"
+  "action_exportToMoasureLayout": "Moasure® Layout Export",
+  "action_setNozzleVariants": "Ustaw warianty dysz"
 }

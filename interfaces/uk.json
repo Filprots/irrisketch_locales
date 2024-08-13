@@ -1628,5 +1628,6 @@
   "/loginVerificationPage": "Двофакторна автентифікація",
   "ZoneNumber": "Номер зони",
   "action_setZoneRuntime": "Час роботи зони",
-  "action_exportToMoasureLayout": "Moasure® Layout Export"
+  "action_exportToMoasureLayout": "Moasure® Layout Export",
+  "action_setNozzleVariants": "Встановити варіанти форсунок"
 }

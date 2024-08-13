@@ -1628,5 +1628,6 @@
   "/loginVerificationPage": "İki faktörlü kimlik doğrulama",
   "ZoneNumber": "Bölge Numarası",
   "action_setZoneRuntime": "Bölge çalışma süresi",
-  "action_exportToMoasureLayout": "Moasure® Layout Export"
+  "action_exportToMoasureLayout": "Moasure® Layout Export",
+  "action_setNozzleVariants": "Nozul varyantlarını ayarla"
 }

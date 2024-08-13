@@ -1628,5 +1628,6 @@
   "/loginVerificationPage": "Autenticação de dois fatores",
   "ZoneNumber": "Número da zona",
   "action_setZoneRuntime": "Tempo de execução da zona",
-  "action_exportToMoasureLayout": "Moasure® Layout Export"
+  "action_exportToMoasureLayout": "Moasure® Layout Export",
+  "action_setNozzleVariants": "Definir variantes do bocal"
 }

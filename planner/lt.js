@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "Pervadinti",
         tt_addToFav: "Pridėti prie mėgstamų",
         tt_remFromFav: "Pašalinti iš mėgstamų",
-        tt_presets: "Nustatymai"
+        tt_presets: "Nustatymai",
+        tt_MagicAutoPlacer: "`Automatinis išdėstymas išilgai linijos`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Nepavyko sukurti kritulių žemėlapių purkštuvų deriniui:',
         ],
         precipCalcError_noZoneAndZone: 'Negalima apskaičiuoti kritulių prijungtiems ir neprijungtiems rotoriams tuo pačiu metu. Veikimo laikas nežinomas, todėl rotorių apsisukimų skaičius yra neaiškus',
+        algoNozzler_noSolutions: [
+            'Nerasta jokių galimų purkštuvų išdėstymo sprendimų',
+            'Pabandykite atlikti šiuos veiksmus:',
+            '1. Pakeiskite persidengimo apribojimus ir kitas parinktis automatinio išdėstymo įrankio konfigūracijos meniu',
+            '2. Pasirinkite kitokio tipo purkštuvus, nes jie gali suteikti reikalingą lankstumą išdėstymui',
+            '3. Naudokite žemiau esantį mygtuką, kad iš naujo pradėtumėte sprendimą su „laisvesniais“ apribojimais persidengimui ir padengimui'
+        ],
+        retryWithLooseOptions: "Bandykite dar kartą su „laisvesnėmis“ parinktimis",
         cannotSaveBecauseOffline: [
             "Nepavyko siųsti užklausos į serverį",
             "Nėra ryšio su serveriu",

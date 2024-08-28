@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Zonenummer",
   "action_setZoneRuntime": "Zone looptijd",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Nozzelvarianten instellen"
+  "action_setNozzleVariants": "Instellen van sproeikopvarianten",
+  "OverlapMin": "Minimale overlapping",
+  "OverlapMax": "Maximale overlapping",
+  "OverlapDesired": "Gewenste overlapping",
+  "MaxAllowedOutcoverage": "Maximaal toegestane beregening buiten de grenzen",
+  "MaxAllowedUndercoverage": "Maximaal toegestane onderberegening",
+  "AN_StrictAngles": "Strikte hoeken behouden",
+  "AN_SetDesiredAngle": "Gewenste hoek instellen",
+  "DesiredAngleValue": "Gewenste hoek",
+  "AN_TakeDepthInAccOnClosed": "Precieze plaatsing voor gesloten polygonen",
+  "Start": "Start",
+  "action_autoNozzler": "Automatische plaatsing",
+  "action_resetNozzleVariants": "Reset keuze van sproeikopvarianten",
+  "AN_SolveInnerSoonMaybe": "Oplossingen voor binnenin gesloten vormen (in ontwikkeling)",
+  "AN_GiveMoreSolutions": "Verschillende oplossingen aanbieden"
 }

@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "Átnevez",
         tt_addToFav: "Hozzáadás a kedvencekhez",
         tt_remFromFav: "Eltávolítás a kedvencekből",
-        tt_presets: "Beállítások"
+        tt_presets: "Beállítások",
+        tt_MagicAutoPlacer: "`Automatikus elhelyezés a vonal mentén`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Nem sikerült létrehozni a csapadéktérképeket az öntözőfejek kombinációjához:',
         ],
         precipCalcError_noZoneAndZone: 'Nem lehet egyszerre kiszámítani a csapadékot a csatlakoztatott és nem csatlakoztatott rotorokhoz. Az üzemidő ismeretlen, ezért a rotorok fordulatszáma bizonytalan',
+        algoNozzler_noSolutions: [
+            'Nem található lehetséges megoldás a szórófejek elhelyezésére',
+            'Próbálja meg a következőket:',
+            '1. Módosítsa az átfedési korlátozásokat és egyéb beállításokat az automatikus elhelyezési eszköz konfigurációs menüjében',
+            '2. Válasszon más típusú szórófejeket, mivel ezek nagyobb rugalmasságot nyújthatnak az elhelyezésben',
+            '3. Használja az alábbi gombot a megoldás újraindításához "lazább" átfedési és lefedési korlátozásokkal'
+        ],
+        retryWithLooseOptions: "Újrapróbálkozás 'lazább' opciókkal",
         cannotSaveBecauseOffline: [
             "Nem sikerült a kérés küldése a szerverhez",
             "Nincs kapcsolat a szerverrel",

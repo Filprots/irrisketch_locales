@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "Zmień nazwę",
         tt_addToFav: "Dodaj do ulubionych",
         tt_remFromFav: "Usuń z ulubionych",
-        tt_presets: "Ustawienia domyślne"
+        tt_presets: "Ustawienia domyślne",
+        tt_MagicAutoPlacer: "`Automatyczne rozmieszczanie wzdłuż linii`",
     },
 //--------------------------------------------------------------------------
 //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Nie udało się stworzyć map opadów dla kombinacji zraszaczy:',
         ],
         precipCalcError_noZoneAndZone: 'Nie można obliczyć opadów dla rotorów podłączonych i niepodłączonych jednocześnie. Czas pracy jest nieznany, dlatego liczba obrotów rotorów jest niepewna',
+        algoNozzler_noSolutions: [
+            'Nie znaleziono możliwych rozwiązań rozmieszczenia zraszaczy',
+            'Spróbuj wykonać następujące czynności:',
+            '1. Zmień ograniczenia nakładania i inne opcje w menu konfiguracji narzędzia automatycznego rozmieszczania',
+            '2. Wybierz inny typ zraszaczy, ponieważ mogą one zapewnić wymaganą elastyczność w rozmieszczeniu',
+            '3. Użyj poniższego przycisku, aby ponownie uruchomić rozwiązanie z bardziej "luźnymi" ograniczeniami nakładania i pokrycia'
+        ],
+        retryWithLooseOptions: "Spróbuj ponownie z „luźnymi” opcjami",
         cannotSaveBecauseOffline: [
             "Nie udało się wysłać żądania do serwera",
             "Brak połączenia z serwerem",

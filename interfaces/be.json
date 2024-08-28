@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Нумар зоны",
   "action_setZoneRuntime": "Час працы зоны",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Устанавіць варыянты фарсунак"
+  "action_setNozzleVariants": "Устанавіць варыянты фарсунак",
+  "OverlapMin": "Мінімальны перакрыцце",
+  "OverlapMax": "Максімальны перакрыцце",
+  "OverlapDesired": "Жаданае перакрыцце",
+  "MaxAllowedOutcoverage": "Максімальна дазволенае паліванне за межамі",
+  "MaxAllowedUndercoverage": "Максімальна дапушчальнае недастатковае пакрыццё",
+  "AN_StrictAngles": "Захоўваць дакладныя куты",
+  "AN_SetDesiredAngle": "Усталяваць жаданы кут",
+  "DesiredAngleValue": "Жаданы кут",
+  "AN_TakeDepthInAccOnClosed": "Дакладная рэгуляванне размяшчэння для закрытага шматкутніка",
+  "Start": "Пачаць",
+  "action_autoNozzler": "Аўтаматычнае размяшчэнне",
+  "action_resetNozzleVariants": "Скід выбару варыянтаў фарсунак",
+  "AN_SolveInnerSoonMaybe": "Рашэнне ўнутраных размяшчэнняў для закрытых формаў (у распрацоўцы)",
+  "AN_GiveMoreSolutions": "Прадаставіць некалькі розных рашэнняў"
 }

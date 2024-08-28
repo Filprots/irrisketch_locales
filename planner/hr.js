@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "Preimenuj",
         tt_addToFav: "Dodaj u Favorite",
         tt_remFromFav: "Ukloni iz Favorita",
-        tt_presets: "Predlošci"
+        tt_presets: "Predlošci",
+        tt_MagicAutoPlacer: "`Automatsko postavljanje uzduž linije`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Neuspjelo stvaranje karata oborina za kombinaciju prskalica:',
         ],
         precipCalcError_noZoneAndZone: 'Nije moguće izračunati oborine za povezane i nepovezane rotore istovremeno. Vrijeme rada je nepoznato, stoga je broj okretaja rotora neizvjestan',
+        algoNozzler_noSolutions: [
+            'Nisu pronađena moguća rješenja za postavljanje prskalica',
+            'Pokušajte sljedeće:',
+            '1. Promijenite ograničenja preklapanja i druge opcije u izborniku konfiguracije alata za automatsko postavljanje',
+            '2. Odaberite drugu vrstu prskalica jer mogu pružiti potrebnu fleksibilnost u postavljanju',
+            '3. Koristite gumb ispod za ponovno pokretanje rješavanja s "labavijim" ograničenjima za preklapanje i pokrivanje'
+        ],
+        retryWithLooseOptions: "Pokušajte ponovno s 'labavijim' opcijama",
         cannotSaveBecauseOffline: [
             "Nije uspjelo slanje zahtjeva poslužitelju",
             "Nema veze s poslužiteljem",

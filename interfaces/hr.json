@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Broj zone",
   "action_setZoneRuntime": "Vrijeme rada zone",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Postavi varijante mlaznica"
+  "action_setNozzleVariants": "Postavi varijante mlaznica",
+  "OverlapMin": "Minimalno preklapanje",
+  "OverlapMax": "Maksimalno preklapanje",
+  "OverlapDesired": "Željeno preklapanje",
+  "MaxAllowedOutcoverage": "Maksimalno dopušteno zalijevanje izvan granica",
+  "MaxAllowedUndercoverage": "Maksimalno dopušten nedostatak zalijevanja",
+  "AN_StrictAngles": "Zadrži stroge kutove",
+  "AN_SetDesiredAngle": "Postavi željeni kut",
+  "DesiredAngleValue": "Željeni kut",
+  "AN_TakeDepthInAccOnClosed": "Precizno podešavanje za zatvoreni poligon",
+  "Start": "Početak",
+  "action_autoNozzler": "Automatski raspored",
+  "action_resetNozzleVariants": "Ponovno postavljanje izbora varijanti mlaznica",
+  "AN_SolveInnerSoonMaybe": "Riješite unutarnje rasporede za zatvorene oblike (u razvoju)",
+  "AN_GiveMoreSolutions": "Prikazati nekoliko različitih rješenja"
 }

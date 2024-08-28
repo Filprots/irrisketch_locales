@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "Renommer",
         tt_addToFav: "Ajouter aux favoris",
         tt_remFromFav: "Retirer des favoris",
-        tt_presets: "Préréglages"
+        tt_presets: "Préréglages",
+        tt_MagicAutoPlacer: "`Placement automatique le long de la ligne`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Échec de la création des cartes de précipitation pour la combinaison d’arroseurs :',
         ],
         precipCalcError_noZoneAndZone: 'Impossible de calculer les précipitations pour les rotors connectés et non connectés simultanément. Le temps d’exécution est inconnu, donc le nombre de révolutions des rotors est incertain',
+        algoNozzler_noSolutions: [
+            'Aucune solution possible de placement des arroseurs trouvée',
+            'Essayez de faire ce qui suit :',
+            '1. Modifiez les restrictions de chevauchement et d\'autres options dans le menu de configuration de l\'outil de placement automatique',
+            '2. Sélectionnez un autre type d\'arroseurs, car ils peuvent offrir la flexibilité nécessaire pour le placement',
+            '3. Utilisez le bouton ci-dessous pour relancer la résolution avec des restrictions plus "souples" pour le chevauchement et la couverture'
+        ],
+        retryWithLooseOptions: "Réessayer avec des options 'souples'",
         cannotSaveBecauseOffline: [
             "Impossible d'envoyer une demande au serveur",
             "Pas de connexion au serveur",

@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Номер зоны",
   "action_setZoneRuntime": "Время работы зоны",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Установить варианты форсунок"
+  "action_setNozzleVariants": "Установить варианты форсунок",
+  "OverlapMin": "Минимальное перекрытие",
+  "OverlapMax": "Максимальное перекрытие",
+  "OverlapDesired": "Желаемое перекрытие",
+  "MaxAllowedOutcoverage": "Максимально допустимый полив за пределами границ",
+  "MaxAllowedUndercoverage": "Максимально допустимое недостаточное покрытие",
+  "AN_StrictAngles": "Сохранить строгие углы",
+  "AN_SetDesiredAngle": "Установить желаемый угол",
+  "DesiredAngleValue": "Желаемый угол",
+  "AN_TakeDepthInAccOnClosed": "Точное регулирование размещения для закрытого полигона",
+  "Start": "Начать",
+  "action_autoNozzler": "Автоматическое размещение",
+  "action_resetNozzleVariants": "Сброс выбора вариантов форсунок",
+  "AN_SolveInnerSoonMaybe": "Решить внутренние расположения для закрытых форм (в разработке)",
+  "AN_GiveMoreSolutions": "Предоставить несколько различных решений"
 }

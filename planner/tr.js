@@ -353,7 +353,8 @@ this.LNG = {
         "tt_rename": "Yeniden Adlandır",
         "tt_addToFav": "Favorilere Ekle",
         "tt_remFromFav": "Favorilerden Kaldır",
-        "tt_presets": "Ön Ayarlar"
+        "tt_presets": "Ön Ayarlar",
+        tt_MagicAutoPlacer: "`Çizgi boyunca otomatik yerleştirme`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Püskürtücülerin kombinasyonu için yağış haritaları oluşturulamadı:',
         ],
         precipCalcError_noZoneAndZone: 'Bağlı ve bağlantısız rotorlar için aynı anda yağış hesaplanamaz. Çalışma süresi bilinmiyor, bu nedenle rotorların dönüş sayısı belirsiz',
+        algoNozzler_noSolutions: [
+            'Olası sulama başlığı yerleştirme çözümleri bulunamadı',
+            'Şunları deneyin:',
+            '1. Otomatik Yerleştirme aracı yapılandırma menüsündeki örtüşme kısıtlamalarını ve diğer seçenekleri değiştirin',
+            '2. Yerleştirme esnekliği sağlayabilecek başka bir tür sulama başlığı seçin',
+            '3. Aşağıdaki düğmeyi kullanarak, örtüşme ve kapsama alanı için daha "gevşek" kısıtlamalarla çözmeyi yeniden başlatın'
+        ],
+        retryWithLooseOptions: "'Gevşek' seçeneklerle yeniden dene",
         "cannotSaveBecauseOffline": [
             "Sunucuya istek gönderilemedi",
             "Sunucuya bağlantı yok",

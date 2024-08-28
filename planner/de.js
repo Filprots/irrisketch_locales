@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "umbenennen",
         tt_addToFav: "Add to Favorites", // TODO:translate
         tt_remFromFav: "Remove from Favorites", // TODO:translate
-        tt_presets: "Presets" // TODO:translate
+        tt_presets: "Presets", // TODO:translate
+        tt_MagicAutoPlacer: "`Automatische Platzierung entlang der Linie`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Fehler beim Erstellen der Niederschlagskarten für die Kombination der Sprinkler:',
         ],
         precipCalcError_noZoneAndZone: 'Niederschlag kann nicht gleichzeitig für angeschlossene und nicht angeschlossene Rotoren berechnet werden. Die Laufzeit ist unbekannt, daher ist die Anzahl der Umdrehungen der Rotoren ungewiss',
+        algoNozzler_noSolutions: [
+            'Keine möglichen Lösungen für die Platzierung von Sprinklern gefunden',
+            'Versuchen Sie Folgendes:',
+            '1. Ändern Sie die Überlappungsbeschränkungen und andere Optionen im Konfigurationsmenü des Auto-Platzierungstools',
+            '2. Wählen Sie eine andere Art von Sprinklern, da diese die erforderliche Flexibilität bei der Platzierung bieten können',
+            '3. Verwenden Sie die Schaltfläche unten, um die Lösung mit "lockeren" Einschränkungen für Überlappung und Abdeckung erneut zu starten'
+        ],
+        retryWithLooseOptions: "Erneut versuchen mit 'lockeren' Optionen",
         cannotSaveBecauseOffline: [
             "Failed to send request to server",
             "No connection to the server",

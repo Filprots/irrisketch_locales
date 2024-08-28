@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "Renomear",
         tt_addToFav: "Adicionar aos favoritos",
         tt_remFromFav: "Remover dos favoritos",
-        tt_presets: "Predefinições"
+        tt_presets: "Predefinições",
+        tt_MagicAutoPlacer: "`Colocação automática ao longo da linha`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,7 +1008,14 @@ this.LNG = {
             'Falha ao construir mapas de precipitação para a combinação de aspersores:',
         ],
         precipCalcError_noZoneAndZone: 'Não é possível calcular a precipitação para rotores conectados e não conectados simultaneamente. O tempo de execução é desconhecido, portanto, a quantidade de revoluções dos rotores é incerta',
-        precipCalcError_noZoneAndZone: 'Não é possível calcular a precipitação para rotores conectados e não conectados simultaneamente. O tempo de execução é desconhecido, portanto, a quantidade de revoluções dos rotores é incerta',
+        algoNozzler_noSolutions: [
+            'Nenhuma solução possível de posicionamento de aspersores encontrada',
+            'Tente o seguinte:',
+            '1. Altere as restrições de sobreposição e outras opções no menu de configuração da ferramenta de colocação automática',
+            '2. Selecione outro tipo de aspersores, pois eles podem oferecer a flexibilidade necessária para o posicionamento',
+            '3. Use o botão abaixo para reiniciar a solução com restrições mais "flexíveis" para sobreposição e cobertura'
+        ],
+        retryWithLooseOptions: "Tentar novamente com opções 'flexíveis'",
         cannotSaveBecauseOffline: [
             "Falha ao enviar solicitação para o servidor",
             "Sem conexão com o servidor",

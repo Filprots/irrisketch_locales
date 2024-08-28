@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Zónaszám",
   "action_setZoneRuntime": "Zóna futási ideje",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Fúvóka variánsok beállítása"
+  "action_setNozzleVariants": "Fúvóka változatok beállítása",
+  "OverlapMin": "Minimális átfedés",
+  "OverlapMax": "Maximális átfedés",
+  "OverlapDesired": "Kívánt átfedés",
+  "MaxAllowedOutcoverage": "Maximálisan engedélyezett öntözés a határokon kívül",
+  "MaxAllowedUndercoverage": "Maximálisan engedélyezett alulöntözés",
+  "AN_StrictAngles": "Szögértékek szigorú megtartása",
+  "AN_SetDesiredAngle": "Kívánt szög beállítása",
+  "DesiredAngleValue": "Kívánt szög",
+  "AN_TakeDepthInAccOnClosed": "Pontos elhelyezés igazítása zárt sokszögnél",
+  "Start": "Indítás",
+  "action_autoNozzler": "Automatikus elhelyezés",
+  "action_resetNozzleVariants": "Fúvókavariánsok választásának visszaállítása",
+  "AN_SolveInnerSoonMaybe": "Belső elrendezések megoldása zárt alakzatokhoz (fejlesztés alatt)",
+  "AN_GiveMoreSolutions": "Néhány különböző megoldás bemutatása"
 }

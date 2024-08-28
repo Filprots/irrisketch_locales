@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Bölge Numarası",
   "action_setZoneRuntime": "Bölge çalışma süresi",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Nozul varyantlarını ayarla"
+  "action_setNozzleVariants": "Nozul varyantlarını ayarla",
+  "OverlapMin": "Minimum örtüşme",
+  "OverlapMax": "Maksimum örtüşme",
+  "OverlapDesired": "İstenen örtüşme",
+  "MaxAllowedOutcoverage": "Maksimum izin verilen sınır dışı sulama",
+  "MaxAllowedUndercoverage": "Maksimum izin verilen az sulama",
+  "AN_StrictAngles": "Keskin açıları koru",
+  "AN_SetDesiredAngle": "İstenen açıyı ayarla",
+  "DesiredAngleValue": "İstenen açı",
+  "AN_TakeDepthInAccOnClosed": "Kapalı çokgen için hassas yerleşim ayarı",
+  "Start": "Başlat",
+  "action_autoNozzler": "Otomatik yer değiştirme",
+  "action_resetNozzleVariants": "Nozul varyantlarını sıfırla",
+  "AN_SolveInnerSoonMaybe": "Kapalı şekiller için iç düzenlemeleri çöz (geliştirme aşamasında)",
+  "AN_GiveMoreSolutions": "Birkaç farklı çözüm sun"
 }

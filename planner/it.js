@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "Rinomina",
         tt_addToFav: "Aggiungi ai preferiti",
         tt_remFromFav: "Rimuovi dai preferiti",
-        tt_presets: "Preimpostazioni"
+        tt_presets: "Preimpostazioni",
+        tt_MagicAutoPlacer: "`Posizionamento automatico lungo la linea`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Impossibile creare mappe di precipitazione per la combinazione di irrigatori:',
         ],
         precipCalcError_noZoneAndZone: 'Non è possibile calcolare la precipitazione per rotori collegati e non collegati contemporaneamente. Il tempo di esecuzione è sconosciuto, pertanto il numero di rivoluzioni dei rotori è incerto',
+        algoNozzler_noSolutions: [
+            'Nessuna soluzione possibile di posizionamento degli irrigatori trovata',
+            'Prova a fare quanto segue:',
+            '1. Modifica le restrizioni di sovrapposizione e altre opzioni nel menu di configurazione dello strumento di posizionamento automatico',
+            '2. Seleziona un altro tipo di irrigatori poiché possono offrire la flessibilità necessaria nel posizionamento',
+            '3. Usa il pulsante qui sotto per riavviare la risoluzione con restrizioni più "rilassate" per sovrapposizione e copertura'
+        ],
+        retryWithLooseOptions: "Riprova con opzioni 'rilassate'",
         cannotSaveBecauseOffline: [
             "Impossibile inviare la richiesta al server",
             "Nessuna connessione al server",

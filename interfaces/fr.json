@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Numéro de zone",
   "action_setZoneRuntime": "Temps d'exécution de la zone",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Définir les variantes de buse"
+  "action_setNozzleVariants": "Définir les variantes de buses",
+  "OverlapMin": "Chevauchement minimal",
+  "OverlapMax": "Chevauchement maximal",
+  "OverlapDesired": "Chevauchement désiré",
+  "MaxAllowedOutcoverage": "Arrosage maximal autorisé hors des limites",
+  "MaxAllowedUndercoverage": "Sous-arrosage maximal autorisé",
+  "AN_StrictAngles": "Maintenir des angles stricts",
+  "AN_SetDesiredAngle": "Définir l'angle désiré",
+  "DesiredAngleValue": "Angle désiré",
+  "AN_TakeDepthInAccOnClosed": "Ajustement précis du placement pour polygone fermé",
+  "Start": "Démarrer",
+  "action_autoNozzler": "Déplacement automatique",
+  "action_resetNozzleVariants": "Réinitialiser le choix des variantes de buses",
+  "AN_SolveInnerSoonMaybe": "Résoudre les dispositions intérieures pour les formes fermées (en développement)",
+  "AN_GiveMoreSolutions": "Proposer plusieurs solutions différentes"
 }

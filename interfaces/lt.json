@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Zonos numeris",
   "action_setZoneRuntime": "Zonos veikimo laikas",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Nustatyti purkštukų variantus"
+  "action_setNozzleVariants": "Nustatyti purkštukų variantus",
+  "OverlapMin": "Minimalus persidengimas",
+  "OverlapMax": "Maksimalus persidengimas",
+  "OverlapDesired": "Pageidaujamas persidengimas",
+  "MaxAllowedOutcoverage": "Maksimalus leistinas laistymas už ribų",
+  "MaxAllowedUndercoverage": "Maksimalus leistinas nepakankamas laistymas",
+  "AN_StrictAngles": "Laikyti griežtus kampus",
+  "AN_SetDesiredAngle": "Nustatyti pageidaujamą kampą",
+  "DesiredAngleValue": "Pageidaujamas kampas",
+  "AN_TakeDepthInAccOnClosed": "Tikslus išdėstymo reguliavimas uždaram poligonui",
+  "Start": "Pradėti",
+  "action_autoNozzler": "Automatinis išdėstymas",
+  "action_resetNozzleVariants": "Atstatyti purkštukų variantų pasirinkimą",
+  "AN_SolveInnerSoonMaybe": "Išspręsti vidines išdėstymo problemas uždaroms formoms (kuriama)",
+  "AN_GiveMoreSolutions": "Pateikti keletą skirtingų sprendimų"
 }

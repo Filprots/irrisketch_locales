@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Número da zona",
   "action_setZoneRuntime": "Tempo de execução da zona",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Definir variantes do bocal"
+  "action_setNozzleVariants": "Definir variantes de bicos",
+  "OverlapMin": "Sobreposição mínima",
+  "OverlapMax": "Sobreposição máxima",
+  "OverlapDesired": "Sobreposição desejada",
+  "MaxAllowedOutcoverage": "Cobertura máxima permitida fora dos limites",
+  "MaxAllowedUndercoverage": "Subirrigação máxima permitida",
+  "AN_StrictAngles": "Manter ângulos rigorosos",
+  "AN_SetDesiredAngle": "Definir ângulo desejado",
+  "DesiredAngleValue": "Ângulo desejado",
+  "AN_TakeDepthInAccOnClosed": "Ajuste preciso de posicionamento para polígono fechado",
+  "Start": "Iniciar",
+  "action_autoNozzler": "Deslocamento automático",
+  "action_resetNozzleVariants": "Redefinir escolha de variantes de bicos",
+  "AN_SolveInnerSoonMaybe": "Resolver disposições internas para formas fechadas (em desenvolvimento)",
+  "AN_GiveMoreSolutions": "Oferecer algumas soluções diferentes"
 }

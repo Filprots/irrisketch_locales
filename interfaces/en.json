@@ -1629,5 +1629,19 @@
 	"ZoneNumber": "Zone Number",
 	"action_setZoneRuntime": "Zone runtime",
 	"action_exportToMoasureLayout": "Moasure® Layout Export",
-	"action_setNozzleVariants": "Set nozzle variants"
+	"action_setNozzleVariants": "Set nozzle variants",
+	"OverlapMin": "Minimum overlap",
+	"OverlapMax": "Maximum overlap",
+	"OverlapDesired": "Desired overlap",
+	"MaxAllowedOutcoverage": "Max allowed out-of-the-borders watering",
+	"MaxAllowedUndercoverage": "Max allowed under-watering",
+	"AN_StrictAngles": "Keep strict angles",
+	"AN_SetDesiredAngle": "Set desired angle",
+	"DesiredAngleValue": "Desired angle",
+	"AN_TakeDepthInAccOnClosed": "Precise placement adjustment for closed polygon",
+	"Start": "Start",
+	"action_autoNozzler": "Automatic displacement",
+	"action_resetNozzleVariants": "Reset nozzle variants choice",
+	"AN_SolveInnerSoonMaybe": "Solve inner dispositions for closed shapes (in developement)",
+	"AN_GiveMoreSolutions": "Render few different solutions"
 }

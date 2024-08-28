@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "Rename",
         tt_addToFav: "Add to Favorites",
         tt_remFromFav: "Remove from Favorites",
-        tt_presets: "Presets"
+        tt_presets: "Presets",
+        tt_MagicAutoPlacer: "`Automatic placement along the line`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Failed to build precipitation maps for combination of sprinklers:',
         ],
         precipCalcError_noZoneAndZone: 'Cannot calculate precipitation for connected and not connected rotors simultaneously. Runtime is unknown, therefore amount of revolutions of rotors is uncertain',
+        algoNozzler_noSolutions: [
+            'No possible sprinkler displacement solutions found',
+            'Try to do following:',
+            '1. Change overlapping restrictions and other options in Auto-Placememt tool configuration menu',
+            '2. Select other type of sprinklers as they can give needed flexibility in placement',
+            '3. Use button below to restart solving with more "loose" restrictions for overlapping and outcoverage'
+        ],
+        retryWithLooseOptions: "Retry with 'loose' options",
         cannotSaveBecauseOffline: [
             "Failed to send request to server",
             "No connection to the server",

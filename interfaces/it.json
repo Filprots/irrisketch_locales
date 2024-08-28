@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Numero di zona",
   "action_setZoneRuntime": "Tempo di esecuzione della zona",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Imposta varianti ugello"
+  "action_setNozzleVariants": "Imposta varianti ugelli",
+  "OverlapMin": "Sovrapposizione minima",
+  "OverlapMax": "Sovrapposizione massima",
+  "OverlapDesired": "Sovrapposizione desiderata",
+  "MaxAllowedOutcoverage": "Massima irrigazione consentita fuori dai confini",
+  "MaxAllowedUndercoverage": "Massima sottoirrigazione consentita",
+  "AN_StrictAngles": "Mantieni angoli stretti",
+  "AN_SetDesiredAngle": "Imposta angolo desiderato",
+  "DesiredAngleValue": "Angolo desiderato",
+  "AN_TakeDepthInAccOnClosed": "Regolazione precisa della posizione per poligono chiuso",
+  "Start": "Inizia",
+  "action_autoNozzler": "Disposizione automatica",
+  "action_resetNozzleVariants": "Ripristina scelta varianti ugelli",
+  "AN_SolveInnerSoonMaybe": "Risolvere le disposizioni interne per forme chiuse (in sviluppo)",
+  "AN_GiveMoreSolutions": "Fornire alcune soluzioni diverse"
 }

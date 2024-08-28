@@ -353,7 +353,8 @@ this.LNG = {
         tt_rename: "Wijzigen",
         tt_addToFav: "Toevoegen aan favorieten",
         tt_remFromFav: "Verwijderen uit favorieten",
-        tt_presets: "Presets"
+        tt_presets: "Presets",
+        tt_MagicAutoPlacer: "`Automatische plaatsing langs de lijn`",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1007,6 +1008,14 @@ this.LNG = {
             'Niet gelukt om neerslagkaarten te maken voor combinatie van sproeiers:',
         ],
         precipCalcError_noZoneAndZone: 'Kan neerslag niet berekenen voor aangesloten en niet aangesloten rotors tegelijk. Looptijd is onbekend, daarom is het aantal omwentelingen van rotors onzeker',
+        algoNozzler_noSolutions: [
+            'Geen mogelijke oplossingen voor sproeierplaatsing gevonden',
+            'Probeer het volgende:',
+            '1. Wijzig de overlapbeperkingen en andere opties in het configuratiemenu van de automatische plaatsingstool',
+            '2. Kies een ander type sproeier, omdat deze de benodigde flexibiliteit in plaatsing kunnen bieden',
+            '3. Gebruik de knop hieronder om het oplossen opnieuw te starten met "lossere" beperkingen voor overlap en dekking'
+        ],
+        retryWithLooseOptions: "Opnieuw proberen met 'losse' opties",
         cannotSaveBecauseOffline: [
             "Kan verzoek niet naar server verzenden",
             "Geen verbinding met de server",

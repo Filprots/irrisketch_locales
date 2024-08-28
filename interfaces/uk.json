@@ -1629,5 +1629,19 @@
   "ZoneNumber": "Номер зони",
   "action_setZoneRuntime": "Час роботи зони",
   "action_exportToMoasureLayout": "Moasure® Layout Export",
-  "action_setNozzleVariants": "Встановити варіанти форсунок"
+  "action_setNozzleVariants": "Встановити варіанти форсунок",
+  "OverlapMin": "Мінімальне перекриття",
+  "OverlapMax": "Максимальне перекриття",
+  "OverlapDesired": "Бажане перекриття",
+  "MaxAllowedOutcoverage": "Максимально дозволене поливання за межами",
+  "MaxAllowedUndercoverage": "Максимально дозволене недостатнє покриття",
+  "AN_StrictAngles": "Дотримуватись строгих кутів",
+  "AN_SetDesiredAngle": "Встановити бажаний кут",
+  "DesiredAngleValue": "Бажаний кут",
+  "AN_TakeDepthInAccOnClosed": "Точне налаштування розміщення для замкнутого багатокутника",
+  "Start": "Почати",
+  "action_autoNozzler": "Автоматичне розташування",
+  "action_resetNozzleVariants": "Скинути вибір варіантів форсунок",
+  "AN_SolveInnerSoonMaybe": "Вирішити внутрішні розташування для замкнутих форм (у розробці)",
+  "AN_GiveMoreSolutions": "Надати декілька різних рішень"
 }

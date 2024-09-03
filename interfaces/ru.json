@@ -1640,7 +1640,7 @@
   "DesiredAngleValue": "Желаемый угол",
   "AN_TakeDepthInAccOnClosed": "Точное регулирование размещения для закрытого полигона",
   "Start": "Начать",
-  "action_autoNozzler": "Автоматическое размещение",
+  "action_autoNozzler": "Автоматическая расстановка",
   "action_resetNozzleVariants": "Сброс выбора вариантов форсунок",
   "AN_SolveInnerSoonMaybe": "Решить внутренние расположения для закрытых форм (в разработке)",
   "AN_GiveMoreSolutions": "Предоставить несколько различных решений"

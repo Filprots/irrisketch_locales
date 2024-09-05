@@ -1643,5 +1643,6 @@
   "action_autoNozzler": "Otomatik yer değiştirme",
   "action_resetNozzleVariants": "Nozul varyantlarını sıfırla",
   "AN_SolveInnerSoonMaybe": "Kapalı şekiller için iç düzenlemeleri çöz (geliştirme aşamasında)",
-  "AN_GiveMoreSolutions": "Birkaç farklı çözüm sun"
+  "AN_GiveMoreSolutions": "Birkaç farklı çözüm sun",
+  "Check out new Automatic Sprinkler Placement tool": "Yeni Otomatik Yağmurlama Yerleştirme aracını inceleyin"
 }

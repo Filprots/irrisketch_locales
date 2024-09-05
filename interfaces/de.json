@@ -1643,5 +1643,6 @@
   "action_autoNozzler": "Automatische Verteilung",
   "action_resetNozzleVariants": "Düsenvarianten zurücksetzen",
   "AN_SolveInnerSoonMaybe": "Innere Anordnungen für geschlossene Formen lösen (in Entwicklung)",
-  "AN_GiveMoreSolutions": "Mehrere verschiedene Lösungen anbieten"
+  "AN_GiveMoreSolutions": "Mehrere verschiedene Lösungen anbieten",
+  "Check out new Automatic Sprinkler Placement tool": "Probieren Sie das neue automatische Sprinklerplatzierungswerkzeug aus"
 }

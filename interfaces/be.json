@@ -1643,5 +1643,6 @@
   "action_autoNozzler": "Аўтаматычнае размяшчэнне",
   "action_resetNozzleVariants": "Скід выбару варыянтаў фарсунак",
   "AN_SolveInnerSoonMaybe": "Рашэнне ўнутраных размяшчэнняў для закрытых формаў (у распрацоўцы)",
-  "AN_GiveMoreSolutions": "Прадаставіць некалькі розных рашэнняў"
+  "AN_GiveMoreSolutions": "Прадаставіць некалькі розных рашэнняў",
+  "Check out new Automatic Sprinkler Placement tool": "Праверце новы інструмент аўтаматычнага размяшчэння разбрызгвальнікаў"
 }

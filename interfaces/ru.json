@@ -1643,5 +1643,6 @@
   "action_autoNozzler": "Автоматическая расстановка",
   "action_resetNozzleVariants": "Сброс выбора вариантов форсунок",
   "AN_SolveInnerSoonMaybe": "Решить внутренние расположения для закрытых форм (в разработке)",
-  "AN_GiveMoreSolutions": "Предоставить несколько различных решений"
+  "AN_GiveMoreSolutions": "Предоставить несколько различных решений",
+  "Check out new Automatic Sprinkler Placement tool": "Ознакомьтесь с новым инструментом автоматического размещения оросителей"
 }

@@ -1,0 +1,216 @@
+<script type="module">
+    if (location.hash !== null && location.hash !== "") {
+        $(location.hash + ".collapse").collapse();
+    }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
+</script>
+
+<div class="container" id="faq">
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">常见问题</span></div>
+    </div>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+                aria-expanded="false"
+                aria-controls="qA1">
+            购买了订阅，但付费功能不可用，该怎么办？
+        </button>
+    </p>
+    <div class="collapse" id="qA1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                购买IRRISketch的付费订阅后，您需要在您的个人账户中手动激活它，链接如下：
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>，
+            </p>
+            您的订阅将在右侧栏中显示。激活后，您将能够自由使用该服务的所有付费功能。
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+                aria-expanded="false"
+                aria-controls="qA2">
+            我支付了订阅费，但它没有出现在我的个人账户中。
+        </button>
+    </p>
+    <div class="collapse" id="qA2" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                在这种情况下，您需要点击此链接进入您的个人账户：
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>
+            </p>
+            <p>
+                查看订单底部的按钮。红色的“重试”按钮表示支付失败，您需要重新尝试，但首先请检查钱是否已经被扣除。
+            </p>
+            <p>
+                如果长时间看到黄色的“付款处理中”按钮，可能交易未自动确认。如果是这种情况，请点击此按钮完成交易，一切应恢复正常。
+            </p>
+            成功支付并完成交易后，您将看到绿色的“付款已验证”按钮。点击它，您的订阅将显示在右侧栏中。
+        </div>
+    </div>
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">项目相关问题</span></div>
+    </div>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+                aria-expanded="false" aria-controls="qP1">
+            项目中的更改未保存/我想恢复项目的某个状态，我该怎么办？
+        </button>
+    </p>
+    <div class="collapse" id="qP1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                1. 打开最后一次编辑项目的同一浏览器和同一台计算机。
+            </p>
+            <p>
+                2. 前往IRRISketch工作区并打开与问题相关的项目。
+            </p>
+            <p>
+                3. 如果打开项目时出现提示恢复项目的窗口，请点击“恢复”按钮并查看结果。如果项目未恢复到所需状态，请继续按照指示操作。
+            </p>
+            <p>
+                4. 在右上角，点击“历史记录”按钮（带箭头的时钟图标），如果一切正常保存，您将看到项目状态的时间戳列表。选择项目处于最理想状态的时间戳。之后，请务必保存项目！
+            </p>
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+                aria-expanded="false"
+                aria-controls="qP2">
+            如何在项目图纸中显示网格？输出到PDF/PNG时网格未显示。
+        </button>
+    </p>
+    <div class="collapse" id="qP2" data-parent="#faq">
+        <div class="card card-body">
+        <span>
+            要在打印时显示网格，必须将其作为图像放置在图纸上。您可以<a
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing"
+                    target="_blank">从此处</a>下载网格，然后在图纸上按需要的大小进行缩放。
+        </span>
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+                aria-expanded="false"
+                aria-controls="qP3">
+            如何将项目从一个账户转移到另一个账户？
+        </button>
+    </p>
+    <div class="collapse" id="qP3" data-parent="#faq">
+        <div class="card card-body">
+            为此，您可以使用顶部右侧面板中的相应按钮下载项目文件。然后在新账户上创建一个空项目，并使用“加载”按钮打开之前下载的文件。
+            <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="下载按钮"
+                 width="30%" height="30%">
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP4"
+                aria-expanded="false"
+                aria-controls="qP4">
+            项目“卡住”/切换到绘图模式需要很长时间
+        </button>
+    </p>
+    <div class="collapse" id="qP4" data-parent="#faq">
+        <span>
+            <p>
+                通常，这是由于项目中的元素过多，因为IRRISketch Residential并未设计用于特别大的图形。此问题可以通过在绘图模式中删除所有现有对象并替换为单一背景来解决。
+            </p>
+            <p>
+                1. 创建项目的副本并打开它，以防意外丢失数据。
+            </p>
+            <p>
+                2. 切换到灌溉模式，并使用ctrl+a组合键选择所有元素，然后使用ctrl+x组合键剪切它们（它们将被保存在剪贴板中）。
+            </p>
+            <p>
+                3. 切换到绘图模式，在“视觉风格”选项卡中设置“景观”设置以获得项目的原始景观，并删除图章。
+            </p>
+            <img src="/images/faq/visualStyleEN.jpg" class="img-thumbnail img-responsive" alt="视觉风格按钮"
+                 width="30%" height="30%">
+            <p>
+                4. 从A1到A4选择纸张格式。纸张越大，最终图像的质量越高，但占用的空间也越大。
+            </p>
+            <img src="/images/faq/listFormatEN.jpg" class="img-thumbnail img-responsive" alt="列表格式按钮"
+                 width="30%" height="30%">
+            <p>
+                5. 使用绘图模式下的“尺子”工具测量图纸中的任何容易测量的元素，并记录其长度，因为稍后会用到。
+            </p>
+            <img src="/images/faq/rulerEN.jpg" class="img-thumbnail img-responsive" alt="尺子工具按钮"
+                 width="50%" height="50%">
+            <p>
+                6. 切换到屏幕底部的“编辑绘图”模式，并使用左下方的按钮将图纸插入纸张中。将项目导出为图像。
+                如果生成的图像超过10MB，您将无法使用它。在这种情况下，如果您知道如何使用各种图像编辑器（如Photoshop、Gimp），请压缩图像或减少颜色数量。这将减小文件大小。
+            </p>
+            <img src="/images/faq/fitEN.jpg" class="img-thumbnail img-responsive" alt="适应按钮"
+                 width="100%" height="100%">
+            <p>
+                7. 将图像插入项目中，并使用步骤5中记录的长度设置正确的比例。
+            </p>
+            <img src="/images/faq/resizeEN.jpg" class="img-thumbnail img-responsive" alt="调整大小按钮"
+                 width="50%" height="50%">
+            <p>
+                8. 将图像与您的绘图对齐，使所有元素的位置与图像中显示的位置相同。
+            </p>
+            <img src="/images/faq/alignEN.jpg" class="img-thumbnail img-responsive" alt="对齐按钮"
+                 width="50%" height="50%">
+            <p>
+                9. 选择图像并点击左下方相应的按钮将其锁定。
+            </p>
+            <img src="/images/faq/lockEN.jpg" class="img-thumbnail img-responsive" alt="锁定按钮"
+                 width="15%" height="15%">
+            <p>
+                10. 使用ctrl+a组合键选择绘图模式中的所有元素并将其删除。只剩下您的图像。
+            </p>
+            <p>
+                11. 返回到灌溉模式，并使用ctrl+v组合键将之前删除的所有灌溉元素粘贴回图纸上。如果操作正确，所有元素应恢复到原始位置。
+            </p>
+        </span>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP5"
+                aria-expanded="false"
+                aria-controls="qP5">
+            在布局模式下一些区域没有显示/滴灌没有显示
+        </button>
+    </p>
+    <div class="collapse" id="qP5" data-parent="#faq">
+        <span>
+           这种情况与布局中的区域显示设置有关。
+            要更改区域显示设置，请在布局模式的左下角单击“区域显示”按钮，然后勾选您想要在布局中看到的区域。或者，您可以创建一个新的布局，所有现有的区域都将显示在其中。
+        </span>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP6"
+                aria-expanded="false"
+                aria-controls="qP6">
+            导出为PDF/图像后，布局图像旋转或放置不正确
+        </button>
+    </p>
+    <div class="collapse" id="qP6" data-parent="#faq">
+        <span>
+            <p>
+                这是因为您的原始图像包含exif元数据。为了使图像正常显示，您需要使用<a href="https://www.verexif.com/en/" target="_blank">www.verexif.com/en/</a>服务删除这些元数据。
+            </p>
+            <p>
+                打开链接后，加载您的图像，然后按“Remove exif”按钮，下载新图像并在IRRISketch中替换旧图像。
+            </p>
+        </span>
+    </div>
+    <hr>
+</div>

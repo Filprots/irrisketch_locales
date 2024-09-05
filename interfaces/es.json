@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "Restablecer elección de variantes de boquillas",
   "AN_SolveInnerSoonMaybe": "Resolver disposiciones internas para formas cerradas (en desarrollo)",
   "AN_GiveMoreSolutions": "Ofrecer algunas soluciones diferentes",
-  "Check out new Automatic Sprinkler Placement tool": "Prueba la nueva herramienta de colocación automática de aspersores"
+  "Check out new Automatic Sprinkler Placement tool": "Prueba la nueva herramienta de colocación automática de aspersores",
+  "action_setLinesOffset": "Desplazamiento de líneas"
 }

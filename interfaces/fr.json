@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "Réinitialiser le choix des variantes de buses",
   "AN_SolveInnerSoonMaybe": "Résoudre les dispositions intérieures pour les formes fermées (en développement)",
   "AN_GiveMoreSolutions": "Proposer plusieurs solutions différentes",
-  "Check out new Automatic Sprinkler Placement tool": "Découvrez le nouvel outil de placement automatique des arroseurs"
+  "Check out new Automatic Sprinkler Placement tool": "Découvrez le nouvel outil de placement automatique des arroseurs",
+  "action_setLinesOffset": "Décalage des lignes"
 }

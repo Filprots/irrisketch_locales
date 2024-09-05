@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "Ponovno postavljanje izbora varijanti mlaznica",
   "AN_SolveInnerSoonMaybe": "Riješite unutarnje rasporede za zatvorene oblike (u razvoju)",
   "AN_GiveMoreSolutions": "Prikazati nekoliko različitih rješenja",
-  "Check out new Automatic Sprinkler Placement tool": "Isprobajte novi alat za automatsko postavljanje prskalica"
+  "Check out new Automatic Sprinkler Placement tool": "Isprobajte novi alat za automatsko postavljanje prskalica",
+  "action_setLinesOffset": "Pomak linija"
 }

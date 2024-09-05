@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "Redefinir escolha de variantes de bicos",
   "AN_SolveInnerSoonMaybe": "Resolver disposições internas para formas fechadas (em desenvolvimento)",
   "AN_GiveMoreSolutions": "Oferecer algumas soluções diferentes",
-  "Check out new Automatic Sprinkler Placement tool": "Confira a nova ferramenta de posicionamento automático de aspersores"
+  "Check out new Automatic Sprinkler Placement tool": "Confira a nova ferramenta de posicionamento automático de aspersores",
+  "action_setLinesOffset": "Deslocamento de linhas"
 }

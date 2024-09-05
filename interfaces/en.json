@@ -1648,5 +1648,6 @@
 	"action_resetNozzleVariants": "Reset nozzle variants choice",
 	"AN_SolveInnerSoonMaybe": "Solve inner dispositions for closed shapes (in developement)",
 	"AN_GiveMoreSolutions": "Render few different solutions",
-	"Check out new Automatic Sprinkler Placement tool": "Check out new Automatic Sprinkler Placement tool"
+	"Check out new Automatic Sprinkler Placement tool": "Check out new Automatic Sprinkler Placement tool",
+	"action_setLinesOffset": "Lines offset"
 }

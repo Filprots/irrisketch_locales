@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "Atstatyti purkštukų variantų pasirinkimą",
   "AN_SolveInnerSoonMaybe": "Išspręsti vidines išdėstymo problemas uždaroms formoms (kuriama)",
   "AN_GiveMoreSolutions": "Pateikti keletą skirtingų sprendimų",
-  "Check out new Automatic Sprinkler Placement tool": "Išbandykite naują automatinio purkštuvų išdėstymo įrankį"
+  "Check out new Automatic Sprinkler Placement tool": "Išbandykite naują automatinio purkštuvų išdėstymo įrankį",
+  "action_setLinesOffset": "Linijų poslinkis"
 }

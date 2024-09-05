@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "Reset keuze van sproeikopvarianten",
   "AN_SolveInnerSoonMaybe": "Oplossingen voor binnenin gesloten vormen (in ontwikkeling)",
   "AN_GiveMoreSolutions": "Verschillende oplossingen aanbieden",
-  "Check out new Automatic Sprinkler Placement tool": "Bekijk de nieuwe tool voor automatische sprinklerplaatsing"
+  "Check out new Automatic Sprinkler Placement tool": "Bekijk de nieuwe tool voor automatische sprinklerplaatsing",
+  "action_setLinesOffset": "Lijnverschuiving"
 }

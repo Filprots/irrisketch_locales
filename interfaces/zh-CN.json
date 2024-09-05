@@ -29,7 +29,7 @@
   "action_setDashArray": "破折号数组",
   "action_transforms": "转换",
   "action_changeStrColor": "线条颜色",
-  "action_changeSurfColor": "填充颜​​色",
+  "action_changeSurfColor": "填充颜色",
   "action_changeStrWidth": "线宽",
   "action_changeElemOpacity": "不透明度",
   "action_changeStrJoin": "线路连接",
@@ -1607,8 +1607,8 @@
   "TogPrecip": "沉淀",
   "AIResearch": "人工智能研究",
   "ProjectButtonCheck": "检查有效性",
-  "tool_Obstacle_examples": "任何影响喷头配置的因素​​ + 都会阻止水射流到达所需区域。",
-  "tool_PlacementObstacle_examples": "任何影响喷头配置的因素​​ + 都不会阻止水射流到达所需区域。",
+  "tool_Obstacle_examples": "任何影响喷头配置的因素 + 都会阻止水射流到达所需区域。",
+  "tool_PlacementObstacle_examples": "任何影响喷头配置的因素 + 都不会阻止水射流到达所需区域。",
   "OnlineIntroPageTitle": "欢迎来到 IRRISketch！",
   "irrisketch_residential_year_RUB+=MOHOV10REF": "Годовая подписка на IRRISketch Residential PRO от autopoliv360.ru",
   "subscr_status_terminated": "终止",
@@ -1627,7 +1627,7 @@
   "irrisketch_residential_month_EUR_paypro": "IRRISketch Residential PRO 订阅（按月计费）",
   "Impressum": "印象",
   "ImpressumPage": "印象",
-  "Not_A_Chrome_Attention": "为了更好的用户体验，我们建议使用 <i class=\"fab fa-chrome\"></i> <a target='_blank' href='https://www.google.com/chrome'>Chrome浏览器</a>，因为它提供了与我们服务的最佳性能和兼容性",
+  "Not_A_Chrome_Attention": "为了更好的用户体验，我们建议使用 <i class=\"fab fa-chrome\"></i> <a target='_blank' href='https://www.google.com/chrome'>Chrome浏览器</a>，因为它提供了与我们服务的最佳性能和兼容性",
   "misc_use2FAMail": "通过电子邮件进行 2FA",
   "/loginVerificationPage": "两因素身份验证",
   "ZoneNumber": "防区编号",
@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "重置喷嘴型号选择",
   "AN_SolveInnerSoonMaybe": "解决封闭形状的内部配置（正在开发中）",
   "AN_GiveMoreSolutions": "渲染几个不同的解决方案",
-  "Check out new Automatic Sprinkler Placement tool": "查看新的自动喷淋器布置工具"
+  "Check out new Automatic Sprinkler Placement tool": "查看新的自动喷淋器布置工具",
+  "action_setLinesOffset": "线偏移"
 }

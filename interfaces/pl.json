@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "Reset wyboru wariantów dysz",
   "AN_SolveInnerSoonMaybe": "Rozwiąż układy wewnętrzne dla zamkniętych kształtów (w rozwoju)",
   "AN_GiveMoreSolutions": "Podaj kilka różnych rozwiązań",
-  "Check out new Automatic Sprinkler Placement tool": "Wypróbuj nowe narzędzie do automatycznego rozmieszczania zraszaczy"
+  "Check out new Automatic Sprinkler Placement tool": "Wypróbuj nowe narzędzie do automatycznego rozmieszczania zraszaczy",
+  "action_setLinesOffset": "Przesunięcie linii"
 }

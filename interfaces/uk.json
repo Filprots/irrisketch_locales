@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "Скинути вибір варіантів форсунок",
   "AN_SolveInnerSoonMaybe": "Вирішити внутрішні розташування для замкнутих форм (у розробці)",
   "AN_GiveMoreSolutions": "Надати декілька різних рішень",
-  "Check out new Automatic Sprinkler Placement tool": "Перегляньте новий інструмент автоматичного розміщення зрошувачів"
+  "Check out new Automatic Sprinkler Placement tool": "Перегляньте новий інструмент автоматичного розміщення зрошувачів",
+  "action_setLinesOffset": "Зміщення ліній"
 }

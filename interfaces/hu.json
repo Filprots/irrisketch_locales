@@ -1648,5 +1648,6 @@
   "action_resetNozzleVariants": "Fúvókavariánsok választásának visszaállítása",
   "AN_SolveInnerSoonMaybe": "Belső elrendezések megoldása zárt alakzatokhoz (fejlesztés alatt)",
   "AN_GiveMoreSolutions": "Néhány különböző megoldás bemutatása",
-  "Check out new Automatic Sprinkler Placement tool": "Próbálja ki az új automatikus öntözőfej-elhelyező eszközt"
+  "Check out new Automatic Sprinkler Placement tool": "Próbálja ki az új automatikus öntözőfej-elhelyező eszközt",
+  "action_setLinesOffset": "Vonalak eltolása"
 }

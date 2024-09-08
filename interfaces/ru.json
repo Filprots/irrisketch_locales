@@ -1645,5 +1645,7 @@
 	"AN_SolveInnerSoonMaybe": "Решить внутренние расположения для закрытых форм (в разработке)",
 	"AN_GiveMoreSolutions": "Предоставить несколько различных решений",
 	"Check out new Automatic Sprinkler Placement tool": "Ознакомьтесь с новым инструментом автоматического размещения оросителей",
-	"action_setLinesOffset": "Смещение линий"
+	"action_setLinesOffset": "Смещение линий",
+	"Offset": "Дистанция",
+	"action_offset": "Сдвиг"
 }

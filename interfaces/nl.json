@@ -1649,5 +1649,7 @@
   "AN_SolveInnerSoonMaybe": "Oplossingen voor binnenin gesloten vormen (in ontwikkeling)",
   "AN_GiveMoreSolutions": "Verschillende oplossingen aanbieden",
   "Check out new Automatic Sprinkler Placement tool": "Bekijk de nieuwe tool voor automatische sprinklerplaatsing",
-  "action_setLinesOffset": "Lijnverschuiving"
+  "action_setLinesOffset": "Lijnverschuiving",
+  "Offset": "Afstand",
+  "action_offset": "Verschuiving"
 }

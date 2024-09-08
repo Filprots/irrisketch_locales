@@ -1649,5 +1649,7 @@
   "AN_SolveInnerSoonMaybe": "Kapalı şekiller için iç düzenlemeleri çöz (geliştirme aşamasında)",
   "AN_GiveMoreSolutions": "Birkaç farklı çözüm sun",
   "Check out new Automatic Sprinkler Placement tool": "Yeni Otomatik Yağmurlama Yerleştirme aracını inceleyin",
-  "action_setLinesOffset": "Çizgi ofseti"
+  "action_setLinesOffset": "Çizgi ofseti",
+  "Offset": "Mesafe",
+  "action_offset": "Ofset"
 }

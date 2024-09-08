@@ -1649,5 +1649,7 @@
   "AN_SolveInnerSoonMaybe": "Вирішити внутрішні розташування для замкнутих форм (у розробці)",
   "AN_GiveMoreSolutions": "Надати декілька різних рішень",
   "Check out new Automatic Sprinkler Placement tool": "Перегляньте новий інструмент автоматичного розміщення зрошувачів",
-  "action_setLinesOffset": "Зміщення ліній"
+  "action_setLinesOffset": "Зміщення ліній",
+  "Offset": "Відстань",
+  "action_offset": "Зсув"
 }

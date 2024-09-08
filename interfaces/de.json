@@ -1649,5 +1649,7 @@
   "AN_SolveInnerSoonMaybe": "Innere Anordnungen für geschlossene Formen lösen (in Entwicklung)",
   "AN_GiveMoreSolutions": "Mehrere verschiedene Lösungen anbieten",
   "Check out new Automatic Sprinkler Placement tool": "Probieren Sie das neue automatische Sprinklerplatzierungswerkzeug aus",
-  "action_setLinesOffset": "Linienversatz"
+  "action_setLinesOffset": "Linienversatz",
+  "Offset": "Abstand",
+  "action_offset": "Versatz"
 }

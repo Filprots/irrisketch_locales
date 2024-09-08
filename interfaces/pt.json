@@ -1649,5 +1649,7 @@
   "AN_SolveInnerSoonMaybe": "Resolver disposições internas para formas fechadas (em desenvolvimento)",
   "AN_GiveMoreSolutions": "Oferecer algumas soluções diferentes",
   "Check out new Automatic Sprinkler Placement tool": "Confira a nova ferramenta de posicionamento automático de aspersores",
-  "action_setLinesOffset": "Deslocamento de linhas"
+  "action_setLinesOffset": "Deslocamento de linhas",
+  "Offset": "Distância",
+  "action_offset": "Deslocamento"
 }

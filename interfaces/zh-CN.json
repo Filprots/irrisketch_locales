@@ -1649,5 +1649,7 @@
   "AN_SolveInnerSoonMaybe": "解决封闭形状的内部配置（正在开发中）",
   "AN_GiveMoreSolutions": "渲染几个不同的解决方案",
   "Check out new Automatic Sprinkler Placement tool": "查看新的自动喷淋器布置工具",
-  "action_setLinesOffset": "线偏移"
+  "action_setLinesOffset": "线偏移",
+  "Offset": "距离",
+  "action_offset": "偏移"
 }

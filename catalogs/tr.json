@@ -10477,6 +10477,11 @@
     },
     "_pipeFittings_Anybrand": {
       "SSA-1": "Yağmurlama Standı Montajı"
+    },
+    "_rotors_Anybrand": {
+      "adjrot": "Rotor {{diam}}",
+      "adjrot_body": "Ayarlanabilir rotor {{diam}}",
+      "adjrot_noz": "Ayarlanabilir rotor memesi"
     }
   },
   "Hunter": {

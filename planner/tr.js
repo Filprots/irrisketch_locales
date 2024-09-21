@@ -1184,6 +1184,7 @@ this.LNG = {
         extreme_rotor_reduction: "Aşırı (Yüzde 50'ye kadar) (Eşitsiz yağışa neden olabilir)",
         radio_option_yes2: "Evet",
         takeReductionInAccountWhenAutoPlacing: "Sulama başlıklarını otomatik yerleştirirken azaltılmış atış mesafeleri sun",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Sulama başlıklarını otomatik yerleştirirken azaltılmış atış mesafeleri sun (Rotors)",
         "recommendedPressure": "Üretici tarafından önerilen basınç",
         "userPressure": "Kullanıcı tarafından ayarlanan basınç",
         "expPressure": "Tüketici tarafından beklenen basınç",

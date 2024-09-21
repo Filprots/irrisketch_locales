@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Wypróbuj nowe narzędzie do automatycznego rozmieszczania zraszaczy",
   "action_setLinesOffset": "Przesunięcie linii",
   "Offset": "Odległość",
-  "action_offset": "Przesunięcie"
+  "action_offset": "Przesunięcie",
+  "SetCustomConsumption": "Włączone",
+  "CustomConsumptionActionInput": "Zużycie",
+  "action_setCustomConsumption": "Ustaw zużycie"
 }

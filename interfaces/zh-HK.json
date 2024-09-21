@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "查看新的自動噴淋器佈置工具",
   "action_setLinesOffset": "線偏移",
   "Offset": "距離",
-  "action_offset": "偏移"
+  "action_offset": "偏移",
+  "SetCustomConsumption": "已啟用",
+  "CustomConsumptionActionInput": "消耗",
+  "action_setCustomConsumption": "設定消耗"
 }

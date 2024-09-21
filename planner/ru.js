@@ -1187,6 +1187,7 @@ this.LNG = {
         extreme_rotor_reduction: "Экстремальное (До 50%) (Может вызвать неравномерные осадки)",
         radio_option_yes2: "Да",
         takeReductionInAccountWhenAutoPlacing: "Учитывать регулировку радиуса при установке дождевателей",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Учитывать регулировку радиуса при установке дождевателей (Rotors)",
         userPressure: "Заданное пользователем",
         expPressure: "Укажите давление на потребителе",
         sprinklerGroupMode: "Группировка потребителей в зоны",

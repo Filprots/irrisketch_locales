@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Próbálja ki az új automatikus öntözőfej-elhelyező eszközt",
   "action_setLinesOffset": "Vonalak eltolása",
   "Offset": "Távolság",
-  "action_offset": "Eltolás"
+  "action_offset": "Eltolás",
+  "SetCustomConsumption": "Engedélyezve",
+  "CustomConsumptionActionInput": "Fogyasztás",
+  "action_setCustomConsumption": "Fogyasztás beállítása"
 }

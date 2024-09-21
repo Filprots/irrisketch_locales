@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Extrém (Akár 50%) (Egyenlőtlen csapadékmennyiséget okozhat)",
         radio_option_yes2: "Igen",
         takeReductionInAccountWhenAutoPlacing: "Csökkentett dobótávolságok figyelembe vétele szórófejek automatikus elhelyezésekor",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Csökkentett dobótávolságok figyelembe vétele szórófejek automatikus elhelyezésekor (Rotors)",
         recommendedPressure: "Ajánlott a gyártó által",
         userPressure: "Felhasználó által beállított",
         expPressure: "Az elvárt nyomás a fogyasztónál",

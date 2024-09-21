@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Confira a nova ferramenta de posicionamento automático de aspersores",
   "action_setLinesOffset": "Deslocamento de linhas",
   "Offset": "Distância",
-  "action_offset": "Deslocamento"
+  "action_offset": "Deslocamento",
+  "SetCustomConsumption": "Ativado",
+  "CustomConsumptionActionInput": "Consumo",
+  "action_setCustomConsumption": "Definir consumo"
 }

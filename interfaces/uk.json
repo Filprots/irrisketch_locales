@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Перегляньте новий інструмент автоматичного розміщення зрошувачів",
   "action_setLinesOffset": "Зміщення ліній",
   "Offset": "Відстань",
-  "action_offset": "Зсув"
+  "action_offset": "Зсув",
+  "SetCustomConsumption": "Увімкнено",
+  "CustomConsumptionActionInput": "Споживання",
+  "action_setCustomConsumption": "Встановити споживання"
 }

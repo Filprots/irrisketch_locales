@@ -10477,6 +10477,11 @@
     },
     "_pipeFittings_Anybrand": {
       "SSA-1": "Sprinkler Stand Assembly"
+    },
+    "_rotors_Anybrand": {
+      "adjrot": "Rotor {{diam}}",
+      "adjrot_body": "Einstellbarer Rotor {{diam}}",
+      "adjrot_noz": "Einstellbare Rotor-Düse"
     }
   },
   "Hunter": {

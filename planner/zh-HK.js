@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "极端（最多减少50%）（可能导致降水不均匀）",
         radio_option_yes2: "是",
         takeReductionInAccountWhenAutoPlacing: "在放置喷头时考虑减少的抛射距离",
+        takeReductionInAccountWhenAutoPlacingForRotors: "在放置喷头时考虑减少的抛射距离 (Rotors)",
         recommendedPressure: "供应商推荐",
         userPressure: "用户设定",
         expPressure: "消费者预期的压力",

@@ -10477,6 +10477,11 @@
     },
     "_pipeFittings_Anybrand": {
       "SSA-1": "Montaż stojaka zraszacza"
+    },
+    "_rotors_Anybrand": {
+      "adjrot": "Rotor {{diam}}",
+      "adjrot_body": "Regulowany rotor {{diam}}",
+      "adjrot_noz": "Regulowana dysza rotora"
     }
   },
   "Hunter": {

@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Extreem (Tot 50%) (Kan ongelijke neerslag veroorzaken)",
         radio_option_yes2: "Ja",
         takeReductionInAccountWhenAutoPlacing: "Aangepaste werpafstanden aanbieden bij het automatisch plaatsen van sproeiers",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Aangepaste werpafstanden aanbieden bij het automatisch plaatsen van sproeiers (Rotors)",
         recommendedPressure: "Aanbevolen door fabrikant",
         userPressure: "Ingesteld door de gebruiker",
         expPressure: "Verwachte druk bij de verbruiker",

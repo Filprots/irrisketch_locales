@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Extremo (Até 50%) (Pode causar precipitação irregular)",
         radio_option_yes2: "Sim",
         takeReductionInAccountWhenAutoPlacing: "Oferecer distâncias de lançamento reduzidas ao colocar aspersores automaticamente",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Oferecer distâncias de lançamento reduzidas ao colocar aspersores automaticamente (Rotors)",
         recommendedPressure: "Recomendado pelo fabricante",
         userPressure: "Definido pelo usuário",
         expPressure: "Pressão esperada no consumidor",

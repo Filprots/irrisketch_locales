@@ -1187,6 +1187,7 @@ this.LNG = {
         extreme_rotor_reduction: "Екстремальне (До 50%) (Може спричинити нерівномірні опади)",
         radio_option_yes2: "Так",
         takeReductionInAccountWhenAutoPlacing: "Пропонувати зменшені дистанції кидання при розміщенні зрошувачів",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Пропонувати зменшені дистанції кидання при розміщенні зрошувачів (Rotors)",
         userPressure: "Задане користувачем",
         expPressure: "Вкажіть тиск на зрошувачі",
         sprinklerGroupMode: "Групування зрошувачів в зони",

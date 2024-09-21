@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Prova il nuovo strumento di posizionamento automatico degli irrigatori",
   "action_setLinesOffset": "Offset delle linee",
   "Offset": "Distanza",
-  "action_offset": "Scostamento"
+  "action_offset": "Scostamento",
+  "SetCustomConsumption": "Abilitato",
+  "CustomConsumptionActionInput": "Consumo",
+  "action_setCustomConsumption": "Imposta consumo"
 }

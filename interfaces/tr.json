@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Yeni Otomatik Yağmurlama Yerleştirme aracını inceleyin",
   "action_setLinesOffset": "Çizgi ofseti",
   "Offset": "Mesafe",
-  "action_offset": "Ofset"
+  "action_offset": "Ofset",
+  "SetCustomConsumption": "Etkin",
+  "CustomConsumptionActionInput": "Tüketim",
+  "action_setCustomConsumption": "Tüketimi ayarla"
 }

@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Ekstremno (Do 50%) (Može uzrokovati neujednačene oborine)",
         radio_option_yes2: "Da",
         takeReductionInAccountWhenAutoPlacing: "Ponuditi smanjene dosege prskalica pri automatskom postavljanju",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Ponuditi smanjene dosege prskalica pri automatskom postavljanju (Rotors)",
         recommendedPressure: "Preporučeno od proizvođača",
         userPressure: "Postavljeno od strane korisnika",
         expPressure: "Očekivani tlak na rasprskivaču",

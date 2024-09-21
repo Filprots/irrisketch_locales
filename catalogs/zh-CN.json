@@ -10477,6 +10477,11 @@
     },
     "_pipeFittings_Anybrand": {
       "SSA-1": "洒水装置支架组件"
+    },
+    "_rotors_Anybrand": {
+      "adjrot": "转子 {{diam}}",
+      "adjrot_body": "可调转子 {{diam}}",
+      "adjrot_noz": "可调转子喷嘴"
     }
   },
   "Hunter": {

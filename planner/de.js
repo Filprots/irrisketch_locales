@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Extrem (Bis zu 50%) (Kann ungleichmäßige Beregnung verursachen)",
         radio_option_yes2: "Ja",
         takeReductionInAccountWhenAutoPlacing: "Reduzierte Wurfweiten bei der Platzierung von Sprinklern berücksichtigen",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Reduzierte Wurfweiten bei der Platzierung von Sprinklern berücksichtigen (Rotors)",
         recommendedPressure: "vom Verkäufer empfohlen",
         userPressure: "Vom Benutzer festgelegt",
         expPressure: "Erwarteter Druck am Regner",

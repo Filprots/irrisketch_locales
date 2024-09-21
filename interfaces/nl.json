@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Bekijk de nieuwe tool voor automatische sprinklerplaatsing",
   "action_setLinesOffset": "Lijnverschuiving",
   "Offset": "Afstand",
-  "action_offset": "Verschuiving"
+  "action_offset": "Verschuiving",
+  "SetCustomConsumption": "Ingeschakeld",
+  "CustomConsumptionActionInput": "Verbruik",
+  "action_setCustomConsumption": "Verbruik instellen"
 }

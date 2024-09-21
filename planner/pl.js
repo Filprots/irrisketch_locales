@@ -952,7 +952,7 @@ this.LNG = {
             favorites_layouting: "Ulubione narzędzia (Układanie)",
             configs_drawing: "Konfiguracja projektu",
             configs_outlayer: "Konfiguracja arkusza specyfikacji",
-    },
+        },
         newPresetItem: "Nowa konfiguracja wstępna",
         cL_alreadyConnected: [
             "Nie udało się połączyć linii",
@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Ekstremalne (Do 50%) (Może powodować nierównomierne opady)",
         radio_option_yes2: "Tak",
         takeReductionInAccountWhenAutoPlacing: "Oferowanie zmniejszonych odległości rzutu przy automatycznym umieszczaniu zraszaczy",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Oferowanie zmniejszonych odległości rzutu przy automatycznym umieszczaniu zraszaczy (Rotors)",
         recommendedPressure: "Zalecane przez dostawcę",
         userPressure: "Ustawiane przez użytkownika",
         expPressure: "Oczekiwane ciśnienie przyłącza",

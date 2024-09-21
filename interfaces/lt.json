@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Išbandykite naują automatinio purkštuvų išdėstymo įrankį",
   "action_setLinesOffset": "Linijų poslinkis",
   "Offset": "Atstumas",
-  "action_offset": "Poslinkis"
+  "action_offset": "Poslinkis",
+  "SetCustomConsumption": "Įjungta",
+  "CustomConsumptionActionInput": "Suvartojimas",
+  "action_setCustomConsumption": "Nustatyti suvartojimą"
 }

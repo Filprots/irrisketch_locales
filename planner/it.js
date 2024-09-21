@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Estremo (Fino al 50%) (Può causare precipitazioni disuniformi)",
         radio_option_yes2: "Sì",
         takeReductionInAccountWhenAutoPlacing: "Offrire distanze di lancio ridotte quando si posizionano irrigatori automaticamente",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Offrire distanze di lancio ridotte quando si posizionano irrigatori automaticamente (Rotors)",
         recommendedPressure: "Raccomandato dal produttore",
         userPressure: "Impostato dall'utente",
         expPressure: "Pressione attesa al consumatore",

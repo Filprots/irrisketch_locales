@@ -10477,6 +10477,11 @@
     },
     "_pipeFittings_Anybrand": {
       "SSA-1": "Sprinkler állvány szerelvény"
+    },
+    "_rotors_Anybrand": {
+      "adjrot": "Rotor {{diam}}",
+      "adjrot_body": "Állítható rotor {{diam}}",
+      "adjrot_noz": "Állítható rotor fúvóka"
     }
   },
   "Hunter": {

@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Экстрэмальнае (да 50%) (Можа выклікаць няроўнае ападкаванне)",
         radio_option_yes2: "Так",
         takeReductionInAccountWhenAutoPlacing: "Улічваць зніжэнне дальнасці кідання пры аўтаматычным размяшчэнні зрасцакоў",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Улічваць зніжэнне дальнасці кідання пры аўтаматычным размяшчэнні зрасцакоў (Rotors)",
         recommendedPressure: "Рэкамендаванае вытворцам",
         userPressure: "Зададзенае карыстачом",
         expPressure: "Пакажыце ціск на спажыўцу",

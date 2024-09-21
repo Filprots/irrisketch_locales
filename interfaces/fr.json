@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Découvrez le nouvel outil de placement automatique des arroseurs",
   "action_setLinesOffset": "Décalage des lignes",
   "Offset": "Distance",
-  "action_offset": "Décalage"
+  "action_offset": "Décalage",
+  "SetCustomConsumption": "Activé",
+  "CustomConsumptionActionInput": "Consommation",
+  "action_setCustomConsumption": "Définir la consommation"
 }

@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Extreme (Up to 50%) (Can cause uneven precipitation)",
         radio_option_yes2: "Yes",
         takeReductionInAccountWhenAutoPlacing: "Offer reduced throw distances when placing sprinklers",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Offer reduced throw distances when placing sprinklers (Rotors)",
         recommendedPressure: "Recommended by vendor",
         userPressure: "Set by user",
         expPressure: "Expected pressure at consumer",

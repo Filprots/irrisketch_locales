@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Isprobajte novi alat za automatsko postavljanje prskalica",
   "action_setLinesOffset": "Pomak linija",
   "Offset": "Udaljenost",
-  "action_offset": "Pomak"
+  "action_offset": "Pomak",
+  "SetCustomConsumption": "Omogućeno",
+  "CustomConsumptionActionInput": "Potrošnja",
+  "action_setCustomConsumption": "Postavi potrošnju"
 }

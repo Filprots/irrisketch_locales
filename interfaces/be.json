@@ -1651,5 +1651,8 @@
   "Check out new Automatic Sprinkler Placement tool": "Праверце новы інструмент аўтаматычнага размяшчэння разбрызгвальнікаў",
   "action_setLinesOffset": "Зрух ліній",
   "Offset": "Адлегласць",
-  "action_offset": "Зрух"
+  "action_offset": "Зрух",
+  "SetCustomConsumption": "Уключана",
+  "CustomConsumptionActionInput": "Спажыванне",
+  "action_setCustomConsumption": "Усталяваць спажыванне"
 }

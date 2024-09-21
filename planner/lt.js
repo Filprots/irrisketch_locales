@@ -1186,6 +1186,7 @@ this.LNG = {
         extreme_rotor_reduction: "Ekstremalus (Iki 50%) (Gali sukelti nelygų kritulių pasiskirstymą)",
         radio_option_yes2: "Taip",
         takeReductionInAccountWhenAutoPlacing: "Siūlyti sumažintus metimo atstumus, automatiškai įrengiant purkštukus",
+        takeReductionInAccountWhenAutoPlacingForRotors: "Siūlyti sumažintus metimo atstumus, automatiškai įrengiant purkštukus (Rotors)",
         recommendedPressure: "Rekomenduojamas gamintojo",
         userPressure: "Nustatytas vartotojo",
         expPressure: "Numatomas slėgis spreveryje",

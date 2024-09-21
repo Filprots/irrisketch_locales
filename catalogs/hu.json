@@ -10461,7 +10461,8 @@
       "SSDS-ADJ-A-10": "Állítható fogyasztó - 10 l/perc",
       "SSDS-ADJ-A-20": "Állítható fogyasztó - 20 l/perc",
       "SSDS-ADJ-A-50": "Állítható fogyasztó - 50 l/perc",
-      "SSDS-ADJ-A-100": "Állítható fogyasztó - 100 l/perc"
+      "SSDS-ADJ-A-100": "Állítható fogyasztó - 100 l/perc",
+      "SSDS-ADJ": "Állítható fogyasztó"
     },
     "_fc_Anybrand": {
       "SJ-1/2": " lengőcsukló ½\"",
@@ -10538,8 +10539,7 @@
       "PCB-50": "Hunter PCB-50 buborékoló",
       "PCB-10": "Hunter PCB-10 buborékoló",
       "PCB-20": "Hunter PCB-20 buborékoló",
-      "AFB": "Hunter állítható Flood Bubbler",
-      "SSDS-ADJ": "Speciális buborékoló"
+      "AFB": "Hunter állítható Flood Bubbler"
     },
     "_rzw_Hunter": {
       "RZWS-10-25": "Hunter RZWS-10-25 gyökérzóna öntözőrendszer",

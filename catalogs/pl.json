@@ -10461,7 +10461,8 @@
       "SSDS-ADJ-A-10": "Regulowany odbiornik - 10 l/min",
       "SSDS-ADJ-A-20": "Regulowany odbiornik - 20 l/min",
       "SSDS-ADJ-A-50": "Regulowany odbiornik - 50 l/min",
-      "SSDS-ADJ-A-100": "Regulowany odbiornik - 100 l/min"
+      "SSDS-ADJ-A-100": "Regulowany odbiornik - 100 l/min",
+      "SSDS-ADJ": "Regulowany odbiornik"
     },
     "_fc_Anybrand": {
       "SJ-1/2": " Złącze obrotowe ½\"",
@@ -10538,8 +10539,7 @@
       "PCB-50": "Bubbler Hunter PCB-50",
       "PCB-10": "Bubbler Hunter PCB-10",
       "PCB-20": "Bubbler Hunter PCB-20",
-      "AFB": "Regulowany bełkot powodziowy firmy Hunter",
-      "SSDS-ADJ": "Specjalny bełkot"
+      "AFB": "Regulowany bełkot powodziowy firmy Hunter"
     },
     "_rzw_Hunter": {
       "RZWS-10-25": "System nawadniania strefy korzeniowej Hunter RZWS-10-25",

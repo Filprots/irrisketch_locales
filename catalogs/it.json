@@ -10461,7 +10461,8 @@
       "SSDS-ADJ-A-10": "Utenza regolabile - 10 l/min",
       "SSDS-ADJ-A-20": "Utenza regolabile - 20 l/min",
       "SSDS-ADJ-A-50": "Utenza regolabile - 50 l/min",
-      "SSDS-ADJ-A-100": "Utenza regolabile - 100 l/min"
+      "SSDS-ADJ-A-100": "Utenza regolabile - 100 l/min",
+      "SSDS-ADJ": "Utenza regolabile"
     },
     "_fc_Anybrand": {
       "SJ-1/2": "Giunto oscillanteя ½\"",
@@ -10538,8 +10539,7 @@
       "PCB-50": "Gorgogliatore Hunter PCB-50",
       "PCB-10": "Gorgogliatore Hunter PCB-10",
       "PCB-20": "Gorgogliatore Hunter PCB-20",
-      "AFB": "Gorgogliatore di inondazione regolabile Hunter",
-      "SSDS-ADJ": "Gorgogliatore speciale"
+      "AFB": "Gorgogliatore di inondazione regolabile Hunter"
     },
     "_rzw_Hunter": {
       "RZWS-10-25": "Sistema di irrigazione della zona radicale Hunter RZWS-10-25",

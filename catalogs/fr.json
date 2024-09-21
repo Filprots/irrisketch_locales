@@ -10461,7 +10461,8 @@
       "SSDS-ADJ-A-10": "Consommateur réglable - 10 l/min",
       "SSDS-ADJ-A-20": "Consommateur réglable - 20 l/min",
       "SSDS-ADJ-A-50": "Consommateur réglable - 50 l/min",
-      "SSDS-ADJ-A-100": "Consommateur réglable - 100 l/min"
+      "SSDS-ADJ-A-100": "Consommateur réglable - 100 l/min",
+      "SSDS-ADJ": "Consommateur réglable"
     },
     "_fc_Anybrand": {
       "SJ-1/2": "Joint tournant ½\"",
@@ -10538,8 +10539,7 @@
       "PCB-50": "Barboteur Hunter PCB-50",
       "PCB-10": "Barboteur Hunter PCB-10",
       "PCB-20": "Barboteur Hunter PCB-20",
-      "AFB": "Barboteur d'inondation réglable Hunter",
-      "SSDS-ADJ": "Bubbler spécial"
+      "AFB": "Barboteur d'inondation réglable Hunter"
     },
     "_rzw_Hunter": {
       "RZWS-10-25": "Hunter RZWS-10-25 Système d'arrosage de la zone racinaire",

@@ -10461,7 +10461,8 @@
       "SSDS-ADJ-A-10": "Consumidor regulable - 10 l/min",
       "SSDS-ADJ-A-20": "Consumidor regulable - 20 l/min",
       "SSDS-ADJ-A-50": "Consumidor regulable - 50 l/min",
-      "SSDS-ADJ-A-100": "Consumidor regulable - 100 l/min"
+      "SSDS-ADJ-A-100": "Consumidor regulable - 100 l/min",
+      "SSDS-ADJ": "Consumidor regulable"
     },
     "_fc_Anybrand": {
       "SJ-1/2": "Articulación giratoria ½\"",
@@ -10538,8 +10539,7 @@
       "PCB-50": "Burbujeador Hunter PCB-50",
       "PCB-10": "Burbujeador Hunter PCB-10",
       "PCB-20": "Burbujeador Hunter PCB-20",
-      "AFB": "Burbujeador de inundación ajustable Hunter",
-      "SSDS-ADJ": "burbujeador especial"
+      "AFB": "Burbujeador de inundación ajustable Hunter"
     },
     "_rzw_Hunter": {
       "RZWS-10-25": "Hunter RZWS-10-25 Sistema de riego de la zona de raíces",

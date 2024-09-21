@@ -10461,7 +10461,8 @@
       "SSDS-ADJ-A-10": "Consumidor ajustável - 10 l/min",
       "SSDS-ADJ-A-20": "Consumidor ajustável - 20 l/min",
       "SSDS-ADJ-A-50": "Consumidor ajustável - 50 l/min",
-      "SSDS-ADJ-A-100": "Consumidor ajustável - 100 l/min"
+      "SSDS-ADJ-A-100": "Consumidor ajustável - 100 l/min",
+      "SSDS-ADJ": "Consumidor ajustável"
     },
     "_fc_Anybrand": {
       "SJ-1/2": " Articulação oscilante ½\"",
@@ -10538,8 +10539,7 @@
       "PCB-50": "Bolha Hunter PCB-50",
       "PCB-10": "Bolha Hunter PCB-10",
       "PCB-20": "Bolha Hunter PCB-20",
-      "AFB": "Bubbler de inundação ajustável Hunter",
-      "SSDS-ADJ": "borbulhador especial"
+      "AFB": "Bubbler de inundação ajustável Hunter"
     },
     "_rzw_Hunter": {
       "RZWS-10-25": "Hunter RZWS-10-25 Sistema de irrigação de zona de raiz",

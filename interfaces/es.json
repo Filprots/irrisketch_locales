@@ -1654,5 +1654,8 @@
   "action_offset": "Desplazamiento",
   "SetCustomConsumption": "Habilitado",
   "CustomConsumptionActionInput": "Consumo",
-  "action_setCustomConsumption": "Establecer consumo"
+  "action_setCustomConsumption": "Establecer consumo",
+  "Campus_Title": "¡Fechas de formación de un vistazo!",
+  "Campus_Description": "Descubre todas las próximas formaciones y talleres en nuestro calendario de formación actual. ¡Consulta las fechas ahora y regístrate!",
+  "Campus_Button": "¡Consulta las fechas ahora y regístrate!"
 }

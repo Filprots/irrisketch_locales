@@ -1654,5 +1654,9 @@
   "action_offset": "Décalage",
   "SetCustomConsumption": "Activé",
   "CustomConsumptionActionInput": "Consommation",
-  "action_setCustomConsumption": "Définir la consommation"
+  "action_setCustomConsumption": "Définir la consommation",
+  "Campus_Title": "Dates de formation en un coup d'œil!",
+  "Campus_Description": "Découvrez toutes les formations et ateliers à venir dans notre calendrier de formation actuel. Consultez les dates dès maintenant et inscrivez-vous !",
+  "Campus_Button": "Consultez les dates dès maintenant et inscrivez-vous!"
+
 }

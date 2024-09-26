@@ -1654,5 +1654,8 @@
   "action_offset": "偏移",
   "SetCustomConsumption": "已啟用",
   "CustomConsumptionActionInput": "消耗",
-  "action_setCustomConsumption": "設定消耗"
+  "action_setCustomConsumption": "設定消耗",
+  "Campus_Title": "培訓日期一目瞭然！",
+  "Campus_Description": "在我們當前的培訓日曆中發現所有即將舉行的培訓和研討會。立即查看日期並註冊！",
+  "Campus_Button": "立即查看日期並註冊！"
 }

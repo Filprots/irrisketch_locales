@@ -1654,5 +1654,9 @@
   "action_offset": "Offset",
   "SetCustomConsumption": "Enabled",
   "CustomConsumptionActionInput": "Consumption",
-  "action_setCustomConsumption": "Set consumption"
+  "action_setCustomConsumption": "Set consumption",
+  "Campus_Title": "Training dates at a glance!",
+  "Campus_Description": "Discover all upcoming trainings and workshops in our current training calendar. View dates now and register!",
+  "Campus_Button": "View dates now and register!"
+
 }

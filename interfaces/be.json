@@ -1654,5 +1654,8 @@
   "action_offset": "Зрух",
   "SetCustomConsumption": "Уключана",
   "CustomConsumptionActionInput": "Спажыванне",
-  "action_setCustomConsumption": "Усталяваць спажыванне"
+  "action_setCustomConsumption": "Усталяваць спажыванне",
+  "Campus_Title": "Даты навучання з першага погляду!",
+  "Campus_Description": "Адкрыйце для сябе ўсе будучыя навучанні і майстар-класы ў нашым актуальным календары навучання. Праглядзіце даты зараз і зарэгіструйцеся!",
+  "Campus_Button": "Праглядзіце даты зараз і зарэгіструйцеся!"
 }

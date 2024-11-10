@@ -1657,5 +1657,6 @@
   "action_setCustomConsumption": "Imposta consumo",
   "Campus_Title": "Date di formazione a colpo d'occhio!",
   "Campus_Description": "Scopri tutte le prossime formazioni e workshop nel nostro attuale calendario di formazione. Guarda le date ora e iscriviti!",
-  "Campus_Button": "Guarda le date ora e iscriviti!"
+  "Campus_Button": "Guarda le date ora e iscriviti!",
+  "misc_darkmode": "Dark Mode"
 }

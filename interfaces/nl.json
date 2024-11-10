@@ -1657,5 +1657,6 @@
   "action_setCustomConsumption": "Verbruik instellen",
   "Campus_Title": "Trainingdata in één oogopslag!",
   "Campus_Description": "Ontdek alle komende trainingen en workshops in onze huidige trainingskalender. Bekijk nu de data en meld je aan!",
-  "Campus_Button": "Bekijk nu de data en meld je aan!"
+  "Campus_Button": "Bekijk nu de data en meld je aan!",
+  "misc_darkmode": "Dark Mode"
 }

@@ -1657,5 +1657,6 @@
   "action_setCustomConsumption": "Verbrauch festlegen",
   "Campus_Title": "Schulungstermine auf einen Blick!",
   "Campus_Description": "Entdecken Sie alle kommenden Schulungen und Workshops in unserem aktuellen Schulungskalender. Jetzt Termine ansehen und anmelden!",
-  "Campus_Button": "Jetzt Termine ansehen und anmelden!"
+  "Campus_Button": "Jetzt Termine ansehen und anmelden!",
+  "misc_darkmode": "Dark Mode"
 }

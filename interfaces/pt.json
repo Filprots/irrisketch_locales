@@ -1657,5 +1657,6 @@
   "action_setCustomConsumption": "Definir consumo",
   "Campus_Title": "Datas de treinamento num relance!",
   "Campus_Description": "Descubra todos os próximos treinamentos e workshops em nosso calendário de treinamentos atual. Veja as datas agora e inscreva-se!",
-  "Campus_Button": "Veja as datas agora e inscreva-se!"
+  "Campus_Button": "Veja as datas agora e inscreva-se!",
+  "misc_darkmode": "Dark Mode"
 }

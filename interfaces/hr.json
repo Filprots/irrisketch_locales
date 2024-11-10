@@ -1657,5 +1657,6 @@
   "action_setCustomConsumption": "Postavi potrošnju",
   "Campus_Title": "Termini obuke na prvi pogled!",
   "Campus_Description": "Otkrijte sve nadolazeće obuke i radionice u našem trenutnom kalendaru obuke. Pogledajte termine sada i prijavite se!",
-  "Campus_Button": "Pogledajte termine sada i prijavite se!"
+  "Campus_Button": "Pogledajte termine sada i prijavite se!",
+  "misc_darkmode": "Dark Mode"
 }

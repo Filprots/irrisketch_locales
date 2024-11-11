@@ -1179,6 +1179,7 @@ this.LNG = {
         "sprinklerConfig": "Sulama Noktaları",
         "pressureDefinedBy": "Sulama noktalarındaki beklenen basınç",
         "allowReduceRotors": "Rotorların yarıçapını azaltmaya izin ver",
+        autoconnector: "Sprinklerlerin yan boru hattına etkileşimli bağlantısı",
         "radio_option_yes": "Evet",
         "radio_option_no": "Hayır",
         extreme_rotor_reduction: "Aşırı (Yüzde 50'ye kadar) (Eşitsiz yağışa neden olabilir)",

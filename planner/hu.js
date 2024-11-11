@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Fogyasztók",
         pressureDefinedBy: "Az elvárt nyomás a fogyasztóknál",
         allowReduceRotors: "Engedélyezze a szórófej sugara csökkentését",
+        autoconnector: "Interaktív csatlakozás a szórófejek és az oldalsó csőhálózat között",
         radio_option_yes: "Igen",
         radio_option_no: "Nem",
         extreme_rotor_reduction: "Extrém (Akár 50%) (Egyenlőtlen csapadékmennyiséget okozhat)",

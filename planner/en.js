@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Consumers",
         pressureDefinedBy: "Expected pressure at consumers is",
         allowReduceRotors: "Allow rotors radius reduction",
+        autoconnector: "Interactive connection of sprinklers to lateral pipework",
         radio_option_yes: "Yes (As recommended by vendor)",
         radio_option_no: "No",
         extreme_rotor_reduction: "Extreme (Up to 50%) (Can cause uneven precipitation)",

@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Regner",
         pressureDefinedBy: "Der erwartete Druck an den Regnern ist",
         allowReduceRotors: "Die Reduzierung des Rotorenradius ist erlaubt",
+        autoconnector: "Interaktive Verbindung der Sprinkler mit der Seitenrohrleitung",
         radio_option_yes: "Ja (Wie vom Hersteller empfohlen)",
         radio_option_no: "Nein",
         extreme_rotor_reduction: "Extrem (Bis zu 50%) (Kann ungleichmäßige Beregnung verursachen)",

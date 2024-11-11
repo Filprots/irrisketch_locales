@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Consumatori",
         pressureDefinedBy: "La pressione attesa ai consumatori è",
         allowReduceRotors: "Consenti riduzione del raggio dei rotori",
+        autoconnector: "Connessione interattiva degli irrigatori alla tubazione laterale",
         radio_option_yes: "Sì",
         radio_option_no: "No",
         extreme_rotor_reduction: "Estremo (Fino al 50%) (Può causare precipitazioni disuniformi)",

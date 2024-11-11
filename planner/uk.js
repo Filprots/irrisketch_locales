@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Зрошувачі",
         pressureDefinedBy: "Очікуваний тиск на зрошувачі",
         allowReduceRotors: "Разрешается регулировать радиус роторов",
+        autoconnector: "Інтерактивне з'єднання розбризкувачів з бічною трубопровідною мережею",
         radio_option_yes: "Да",
         radio_option_no: "Нет",
         recommendedPressure: "Рекомендоване виробником",

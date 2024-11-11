@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Rasprskivači",
         pressureDefinedBy: "Očekivani tlak na rasprskivaču je",
         allowReduceRotors: "Dopušteno je smanjiti domet rotora",
+        autoconnector: "Interaktivno povezivanje prskalica s bočnim cjevovodom",
         radio_option_yes: "Da",
         radio_option_no: "Ne",
         extreme_rotor_reduction: "Ekstremno (Do 50%) (Može uzrokovati neujednačene oborine)",

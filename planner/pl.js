@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Przyłącze",
         pressureDefinedBy: "Oczekiwane ciśnienie przyłącza wynosi",
         allowReduceRotors: "Zezwalaj na zmniejszenie promienia zraszaczy",
+        autoconnector: "Interaktywne połączenie zraszaczy z boczną siecią rur",
         radio_option_yes: "Tak",
         radio_option_no: "Nie",
         extreme_rotor_reduction: "Ekstremalne (Do 50%) (Może powodować nierównomierne opady)",

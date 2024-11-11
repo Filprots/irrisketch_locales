@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Спажыўцы",
         pressureDefinedBy: "Чаканы ціск на спажыўцу",
         allowReduceRotors: "Дазваляецца рэгуляваць радыус ротораў",
+        autoconnector: "Інтэрактыўнае злучэнне спрынклерных галоў з бакавой трубаправоднай сеткай",
         radio_option_yes: "Так",
         radio_option_no: "Не",
         extreme_rotor_reduction: "Экстрэмальнае (да 50%) (Можа выклікаць няроўнае ападкаванне)",

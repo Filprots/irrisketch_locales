@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Verbruikers",
         pressureDefinedBy: "Verwachte druk bij de verbruikers is",
         allowReduceRotors: "Verkorting van de rotorradius toestaan",
+        autoconnector: "Interactieve verbinding van sprinklers met de zijleiding",
         radio_option_yes: "Ja",
         radio_option_no: "Nee",
         extreme_rotor_reduction: "Extreem (Tot 50%) (Kan ongelijke neerslag veroorzaken)",

@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "消费者",
         pressureDefinedBy: "消费者预期的压力是",
         allowReduceRotors: "允许减少转子半径",
+        autoconnector: "噴頭與側管道的互動連接",
         radio_option_yes: "是（由供应商推荐）",
         radio_option_no: "否",
         extreme_rotor_reduction: "极端（最多减少50%）（可能导致降水不均匀）",

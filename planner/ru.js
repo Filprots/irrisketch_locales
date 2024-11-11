@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Потребители",
         pressureDefinedBy: "Ожидаемое давление на потребителе",
         allowReduceRotors: "Разрешается регулировать радиус роторов",
+        autoconnector: "Интерактивное подключение спринклеров к зональной трубе",
         radio_option_yes: "Да (Как рекомендовано производителем)",
         radio_option_no: "Нет",
         recommendedPressure: "Рекомендованное производителем",

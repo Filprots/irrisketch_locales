@@ -1181,6 +1181,7 @@ this.LNG = {
         sprinklerConfig: "Spreyerys",
         pressureDefinedBy: "Numatomas slėgis spreveryje",
         allowReduceRotors: "Leisti rotorius mažinti spindulį",
+        autoconnector: "Interaktyvus purkštuvų prijungimas prie šoninių vamzdžių",
         radio_option_yes: "Taip",
         radio_option_no: "Ne",
         extreme_rotor_reduction: "Ekstremalus (Iki 50%) (Gali sukelti nelygų kritulių pasiskirstymą)",

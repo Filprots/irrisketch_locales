@@ -650,7 +650,7 @@
   "subscr_status_finished": "Expired",
   "SubscrExpires": "Expires on",
   "BeginMoneyBackNotice": "Are you sure you want to cancel the subscription (money will be returned to you, recalculated based on usage period)",
-  "ApproveActionDialogTitle": "Aprrove action",
+  "ApproveActionDialogTitle": "Approve action",
   "CancelAction": "Cancel",
   "ApplyActionToElem": "Approve",
   "RemoveOrderNotice": "Are you sure you want to hide this order",

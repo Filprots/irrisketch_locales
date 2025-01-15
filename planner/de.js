@@ -1061,10 +1061,10 @@ this.LNG = {
             "Für weitere Informationen oder bei Fragen zögern Sie bitte nicht, uns zu kontaktieren."
         ],
         approveActionByCode: [
-            "Confirm action",
-            "An email with a confirmation code was sent to the email address you provided.",
-            "Please enter this code in the field below",
-            "You entered an invalid number, try again"
+            "Aktion bestätigen",
+            "Eine E-Mail mit einem Bestätigungscode wurde an die von Ihnen angegebene E-Mail-Adresse gesendet.",
+            "Bitte geben Sie diesen Code in das unten stehende Feld ein",
+            "Sie haben eine ungültige Nummer eingegeben, versuchen Sie es erneut"
         ],
         "revisionCheckFailedSoft": [
             "Revisionskonflikt!",

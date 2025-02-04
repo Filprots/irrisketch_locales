@@ -56,7 +56,7 @@
 			"redo": "wiederholen",
 			"exit": "verlassen"
 		},
-		"detectedRowsCountPressProceed": "Erkannte Zeilen - {{Zahl}}. Drücken Sie die Schaltfläche 'Fortfahren', um Daten in die Tabelle einzufügen",
+		"detectedRowsCountPressProceed": "Erkannte Zeilen - {{count}}. Drücken Sie die Schaltfläche 'Fortfahren', um Daten in die Tabelle einzufügen",
 		"ERROR": {
 			"no_data": "Keine Daten zum einfügen gefunden",
 			"not_enough_cols": "In der Zwischenablage befinden sich weniger Spalten, als Sie oben ausgewählt haben",

@@ -358,6 +358,7 @@
             "zoneT": "Bölgeler tablosu",
             "sprinkZoneTimeT": "Bölge sulama süresi",
             "sprinkT": "Sulama tablosu",
+            "sprinkT2": "Sulama tablosu",
             "dripT": "Damlama hattı tablosu",
             "insItemT": "Ekleme Tablosu (Öğelerle)",
             "insVarDiamT": "Ekleme Tablosu (Malzeme ve Çaplara Göre)",

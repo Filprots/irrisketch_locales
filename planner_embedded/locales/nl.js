@@ -358,6 +358,7 @@
             zoneT: "Zone tabel",
             sprinkZoneTimeT: "Besproeiingstijd per zone",
             sprinkT: "Sproeier tabel",
+            sprinkT2: "Sproeier tabel",
             dripT: "Druppelslang tabel",
             insItemT: "Invoegtabellen (Per Item)",
             insVarDiamT: "Invoegtabellen (Op materiaal en diameter)",

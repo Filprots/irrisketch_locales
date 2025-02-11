@@ -358,6 +358,7 @@
             zoneT: "Zonų lentelė",
             sprinkZoneTimeT: "Zonų laistymo laikas",
             sprinkT: "Pakabinami purkštuvai lentelė",
+            sprinkT2: "Pakabinami purkštuvai lentelė",
             dripT: "Lašelinės linijos lentelė",
             insItemT: "Įterpimų lentelė (pagal elementus)",
             insVarDiamT: "Įterpimų lentelė (pagal medžiagą ir skersmenis)",

@@ -358,6 +358,7 @@
             zoneT: "Tabela stref",
             sprinkZoneTimeT: "Czas zraszania strefy",
             sprinkT: "Tabela zraszaczy",
+            sprinkT2: "Tabela zraszaczy",
             dripT: "Tabela linii kroplujących",
             insItemT: "Tabela wkładów (wg przedmiotów)",
             insVarDiamT: "Tabela wkładów (wg materiału i średnic)",

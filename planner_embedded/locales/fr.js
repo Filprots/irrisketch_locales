@@ -358,6 +358,7 @@
             zoneT: "Tableau des zones",
             sprinkZoneTimeT: "Temps d'arrosage de la zone",
             sprinkT: "Tableau des gicleurs",
+            sprinkT2: "Tableau des gicleurs",
             dripT: "Tableau des lignes goutte à goutte",
             insItemT: "Tableau des insertions (par articles)",
             insVarDiamT: "Tableau des inserts (par matière et diamètres)",

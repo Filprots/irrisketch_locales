@@ -358,6 +358,7 @@
             zoneT: "Tablica zona",
             sprinkZoneTimeT: "Vrijeme rada zona",
             sprinkT: "Tablica rasprskivača",
+            sprinkT2: "Tablica rasprskivača",
             dripT: "Tablica Kap po kap",
             insItemT: "Tablica protura (Po stavkama)",
             insVarDiamT: "Tablica protura (Po materijalu i promjeru)",

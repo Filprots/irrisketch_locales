@@ -358,6 +358,7 @@
             zoneT: "Zonentabelle",
             sprinkZoneTimeT: "Zonen Beregnungszeit",
             sprinkT: "Sprinklertisch",
+            sprinkT2: "Sprinklertisch",
             dripT: "Tabelle der Tropfleitungen",
             insItemT: "Tabelle „Einfügungen“ (nach Elementen)",
             insVarDiamT: "Tabelle der Einsätze (nach Material und Durchmesser)",

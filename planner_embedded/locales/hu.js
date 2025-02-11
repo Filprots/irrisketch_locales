@@ -358,6 +358,7 @@
             zoneT: "Zóna táblázat",
             sprinkZoneTimeT: "Öntözési idő zónánként",
             sprinkT: "Szórófejek táblázat",
+            sprinkT2: "Szórófejek táblázat",
             dripT: "Csepegtető vezetékek táblázat",
             insItemT: "Beszúrások táblázata (Elemek szerint)",
             insVarDiamT: "Beszúrások táblázata (Anyagok és átmérők szerint)",

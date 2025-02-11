@@ -358,6 +358,7 @@
             zoneT: "Zones table",
             sprinkZoneTimeT: "Zone sprinkling time",
             sprinkT: "Sprinklers table",
+            sprinkT2: "Sprinklers table",
             dripT: "Drip lines table",
             insItemT: "Inserts Table (By Items)",
             insVarDiamT: "Inserts Table (By Material and Diameters)",

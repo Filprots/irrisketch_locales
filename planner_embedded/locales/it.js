@@ -358,6 +358,7 @@
             zoneT: "Tabella delle zone",
             sprinkZoneTimeT: "Tempo di aspersione della zona",
             sprinkT: "Tavolo degli irrigatori",
+            sprinkT2: "Tavolo degli irrigatori",
             dripT: "Tabella delle linee di gocciolamento",
             insItemT: "Tabella inserti (per elementi)",
             insVarDiamT: "Tabella inserti (per materiale e diametri)",

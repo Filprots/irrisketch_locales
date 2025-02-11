@@ -358,6 +358,7 @@
             zoneT: "區域表格",
             sprinkZoneTimeT: "區域灑水時間",
             sprinkT: "灑水器表格",
+            sprinkT2: "灑水器表格",
             dripT: "滴灌線表格",
             insItemT: "插入物表格（按項目）",
             insVarDiamT: "插入物表格（按材料和直徑）",

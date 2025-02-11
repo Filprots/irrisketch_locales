@@ -358,6 +358,7 @@
             zoneT: "Tabla de zonas",
             sprinkZoneTimeT: "Tiempo de riego por zona",
             sprinkT: "Mesa de aspersores",
+            sprinkT2: "Mesa de aspersores",
             dripT: "Tabla de líneas de goteo",
             insItemT: "Tabla de insertos (por artículos)",
             insVarDiamT: "Tabla de Insertos (Por Material y Diámetros)",

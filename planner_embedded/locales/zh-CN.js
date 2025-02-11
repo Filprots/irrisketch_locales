@@ -358,6 +358,7 @@
             zoneT: "区域表",
             sprinkZoneTimeT: "喷洒区域时间",
             sprinkT: "喷洒表",
+            sprinkT2: "喷洒表",
             dripT: "滴灌管表",
             insItemT: "插入表（按项目）",
             insVarDiamT: "插入表（按材料和直径）",

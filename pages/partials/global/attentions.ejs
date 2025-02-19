@@ -7,30 +7,61 @@
     </div>
 <% } %>
 
-<script src='https://cdn.jotfor.ms/s/umd/latest/for-embedded-agent.js'></script>
-<script> window.addEventListener("DOMContentLoaded", function () {
-        window.AgentInitializer.init({
-            agentRenderURL: "https://eu.jotform.com/agent/019519af4fde7c20b7bf566a70801747da9f",
-            rootId: "JotformAgent-019519af4fde7c20b7bf566a70801747da9f",
-            formID: "019519af4fde7c20b7bf566a70801747da9f",
-            queryParams: ["skipWelcome=1", "maximizable=1"],
-            domain: "https://eu.jotform.com",
-            isDraggable: false,
-            background: "linear-gradient(180deg, #C8CEED 0%, #C8CEED 100%)",
-            buttonBackgroundColor: "#0a1551",
-            buttonIconColor: "#fff",
-            variant: false,
-            customizations: {
-                "greeting": "Yes",
-                "greetingMessage": "Hi! How can I assist you?",
-                "openByDefault": "No",
-                "pulse": "Yes",
-                "position": "right",
-                "autoOpenChatIn": "0"
-            },
-            isVoice: undefined
+<% if (locale === 'de') { %>
+    <script src='https://cdn.jotfor.ms/s/umd/latest/for-embedded-agent.js'></script>
+    <script>
+        window.addEventListener("DOMContentLoaded", function() {
+            window.AgentInitializer.init({
+                agentRenderURL: "https://eu.jotform.com/agent/01951ebef4917d47ab224a7f71f021919591",
+                rootId: "JotformAgent-01951ebef4917d47ab224a7f71f021919591",
+                formID: "01951ebef4917d47ab224a7f71f021919591",
+                queryParams: ["skipWelcome=1", "maximizable=1"],
+                domain: "https://eu.jotform.com",
+                isDraggable: false,
+                background: "linear-gradient(180deg, #e9ecef 0%, #e9ecef 100%)",
+                buttonBackgroundColor: "#0a1551",
+                buttonIconColor: "#fff",
+                variant: false,
+                customizations: {
+                    "greeting": "Yes",
+                    "greetingMessage": "Hallo! Wie kann ich Ihnen helfen?",
+                    "openByDefault": "No",
+                    "pulse": "Yes",
+                    "position": "right",
+                    "autoOpenChatIn": "0"
+                },
+                isVoice: undefined
+            });
         });
-    }); </script>
+    </script>
+<% } else { %>
+    <script src='https://cdn.jotfor.ms/s/umd/latest/for-embedded-agent.js'></script>
+    <script>
+        window.addEventListener("DOMContentLoaded", function() {
+            window.AgentInitializer.init({
+                agentRenderURL: "https://eu.jotform.com/agent/019519af4fde7c20b7bf566a70801747da9f",
+                rootId: "JotformAgent-019519af4fde7c20b7bf566a70801747da9f",
+                formID: "019519af4fde7c20b7bf566a70801747da9f",
+                queryParams: ["skipWelcome=1", "maximizable=1"],
+                domain: "https://eu.jotform.com",
+                isDraggable: false,
+                background: "linear-gradient(90deg, #4f73ca 0%, #008c38 100%)",
+                buttonBackgroundColor: "#4f73ca",
+                buttonIconColor: "#fff",
+                variant: false,
+                customizations: {
+                    "greeting": "Yes",
+                    "greetingMessage": "Hi! How can I assist you?",
+                    "openByDefault": "No",
+                    "pulse": "Yes",
+                    "position": "right",
+                    "autoOpenChatIn": "0"
+                },
+                isVoice: undefined
+            });
+        });
+    </script>
+<% } %>
 
 <!--<div class="alert alert-success fade show"-->
 <!--     role="alert"><span class="text-danger"><i class="fab fa-youtube"></i></span>&nbsp;&nbsp;<a class="social-icon text-xs-center" target="_blank"-->

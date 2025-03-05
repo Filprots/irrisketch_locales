@@ -33,29 +33,31 @@
 
 <%- partial('../notChrome') %>
 
-<script src='https://cdn.jotfor.ms/s/umd/latest/for-embedded-agent.js'></script>
-<script>
-    window.addEventListener("DOMContentLoaded", function() {
-        window.AgentInitializer.init({
-            agentRenderURL: "https://eu.jotform.com/agent/019525e2008979ae8b7ecc5d4c9afa0853ed",
-            rootId: "JotformAgent-019525e2008979ae8b7ecc5d4c9afa0853ed",
-            formID: "019525e2008979ae8b7ecc5d4c9afa0853ed",
-            queryParams: ["skipWelcome=1", "maximizable=1"],
-            domain: "https://eu.jotform.com",
-            isDraggable: false,
-            background: "linear-gradient(180deg, #e9ecef 0%, #e9ecef 100%)",
-            buttonBackgroundColor: "#4f73ca",
-            buttonIconColor: "#4f73ca",
-            variant: false,
-            customizations: {
-                "greeting": "Yes",
-                "greetingMessage": "Оу! Привет!",
-                "openByDefault": "No",
-                "pulse": "Yes",
-                "position": "right",
-                "autoOpenChatIn": "0"
-            },
-            isVoice: undefined
+<% if (aiBotEnabled) { %>
+    <script src='https://cdn.jotfor.ms/s/umd/latest/for-embedded-agent.js'></script>
+    <script>
+        window.addEventListener("DOMContentLoaded", function () {
+            window.AgentInitializer.init({
+                agentRenderURL: "https://eu.jotform.com/agent/019525e2008979ae8b7ecc5d4c9afa0853ed",
+                rootId: "JotformAgent-019525e2008979ae8b7ecc5d4c9afa0853ed",
+                formID: "019525e2008979ae8b7ecc5d4c9afa0853ed",
+                queryParams: ["skipWelcome=1", "maximizable=1"],
+                domain: "https://eu.jotform.com",
+                isDraggable: false,
+                background: "linear-gradient(180deg, #e9ecef 0%, #e9ecef 100%)",
+                buttonBackgroundColor: "#4f73ca",
+                buttonIconColor: "#4f73ca",
+                variant: false,
+                customizations: {
+                    "greeting": "Yes",
+                    "greetingMessage": "Оу! Привет!",
+                    "openByDefault": "No",
+                    "pulse": "Yes",
+                    "position": "right",
+                    "autoOpenChatIn": "0"
+                },
+                isVoice: undefined
+            });
         });
-    });
-</script>
+    </script>
+<% } %>

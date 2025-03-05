@@ -7,32 +7,34 @@
     </div>
 <% } %>
 
-<script src='https://cdn.jotfor.ms/s/umd/latest/for-embedded-agent.js'></script>
-<script>
-    window.addEventListener("DOMContentLoaded", function() {
-        window.AgentInitializer.init({
-            agentRenderURL: "https://eu.jotform.com/agent/019519af4fde7c20b7bf566a70801747da9f",
-            rootId: "JotformAgent-019519af4fde7c20b7bf566a70801747da9f",
-            formID: "019519af4fde7c20b7bf566a70801747da9f",
-            queryParams: ["skipWelcome=1", "maximizable=1"],
-            domain: "https://eu.jotform.com",
-            isDraggable: false,
-            background: "linear-gradient(180deg, #e9ecef 0%, #e9ecef 100%)",
-            buttonBackgroundColor: "#4f73ca",
-            buttonIconColor: "#4f73ca",
-            variant: false,
-            customizations: {
-                "greeting": "Yes",
-                "greetingMessage": "IRRISketch Support",
-                "openByDefault": "No",
-                "pulse": "Yes",
-                "position": "right",
-                "autoOpenChatIn": "0"
-            },
-            isVoice: false
+<% if (aiBotEnabled) { %>
+    <script src='https://cdn.jotfor.ms/s/umd/latest/for-embedded-agent.js'></script>
+    <script>
+        window.addEventListener("DOMContentLoaded", function () {
+            window.AgentInitializer.init({
+                agentRenderURL: "https://eu.jotform.com/agent/019519af4fde7c20b7bf566a70801747da9f",
+                rootId: "JotformAgent-019519af4fde7c20b7bf566a70801747da9f",
+                formID: "019519af4fde7c20b7bf566a70801747da9f",
+                queryParams: ["skipWelcome=1", "maximizable=1"],
+                domain: "https://eu.jotform.com",
+                isDraggable: false,
+                background: "linear-gradient(180deg, #e9ecef 0%, #e9ecef 100%)",
+                buttonBackgroundColor: "#4f73ca",
+                buttonIconColor: "#4f73ca",
+                variant: false,
+                customizations: {
+                    "greeting": "Yes",
+                    "greetingMessage": "IRRISketch Support",
+                    "openByDefault": "No",
+                    "pulse": "Yes",
+                    "position": "right",
+                    "autoOpenChatIn": "0"
+                },
+                isVoice: false
+            });
         });
-    });
-</script>
+    </script>
+<% } %>
 
 <!--<div class="alert alert-success fade show"-->
 <!--     role="alert"><span class="text-danger"><i class="fab fa-youtube"></i></span>&nbsp;&nbsp;<a class="social-icon text-xs-center" target="_blank"-->

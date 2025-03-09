@@ -13833,5 +13833,23 @@
       "210.5005400": "Regen ACQUA JACK (kunststof beugel) regensensor",
       "210.6005500": "Regen ACQUA VISION (kunststof beugel) Bluetooth-regensensor"
     }
+  },
+  "Perrot": {
+    "_rotors_Perrot": {
+      "common_lang": "Perrot {{model}} {{series}} Rotor with #{{nozzle}} nozzle{{options.en}}",
+      "common_body": "Perrot {{model}} {{series}} Rotor{{options.en}}",
+      "common_noz": "Perrot {{series}} Series #{{nozzle}} nozzle)",
+      "common_colors": {
+        "black": "black"
+      },
+      "options_texts": {
+        "1Noz": " (1 Nozzle)",
+        "2Noz": " (2 Nozzles)",
+        "3Noz": " (3 Nozzles)",
+        "4Noz": " (4 Nozzles)",
+        "PC": " (Part circle)",
+        "FC": " (Full circle)"
+      }
+    }
   }
 }

@@ -13836,19 +13836,19 @@
   },
   "Perrot": {
     "_rotors_Perrot": {
-      "common_lang": "Perrot {{model}} {{series}} Rotor with #{{nozzle}} nozzle{{options.en}}",
-      "common_body": "Perrot {{model}} {{series}} Rotor{{options.en}}",
-      "common_noz": "Perrot {{series}} Series #{{nozzle}} nozzle)",
+      "common_lang": "Perrot {{model}} {{series}} ротар з асадкай №{{nozzle}}{{options.be}}",
+      "common_body": "Perrot {{model}} {{series}} ротар{{options.be}}",
+      "common_noz": "Perrot {{series}} серыя асадка №{{nozzle}})",
       "common_colors": {
-        "black": "black"
+        "black": "чорны"
       },
       "options_texts": {
-        "1Noz": " (1 Nozzle)",
-        "2Noz": " (2 Nozzles)",
-        "3Noz": " (3 Nozzles)",
-        "4Noz": " (4 Nozzles)",
-        "PC": " (Part circle)",
-        "FC": " (Full circle)"
+        "1Noz": " (1 асадка)",
+        "2Noz": " (2 асадкі)",
+        "3Noz": " (3 асадкі)",
+        "4Noz": " (4 асадкі)",
+        "PC": " (Сектарны)",
+        "FC": " (Поўны круг)"
       }
     }
   }

@@ -13836,19 +13836,19 @@
   },
   "Perrot": {
     "_rotors_Perrot": {
-      "common_lang": "Perrot {{model}} {{series}} Rotor with #{{nozzle}} nozzle{{options.en}}",
-      "common_body": "Perrot {{model}} {{series}} Rotor{{options.en}}",
-      "common_noz": "Perrot {{series}} Series #{{nozzle}} nozzle)",
+      "common_lang": "Perrot {{model}} {{series}} Rotor com bico #{{nozzle}}{{options.pt}}",
+      "common_body": "Perrot {{model}} {{series}} Rotor{{options.pt}}",
+      "common_noz": "Perrot {{series}} Série bico #{{nozzle}})",
       "common_colors": {
-        "black": "black"
+        "black": "preto"
       },
       "options_texts": {
-        "1Noz": " (1 Nozzle)",
-        "2Noz": " (2 Nozzles)",
-        "3Noz": " (3 Nozzles)",
-        "4Noz": " (4 Nozzles)",
-        "PC": " (Part circle)",
-        "FC": " (Full circle)"
+        "1Noz": " (1 Bico)",
+        "2Noz": " (2 Bicos)",
+        "3Noz": " (3 Bicos)",
+        "4Noz": " (4 Bicos)",
+        "PC": " (Círculo parcial)",
+        "FC": " (Círculo completo)"
       }
     }
   }

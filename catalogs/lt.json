@@ -13836,19 +13836,19 @@
   },
   "Perrot": {
     "_rotors_Perrot": {
-      "common_lang": "Perrot {{model}} {{series}} Rotor with #{{nozzle}} nozzle{{options.en}}",
-      "common_body": "Perrot {{model}} {{series}} Rotor{{options.en}}",
-      "common_noz": "Perrot {{series}} Series #{{nozzle}} nozzle)",
+      "common_lang": "Perrot {{model}} {{series}} Rotorius su antgaliu #{{nozzle}}{{options.lt}}",
+      "common_body": "Perrot {{model}} {{series}} Rotorius{{options.lt}}",
+      "common_noz": "Perrot {{series}} Serija antgalis #{{nozzle}})",
       "common_colors": {
-        "black": "black"
+        "black": "juoda"
       },
       "options_texts": {
-        "1Noz": " (1 Nozzle)",
-        "2Noz": " (2 Nozzles)",
-        "3Noz": " (3 Nozzles)",
-        "4Noz": " (4 Nozzles)",
-        "PC": " (Part circle)",
-        "FC": " (Full circle)"
+        "1Noz": " (1 Antgalis)",
+        "2Noz": " (2 Antgaliai)",
+        "3Noz": " (3 Antgaliai)",
+        "4Noz": " (4 Antgaliai)",
+        "PC": " (Dalinis ratas)",
+        "FC": " (Visas ratas)"
       }
     }
   }

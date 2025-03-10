@@ -13836,19 +13836,19 @@
   },
   "Perrot": {
     "_rotors_Perrot": {
-      "common_lang": "Perrot {{model}} {{series}} Rotor with #{{nozzle}} nozzle{{options.en}}",
-      "common_body": "Perrot {{model}} {{series}} Rotor{{options.en}}",
-      "common_noz": "Perrot {{series}} Series #{{nozzle}} nozzle)",
+      "common_lang": "Perrot {{model}} {{series}} Rotore con ugello #{{nozzle}}{{options.it}}",
+      "common_body": "Perrot {{model}} {{series}} Rotore{{options.it}}",
+      "common_noz": "Perrot {{series}} Serie ugello #{{nozzle}})",
       "common_colors": {
-        "black": "black"
+        "black": "nero"
       },
       "options_texts": {
-        "1Noz": " (1 Nozzle)",
-        "2Noz": " (2 Nozzles)",
-        "3Noz": " (3 Nozzles)",
-        "4Noz": " (4 Nozzles)",
-        "PC": " (Part circle)",
-        "FC": " (Full circle)"
+        "1Noz": " (1 Ugello)",
+        "2Noz": " (2 Ugelli)",
+        "3Noz": " (3 Ugelli)",
+        "4Noz": " (4 Ugelli)",
+        "PC": " (Cerchio parziale)",
+        "FC": " (Cerchio completo)"
       }
     }
   }

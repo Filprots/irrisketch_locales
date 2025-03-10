@@ -13836,19 +13836,19 @@
   },
   "Perrot": {
     "_rotors_Perrot": {
-      "common_lang": "Perrot {{model}} {{series}} Rotor with #{{nozzle}} nozzle{{options.en}}",
-      "common_body": "Perrot {{model}} {{series}} Rotor{{options.en}}",
-      "common_noz": "Perrot {{series}} Series #{{nozzle}} nozzle)",
+      "common_lang": "Perrot {{model}} {{series}} 旋转喷头，喷嘴 #{{nozzle}}{{options.zh-cn}}",
+      "common_body": "Perrot {{model}} {{series}} 旋转喷头{{options.zh-cn}}",
+      "common_noz": "Perrot {{series}} 系列 喷嘴 #{{nozzle}})",
       "common_colors": {
-        "black": "black"
+        "black": "黑色"
       },
       "options_texts": {
-        "1Noz": " (1 Nozzle)",
-        "2Noz": " (2 Nozzles)",
-        "3Noz": " (3 Nozzles)",
-        "4Noz": " (4 Nozzles)",
-        "PC": " (Part circle)",
-        "FC": " (Full circle)"
+        "1Noz": " (1 喷嘴)",
+        "2Noz": " (2 喷嘴)",
+        "3Noz": " (3 喷嘴)",
+        "4Noz": " (4 喷嘴)",
+        "PC": " (部分圆)",
+        "FC": " (完整圆)"
       }
     }
   }

@@ -13836,19 +13836,19 @@
   },
   "Perrot": {
     "_rotors_Perrot": {
-      "common_lang": "Perrot {{model}} {{series}} Rotor with #{{nozzle}} nozzle{{options.en}}",
-      "common_body": "Perrot {{model}} {{series}} Rotor{{options.en}}",
-      "common_noz": "Perrot {{series}} Series #{{nozzle}} nozzle)",
+      "common_lang": "Perrot {{model}} {{series}} Rotor z dyszą #{{nozzle}}{{options.pl}}",
+      "common_body": "Perrot {{model}} {{series}} Rotor{{options.pl}}",
+      "common_noz": "Perrot {{series}} Seria dysza #{{nozzle}})",
       "common_colors": {
-        "black": "black"
+        "black": "czarny"
       },
       "options_texts": {
-        "1Noz": " (1 Nozzle)",
-        "2Noz": " (2 Nozzles)",
-        "3Noz": " (3 Nozzles)",
-        "4Noz": " (4 Nozzles)",
-        "PC": " (Part circle)",
-        "FC": " (Full circle)"
+        "1Noz": " (1 Dysza)",
+        "2Noz": " (2 Dysze)",
+        "3Noz": " (3 Dysze)",
+        "4Noz": " (4 Dysze)",
+        "PC": " (Częściowy okrąg)",
+        "FC": " (Pełny okrąg)"
       }
     }
   }

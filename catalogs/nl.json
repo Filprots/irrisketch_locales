@@ -13836,19 +13836,19 @@
   },
   "Perrot": {
     "_rotors_Perrot": {
-      "common_lang": "Perrot {{model}} {{series}} Rotor with #{{nozzle}} nozzle{{options.en}}",
-      "common_body": "Perrot {{model}} {{series}} Rotor{{options.en}}",
-      "common_noz": "Perrot {{series}} Series #{{nozzle}} nozzle)",
+      "common_lang": "Perrot {{model}} {{series}} Rotor met sproeier #{{nozzle}}{{options.nl}}",
+      "common_body": "Perrot {{model}} {{series}} Rotor{{options.nl}}",
+      "common_noz": "Perrot {{series}} Serie sproeier #{{nozzle}})",
       "common_colors": {
-        "black": "black"
+        "black": "zwart"
       },
       "options_texts": {
-        "1Noz": " (1 Nozzle)",
-        "2Noz": " (2 Nozzles)",
-        "3Noz": " (3 Nozzles)",
-        "4Noz": " (4 Nozzles)",
-        "PC": " (Part circle)",
-        "FC": " (Full circle)"
+        "1Noz": " (1 Sproeier)",
+        "2Noz": " (2 Sproeiers)",
+        "3Noz": " (3 Sproeiers)",
+        "4Noz": " (4 Sproeiers)",
+        "PC": " (Gedeeltelijke cirkel)",
+        "FC": " (Volledige cirkel)"
       }
     }
   }

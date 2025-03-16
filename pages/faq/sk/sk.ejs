@@ -1,0 +1,238 @@
+<script type="module">
+    if (location.hash !== null && location.hash !== "") {
+        $(location.hash + ".collapse").collapse();
+    }
+    $(document).ready(function () {
+        $(`.collapse`).on('show.bs.collapse', function () {
+            window.location.hash = $(this).attr('id');
+        });
+    });
+</script>
+
+<div class="container" id="faq">
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Všeobecné otázky</span></div>
+    </div>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA1"
+                aria-expanded="false"
+                aria-controls="qA1">
+            Kúpili ste si predplatné, ale platené funkcie nie sú k dispozícii, čo robiť?
+        </button>
+    </p>
+    <div class="collapse" id="qA1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                Po zakúpení plateného predplatného programu IRRISketch ho musíte aktivovať ručne vo svojom osobnom
+                účte .
+                na tomto odkaze:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>,
+            </p>
+            kde bude vaše predplatné v pravom stĺpci. Po aktivácii budete môcť voľne používať všetky
+            platené funkcie služby.
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-primary btn-lg" type="button" data-toggle="collapse" data-target="#qA2"
+                aria-expanded="false"
+                aria-controls="qA2">
+            Zaplatil som predplatné, ale v mojej osobnej skrinke sa nezobrazilo.
+        </button>
+    </p>
+    <div class="collapse" id="qA2" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                V tomto prípade musíte prejsť na svoje osobné konto pomocou tohto odkazu:
+            </p>
+            <p>
+                <a href="https://www.irrisketch.com/account/orders"
+                   target="_blank">www.irrisketch.com/account/orders</a>
+            </p>
+            <p>
+                Pozrite sa na tlačidlo v spodnej časti objednávky. Červené tlačidlo „Opakovať“ znamená, že platba
+                sa nepodarilo
+                a mali by ste to skúsiť znova, ale najprv skontrolujte, či boli peniaze stiahnuté.
+            </p>
+            <p>
+                Ak sa vám už dlhší čas zobrazuje žlté tlačidlo „Platba prebieha“, je pravdepodobné, že
+                transakcia nebola
+                uskutočnila
+                automatické potvrdenie. V takom prípade kliknite na toto tlačidlo, čím ju dokončíte, a všetko by sa malo
+                fungovať.
+            </p>
+            Po úspešnej platbe a dokončení transakcie sa zobrazí zelená správa „Platba overená“.
+            tlačidlo „Platba“.
+            Kliknite naň a vaše predplatné sa zobrazí v pravom stĺpci.
+        </div>
+    </div>
+    <hr>
+    <div class="row mb-3">
+        <div class="col-lg-12 text-center"><span class="h3">Otázky o projektoch</span></div>
+    </div>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP1"
+                aria-expanded="false" aria-controls="qP1">
+            Zmeny v projekte neboli uložené/chcem obnoviť určitý stav
+            projektu, čo mám urobiť?
+        </button>
+    </p>
+    <div class="collapse" id="qP1" data-parent="#faq">
+        <div class="card card-body">
+            <p>
+                1. Otvorte ten istý prehliadač na tom istom počítači, kde ste naposledy pracovali na projekte.
+            </p>
+            <p>
+                2. Prejdite do dielne IRRISketch a otvorte projekt, ktorého sa problém týka.
+            </p>
+            <p>
+                3. Ak sa pri otváraní projektu zobrazí okno s ponukou na obnovenie projektu - stlačte tlačidlo
+                „Obnoviť“ a
+                pozrite si výsledok. Ak sa projekt neobnovil do požadovaného stavu, pokračujte
+                postupujte podľa stránky .
+                pokynov.
+            </p>
+            <p>
+                4. V pravom hornom rohu kliknite na tlačidlo História (ikona hodín so šípkou) a skontrolujte, či sa všetko uložilo správne,
+                zobrazí sa zoznam časových značiek stavov vášho projektu. Vyberte ten, kedy bol projekt v naj
+                požadovanom stave. Potom nezabudnite projekt uložiť!
+            </p>
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP2"
+                aria-expanded="false"
+                aria-controls="qP2">
+            Ako zobrazím mriežku vo výkrese projektu? Mriežka výkresu sa pri výstupe do PDF/PNG nezobrazuje.
+        </button>
+    </p>
+    <div class="collapse" id="qP2" data-parent="#faq">
+        <div class="card card-body">
+        <span>
+            Ak chcete mriežku zobraziť pri tlači, musí byť umiestnená na výkrese ako obrázok. Mriežku si môžete stiahnuť,
+            napríklad <a
+                    href="https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing"
+                    target="_blank">odtiaľto</a>, a potom ho na výkrese zmenšite na požadovanú veľkosť.
+        </span>
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP3"
+                aria-expanded="false"
+                aria-controls="qP3">
+            Ako môžem preniesť projekt z jedného účtu na druhý?
+        </button>
+    </p>
+    <div class="collapse" id="qP3" data-parent="#faq">
+        <div class="card card-body">
+            Na tento účel si môžete stiahnuť súbor projektu pomocou príslušného tlačidla v pravom hornom paneli
+            Potom vytvorte prázdny projekt na novom účte a pomocou tlačidla „Načítať“ otvorte predtým stiahnutý
+            súbor.
+            <img src="/images/faq/downloadbuttonglobal.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+        </div>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP4"
+                aria-expanded="false"
+                aria-controls="qP4">
+            Projekt „visí“/Prechod do režimu kreslenia trvá dlho
+        </button>
+    </p>
+    <div class="collapse" id="qP4" data-parent="#faq">
+        <span>
+            <p>
+                Zvyčajne to súvisí s veľmi veľkým počtom prvkov v projekte, pretože program IRRISketch Residential nie je určený pre obzvlášť veľké pozemky. Tento problém sa dá vyriešiť odstránením všetkých existujúcich objektov v režime kreslenia a ich nahradením jedným pozadím.
+            </p>
+            <p>
+                1. Ak sa obávate náhodnej straty údajov, vytvorte kópiu projektu a otvorte ju.
+            </p>
+            <p>
+                2. Prepnite sa do režimu zavlažovania a pomocou kombinácie klávesov ctrl+a vyberte všetky prvky a potom ich vyrežte pomocou kombinácie klávesov ctrl+x (uložia sa do schránky).
+            </p>
+            <p>
+                3. Prepnite sa do režimu kreslenia, na karte „Vizuálny štýl“ nastavte nastavenie „Krajina“, aby ste získali pôvodnú krajinu projektu, a odstráňte pečiatku.
+            </p>
+            <img src="/images/faq/visualStyleEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+            <p>
+                4. Vyberte formát hárkov od A1 do A4. Čím väčší je formát hárku, tým vyššia je kvalita výsledného obrázka, ale tým viac miesta zaberie.
+            </p>
+            <img src="/images/faq/listFormatEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="30%" height="30%">
+            <p>
+                5. Pomocou nástroja „Pravítko“ v režime kreslenia zmerajte akýkoľvek ľahko merateľný prvok výkresu a zaznamenajte jeho dĺžku, pretože ju budete potrebovať neskôr.
+            </p>
+            <img src="/images/faq/rulerEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                6. Prepnite sa do režimu „Upraviť výkres“ v dolnej časti obrazovky a vložte výkres do listu pomocou tlačidla vľavo dole. Projekt exportujte ako obrázok.
+                Ak je výsledný obrázok väčší ako 10 MB, nebudete ho môcť použiť. V takom prípade, ak viete používať rôzne editory obrázkov (napríklad Photoshop, Gimp), obrázok skomprimujte alebo znížte počet farieb. Tým sa zníži veľkosť súboru.
+            </p>
+            <img src="/images/faq/fitEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="100%" height="100%">
+            <p>
+                7. Vložte obrázok do projektu a nastavte správnu mierku pomocou dĺžky zaznamenanej v kroku 5.
+            </p>
+            <img src="/images/faq/resizeEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                8. Zarovnajte obrázok s výkresom tak, aby boli všetky prvky na rovnakých miestach, ako sú na obrázku.
+            </p>
+            <img src="/images/faq/alignEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="50%" height="50%">
+            <p>
+                9. Obrázok uzamknite jeho výberom a kliknutím na príslušné tlačidlo vľavo dole.
+            </p>
+            <img src="/images/faq/lockEN.jpg" class="img-thumbnail img-responsive" alt="Download button"
+                 width="15%" height="15%">
+            <p>
+                10. Pomocou kombinácie klávesov ctrl+a vyberte všetky prvky v režime kreslenia a odstráňte ich. Mal by zostať len váš obrázok.
+            </p>
+            <p>
+                11. Vráťte sa do režimu zavlažovania a vložte všetky predtým odstránené prvky zavlažovania späť do výkresu pomocou kombinácie klávesov ctrl+v. Ak ste postupovali správne, všetky prvky by sa mali vrátiť na svoje pôvodné pozície.
+            </p>
+        </span>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP5"
+                aria-expanded="false"
+                aria-controls="qP5">
+            V režime rozloženia sa nezobrazujú niektoré zóny/nezobrazuje sa kvapkanie
+        </button>
+    </p>
+    <div class="collapse" id="qP5" data-parent="#faq">
+        <span>
+           Toto správanie súvisí s nastaveniami reprezentácie zón v rozložení.
+            Ak chcete zmeniť nastavenia zastúpenia zón, v ľavom dolnom rohu v režime rozloženia kliknite na tlačidlo „Zastúpenie zón“ a začiarknite políčka vedľa zón, ktoré chcete v rozložení zobraziť. Prípadne môžete vytvoriť nové rozloženie a všetky existujúce zóny sa v ňom zobrazia.
+        </span>
+    </div>
+    <hr>
+    <p>
+        <button class="btn btn-success btn-lg" type="button" data-toggle="collapse" data-target="#qP6"
+                aria-expanded="false"
+                aria-controls="qP6">
+            Rozloženie obrázka je po exporte do PDF/obrázku nesprávne otočené/umiestnené
+        </button>
+    </p>
+    <div class="collapse" id="qP6" data-parent="#faq">
+        <span>
+            <p>
+                            Deje sa to preto, lebo váš pôvodný obrázok obsahuje metaúdaje exif. Aby sa obrázok správal správne, musíte
+                odstrániť tieto metadáta pomocou služby <a href="https://www.verexif.com/en/" target="_blank">www.verexif.com/en/</a>.
+            </p>
+            <p>
+                Po otvorení odkazu - načítajte obrázok, potom stlačte tlačidlo „Odstrániť exif“, stiahnite nový obrázok a nahraďte starý obrázok v programe IRRISketch.
+            </p>
+        </span>
+    </div>
+    <hr>
+</div>

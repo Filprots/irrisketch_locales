@@ -1676,5 +1676,9 @@
   "Campus_Title": "¡Fechas de formación de un vistazo!",
   "Campus_Description": "Descubre todas las próximas formaciones y talleres en nuestro calendario de formación actual. ¡Consulta las fechas ahora y regístrate!",
   "Campus_Button": "¡Consulta las fechas ahora y regístrate!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Conjuntos",
+  "CSTM_ELS_LIST": "Elementos personalizados",
+  "toolArbitrary": "Elementos personalizados",
+  "action_exportAsTxt": "Copiar al portapapeles como texto"
 }

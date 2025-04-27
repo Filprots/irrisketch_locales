@@ -1078,6 +1078,11 @@ this.LNG = {
             'Jelenleg a projektet technikai személyzetünk vizsgálja azon hibák miatt, amelyek előfordultak benne.',
             'Kérjük, várjon, amíg a vizsgálat befejeződik, majd e-mailben értesítjük további utasításokkal.',
         ],
+        missingVariants: [
+            'Hiányzó elemek hiba',
+            'Az alábbiakban látható az egyedi elemek listája, amelyek hiányoznak a projektkönyvtárból, ezért nem jeleníthetők meg:',
+            'Kérjük, kapcsolja be azokat a készleteket, amelyek tartalmazzák ezeket az elemeket a projektbeállítások menüben (a Műhelyben)'
+        ],
         openInOtherTab: "Nyissa meg a legfrissebbet",
         overwrite: "Felülír",
         saveToFile: "Mentés fájlba",

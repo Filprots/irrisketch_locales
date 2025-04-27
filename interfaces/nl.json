@@ -1676,5 +1676,9 @@
   "Campus_Title": "Trainingdata in één oogopslag!",
   "Campus_Description": "Ontdek alle komende trainingen en workshops in onze huidige trainingskalender. Bekijk nu de data en meld je aan!",
   "Campus_Button": "Bekijk nu de data en meld je aan!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Sets",
+  "CSTM_ELS_LIST": "Aangepaste elementen",
+  "toolArbitrary": "Aangepaste elementen",
+  "action_exportAsTxt": "Kopiëren naar klembord als tekst"
 }

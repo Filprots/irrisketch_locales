@@ -1676,5 +1676,9 @@
   "Campus_Title": "Training dates at a glance!",
   "Campus_Description": "Discover all upcoming trainings and workshops in our current training calendar. View dates now and register!",
   "Campus_Button": "View dates now and register!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Sets",
+  "CSTM_ELS_LIST": "Custom Elements",
+  "toolArbitrary": "Custom Elements",
+  "action_exportAsTxt": "Copy to buffer as txt"
 }

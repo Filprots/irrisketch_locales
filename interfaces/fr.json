@@ -1676,5 +1676,9 @@
   "Campus_Title": "Dates de formation en un coup d'œil!",
   "Campus_Description": "Découvrez toutes les formations et ateliers à venir dans notre calendrier de formation actuel. Consultez les dates dès maintenant et inscrivez-vous !",
   "Campus_Button": "Consultez les dates dès maintenant et inscrivez-vous!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Ensembles",
+  "CSTM_ELS_LIST": "Éléments personnalisés",
+  "toolArbitrary": "Éléments personnalisés",
+  "action_exportAsTxt": "Copier dans le presse-papiers en tant que texte"
 }

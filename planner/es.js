@@ -1078,6 +1078,11 @@ this.LNG = {
             "Actualmente, nuestro personal técnico está revisando tu proyecto debido a errores que están ocurriendo en él.",
             "Por favor, espera hasta que la revisión esté completa, luego recibirás un correo electrónico con más instrucciones.",
         ],
+        missingVariants: [
+            'Error de elementos faltantes',
+            'A continuación se muestra la lista de elementos personalizados que faltan en su biblioteca de proyectos y, por lo tanto, no se pueden renderizar:',
+            'Por favor, active los conjuntos que contienen estos elementos en el menú de configuración del proyecto (en Taller)'
+        ],
         "openInOtherTab": "Abrir último",
         "overwrite": "Sobrescribir",
         "saveToFile": "Guardar en archivo",

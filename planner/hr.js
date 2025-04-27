@@ -1078,6 +1078,11 @@ this.LNG = {
             "Trenutno naš tehnički tim pregledava vaš projekt zbog pogrešaka koje se događaju u njemu.",
             "Molimo pričekajte dok pregled ne bude završen, nakon toga ćete biti obaviješteni e-poštom s daljnjim uputama.",
         ],
+        missingVariants: [
+            'Pogreška nedostajućih elemenata',
+            'U nastavku je popis prilagođenih elemenata koji nedostaju u vašoj projektnoj biblioteci i stoga se ne mogu prikazati:',
+            'Molimo uključite Setove koji sadrže te elemente u izborniku za konfiguraciju projekta (u Radionici)'
+        ],
         "openInOtherTab": "Otvori najnovije",
         "overwrite": "Prepiši",
         "saveToFile": "Spremi u datoteku",

@@ -1676,5 +1676,9 @@
   "Campus_Title": "Datas de treinamento num relance!",
   "Campus_Description": "Descubra todos os próximos treinamentos e workshops em nosso calendário de treinamentos atual. Veja as datas agora e inscreva-se!",
   "Campus_Button": "Veja as datas agora e inscreva-se!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Conjuntos",
+  "CSTM_ELS_LIST": "Elementos personalizados",
+  "toolArbitrary": "Elementos personalizados",
+  "action_exportAsTxt": "Copiar para a área de transferência como texto"
 }

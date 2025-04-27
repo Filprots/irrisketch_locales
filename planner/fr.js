@@ -1078,6 +1078,11 @@ this.LNG = {
             "Actuellement, votre projet est en cours de révision par notre équipe technique en raison des erreurs qui s'y produisent.",
             "Veuillez attendre que la révision soit terminée, vous serez ensuite informé par e-mail des instructions à suivre.",
         ],
+        missingVariants: [
+            'Erreur d’éléments manquants',
+            'Voici la liste des éléments personnalisés absents de votre bibliothèque de projet et donc impossibles à afficher :',
+            'Veuillez activer les ensembles contenant ces éléments dans le menu de configuration du projet (dans Atelier)'
+        ],
         "openInOtherTab": "Ouvrir le dernier",
         "overwrite": "Écraser",
         "saveToFile": "Enregistrer dans le fichier",

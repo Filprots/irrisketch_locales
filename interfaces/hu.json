@@ -1676,5 +1676,9 @@
   "Campus_Title": "Képzési időpontok egy pillantásra!",
   "Campus_Description": "Fedezze fel az összes közelgő képzést és workshopot aktuális képzési naptárunkban. Tekintse meg az időpontokat most és jelentkezzen!",
   "Campus_Button": "Tekintse meg az időpontokat most és jelentkezzen!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Készletek",
+  "CSTM_ELS_LIST": "Egyéni elemek",
+  "toolArbitrary": "Egyéni elemek",
+  "action_exportAsTxt": "Másolás vágólapra szövegként"
 }

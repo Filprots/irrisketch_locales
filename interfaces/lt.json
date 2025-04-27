@@ -1676,5 +1676,9 @@
   "Campus_Title": "Mokymų datos vienoje vietoje!",
   "Campus_Description": "Atraskite visus artėjančius mokymus ir seminarus mūsų dabartiniame mokymų kalendoriuje. Peržiūrėkite datas dabar ir registruokitės!",
   "Campus_Button": "Peržiūrėkite datas dabar ir registruokitės!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Rinkiniai",
+  "CSTM_ELS_LIST": "Tinkinti elementai",
+  "toolArbitrary": "Tinkinti elementai",
+  "action_exportAsTxt": "Kopijuoti į iškarpinę kaip tekstą"
 }

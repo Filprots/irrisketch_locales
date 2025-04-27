@@ -1078,6 +1078,11 @@ this.LNG = {
             "Derzeit wird Ihr Projekt aufgrund von Fehlern von unserem technischen Personal überprüft.",
             "Bitte warten Sie, bis die Überprüfung abgeschlossen ist, dann werden Sie per E-Mail mit weiteren Anweisungen benachrichtigt.",
         ],
+        missingVariants: [
+            'Fehler fehlender Elemente',
+            'Unten ist die Liste der benutzerdefinierten Elemente, die in Ihrer Projektbibliothek fehlen und daher nicht dargestellt werden können:',
+            'Bitte aktivieren Sie Sets, die diese Elemente enthalten, im Projektkonfigurationsmenü (unter Werkstatt)'
+        ],
         "openInOtherTab": "Neueste öffnen",
         "overwrite": "Überschreiben",
         "saveToFile": "In Datei speichern",

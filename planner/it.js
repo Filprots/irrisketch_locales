@@ -1078,6 +1078,11 @@ this.LNG = {
             "Attualmente il tuo progetto è in fase di revisione da parte del nostro staff tecnico a causa degli errori che si stanno verificando.",
             "Attendere il completamento della revisione, dopodiché riceverai una notifica via email con ulteriori istruzioni.",
         ],
+        missingVariants: [
+            'Errore di elementi mancanti',
+            'Di seguito è riportato l’elenco degli elementi personalizzati assenti nella libreria del progetto e quindi impossibili da visualizzare:',
+            'Si prega di attivare i Set che contengono questi elementi nel menu di configurazione del progetto (in Officina)'
+        ],
         "openInOtherTab": "Apri l'ultimo",
         "overwrite": "Sovrascrivi",
         "saveToFile": "Salva su file",

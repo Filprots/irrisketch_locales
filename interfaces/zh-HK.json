@@ -1676,5 +1676,9 @@
   "Campus_Title": "培訓日期一目瞭然！",
   "Campus_Description": "在我們當前的培訓日曆中發現所有即將舉行的培訓和研討會。立即查看日期並註冊！",
   "Campus_Button": "立即查看日期並註冊！",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "集合",
+  "CSTM_ELS_LIST": "自訂元素",
+  "toolArbitrary": "自訂元素",
+  "action_exportAsTxt": "複製到剪貼簿為文字"
 }

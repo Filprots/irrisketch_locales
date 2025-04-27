@@ -1676,5 +1676,9 @@
   "Campus_Title": "Schulungstermine auf einen Blick!",
   "Campus_Description": "Entdecken Sie alle kommenden Schulungen und Workshops in unserem aktuellen Schulungskalender. Jetzt Termine ansehen und anmelden!",
   "Campus_Button": "Jetzt Termine ansehen und anmelden!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Sätze",
+  "CSTM_ELS_LIST": "Benutzerdefinierte Elemente",
+  "toolArbitrary": "Benutzerdefinierte Elemente",
+  "action_exportAsTxt": "In die Zwischenablage als Text kopieren"
 }

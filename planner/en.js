@@ -1078,6 +1078,11 @@ this.LNG = {
             'Currently your project is being reviewed by our technical staff due to errors happening in it.',
             'Please wait until the review is completed, then you will be notified by email with further instructions.',
         ],
+        missingVariants: [
+            'Missing elements error',
+            'Below is the list of custom elements that are absent in your project library and therefore cannot be rendered:',
+            'Please turn on Sets which contain these elements in project configuration menu (at Workshop)'
+        ],
         openInOtherTab: "Open latest",
         overwrite: "Overwrite",
         saveToFile: "Save to file",

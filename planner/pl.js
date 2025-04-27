@@ -1078,6 +1078,11 @@ this.LNG = {
             'Aktualnie Twój projekt jest sprawdzany przez nasz personel techniczny z powodu występujących w nim błędów.',
             'Proszę poczekaj, aż przegląd zostanie zakończony, a następnie otrzymasz e-mail z dalszymi instrukcjami.',
         ],
+        missingVariants: [
+            'Błąd brakujących elementów',
+            'Poniżej znajduje się lista niestandardowych elementów, które są nieobecne w bibliotece projektu i dlatego nie mogą być wyrenderowane:',
+            'Proszę włączyć zestawy zawierające te elementy w menu konfiguracji projektu (w Warsztacie)'
+        ],
         openInOtherTab: "Otwórz najnowszy",
         overwrite: "Nadpisz",
         saveToFile: "Zapisz do pliku",

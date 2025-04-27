@@ -1676,5 +1676,9 @@
   "Campus_Title": "Dátumy tréningu na prvý pohľad!",
   "Campus_Description": "Objavte všetky nadchádzajúce školenia a workshopy v našom súčasnom tréningovom kalendári. ",
   "Campus_Button": "Zobraziť dátumy teraz a zaregistrujte sa!",
-  "misc_darkmode": "Temný režim"
+  "misc_darkmode": "Temný režim",
+  "CSTM_ELS_SETS": "Súpravy",
+  "CSTM_ELS_LIST": "Vlastné prvky",
+  "toolArbitrary": "Vlastné prvky",
+  "action_exportAsTxt": "Kopírovať do schránky ako text"
 }

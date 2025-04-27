@@ -1078,6 +1078,11 @@ this.LNG = {
             "Šiuo metu mūsų techninis personalas peržiūri jūsų projektą dėl jo klaidų.",
             "Prašome palaukti, kol peržiūra bus baigta, tada gausite tolesnes instrukcijas el. paštu.",
         ],
+        missingVariants: [
+            'Trūkstamų elementų klaida',
+            'Žemiau pateiktas tinkintų elementų sąrašas, kurių nėra jūsų projekto bibliotekoje, todėl jie negali būti atvaizduoti:',
+            'Įjunkite rinkinius, kuriuose yra šie elementai, projekto konfigūracijos meniu (Dirbtuvėse)'
+        ],
         "openInOtherTab": "Atidaryti naujausią",
         "overwrite": "Perrašyti",
         "saveToFile": "Išsaugoti į failą",

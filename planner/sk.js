@@ -1078,6 +1078,11 @@ this.LNG = {
             'V súčasnosti váš projekt revidujú naši technickí pracovníci z dôvodu chýb, ktoré sa v ňom dejú.',
             'Počkajte, prosím, kým sa preskúmanie dokončí, potom budete informovaní e-mailom s ďalšími pokynmi.',
         ],
+        missingVariants: [
+            'Chyba chýbajúcich prvkov',
+            'Nižšie je zoznam vlastných prvkov, ktoré chýbajú vo vašej knižnici projektu, a preto ich nie je možné vykresliť:',
+            'Prosím, zapnite sady obsahujúce tieto prvky v ponuke nastavení projektu (v Dielni)'
+        ],
         openInOtherTab: "Otvoriť najnovšie",
         overwrite: "Prepísať",
         saveToFile: "Uložiť do súboru",

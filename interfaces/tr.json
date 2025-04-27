@@ -1676,5 +1676,9 @@
   "Campus_Title": "Eğitim tarihleri bir bakışta!",
   "Campus_Description": "Güncel eğitim takvimimizdeki tüm yaklaşan eğitimleri ve atölyeleri keşfedin. Şimdi tarihleri görüntüleyin ve kaydolun!",
   "Campus_Button": "Şimdi tarihleri görüntüleyin ve kaydolun!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Setler",
+  "CSTM_ELS_LIST": "Özel Öğeler",
+  "toolArbitrary": "Özel Öğeler",
+  "action_exportAsTxt": "Metin olarak panoya kopyala"
 }

@@ -1676,5 +1676,9 @@
   "Campus_Title": "Termini obuke na prvi pogled!",
   "Campus_Description": "Otkrijte sve nadolazeće obuke i radionice u našem trenutnom kalendaru obuke. Pogledajte termine sada i prijavite se!",
   "Campus_Button": "Pogledajte termine sada i prijavite se!",
-  "misc_darkmode": "Dark Mode"
+  "misc_darkmode": "Dark Mode",
+  "CSTM_ELS_SETS": "Skupovi",
+  "CSTM_ELS_LIST": "Prilagođeni elementi",
+  "toolArbitrary": "Prilagođeni elementi",
+  "action_exportAsTxt": "Kopiraj u međuspremnik kao tekst"
 }

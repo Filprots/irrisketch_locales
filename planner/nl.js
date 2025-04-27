@@ -1078,6 +1078,11 @@ this.LNG = {
             "Momenteel wordt je project beoordeeld door onze technische staf vanwege fouten die erin voorkomen.",
             "Wacht tot de beoordeling is voltooid, daarna ontvang je per e-mail verdere instructies.",
         ],
+        missingVariants: [
+            'Fout ontbrekende elementen',
+            'Hieronder staat de lijst van aangepaste elementen die ontbreken in uw projectbibliotheek en daarom niet weergegeven kunnen worden:',
+            'Schakel de sets die deze elementen bevatten in het projectconfiguratiemenu in (bij Werkplaats)'
+        ],
         "openInOtherTab": "Open laatste",
         "overwrite": "Overschrijven",
         "saveToFile": "Opslaan als bestand",

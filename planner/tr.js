@@ -1078,6 +1078,11 @@ this.LNG = {
             'Şu anda projenizde meydana gelen hatalar nedeniyle teknik ekibimiz tarafından inceleniyor.',
             'İncelemenin tamamlanmasını bekleyin, ardından size e-posta ile daha fazla talimat gönderilecektir.',
         ],
+        missingVariants: [
+            'Eksik öğeler hatası',
+            'Aşağıda, proje kitaplığınızda bulunmayan ve bu nedenle görüntülenemeyen özel öğelerin listesi bulunmaktadır:',
+            'Lütfen bu öğeleri içeren Setleri proje yapılandırma menüsünden (Atölyede) etkinleştirin'
+        ],
         "openInOtherTab": "En Sonunu Aç",
         "overwrite": "Üzerine Yaz",
         "saveToFile": "Dosyaya Kaydet",

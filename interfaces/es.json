@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Conjuntos",
   "CSTM_ELS_LIST": "Elementos personalizados",
   "toolArbitrary": "Elementos personalizados",
-  "action_exportAsTxt": "Copiar al portapapeles como texto"
+  "action_exportAsTxt": "Copiar al portapapeles como texto",
+  "Offline": "Sin conexión"
 }

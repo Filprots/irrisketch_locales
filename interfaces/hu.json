@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Készletek",
   "CSTM_ELS_LIST": "Egyéni elemek",
   "toolArbitrary": "Egyéni elemek",
-  "action_exportAsTxt": "Másolás vágólapra szövegként"
+  "action_exportAsTxt": "Másolás vágólapra szövegként",
+  "Offline": "Offline"
 }

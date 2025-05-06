@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Setler",
   "CSTM_ELS_LIST": "Özel Öğeler",
   "toolArbitrary": "Özel Öğeler",
-  "action_exportAsTxt": "Metin olarak panoya kopyala"
+  "action_exportAsTxt": "Metin olarak panoya kopyala",
+  "Offline": "Çevrimdışı"
 }

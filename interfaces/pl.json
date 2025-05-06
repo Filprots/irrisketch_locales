@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Zestawy",
   "CSTM_ELS_LIST": "Elementy niestandardowe",
   "toolArbitrary": "Elementy niestandardowe",
-  "action_exportAsTxt": "Kopiuj do schowka jako tekst"
+  "action_exportAsTxt": "Kopiuj do schowka jako tekst",
+  "Offline": "Offline"
 }

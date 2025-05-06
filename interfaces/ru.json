@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Наборы",
   "CSTM_ELS_LIST": "Пользовательские элементы",
   "toolArbitrary": "Пользовательские элементы",
-  "action_exportAsTxt": "Копировать в буфер как текст"
+  "action_exportAsTxt": "Копировать в буфер как текст",
+  "Offline": "Офлайн"
 }

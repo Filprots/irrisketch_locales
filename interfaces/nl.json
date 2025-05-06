@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Sets",
   "CSTM_ELS_LIST": "Aangepaste elementen",
   "toolArbitrary": "Aangepaste elementen",
-  "action_exportAsTxt": "Kopiëren naar klembord als tekst"
+  "action_exportAsTxt": "Kopiëren naar klembord als tekst",
+  "Offline": "Offline"
 }

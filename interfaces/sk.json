@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Súpravy",
   "CSTM_ELS_LIST": "Vlastné prvky",
   "toolArbitrary": "Vlastné prvky",
-  "action_exportAsTxt": "Kopírovať do schránky ako text"
+  "action_exportAsTxt": "Kopírovať do schránky ako text",
+  "Offline": "Offline"
 }

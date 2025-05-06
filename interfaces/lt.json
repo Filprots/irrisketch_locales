@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Rinkiniai",
   "CSTM_ELS_LIST": "Tinkinti elementai",
   "toolArbitrary": "Tinkinti elementai",
-  "action_exportAsTxt": "Kopijuoti į iškarpinę kaip tekstą"
+  "action_exportAsTxt": "Kopijuoti į iškarpinę kaip tekstą",
+  "Offline": "Neprisijungęs"
 }

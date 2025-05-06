@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "集合",
   "CSTM_ELS_LIST": "自訂元素",
   "toolArbitrary": "自訂元素",
-  "action_exportAsTxt": "複製到剪貼簿為文字"
+  "action_exportAsTxt": "複製到剪貼簿為文字",
+  "Offline": "離線"
 }

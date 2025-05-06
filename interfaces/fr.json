@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Ensembles",
   "CSTM_ELS_LIST": "Éléments personnalisés",
   "toolArbitrary": "Éléments personnalisés",
-  "action_exportAsTxt": "Copier dans le presse-papiers en tant que texte"
+  "action_exportAsTxt": "Copier dans le presse-papiers en tant que texte",
+  "Offline": "Hors ligne"
 }

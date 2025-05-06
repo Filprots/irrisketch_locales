@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Set",
   "CSTM_ELS_LIST": "Elementi personalizzati",
   "toolArbitrary": "Elementi personalizzati",
-  "action_exportAsTxt": "Copia negli appunti come testo"
+  "action_exportAsTxt": "Copia negli appunti come testo",
+  "Offline": "Offline"
 }

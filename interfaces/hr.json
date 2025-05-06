@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Skupovi",
   "CSTM_ELS_LIST": "Prilagođeni elementi",
   "toolArbitrary": "Prilagođeni elementi",
-  "action_exportAsTxt": "Kopiraj u međuspremnik kao tekst"
+  "action_exportAsTxt": "Kopiraj u međuspremnik kao tekst",
+  "Offline": "Izvan mreže"
 }

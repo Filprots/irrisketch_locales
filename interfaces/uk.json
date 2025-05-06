@@ -1680,5 +1680,6 @@
   "CSTM_ELS_SETS": "Набори",
   "CSTM_ELS_LIST": "Користувацькі елементи",
   "toolArbitrary": "Користувацькі елементи",
-  "action_exportAsTxt": "Копіювати в буфер як текст"
+  "action_exportAsTxt": "Копіювати в буфер як текст",
+  "Offline": "Офлайн"
 }

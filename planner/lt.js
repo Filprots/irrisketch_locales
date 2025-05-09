@@ -876,6 +876,10 @@ this.LNG = {
             "Atsiprašome, šis failo tipas nepalaikomas",
             "Palaikomi formatai: .csv"
         ],
+        invalidCSV: [
+            "Neteisingas CSV failo turinys",
+            "Moasure programos eksporto failo analizės klaida, patikrinkite, ar failas buvo tinkamai eksportuotas"
+        ],
         pickAnotherImage: "Pasirinkite kitą failą",
         imageTooBig: [
             "Viršytas maksimalus paveikslėlio dydis",

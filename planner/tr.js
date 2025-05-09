@@ -876,6 +876,10 @@ this.LNG = {
             "Üzgünüz, bu dosya türü desteklenmiyor",
             "Desteklenen formatlar: .csv"
         ],
+        "invalidCSV": [
+            "Geçersiz CSV dosya içeriği",
+            "Moasure Uygulaması dışa aktarma dosyası ayrıştırma hatası, lütfen dosyanın düzgün dışa aktarılıp aktarılmadığını kontrol edin"
+        ],
         "pickAnotherImage": "Başka bir tane seç",
         "imageTooBig": [
             "Maksimum resim boyutu aşıldı",

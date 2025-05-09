@@ -876,6 +876,10 @@ this.LNG = {
             "Žao nam je, ovaj tip datoteke nije podržan",
             "Podržani formati: .csv"
         ],
+        invalidCSV: [
+            "Nevažeći sadržaj CSV datoteke",
+            "Pogreška pri analizi izvozne datoteke aplikacije Moasure, provjerite je li datoteka pravilno izvezena"
+        ],
         pickAnotherImage: "Odaberite drugu sliku",
         imageTooBig: [
             "Prekoračena maksimalna veličina slike",

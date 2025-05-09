@@ -876,6 +876,10 @@ this.LNG = {
             "Désolé, ce type de fichier n'est pas pris en charge",
             "Formats de fichier pris en charge : .csv"
         ],
+        invalidCSV: [
+            "Contenu du fichier CSV invalide",
+            "Erreur d'analyse du fichier d'exportation de l'application Moasure, veuillez vérifier si le fichier a été correctement exporté"
+        ],
         pickAnotherImage: "Choisissez une autre image",
         imageTooBig: [
             "Taille maximale de l'image dépassée",

@@ -876,6 +876,10 @@ this.LNG = {
             "对不起，不支持此文件类型",
             "支持的格式：.csv"
         ],
+        invalidCSV: [
+            "CSV文件内容无效",
+            "Moasure应用程序导出文件解析错误，请检查文件是否正确导出"
+        ],
         pickAnotherImage: "选择另一个图片",
         imageTooBig: [
             "超过了最大的图片大小",

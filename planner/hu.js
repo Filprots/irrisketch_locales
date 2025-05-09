@@ -876,6 +876,10 @@ this.LNG = {
             "Sajnáljuk, ez a fájltípus nem támogatott",
             "Támogatott formátumok: .csv"
         ],
+        invalidCSV: [
+            "Érvénytelen CSV fájl tartalom",
+            "Moasure alkalmazás exportálási fájl elemzési hiba, kérjük ellenőrizze, hogy a fájl megfelelően lett-e exportálva"
+        ],
         pickAnotherImage: "Válasszon másikat",
         imageTooBig: [
             "A maximális képméret túllépve",

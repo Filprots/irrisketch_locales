@@ -876,6 +876,10 @@ this.LNG = {
             "Sorry, dit bestandstype wordt niet ondersteund",
             "Ondersteunde formaten: .csv"
         ],
+        invalidCSV: [
+            "Ongeldige inhoud van CSV-bestand",
+            "Fout bij het analyseren van het exportbestand van de Moasure-app, controleer of het bestand correct is geëxporteerd"
+        ],
         pickAnotherImage: "Kies een andere afbeelding",
         imageTooBig: [
             "Maximum bestandsgrootte afbeelding overschreden",

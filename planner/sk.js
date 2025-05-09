@@ -876,6 +876,10 @@ this.LNG = {
             "Prepáčte, tento typ súboru nie je podporovaný",
             "Podporované formáty: .csv"
         ],
+        invalidCSV: [
+            "Neplatný obsah súboru CSV",
+            "Chyba analýzy exportného súboru aplikácie Moasure, skontrolujte, či bol súbor správne exportovaný"
+        ],
         pickAnotherImage: "Vyber si inú.",
         imageTooBig: [
             "Prekročená maximálna veľkosť obrázku",

@@ -876,6 +876,10 @@ this.LNG = {
             "Sorry, this file type is not supported",
             "Supported formats : .csv"
         ],
+        invalidCSV: [
+            "Invalid CSV file contents",
+            "Moasure App export file parsing error, please check if the file was exported properly"
+        ],
         pickAnotherImage: "Wählen Sie einen anderen",
         imageTooBig: [
             "Maximale Bildgröße überschritten",

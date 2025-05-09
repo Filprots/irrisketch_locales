@@ -867,18 +867,18 @@ this.LNG = {
             "Sie sind dabei, dieses Projekt abzuschließen",
             "Beachten Sie, dass alle ungespeicherten Änderungen verloren gehen."
         ],
-        pickAnotherCSVFile: "Pick another one",
+        pickAnotherCSVFile: "Wählen Sie eine andere",
         csvFileTooBig: [
-            "Maximum csv file size exceeded",
-            "For optimization purposes, maximum csv file handled is limited by 4Mb"
+            "Maximale CSV-Dateigröße überschritten",
+            "Zu Optimierungszwecken ist die maximal zu verarbeitende CSV-Datei auf 4Mb begrenzt."
         ],
         notAnCSV: [
-            "Sorry, this file type is not supported",
-            "Supported formats : .csv"
+            "Entschuldigung, dieser Dateityp wird nicht unterstützt.",
+            "Unterstützte Formate : .csv"
         ],
         invalidCSV: [
-            "Invalid CSV file contents",
-            "Moasure App export file parsing error, please check if the file was exported properly"
+            "Ungültiger CSV-Dateiinhalt",
+            "Fehler beim Parsen der Moasure App-Exportdatei, bitte überprüfen Sie, ob die Datei ordnungsgemäß exportiert wurde"
         ],
         pickAnotherImage: "Wählen Sie einen anderen",
         imageTooBig: [

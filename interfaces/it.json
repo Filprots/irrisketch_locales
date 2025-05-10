@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Elementi personalizzati",
   "toolArbitrary": "Elementi personalizzati",
   "action_exportAsTxt": "Copia negli appunti come testo",
-  "Offline": "Offline"
+  "Offline": "Offline",
+  "CodeExecutionError": "Errore di codice del progetto",
+  "CodeExecutionErrorCallToAction": "Questo errore può essere causato dalla cache obsoleta del browser, si prega di cancellare la cache del browser e riprovare"
 }

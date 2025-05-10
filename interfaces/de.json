@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Benutzerdefinierte Elemente",
   "toolArbitrary": "Benutzerdefinierte Elemente",
   "action_exportAsTxt": "In die Zwischenablage als Text kopieren",
-  "Offline": "Offline"
+  "Offline": "Offline",
+  "CodeExecutionError": "Projektcodefehler",
+  "CodeExecutionErrorCallToAction": "Dieser Fehler kann durch einen veralteten Browser-Cache verursacht werden. Bitte löschen Sie den Cache Ihres Browsers und versuchen Sie es erneut"
 }

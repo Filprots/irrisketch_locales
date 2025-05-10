@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Custom Elements",
   "toolArbitrary": "Custom Elements",
   "action_exportAsTxt": "Copy to buffer as txt",
-  "Offline": "Offline"
+  "Offline": "Offline",
+  "CodeExecutionError": "Project Code Error",
+  "CodeExecutionErrorCallToAction": "This error can be caused by outdated browser cache, please clear cache of your browser and try again"
 }

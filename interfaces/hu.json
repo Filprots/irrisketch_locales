@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Egyéni elemek",
   "toolArbitrary": "Egyéni elemek",
   "action_exportAsTxt": "Másolás vágólapra szövegként",
-  "Offline": "Offline"
+  "Offline": "Offline",
+  "CodeExecutionError": "Projekt kód hiba",
+  "CodeExecutionErrorCallToAction": "Ezt a hibát elavult böngésző gyorsítótár okozhatja, kérjük, törölje a böngésző gyorsítótárát és próbálja újra"
 }

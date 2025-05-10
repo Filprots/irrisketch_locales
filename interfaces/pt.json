@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Elementos personalizados",
   "toolArbitrary": "Elementos personalizados",
   "action_exportAsTxt": "Copiar para a área de transferência como texto",
-  "Offline": "Offline"
+  "Offline": "Offline",
+  "CodeExecutionError": "Erro de código do projeto",
+  "CodeExecutionErrorCallToAction": "Este erro pode ser causado por cache desatualizado do navegador, por favor limpe o cache do seu navegador e tente novamente"
 }

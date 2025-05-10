@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Özel Öğeler",
   "toolArbitrary": "Özel Öğeler",
   "action_exportAsTxt": "Metin olarak panoya kopyala",
-  "Offline": "Çevrimdışı"
+  "Offline": "Çevrimdışı",
+  "CodeExecutionError": "Proje Kodu Hatası",
+  "CodeExecutionErrorCallToAction": "Bu hata, tarayıcı önbelleğinin güncel olmamasından kaynaklanabilir, lütfen tarayıcınızın önbelleğini temizleyin ve tekrar deneyin"
 }

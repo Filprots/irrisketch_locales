@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Elementy niestandardowe",
   "toolArbitrary": "Elementy niestandardowe",
   "action_exportAsTxt": "Kopiuj do schowka jako tekst",
-  "Offline": "Offline"
+  "Offline": "Offline",
+  "CodeExecutionError": "Błąd kodu projektu",
+  "CodeExecutionErrorCallToAction": "Ten błąd może być spowodowany przestarzałą pamięcią podręczną przeglądarki, proszę wyczyścić pamięć podręczną przeglądarki i spróbować ponownie"
 }

@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Éléments personnalisés",
   "toolArbitrary": "Éléments personnalisés",
   "action_exportAsTxt": "Copier dans le presse-papiers en tant que texte",
-  "Offline": "Hors ligne"
+  "Offline": "Hors ligne",
+  "CodeExecutionError": "Erreur de code du projet",
+  "CodeExecutionErrorCallToAction": "Cette erreur peut être causée par un cache de navigateur obsolète, veuillez vider le cache de votre navigateur et réessayer"
 }

@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Aangepaste elementen",
   "toolArbitrary": "Aangepaste elementen",
   "action_exportAsTxt": "Kopiëren naar klembord als tekst",
-  "Offline": "Offline"
+  "Offline": "Offline",
+  "CodeExecutionError": "Projectcode fout",
+  "CodeExecutionErrorCallToAction": "Deze fout kan worden veroorzaakt door verouderde browsercache, wis de cache van uw browser en probeer het opnieuw"
 }

@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Elementos personalizados",
   "toolArbitrary": "Elementos personalizados",
   "action_exportAsTxt": "Copiar al portapapeles como texto",
-  "Offline": "Sin conexión"
+  "Offline": "Sin conexión",
+  "CodeExecutionError": "Error de código del proyecto",
+  "CodeExecutionErrorCallToAction": "Este error puede ser causado por la caché obsoleta del navegador, por favor, limpie la caché de su navegador e inténtelo de nuevo"
 }

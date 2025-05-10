@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "自定义元素",
   "toolArbitrary": "自定义元素",
   "action_exportAsTxt": "复制到剪贴板为文本",
-  "Offline": "离线"
+  "Offline": "离线",
+  "CodeExecutionError": "项目代码错误",
+  "CodeExecutionErrorCallToAction": "此错误可能是由过时的浏览器缓存引起的，请清除浏览器缓存并重试"
 }

@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Tinkinti elementai",
   "toolArbitrary": "Tinkinti elementai",
   "action_exportAsTxt": "Kopijuoti į iškarpinę kaip tekstą",
-  "Offline": "Neprisijungęs"
+  "Offline": "Neprisijungęs",
+  "CodeExecutionError": "Projekto kodo klaida",
+  "CodeExecutionErrorCallToAction": "Šią klaidą gali sukelti pasenusi naršyklės podėlis, prašome išvalyti naršyklės podėlį ir bandyti dar kartą"
 }

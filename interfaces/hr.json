@@ -1681,5 +1681,7 @@
   "CSTM_ELS_LIST": "Prilagođeni elementi",
   "toolArbitrary": "Prilagođeni elementi",
   "action_exportAsTxt": "Kopiraj u međuspremnik kao tekst",
-  "Offline": "Izvan mreže"
+  "Offline": "Izvan mreže",
+  "CodeExecutionError": "Greška koda projekta",
+  "CodeExecutionErrorCallToAction": "Ova greška može biti uzrokovana zastarjelom predmemorijom preglednika, molimo očistite predmemoriju vašeg preglednika i pokušajte ponovno"
 }

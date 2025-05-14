@@ -1683,5 +1683,6 @@
   "action_exportAsTxt": "Kopiëren naar klembord als tekst",
   "Offline": "Offline",
   "CodeExecutionError": "Projectcode fout",
-  "CodeExecutionErrorCallToAction": "Deze fout kan worden veroorzaakt door verouderde browsercache, wis de cache van uw browser en probeer het opnieuw"
+  "CodeExecutionErrorCallToAction": "Deze fout kan worden veroorzaakt door verouderde browsercache, wis de cache van uw browser en probeer het opnieuw",
+  "toolImage": "Afbeelding"
 }

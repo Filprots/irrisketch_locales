@@ -1683,5 +1683,6 @@
   "action_exportAsTxt": "Metin olarak panoya kopyala",
   "Offline": "Çevrimdışı",
   "CodeExecutionError": "Proje Kodu Hatası",
-  "CodeExecutionErrorCallToAction": "Bu hata, tarayıcı önbelleğinin güncel olmamasından kaynaklanabilir, lütfen tarayıcınızın önbelleğini temizleyin ve tekrar deneyin"
+  "CodeExecutionErrorCallToAction": "Bu hata, tarayıcı önbelleğinin güncel olmamasından kaynaklanabilir, lütfen tarayıcınızın önbelleğini temizleyin ve tekrar deneyin",
+  "toolImage": "Görüntü"
 }

@@ -1683,5 +1683,6 @@
   "action_exportAsTxt": "Kopírovať do schránky ako text",
   "Offline": "Offline",
   "CodeExecutionError": "Chyba kódu projektu",
-  "CodeExecutionErrorCallToAction": "Túto chybu môže spôsobiť zastaraná vyrovnávacia pamäť prehliadača, prosím, vymažte vyrovnávaciu pamäť prehliadača a skúste to znova"
+  "CodeExecutionErrorCallToAction": "Túto chybu môže spôsobiť zastaraná vyrovnávacia pamäť prehliadača, prosím, vymažte vyrovnávaciu pamäť prehliadača a skúste to znova",
+  "toolImage": "Obrázok"
 }

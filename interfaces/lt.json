@@ -1683,5 +1683,6 @@
   "action_exportAsTxt": "Kopijuoti į iškarpinę kaip tekstą",
   "Offline": "Neprisijungęs",
   "CodeExecutionError": "Projekto kodo klaida",
-  "CodeExecutionErrorCallToAction": "Šią klaidą gali sukelti pasenusi naršyklės podėlis, prašome išvalyti naršyklės podėlį ir bandyti dar kartą"
+  "CodeExecutionErrorCallToAction": "Šią klaidą gali sukelti pasenusi naršyklės podėlis, prašome išvalyti naršyklės podėlį ir bandyti dar kartą",
+  "toolImage": "Vaizdas"
 }

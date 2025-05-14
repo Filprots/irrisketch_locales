@@ -1683,5 +1683,6 @@
   "action_exportAsTxt": "In die Zwischenablage als Text kopieren",
   "Offline": "Offline",
   "CodeExecutionError": "Projektcodefehler",
-  "CodeExecutionErrorCallToAction": "Dieser Fehler kann durch einen veralteten Browser-Cache verursacht werden. Bitte löschen Sie den Cache Ihres Browsers und versuchen Sie es erneut"
+  "CodeExecutionErrorCallToAction": "Dieser Fehler kann durch einen veralteten Browser-Cache verursacht werden. Bitte löschen Sie den Cache Ihres Browsers und versuchen Sie es erneut",
+  "toolImage": "Bild"
 }

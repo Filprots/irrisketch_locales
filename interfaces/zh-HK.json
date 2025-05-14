@@ -1683,5 +1683,6 @@
   "action_exportAsTxt": "複製到剪貼簿為文字",
   "Offline": "離線",
   "CodeExecutionError": "項目代碼錯誤",
-  "CodeExecutionErrorCallToAction": "此錯誤可能是由過時的瀏覽器快取引起的，請清除瀏覽器快取並重試"
+  "CodeExecutionErrorCallToAction": "此錯誤可能是由過時的瀏覽器快取引起的，請清除瀏覽器快取並重試",
+  "toolImage": "圖像"
 }

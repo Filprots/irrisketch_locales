@@ -1683,5 +1683,6 @@
   "action_exportAsTxt": "Kopiraj u međuspremnik kao tekst",
   "Offline": "Izvan mreže",
   "CodeExecutionError": "Greška koda projekta",
-  "CodeExecutionErrorCallToAction": "Ova greška može biti uzrokovana zastarjelom predmemorijom preglednika, molimo očistite predmemoriju vašeg preglednika i pokušajte ponovno"
+  "CodeExecutionErrorCallToAction": "Ova greška može biti uzrokovana zastarjelom predmemorijom preglednika, molimo očistite predmemoriju vašeg preglednika i pokušajte ponovno",
+  "toolImage": "Slika"
 }

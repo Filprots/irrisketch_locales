@@ -1683,5 +1683,6 @@
   "action_exportAsTxt": "Kopiuj do schowka jako tekst",
   "Offline": "Offline",
   "CodeExecutionError": "Błąd kodu projektu",
-  "CodeExecutionErrorCallToAction": "Ten błąd może być spowodowany przestarzałą pamięcią podręczną przeglądarki, proszę wyczyścić pamięć podręczną przeglądarki i spróbować ponownie"
+  "CodeExecutionErrorCallToAction": "Ten błąd może być spowodowany przestarzałą pamięcią podręczną przeglądarki, proszę wyczyścić pamięć podręczną przeglądarki i spróbować ponownie",
+  "toolImage": "Obraz"
 }

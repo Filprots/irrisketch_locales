@@ -1684,5 +1684,12 @@
   "Offline": "Offline",
   "CodeExecutionError": "Błąd kodu projektu",
   "CodeExecutionErrorCallToAction": "Ten błąd może być spowodowany przestarzałą pamięcią podręczną przeglądarki, proszę wyczyścić pamięć podręczną przeglądarki i spróbować ponownie",
-  "toolImage": "Obraz"
+  "toolImage": "Obraz",
+  "Downloads": "Pobieranie",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Wybierz swoją platformę:",
+  "win64install": "Instalator Windows x64",
+  "linux_deb_package": "Pakiet Linux Debian/Ubuntu",
+  "mac_arm64_image": "Obraz dysku macOS ARM64",
+  "download": "Pobierz"
 }

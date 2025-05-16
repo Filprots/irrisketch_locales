@@ -1684,5 +1684,12 @@
   "Offline": "Offline",
   "CodeExecutionError": "Projectcode fout",
   "CodeExecutionErrorCallToAction": "Deze fout kan worden veroorzaakt door verouderde browsercache, wis de cache van uw browser en probeer het opnieuw",
-  "toolImage": "Afbeelding"
+  "toolImage": "Afbeelding",
+  "Downloads": "Downloads",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Selecteer uw platform:",
+  "win64install": "Windows x64 installatieprogramma",
+  "linux_deb_package": "Linux Debian/Ubuntu pakket",
+  "mac_arm64_image": "macOS ARM64 schijfkopie",
+  "download": "Downloaden"
 }

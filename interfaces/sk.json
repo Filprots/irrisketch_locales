@@ -1684,5 +1684,12 @@
   "Offline": "Offline",
   "CodeExecutionError": "Chyba kódu projektu",
   "CodeExecutionErrorCallToAction": "Túto chybu môže spôsobiť zastaraná vyrovnávacia pamäť prehliadača, prosím, vymažte vyrovnávaciu pamäť prehliadača a skúste to znova",
-  "toolImage": "Obrázok"
+  "toolImage": "Obrázok",
+  "Downloads": "Stiahnutia",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Vyberte svoju platformu:",
+  "win64install": "Inštalátor Windows x64",
+  "linux_deb_package": "Balík Linux Debian/Ubuntu",
+  "mac_arm64_image": "Obraz disku macOS ARM64",
+  "download": "Stiahnuť"
 }

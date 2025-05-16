@@ -1684,5 +1684,12 @@
   "Offline": "离线",
   "CodeExecutionError": "项目代码错误",
   "CodeExecutionErrorCallToAction": "此错误可能是由过时的浏览器缓存引起的，请清除浏览器缓存并重试",
-  "toolImage": "图像"
+  "toolImage": "图像",
+  "Downloads": "下载",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "选择您的平台：",
+  "win64install": "Windows x64 安装程序",
+  "linux_deb_package": "Linux Debian/Ubuntu 软件包",
+  "mac_arm64_image": "macOS ARM64 磁盘映像",
+  "download": "下载"
 }

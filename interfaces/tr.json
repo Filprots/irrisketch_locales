@@ -1684,5 +1684,12 @@
   "Offline": "Çevrimdışı",
   "CodeExecutionError": "Proje Kodu Hatası",
   "CodeExecutionErrorCallToAction": "Bu hata, tarayıcı önbelleğinin güncel olmamasından kaynaklanabilir, lütfen tarayıcınızın önbelleğini temizleyin ve tekrar deneyin",
-  "toolImage": "Görüntü"
+  "toolImage": "Görüntü",
+  "Downloads": "İndirmeler",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Platformunuzu seçin:",
+  "win64install": "Windows x64 yükleyici",
+  "linux_deb_package": "Linux Debian/Ubuntu paketi",
+  "mac_arm64_image": "macOS ARM64 disk görüntüsü",
+  "download": "İndir"
 }

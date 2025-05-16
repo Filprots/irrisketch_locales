@@ -1684,5 +1684,12 @@
   "Offline": "Афлайн",
   "CodeExecutionError": "Памылка коду праекта",
   "CodeExecutionErrorCallToAction": "Гэтая памылка можа быць выклікана састарэлым кэшам браўзера, калі ласка, ачысціце кэш вашага браўзера і паспрабуйце зноў",
-  "toolImage": "Выява"
+  "toolImage": "Выява",
+  "Downloads": "Спампаваць",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Выберыце вашу платформу:",
+  "win64install": "Усталёўшчык Windows x64",
+  "linux_deb_package": "Пакет Linux Debian/Ubuntu",
+  "mac_arm64_image": "Вобраз дыска macOS ARM64",
+  "download": "Спампаваць"
 }

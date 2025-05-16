@@ -1684,5 +1684,12 @@
   "Offline": "Offline",
   "CodeExecutionError": "Erro de código do projeto",
   "CodeExecutionErrorCallToAction": "Este erro pode ser causado por cache desatualizado do navegador, por favor limpe o cache do seu navegador e tente novamente",
-  "toolImage": "Imagem"
+  "toolImage": "Imagem",
+  "Downloads": "Downloads",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Selecione sua plataforma:",
+  "win64install": "Instalador Windows x64",
+  "linux_deb_package": "Pacote Linux Debian/Ubuntu",
+  "mac_arm64_image": "Imagem de disco macOS ARM64",
+  "download": "Baixar"
 }

@@ -1,0 +1,128 @@
+<hr>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h2 class="text-center"><%= __(('irris_browser')) %></h2>
+
+        <style>
+            .file-browser {
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                padding: 20px;
+                margin: 20px 0;
+                background-color: #f8f9fa;
+            }
+
+            .file-item {
+                padding: 15px;
+                margin: 10px 0;
+                border: 1px solid #e0e0e0;
+                border-radius: 4px;
+                background-color: white;
+                display: flex;
+                align-items: center;
+                transition: all 0.2s ease;
+            }
+
+            .file-item:hover {
+                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+                transform: translateY(-2px);
+            }
+
+            .file-item.active {
+                border: 2px solid #28a745;
+                background-color: #f0fff0;
+            }
+
+            .file-icon {
+                font-size: 24px;
+                margin-right: 15px;
+                color: #007bff;
+            }
+
+            .file-info {
+                flex-grow: 1;
+            }
+
+            .file-name {
+                font-weight: bold;
+                margin-bottom: 5px;
+            }
+
+            .file-description {
+                color: #666;
+                font-size: 0.9em;
+            }
+
+            .download-btn {
+                padding: 8px 15px;
+                background-color: #28a745;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                transition: background-color 0.2s;
+            }
+
+            .download-btn:hover {
+                background-color: #218838;
+            }
+        </style>
+
+        <div class="file-browser">
+            <h4><%= __(('select_platform')) %></h4>
+
+            <div class="file-item" id="windows-file">
+                <div class="file-icon">
+                    <i class="fa fa-windows"></i>
+                </div>
+                <div class="file-info">
+                    <div class="file-name">IRRISBrowser.COM-0.0.1.exe</div>
+                    <div class="file-description"><%= __(('win64install')) %></div>
+                </div>
+                <a href="http://irrisketch.com/eassets/browser/IRRISBrowser.COM-0.0.1.exe" class="download-btn" target="_blank"><%= __(('download')) %></a>
+            </div>
+
+            <div class="file-item" id="linux-file">
+                <div class="file-icon">
+                    <i class="fa fa-linux"></i>
+                </div>
+                <div class="file-info">
+                    <div class="file-name">IRRISBrowser.COM-0.0.1_amd64.deb</div>
+                    <div class="file-description"><%= __(('linux_deb_package')) %></div>
+                </div>
+                <a href="http://irrisketch.com/eassets/browser/IRRISBrowser.COM-0.0.1_amd64.deb" class="download-btn" target="_blank"><%= __(('download')) %></a>
+            </div>
+
+            <div class="file-item" id="mac-file">
+                <div class="file-icon">
+                    <i class="fa fa-apple"></i>
+                </div>
+                <div class="file-info">
+                    <div class="file-name">IRRISBrowser.COM-0.0.1_arm64.dmg</div>
+                    <div class="file-description"><%= __(('mac_arm64_image')) %></div>
+                </div>
+                <a href="http://irrisketch.com/eassets/browser/IRRISBrowser.COM-0.0.1_arm64.dmg" class="download-btn" target="_blank"><%= __(('download')) %></a>
+            </div>
+        </div>
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                // Detect user's platform
+                var userAgent = navigator.userAgent.toLowerCase();
+                var isWindows = userAgent.indexOf('windows') !== -1;
+                var isLinux = userAgent.indexOf('linux') !== -1;
+                var isMac = userAgent.indexOf('mac') !== -1;
+
+                // Highlight appropriate download option
+                if (isWindows) {
+                    document.getElementById('windows-file').classList.add('active');
+                } else if (isLinux) {
+                    document.getElementById('linux-file').classList.add('active');
+                } else if (isMac) {
+                    document.getElementById('mac-file').classList.add('active');
+                }
+            });
+        </script>
+    </div>
+</div>

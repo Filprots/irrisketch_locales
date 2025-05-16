@@ -1684,5 +1684,12 @@
   "Offline": "Offline",
   "CodeExecutionError": "Projekt kód hiba",
   "CodeExecutionErrorCallToAction": "Ezt a hibát elavult böngésző gyorsítótár okozhatja, kérjük, törölje a böngésző gyorsítótárát és próbálja újra",
-  "toolImage": "Kép"
+  "toolImage": "Kép",
+  "Downloads": "Letöltések",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Válassza ki a platformot:",
+  "win64install": "Windows x64 telepítő",
+  "linux_deb_package": "Linux Debian/Ubuntu csomag",
+  "mac_arm64_image": "macOS ARM64 lemezképfájl",
+  "download": "Letöltés"
 }

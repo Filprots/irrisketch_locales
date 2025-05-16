@@ -1684,5 +1684,12 @@
   "Offline": "Offline",
   "CodeExecutionError": "Errore di codice del progetto",
   "CodeExecutionErrorCallToAction": "Questo errore può essere causato dalla cache obsoleta del browser, si prega di cancellare la cache del browser e riprovare",
-  "toolImage": "Immagine"
+  "toolImage": "Immagine",
+  "Downloads": "Download",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Seleziona la tua piattaforma:",
+  "win64install": "Installer Windows x64",
+  "linux_deb_package": "Pacchetto Linux Debian/Ubuntu",
+  "mac_arm64_image": "Immagine disco macOS ARM64",
+  "download": "Scarica"
 }

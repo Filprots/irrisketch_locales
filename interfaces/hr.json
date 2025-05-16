@@ -1684,5 +1684,12 @@
   "Offline": "Izvan mreže",
   "CodeExecutionError": "Greška koda projekta",
   "CodeExecutionErrorCallToAction": "Ova greška može biti uzrokovana zastarjelom predmemorijom preglednika, molimo očistite predmemoriju vašeg preglednika i pokušajte ponovno",
-  "toolImage": "Slika"
+  "toolImage": "Slika",
+  "Downloads": "Preuzimanja",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Odaberite svoju platformu:",
+  "win64install": "Windows x64 instalacijski program",
+  "linux_deb_package": "Linux Debian/Ubuntu paket",
+  "mac_arm64_image": "macOS ARM64 slika diska",
+  "download": "Preuzmi"
 }

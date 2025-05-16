@@ -1684,5 +1684,12 @@
   "Offline": "Офлайн",
   "CodeExecutionError": "Помилка коду проекту",
   "CodeExecutionErrorCallToAction": "Ця помилка може бути викликана застарілим кешем браузера, будь ласка, очистіть кеш вашого браузера і спробуйте знову",
-  "toolImage": "Зображення"
+  "toolImage": "Зображення",
+  "Downloads": "Завантаження",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Виберіть вашу платформу:",
+  "win64install": "Інсталятор Windows x64",
+  "linux_deb_package": "Пакет Linux Debian/Ubuntu",
+  "mac_arm64_image": "Образ диску macOS ARM64",
+  "download": "Завантажити"
 }

@@ -1684,5 +1684,12 @@
   "Offline": "離線",
   "CodeExecutionError": "項目代碼錯誤",
   "CodeExecutionErrorCallToAction": "此錯誤可能是由過時的瀏覽器快取引起的，請清除瀏覽器快取並重試",
-  "toolImage": "圖像"
+  "toolImage": "圖像",
+  "Downloads": "下載",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "選擇您的平台：",
+  "win64install": "Windows x64 安裝程式",
+  "linux_deb_package": "Linux Debian/Ubuntu 軟件包",
+  "mac_arm64_image": "macOS ARM64 磁盤映像",
+  "download": "下載"
 }

@@ -1684,5 +1684,12 @@
   "Offline": "Оффлайн",
   "CodeExecutionError": "Ошибка проекта",
   "CodeExecutionErrorCallToAction": "Эта ошибка может быть вызвана устаревшим кешем браузера, пожалуйста, очистите кеш вашего браузера и попробуйте снова",
-  "toolImage": "Изображение"
+  "toolImage": "Изображение",
+  "Downloads": "Загрузки",
+  "irris_browser": "IRRISBrowser",
+  "select_platform": "Выберите вашу платформу:",
+  "win64install": "Установщик Windows x64",
+  "linux_deb_package": "Пакет Linux Debian/Ubuntu",
+  "mac_arm64_image": "Образ диска macOS ARM64",
+  "download": "Скачать"
 }

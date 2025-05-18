@@ -59,7 +59,6 @@
   "action_changeTextColor": "Teksto spalva",
   "action_changeSizeOffset": "Dydžio poslinkis",
   "action_invertSize": "Dydžio pusė",
-  "action_setUndrlScl": "Iš naujo nustatyti skalę",
   "action_setPipeDiams": "Nustatykite skersmenų diapazoną",
   "action_pickColor": "Pasirinkite spalvą",
   "action_mirror": "Veidrodis",
@@ -1691,5 +1690,7 @@
   "win64install": "Windows x64 diegimo programa",
   "linux_deb_package": "Linux Debian/Ubuntu paketas",
   "mac_arm64_image": "macOS ARM64 disko atvaizdas",
-  "download": "Atsisiųsti"
+  "download": "Atsisiųsti",
+  "action_setUndrlScl": "Nustatyti skalę",
+  "action_resetUndrlScl": "Iš naujo nustatyti skalę"
 }

@@ -59,7 +59,6 @@
 	"action_changeTextColor": "Textfarbe",
 	"action_changeSizeOffset": "Größenversatz",
 	"action_invertSize": "Seitengröße",
-	"action_setUndrlScl": "Maßstab zurücksetzen",
 	"action_setPipeDiams": "Durchmesser einstellen",
 	"action_pickColor": "Farbe auswählen",
 	"action_mirror": "Spiegel",
@@ -1691,5 +1690,7 @@
 	"win64install": "Windows x64 Installer",
 	"linux_deb_package": "Linux Debian/Ubuntu Paket",
 	"mac_arm64_image": "macOS ARM64 Disk Image",
-	"download": "Herunterladen"
+	"download": "Herunterladen",
+	"action_setUndrlScl": "Maßstab einstellen",
+	"action_resetUndrlScl": "Maßstab zurücksetzen"
 }

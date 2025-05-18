@@ -59,7 +59,6 @@
 	"action_changeTextColor": "Couleur du texte",
 	"action_changeSizeOffset": "Décalage de taille",
 	"action_invertSize": "Côté de taille",
-	"action_setUndrlScl": "Réinitialiser l'échelle",
 	"action_setPipeDiams": "Plages de diamètres",
 	"action_pickColor": "Sélectionner la couleur",
 	"action_mirror": "Miroir",
@@ -1691,5 +1690,7 @@
 	"win64install": "Installateur Windows x64",
 	"linux_deb_package": "Paquet Debian/Ubuntu Linux",
 	"mac_arm64_image": "Image disque macOS ARM64",
-	"download": "Télécharger"
+	"download": "Télécharger",
+	"action_setUndrlScl": "Définir l'échelle",
+	"action_resetUndrlScl": "Réinitialiser l'échelle"
 }

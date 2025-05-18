@@ -59,7 +59,6 @@
   "action_changeTextColor": "Цвет текста",
   "action_changeSizeOffset": "Отступ",
   "action_invertSize": "Сторона",
-  "action_setUndrlScl": "Перемасштабировать",
   "action_setPipeDiams": "Установить диаметры",
   "action_pickColor": "Цвет",
   "action_mirror": "Отразить",
@@ -1691,5 +1690,7 @@
   "win64install": "Установщик Windows x64",
   "linux_deb_package": "Пакет Linux Debian/Ubuntu",
   "mac_arm64_image": "Образ диска macOS ARM64",
-  "download": "Скачать"
+  "download": "Скачать",
+  "action_setUndrlScl": "Установить масштаб",
+  "action_resetUndrlScl": "Сбросить масштаб"
 }

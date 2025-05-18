@@ -59,7 +59,6 @@
   "action_changeTextColor": "Tekst kleur",
   "action_changeSizeOffset": "Grootte offset",
   "action_invertSize": "Maat kant",
-  "action_setUndrlScl": "Schaal resetten",
   "action_setPipeDiams": "Diameterbereik instellen",
   "action_pickColor": "Kies kleur",
   "action_mirror": "Spiegel",
@@ -1691,5 +1690,7 @@
   "win64install": "Windows x64 installatieprogramma",
   "linux_deb_package": "Linux Debian/Ubuntu pakket",
   "mac_arm64_image": "macOS ARM64 schijfkopie",
-  "download": "Downloaden"
+  "download": "Downloaden",
+  "action_setUndrlScl": "Schaal instellen",
+  "action_resetUndrlScl": "Schaal resetten"
 }

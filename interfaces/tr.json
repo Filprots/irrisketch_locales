@@ -59,7 +59,6 @@
   "action_changeTextColor": "Metin rengi",
   "action_changeSizeOffset": "Boyut ofseti",
   "action_invertSize": "Boyut tarafı",
-  "action_setUndrlScl": "Ölçeği sıfırla",
   "action_setPipeDiams": "Çap aralığını ayarlayın",
   "action_pickColor": "Renk seç",
   "action_mirror": "Ayna",
@@ -1691,5 +1690,7 @@
   "win64install": "Windows x64 yükleyici",
   "linux_deb_package": "Linux Debian/Ubuntu paketi",
   "mac_arm64_image": "macOS ARM64 disk görüntüsü",
-  "download": "İndir"
+  "download": "İndir",
+  "action_setUndrlScl": "Ölçeği ayarla",
+  "action_resetUndrlScl": "Ölçeği sıfırla"
 }

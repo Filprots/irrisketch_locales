@@ -59,7 +59,6 @@
   "action_changeTextColor": "Farba textu",
   "action_changeSizeOffset": "Posun",
   "action_invertSize": "Strana",
-  "action_setUndrlScl": "Vynulovacia mierka",
   "action_setPipeDiams": "Nastavte sortiment priemerov",
   "action_pickColor": "Vyberať farbu",
   "action_mirror": "Zrkadliť",
@@ -1691,5 +1690,7 @@
   "win64install": "Inštalátor Windows x64",
   "linux_deb_package": "Balík Linux Debian/Ubuntu",
   "mac_arm64_image": "Obraz disku macOS ARM64",
-  "download": "Stiahnuť"
+  "download": "Stiahnuť",
+  "action_setUndrlScl": "Nastaviť mierku",
+  "action_resetUndrlScl": "Vynulovať mierku"
 }

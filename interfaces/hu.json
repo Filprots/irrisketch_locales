@@ -59,7 +59,6 @@
   "action_changeTextColor": "Szöveg szín",
   "action_changeSizeOffset": "Méreteltolás",
   "action_invertSize": "Méret oldal",
-  "action_setUndrlScl": "Skála visszaállítása",
   "action_setPipeDiams": "Állítsa be az átmérők tartományát",
   "action_pickColor": "Válassz színt",
   "action_mirror": "Tükör",
@@ -1691,5 +1690,7 @@
   "win64install": "Windows x64 telepítő",
   "linux_deb_package": "Linux Debian/Ubuntu csomag",
   "mac_arm64_image": "macOS ARM64 lemezképfájl",
-  "download": "Letöltés"
+  "download": "Letöltés",
+  "action_setUndrlScl": "Skála beállítása",
+  "action_resetUndrlScl": "Skála visszaállítása"
 }

@@ -59,7 +59,6 @@
   "action_changeTextColor": "Колер тэксту",
   "action_changeSizeOffset": "Соступ",
   "action_invertSize": "Бок",
-  "action_setUndrlScl": "перамаштабiраваць",
   "action_setPipeDiams": "Усталяваць дыяметры",
   "action_pickColor": "Колер",
   "action_mirror": "Адбіць",
@@ -1691,5 +1690,7 @@
   "win64install": "Усталёўшчык Windows x64",
   "linux_deb_package": "Пакет Linux Debian/Ubuntu",
   "mac_arm64_image": "Вобраз дыска macOS ARM64",
-  "download": "Спампаваць"
+  "download": "Спампаваць",
+  "action_setUndrlScl": "Усталяваць маштаб",
+  "action_resetUndrlScl": "Скінуць маштаб"
 }

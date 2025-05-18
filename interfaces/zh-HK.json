@@ -59,7 +59,6 @@
   "action_changeTextColor": "文字颜色",
   "action_changeSizeOffset": "尺寸偏移",
   "action_invertSize": "尺寸边",
-  "action_setUndrlScl": "重置刻度",
   "action_setPipeDiams": "设定直径范围",
   "action_pickColor": "选择颜色",
   "action_mirror": "镜子",
@@ -1691,5 +1690,7 @@
   "win64install": "Windows x64 安裝程式",
   "linux_deb_package": "Linux Debian/Ubuntu 軟件包",
   "mac_arm64_image": "macOS ARM64 磁盤映像",
-  "download": "下載"
+  "download": "下載",
+  "action_setUndrlScl": "設置刻度",
+  "action_resetUndrlScl": "重置刻度"
 }

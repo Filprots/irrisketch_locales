@@ -59,7 +59,6 @@
   "action_changeTextColor": "Kolor tekstu",
   "action_changeSizeOffset": "Przesunięcie rozmiaru",
   "action_invertSize": "Strona rozmiaru",
-  "action_setUndrlScl": "Zresetuj skalę",
   "action_setPipeDiams": "Ustawić zakres średnic",
   "action_pickColor": "Wybierz kolor",
   "action_mirror": "Lustro",
@@ -1691,5 +1690,7 @@
   "win64install": "Instalator Windows x64",
   "linux_deb_package": "Pakiet Linux Debian/Ubuntu",
   "mac_arm64_image": "Obraz dysku macOS ARM64",
-  "download": "Pobierz"
+  "download": "Pobierz",
+  "action_setUndrlScl": "Ustaw skalę",
+  "action_resetUndrlScl": "Zresetuj skalę"
 }

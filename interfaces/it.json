@@ -59,7 +59,6 @@
   "action_changeTextColor": "Colore del testo",
   "action_changeSizeOffset": "Dimensione offset",
   "action_invertSize": "Lato di taglia",
-  "action_setUndrlScl": "Ripristina la scala",
   "action_setPipeDiams": "Impostare la gamma di diametri",
   "action_pickColor": "Scegli il colore",
   "action_mirror": "Specchio",
@@ -1691,5 +1690,7 @@
   "win64install": "Installer Windows x64",
   "linux_deb_package": "Pacchetto Linux Debian/Ubuntu",
   "mac_arm64_image": "Immagine disco macOS ARM64",
-  "download": "Scarica"
+  "download": "Scarica",
+  "action_setUndrlScl": "Imposta scala",
+  "action_resetUndrlScl": "Ripristina la scala"
 }

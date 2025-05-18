@@ -59,7 +59,6 @@
   "action_changeTextColor": "Boja teksta",
   "action_changeSizeOffset": "Veličina offseta",
   "action_invertSize": "Veličina sastrane",
-  "action_setUndrlScl": "Resetiraj veličinu",
   "action_setPipeDiams": "Postavi raspon promjera",
   "action_pickColor": "Odabir boje",
   "action_mirror": "Zrcaljenje",
@@ -1691,5 +1690,7 @@
   "win64install": "Windows x64 instalacijski program",
   "linux_deb_package": "Linux Debian/Ubuntu paket",
   "mac_arm64_image": "macOS ARM64 slika diska",
-  "download": "Preuzmi"
+  "download": "Preuzmi",
+  "action_setUndrlScl": "Postavi veličinu",
+  "action_resetUndrlScl": "Resetiraj veličinu"
 }

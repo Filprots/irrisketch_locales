@@ -4,105 +4,52 @@
     <div class="col-lg-12">
         <h2 class="text-center"><%= __(('irris_browser')) %></h2>
 
-        <style>
-            .file-browser {
-                border: 1px solid #ddd;
-                border-radius: 5px;
-                padding: 20px;
-                margin: 20px 0;
-                background-color: #f8f9fa;
-            }
+        <div class="card mb-4">
+            <div class="card-body">
+                <style>
+                    /* Enhance Bootstrap active state to match original design */
+                    .list-group-item.active {
+                        border-color: #28a745 !important;
+                        background-color: #f0fff0 !important;
+                        color: inherit !important;
+                    }
+                </style>
+                <h4 class="card-title"><%= __(('select_platform')) %></h4>
 
-            .file-item {
-                padding: 15px;
-                margin: 10px 0;
-                border: 1px solid #e0e0e0;
-                border-radius: 4px;
-                background-color: white;
-                display: flex;
-                align-items: center;
-                transition: all 0.2s ease;
-            }
+                <div class="list-group">
+                    <div class="list-group-item list-group-item-action d-flex align-items-center p-3 mb-2" id="windows-file">
+                        <div class="text-primary me-3">
+                            <i class="fa fa-windows fs-4"></i>
+                        </div>
+                        <div class="flex-grow-1">
+                            <div class="fw-bold">IRRISBrowser.RU-0.0.1.exe</div>
+                            <div class="text-muted small"><%= __(('win64install')) %></div>
+                        </div>
+                        <a href="http://irrisketch.ru/eassets/browser/IRRISBrowser.RU-0.0.1.exe" class="btn btn-success" target="_blank"><%= __(('download')) %></a>
+                    </div>
 
-            .file-item:hover {
-                box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-                transform: translateY(-2px);
-            }
+                    <div class="list-group-item list-group-item-action d-flex align-items-center p-3 mb-2" id="linux-file">
+                        <div class="text-primary me-3">
+                            <i class="fa fa-linux fs-4"></i>
+                        </div>
+                        <div class="flex-grow-1">
+                            <div class="fw-bold">IRRISBrowser.RU-0.0.1_amd64.deb</div>
+                            <div class="text-muted small"><%= __(('linux_deb_package')) %></div>
+                        </div>
+                        <a href="http://irrisketch.ru/eassets/browser/IRRISBrowser.RU-0.0.1_amd64.deb" class="btn btn-success" target="_blank"><%= __(('download')) %></a>
+                    </div>
 
-            .file-item.active {
-                border: 2px solid #28a745;
-                background-color: #f0fff0;
-            }
-
-            .file-icon {
-                font-size: 24px;
-                margin-right: 15px;
-                color: #007bff;
-            }
-
-            .file-info {
-                flex-grow: 1;
-            }
-
-            .file-name {
-                font-weight: bold;
-                margin-bottom: 5px;
-            }
-
-            .file-description {
-                color: #666;
-                font-size: 0.9em;
-            }
-
-            .download-btn {
-                padding: 8px 15px;
-                background-color: #28a745;
-                color: white;
-                border: none;
-                border-radius: 4px;
-                cursor: pointer;
-                transition: background-color 0.2s;
-            }
-
-            .download-btn:hover {
-                background-color: #218838;
-            }
-        </style>
-
-        <div class="file-browser">
-            <h4><%= __(('select_platform')) %></h4>
-
-            <div class="file-item" id="windows-file">
-                <div class="file-icon">
-                    <i class="fa fa-windows"></i>
+                    <div class="list-group-item list-group-item-action d-flex align-items-center p-3 mb-2" id="mac-file">
+                        <div class="text-primary me-3">
+                            <i class="fa fa-apple fs-4"></i>
+                        </div>
+                        <div class="flex-grow-1">
+                            <div class="fw-bold">IRRISBrowser.RU-0.0.1_arm64.dmg</div>
+                            <div class="text-muted small"><%= __(('mac_arm64_image')) %></div>
+                        </div>
+                        <a href="http://irrisketch.ru/eassets/browser/IRRISBrowser.RU-0.0.1_arm64.dmg" class="btn btn-success" target="_blank"><%= __(('download')) %></a>
+                    </div>
                 </div>
-                <div class="file-info">
-                    <div class="file-name">IRRISBrowser.RU-0.0.1.exe</div>
-                    <div class="file-description"><%= __(('win64install')) %></div>
-                </div>
-                <a href="http://irrisketch.ru/eassets/browser/IRRISBrowser.RU-0.0.1.exe" class="download-btn" target="_blank"><%= __(('download')) %></a>
-            </div>
-
-            <div class="file-item" id="linux-file">
-                <div class="file-icon">
-                    <i class="fa fa-linux"></i>
-                </div>
-                <div class="file-info">
-                    <div class="file-name">IRRISBrowser.RU-0.0.1_amd64.deb</div>
-                    <div class="file-description"><%= __(('linux_deb_package')) %></div>
-                </div>
-                <a href="http://irrisketch.ru/eassets/browser/IRRISBrowser.RU-0.0.1_amd64.deb" class="download-btn" target="_blank"><%= __(('download')) %></a>
-            </div>
-
-            <div class="file-item" id="mac-file">
-                <div class="file-icon">
-                    <i class="fa fa-apple"></i>
-                </div>
-                <div class="file-info">
-                    <div class="file-name">IRRISBrowser.RU-0.0.1_arm64.dmg</div>
-                    <div class="file-description"><%= __(('mac_arm64_image')) %></div>
-                </div>
-                <a href="http://irrisketch.ru/eassets/browser/IRRISBrowser.RU-0.0.1_arm64.dmg" class="download-btn" target="_blank"><%= __(('download')) %></a>
             </div>
         </div>
 

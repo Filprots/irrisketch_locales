@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "macOS ARM64 disk görüntüsü",
   "download": "İndir",
   "action_setUndrlScl": "Ölçeği ayarla",
-  "action_resetUndrlScl": "Ölçeği sıfırla"
+  "action_resetUndrlScl": "Ölçeği sıfırla",
+  "misc_turnOffSaveButtonReminder": "Kaydet düğmesi yanıp sönmesini kapat"
 }

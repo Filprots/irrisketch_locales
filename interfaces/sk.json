@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "Obraz disku macOS ARM64",
   "download": "Stiahnuť",
   "action_setUndrlScl": "Nastaviť mierku",
-  "action_resetUndrlScl": "Vynulovať mierku"
+  "action_resetUndrlScl": "Vynulovať mierku",
+  "misc_turnOffSaveButtonReminder": "Vypnúť blikanie tlačidla Uložiť"
 }

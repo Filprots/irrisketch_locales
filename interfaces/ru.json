@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "Образ диска macOS ARM64",
   "download": "Скачать",
   "action_setUndrlScl": "Установить масштаб",
-  "action_resetUndrlScl": "Сбросить масштаб"
+  "action_resetUndrlScl": "Сбросить масштаб",
+  "misc_turnOffSaveButtonReminder": "Выключить моргание кнопки \"Сохранить\" (бесит)"
 }

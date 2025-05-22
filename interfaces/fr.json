@@ -1692,5 +1692,6 @@
 	"mac_arm64_image": "Image disque macOS ARM64",
 	"download": "Télécharger",
 	"action_setUndrlScl": "Définir l'échelle",
-	"action_resetUndrlScl": "Réinitialiser l'échelle"
+	"action_resetUndrlScl": "Réinitialiser l'échelle",
+	"misc_turnOffSaveButtonReminder": "Désactiver le clignotement du bouton Enregistrer"
 }

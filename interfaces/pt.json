@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "Imagem de disco macOS ARM64",
   "download": "Baixar",
   "action_setUndrlScl": "Definir escala",
-  "action_resetUndrlScl": "Redefinir escala"
+  "action_resetUndrlScl": "Redefinir escala",
+  "misc_turnOffSaveButtonReminder": "Desativar o piscar do botão Salvar"
 }

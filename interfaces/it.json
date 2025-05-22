@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "Immagine disco macOS ARM64",
   "download": "Scarica",
   "action_setUndrlScl": "Imposta scala",
-  "action_resetUndrlScl": "Ripristina la scala"
+  "action_resetUndrlScl": "Ripristina la scala",
+  "misc_turnOffSaveButtonReminder": "Disattiva il lampeggiamento del pulsante Salva"
 }

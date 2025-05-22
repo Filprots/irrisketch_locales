@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "macOS ARM64 磁盘映像",
   "download": "下载",
   "action_setUndrlScl": "设置刻度",
-  "action_resetUndrlScl": "重置刻度"
+  "action_resetUndrlScl": "重置刻度",
+  "misc_turnOffSaveButtonReminder": "关闭保存按钮闪烁提醒"
 }

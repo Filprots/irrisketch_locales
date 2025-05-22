@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "Obraz dysku macOS ARM64",
   "download": "Pobierz",
   "action_setUndrlScl": "Ustaw skalę",
-  "action_resetUndrlScl": "Zresetuj skalę"
+  "action_resetUndrlScl": "Zresetuj skalę",
+  "misc_turnOffSaveButtonReminder": "Wyłącz miganie przycisku Zapisz"
 }

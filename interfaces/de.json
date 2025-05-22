@@ -1692,5 +1692,6 @@
 	"mac_arm64_image": "macOS ARM64 Disk Image",
 	"download": "Herunterladen",
 	"action_setUndrlScl": "Maßstab einstellen",
-	"action_resetUndrlScl": "Maßstab zurücksetzen"
+	"action_resetUndrlScl": "Maßstab zurücksetzen",
+	"misc_turnOffSaveButtonReminder": "Speichern-Button-Blinken ausschalten"
 }

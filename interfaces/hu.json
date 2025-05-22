@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "macOS ARM64 lemezképfájl",
   "download": "Letöltés",
   "action_setUndrlScl": "Skála beállítása",
-  "action_resetUndrlScl": "Skála visszaállítása"
+  "action_resetUndrlScl": "Skála visszaállítása",
+  "misc_turnOffSaveButtonReminder": "Mentés gomb villogásának kikapcsolása"
 }

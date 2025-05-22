@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "Образ диску macOS ARM64",
   "download": "Завантажити",
   "action_setUndrlScl": "Встановити масштаб",
-  "action_resetUndrlScl": "Скинути масштаб"
+  "action_resetUndrlScl": "Скинути масштаб",
+  "misc_turnOffSaveButtonReminder": "Вимкнути блимання кнопки Зберегти"
 }

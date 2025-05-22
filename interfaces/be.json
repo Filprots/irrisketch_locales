@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "Вобраз дыска macOS ARM64",
   "download": "Спампаваць",
   "action_setUndrlScl": "Усталяваць маштаб",
-  "action_resetUndrlScl": "Скінуць маштаб"
+  "action_resetUndrlScl": "Скінуць маштаб",
+  "misc_turnOffSaveButtonReminder": "Выключыць мірганне кнопкі \"Захаваць\""
 }

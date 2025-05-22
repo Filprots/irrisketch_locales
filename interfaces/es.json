@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "Imagen de disco macOS ARM64",
   "download": "Descargar",
   "action_setUndrlScl": "Establecer escala",
-  "action_resetUndrlScl": "Restablecer escala"
+  "action_resetUndrlScl": "Restablecer escala",
+  "misc_turnOffSaveButtonReminder": "Desactivar el parpadeo del botón Guardar"
 }

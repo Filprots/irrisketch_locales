@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "macOS ARM64 disko atvaizdas",
   "download": "Atsisiųsti",
   "action_setUndrlScl": "Nustatyti skalę",
-  "action_resetUndrlScl": "Iš naujo nustatyti skalę"
+  "action_resetUndrlScl": "Iš naujo nustatyti skalę",
+  "misc_turnOffSaveButtonReminder": "Išjungti mygtuko Išsaugoti mirksėjimą"
 }

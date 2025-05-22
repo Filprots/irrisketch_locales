@@ -1692,5 +1692,6 @@
 	"mac_arm64_image": "macOS ARM64 disk image",
 	"download": "Download",
 	"action_setUndrlScl": "Set scale",
-	"action_resetUndrlScl": "Reset scale"
+	"action_resetUndrlScl": "Reset scale",
+	"misc_turnOffSaveButtonReminder": "Turn off Save button blinker"
 }

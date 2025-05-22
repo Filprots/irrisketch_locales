@@ -1692,5 +1692,6 @@
   "mac_arm64_image": "macOS ARM64 schijfkopie",
   "download": "Downloaden",
   "action_setUndrlScl": "Schaal instellen",
-  "action_resetUndrlScl": "Schaal resetten"
+  "action_resetUndrlScl": "Schaal resetten",
+  "misc_turnOffSaveButtonReminder": "Knipperen van de Opslaan-knop uitschakelen"
 }

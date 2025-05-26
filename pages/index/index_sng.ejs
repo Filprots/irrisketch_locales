@@ -20,14 +20,14 @@
             <hr class="my-3">
             <% if (user) { %>
                 <p><%= __("Main_GetStartedRegistered") %></p>
-                <a class="btn btn-success btn-lg mr-2" href="/workshop" role="button">
+                <a class="btn btn-success btn-lg mr-2 mb-2" href="/workshop" role="button">
                     <i class="far fa-briefcase"></i> <%= __("LinkToWorkshop") %></a>
-                <a class="btn btn-success btn-lg mr-2" href="/workshop/studio" role="button">
+                <a class="btn btn-success btn-lg mr-2 mb-2" href="/workshop/studio" role="button">
                     <i class="far fa-paint-brush"></i> <%= __("DesignStudio") %></a>
             <% } else { %>
                 <p><%= __("Main_GetStartedUnregistered") %></p>
-                <a class="btn btn-primary btn-lg mr-2" href="/register" role="button"><%= __("NewUser") %></a>
-                <a class="btn btn-primary btn-lg mr-2" href="/login" role="button"><%= __("Sign in") %></a>
+                <a class="btn btn-primary btn-lg mr-2 mb-2" href="/register" role="button"><%= __("NewUser") %></a>
+                <a class="btn btn-primary btn-lg mr-2 mb-2" href="/login" role="button"><%= __("Sign in") %></a>
             <% } %>
             <p class="mt-3"><%= __("Main_GetStartedLearinig") %></p>
             <a class="btn btn-success btn-lg" href="/tutorials" role="button"><i

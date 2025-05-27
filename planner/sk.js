@@ -1345,5 +1345,13 @@ this.LNG = {
         invalid_dataset_9: 'Neplatný súbor údajov. Projekt by nemal nastaviť vlastný očakávaný tlak na rozprašovače',
         invalid_dataset_10: 'Neplatný súbor údajov. Jednotnosť je príliš nízka.',
         invalid_dataset_11: 'Neplatný súbor údajov. Nadmorská oblasť je príliš veľká.',
+        layoutPresetsMenu: [
+            "Predvoľby rozloženia",
+            "Aktuálna predvoľba rozloženia",
+            "Predvoľba sady rozložení",
+            "Predvolená predvoľba pre nové rozloženie:",
+            "- Vyberte predvoľbu -",
+            "- Žiadne dostupné predvoľby -"
+        ]
     }
 };

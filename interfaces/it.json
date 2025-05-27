@@ -1693,5 +1693,7 @@
   "download": "Scarica",
   "action_setUndrlScl": "Imposta scala",
   "action_resetUndrlScl": "Ripristina la scala",
-  "misc_turnOffSaveButtonReminder": "Disattiva il lampeggiamento del pulsante Salva"
+  "misc_turnOffSaveButtonReminder": "Disattiva il lampeggiamento del pulsante Salva",
+  "preset_layout_preset": "Preset di layout predefinito",
+  "preset_layouts_setup": "Set completo di layout"
 }

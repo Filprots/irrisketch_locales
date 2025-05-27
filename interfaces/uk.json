@@ -1693,5 +1693,7 @@
   "download": "Завантажити",
   "action_setUndrlScl": "Встановити масштаб",
   "action_resetUndrlScl": "Скинути масштаб",
-  "misc_turnOffSaveButtonReminder": "Вимкнути блимання кнопки Зберегти"
+  "misc_turnOffSaveButtonReminder": "Вимкнути блимання кнопки Зберегти",
+  "preset_layout_preset": "Передустановка нового креслення",
+  "preset_layouts_setup": "Повний набір креслень"
 }

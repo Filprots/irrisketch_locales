@@ -1693,5 +1693,7 @@
   "download": "Letöltés",
   "action_setUndrlScl": "Skála beállítása",
   "action_resetUndrlScl": "Skála visszaállítása",
-  "misc_turnOffSaveButtonReminder": "Mentés gomb villogásának kikapcsolása"
+  "misc_turnOffSaveButtonReminder": "Mentés gomb villogásának kikapcsolása",
+  "preset_layout_preset": "Alapértelmezett elrendezés előbeállítás",
+  "preset_layouts_setup": "Teljes elrendezéskészlet"
 }

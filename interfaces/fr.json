@@ -1693,5 +1693,7 @@
 	"download": "Télécharger",
 	"action_setUndrlScl": "Définir l'échelle",
 	"action_resetUndrlScl": "Réinitialiser l'échelle",
-	"misc_turnOffSaveButtonReminder": "Désactiver le clignotement du bouton Enregistrer"
+  "misc_turnOffSaveButtonReminder": "Désactiver le clignotement du bouton Enregistrer",
+  "preset_layout_preset": "Préréglage de mise en page par défaut",
+  "preset_layouts_setup": "Ensemble complet de mises en page"
 }

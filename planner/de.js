@@ -1345,5 +1345,13 @@ this.LNG = {
         invalid_dataset_9: 'Ungültiger Datensatz. Das Projekt sollte keinen benutzerdefinierten erwarteten Druck bei den Sprinklern einstellen',
         invalid_dataset_10: 'Ungültiger Datensatz. Die Gleichmäßigkeit ist zu niedrig.',
         invalid_dataset_11: 'Ungültiger Datensatz. Überwässertes Gebiet ist zu groß.',
+        layoutPresetsMenu: [
+            "Layout-Voreinstellungen",
+            "Aktuelle Layout-Voreinstellung",
+            "Layouts-Set-Voreinstellung",
+            "Standardvoreinstellung für neues Layout:",
+            "- Voreinstellung wählen -",
+            "- Keine Voreinstellungen verfügbar -"
+        ]
     }
 };

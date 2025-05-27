@@ -1693,5 +1693,7 @@
   "download": "İndir",
   "action_setUndrlScl": "Ölçeği ayarla",
   "action_resetUndrlScl": "Ölçeği sıfırla",
-  "misc_turnOffSaveButtonReminder": "Kaydet düğmesi yanıp sönmesini kapat"
+  "misc_turnOffSaveButtonReminder": "Kaydet düğmesi yanıp sönmesini kapat",
+  "preset_layout_preset": "Varsayılan Düzen önayarı",
+  "preset_layouts_setup": "Düzenler Tam Seti"
 }

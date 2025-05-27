@@ -1693,5 +1693,7 @@
   "download": "Downloaden",
   "action_setUndrlScl": "Schaal instellen",
   "action_resetUndrlScl": "Schaal resetten",
-  "misc_turnOffSaveButtonReminder": "Knipperen van de Opslaan-knop uitschakelen"
+  "misc_turnOffSaveButtonReminder": "Knipperen van de Opslaan-knop uitschakelen",
+  "preset_layout_preset": "Standaard lay-out voorinstelling",
+  "preset_layouts_setup": "Volledige set lay-outs"
 }

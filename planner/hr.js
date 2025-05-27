@@ -1345,5 +1345,13 @@ this.LNG = {
         invalid_dataset_9: 'Invalid dataset. The project should not set a custom expected pressure at the sprinklers',
         invalid_dataset_10: 'Invalid dataset. Uniformity is too low.',
         invalid_dataset_11: 'Invalid dataset. Overwatered area is too big.',
+        layoutPresetsMenu: [
+            "Postavke izgleda",
+            "Trenutna postavka izgleda",
+            "Postavka skupa izgleda",
+            "Zadana postavka za novi izgled:",
+            "- Odaberite postavku -",
+            "- Nema dostupnih postavki -"
+        ]
     }
 };

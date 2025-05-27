@@ -1344,6 +1344,14 @@ this.LNG = {
         invalid_dataset_8: '无效的数据集。喷头不应有单独的压力设置',
         invalid_dataset_9: '无效的数据集。项目不应设置喷头的自定义预期压力',
         invalid_dataset_10: '无效的数据集。均匀度太低。',
-        invalid_dataset_11: '无效的数据集。过度灌溉区域太大。'
+        invalid_dataset_11: '无效的数据集。过度灌溉区域太大。',
+        layoutPresetsMenu: [
+            "布局预设",
+            "当前布局预设",
+            "布局集预设",
+            "新布局的默认预设:",
+            "- 选择预设 -",
+            "- 没有可用的预设 -"
+        ]
     }
 };

@@ -1693,5 +1693,7 @@
   "download": "Спампаваць",
   "action_setUndrlScl": "Усталяваць маштаб",
   "action_resetUndrlScl": "Скінуць маштаб",
-  "misc_turnOffSaveButtonReminder": "Выключыць мірганне кнопкі \"Захаваць\""
+  "misc_turnOffSaveButtonReminder": "Выключыць мірганне кнопкі \"Захаваць\"",
+  "preset_layout_preset": "Перадусталёўка новага чарцяжа",
+  "preset_layouts_setup": "Поўны набор чарцяжоў"
 }

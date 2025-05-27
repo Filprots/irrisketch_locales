@@ -1693,5 +1693,7 @@
   "download": "Stiahnuť",
   "action_setUndrlScl": "Nastaviť mierku",
   "action_resetUndrlScl": "Vynulovať mierku",
-  "misc_turnOffSaveButtonReminder": "Vypnúť blikanie tlačidla Uložiť"
+  "misc_turnOffSaveButtonReminder": "Vypnúť blikanie tlačidla Uložiť",
+  "preset_layout_preset": "Predvolená predvoľba rozloženia",
+  "preset_layouts_setup": "Úplná sada rozložení"
 }

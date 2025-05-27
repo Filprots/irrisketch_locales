@@ -1693,5 +1693,7 @@
   "download": "Descargar",
   "action_setUndrlScl": "Establecer escala",
   "action_resetUndrlScl": "Restablecer escala",
-  "misc_turnOffSaveButtonReminder": "Desactivar el parpadeo del botón Guardar"
+  "misc_turnOffSaveButtonReminder": "Desactivar el parpadeo del botón Guardar",
+  "preset_layout_preset": "Preajuste de diseño predeterminado",
+  "preset_layouts_setup": "Conjunto completo de diseños"
 }

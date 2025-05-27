@@ -1693,5 +1693,7 @@
   "download": "Preuzmi",
   "action_setUndrlScl": "Postavi veličinu",
   "action_resetUndrlScl": "Resetiraj veličinu",
-  "misc_turnOffSaveButtonReminder": "Isključi treptanje gumba Spremi"
+  "misc_turnOffSaveButtonReminder": "Isključi treptanje gumba Spremi",
+  "preset_layout_preset": "Zadana postavka izgleda",
+  "preset_layouts_setup": "Potpuni set izgleda"
 }

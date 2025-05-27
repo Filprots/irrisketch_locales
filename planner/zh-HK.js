@@ -1345,6 +1345,14 @@ this.LNG = {
         invalid_dataset_8: '無效的數據集。噴頭不應有單獨的壓力設置',
         invalid_dataset_9: '無效的數據集。項目不應設置噴頭的自定預期壓力',
         invalid_dataset_10: '無效的數據集。均勻度太低。',
-        invalid_dataset_11: '無效的數據集。過度灌溉的面積太大。'
+        invalid_dataset_11: '無效的數據集。過度灌溉區域太大。',
+        layoutPresetsMenu: [
+            "佈局預設",
+            "當前佈局預設",
+            "佈局集預設",
+            "新佈局的預設:",
+            "- 選擇預設 -",
+            "- 沒有可用的預設 -"
+        ]
     }
 };

@@ -1345,5 +1345,13 @@ this.LNG = {
         invalid_dataset_9: 'Nieprawidłowy zestaw danych. Projekt nie powinien ustawiać niestandardowego oczekiwanego ciśnienia u zraszaczy',
         invalid_dataset_10: 'Nieprawidłowy zestaw danych. Jednorodność jest zbyt niska.',
         invalid_dataset_11: 'Nieprawidłowy zestaw danych. Obszar nadmiernie nawadniany jest zbyt duży.',
+        layoutPresetsMenu: [
+            "Ustawienia wstępne układu",
+            "Bieżące ustawienie wstępne układu",
+            "Ustawienie wstępne zestawu układów",
+            "Domyślne ustawienie wstępne dla nowego układu:",
+            "- Wybierz ustawienie wstępne -",
+            "- Brak dostępnych ustawień wstępnych -"
+        ]
     }
 };

@@ -1693,5 +1693,7 @@
   "download": "下載",
   "action_setUndrlScl": "設置刻度",
   "action_resetUndrlScl": "重置刻度",
-  "misc_turnOffSaveButtonReminder": "關閉儲存按鈕閃爍提醒"
+  "misc_turnOffSaveButtonReminder": "關閉儲存按鈕閃爍提醒",
+  "preset_layout_preset": "預設佈局預設",
+  "preset_layouts_setup": "佈局完整集"
 }

@@ -1693,5 +1693,7 @@
   "download": "Baixar",
   "action_setUndrlScl": "Definir escala",
   "action_resetUndrlScl": "Redefinir escala",
-  "misc_turnOffSaveButtonReminder": "Desativar o piscar do botão Salvar"
+  "misc_turnOffSaveButtonReminder": "Desativar o piscar do botão Salvar",
+  "preset_layout_preset": "Predefinição de layout padrão",
+  "preset_layouts_setup": "Conjunto completo de layouts"
 }

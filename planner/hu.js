@@ -1345,5 +1345,13 @@ this.LNG = {
         invalid_dataset_9: 'Érvénytelen adathalmaz. A projektnek nem kell egyéni várható nyomást beállítania a permetezőknél.',
         invalid_dataset_10: 'Érvénytelen adathalmaz. A homogenitás túl alacsony.',
         invalid_dataset_11: 'Érvénytelen adathalmaz. A túlzottan öntözött terület túl nagy.',
+        layoutPresetsMenu: [
+            "Elrendezés előbeállítások",
+            "Jelenlegi elrendezés előbeállítás",
+            "Elrendezéskészlet előbeállítás",
+            "Alapértelmezett előbeállítás új elrendezéshez:",
+            "- Válasszon előbeállítást -",
+            "- Nincs elérhető előbeállítás -"
+        ]
     }
 };

@@ -1693,5 +1693,7 @@
   "download": "Pobierz",
   "action_setUndrlScl": "Ustaw skalę",
   "action_resetUndrlScl": "Zresetuj skalę",
-  "misc_turnOffSaveButtonReminder": "Wyłącz miganie przycisku Zapisz"
+  "misc_turnOffSaveButtonReminder": "Wyłącz miganie przycisku Zapisz",
+  "preset_layout_preset": "Domyślne ustawienie wstępne układu",
+  "preset_layouts_setup": "Pełny zestaw układów"
 }

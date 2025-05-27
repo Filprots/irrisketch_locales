@@ -1693,5 +1693,7 @@
   "download": "Atsisiųsti",
   "action_setUndrlScl": "Nustatyti skalę",
   "action_resetUndrlScl": "Iš naujo nustatyti skalę",
-  "misc_turnOffSaveButtonReminder": "Išjungti mygtuko Išsaugoti mirksėjimą"
+  "misc_turnOffSaveButtonReminder": "Išjungti mygtuko Išsaugoti mirksėjimą",
+  "preset_layout_preset": "Numatytasis išdėstymo išankstinis nustatymas",
+  "preset_layouts_setup": "Visas išdėstymų rinkinys"
 }

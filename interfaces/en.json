@@ -1717,7 +1717,7 @@
   "ComparisonPage_CanvasSize": "Maximum canvas size",
   "ComparisonPage_SmallCanvas": "Up to 50x50m",
   "ComparisonPage_MediumCanvas": "Up to 50x50m",
-  "ComparisonPage_LargeCanvas": "up to 500x500m",
+  "ComparisonPage_LargeCanvas": "Up to 500x500m",
   "ComparisonPage_SpecsSheets": "Specs sheets",
   "ComparisonPage_LimitedSpecs": "None",
   "ComparisonPage_BasicSpecs": "Up to 50 requests per day",

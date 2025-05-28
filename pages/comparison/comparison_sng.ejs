@@ -1,0 +1,165 @@
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col-12 text-center">
+            <h1 class="display-5"><%= __("ComparisonPage_Title") %></h1>
+            <p class="lead"><%= __("ComparisonPage_Subtitle") %></p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+            <div class="table-responsive">
+                <table class="table table-bordered table-sm">
+                    <colgroup>
+                        <col style="width: 25%;">
+                        <col style="width: 25%;">
+                        <col style="width: 25%;">
+                        <col style="width: 25%;">
+                    </colgroup>
+                    <thead class="bg-light">
+                        <tr>
+                            <th scope="col" class="text-center align-middle"><%= __("ComparisonPage_Features") %></th>
+                            <th scope="col" class="text-center">
+                                <div class="py-3">
+                                    <h5><%= __("ComparisonPage_FreePlan") %></h5>
+                                    <p class="mb-0 small"><%= __("ComparisonPage_FreeText") %></p>
+                                </div>
+                            </th>
+                            <th scope="col" class="text-center">
+                                <div class="py-3">
+                                    <h5><%= __("ComparisonPage_FreeTrial") %></h5>
+                                    <p class="mb-0 small"><%= __("ComparisonPage_LimitedTime") %></p>
+                                </div>
+                            </th>
+                            <th scope="col" class="text-center bg-primary text-white">
+                                <div class="py-3">
+                                    <h5><%= __("ComparisonPage_ProPlan") %></h5>
+                                    <p class="mb-0 small"><%= __("ComparisonPage_FullAccess") %></p>
+                                </div>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <!-- Projects Row -->
+                        <tr>
+                            <th scope="row" class="align-middle"><%= __("ComparisonPage_Projects") %></th>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_FreeProjects") %></td>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_LimitedProjects") %></td>
+                            <td class="text-center align-middle bg-light"><%= __("ComparisonPage_UnlimitedProjects") %></td>
+                        </tr>
+
+                        <!-- Layouts Row -->
+                        <tr>
+                            <th scope="row" class="align-middle"><%= __("ComparisonPage_Layouts") %></th>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_FreeLayouts") %></td>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_LimitedLayouts") %></td>
+                            <td class="text-center align-middle bg-light"><%= __("ComparisonPage_UnlimitedLayouts") %></td>
+                        </tr>
+
+                        <!-- Canvas Size Row -->
+                        <tr>
+                            <th scope="row" class="align-middle"><%= __("ComparisonPage_CanvasSize") %></th>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_SmallCanvas") %></td>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_MediumCanvas") %></td>
+                            <td class="text-center align-middle bg-light"><%= __("ComparisonPage_LargeCanvas") %></td>
+                        </tr>
+
+                        <!-- Specs Sheets Row -->
+                        <tr>
+                            <th scope="row" class="align-middle"><%= __("ComparisonPage_SpecsSheets") %></th>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_LimitedSpecs") %></td>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_BasicSpecs") %></td>
+                            <td class="text-center align-middle bg-light"><%= __("ComparisonPage_FullSpecs") %></td>
+                        </tr>
+
+                        <!-- Export Options Row -->
+                        <tr>
+                            <th scope="row" class="align-middle"><%= __("ComparisonPage_ExportOptions") %></th>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_BasicExport") %></td>
+                            <td class="text-center align-middle"><%= __("ComparisonPage_LimitedExport") %></td>
+                            <td class="text-center align-middle bg-light"><%= __("ComparisonPage_FullExport") %></td>
+                        </tr>
+
+
+                        <!-- Equipment Pack Row -->
+                        <tr>
+                            <th scope="row" class="align-middle"><%= __("ComparisonPage_EquipmentPack") %></th>
+                            <td class="text-center align-middle"><i class="far fa-times-circle text-danger"></i></td>
+                            <td class="text-center align-middle"><i class="far fa-times-circle text-danger"></i></td>
+                            <td class="text-center align-middle bg-light"><i class="far fa-check-circle text-success"></i></td>
+                        </tr>
+
+                        <!-- Design Studio Row -->
+                        <tr>
+                            <th scope="row" class="align-middle"><%= __("ComparisonPage_DesignStudio") %></th>
+                            <td class="text-center align-middle"><i class="far fa-times-circle text-danger"></i></td>
+                            <td class="text-center align-middle"><i class="far fa-times-circle text-danger"></i></td>
+                            <td class="text-center align-middle bg-light"><i class="far fa-check-circle text-success"></i></td>
+                        </tr>
+
+                        <!-- Action Row -->
+                        <tr>
+                            <th scope="row" class="align-middle"><%= __("ComparisonPage_GetStarted") %></th>
+                            <td class="text-center align-middle">
+                                <a href="/register" class="btn btn-outline-primary"><%= __("ComparisonPage_SignUp") %></a>
+                            </td>
+                            <td class="text-center align-middle">
+                                <a href="/register" class="btn btn-outline-primary"><%= __("ComparisonPage_TryFree") %></a>
+                            </td>
+                            <td class="text-center align-middle bg-light">
+                                <a href="/account/subscription" class="btn btn-primary"><%= __("ComparisonPage_OrderPro") %></a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-12 text-center">
+            <p><a href="/support"><%= __("ComparisonPage_ContactUs") %></a></p>
+        </div>
+    </div>
+</div>
+
+<!-- Translation markers used in this file:
+ComparisonPage_Title - Title for the comparison page
+ComparisonPage_Subtitle - Subtitle for the comparison page
+ComparisonPage_Features - Column header for features
+ComparisonPage_FreePlan - Free plan name
+ComparisonPage_FreeText - Free text
+ComparisonPage_FreeTrial - Free trial plan name
+ComparisonPage_LimitedTime - Limited time text for free trial
+ComparisonPage_ProPlan - PRO plan name
+ComparisonPage_FullAccess - Full access text for PRO plan
+ComparisonPage_Projects - Row header for projects
+ComparisonPage_FreeProjects - Text for free projects
+ComparisonPage_LimitedProjects - Text for limited projects in trial
+ComparisonPage_UnlimitedProjects - Text for unlimited projects in PRO
+ComparisonPage_Layouts - Row header for layouts
+ComparisonPage_FreeLayouts - Text for free layouts
+ComparisonPage_LimitedLayouts - Text for limited layouts in trial
+ComparisonPage_UnlimitedLayouts - Text for unlimited layouts in PRO
+ComparisonPage_CanvasSize - Row header for canvas size
+ComparisonPage_SmallCanvas - Text for small canvas in free plan
+ComparisonPage_MediumCanvas - Text for medium canvas in trial
+ComparisonPage_LargeCanvas - Text for large canvas in PRO
+ComparisonPage_SpecsSheets - Row header for specs sheets
+ComparisonPage_LimitedSpecs - Text for limited specs in free plan
+ComparisonPage_BasicSpecs - Text for basic specs in trial
+ComparisonPage_FullSpecs - Text for full specs in PRO
+ComparisonPage_ExportOptions - Row header for export options
+ComparisonPage_BasicExport - Text for basic export in free plan
+ComparisonPage_LimitedExport - Text for limited export in trial
+ComparisonPage_FullExport - Text for full export in PRO
+ComparisonPage_EquipmentPack - Row header for equipment pack
+ComparisonPage_DesignStudio - Row header for design studio
+ComparisonPage_GetStarted - Row header for getting started
+ComparisonPage_SignUp - Text for sign up button
+ComparisonPage_TryFree - Text for try free button
+ComparisonPage_OrderPro - Text for order PRO button
+ComparisonPage_Questions - Text for questions
+ComparisonPage_ContactUs - Text for contact us link
+-->

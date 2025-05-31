@@ -789,6 +789,12 @@ this.LNG = {
         labours_group_insets: "Nádoby na rúrky",
         labours_group_lawns: "trávnik",
         labours_group_irrigatedArea: "Zavlažovaná plocha",
+        ldArbitrary_equip: "Zariadenie",
+        ldArbitrary_labour: "Práca",
+        spArbitrary_equip: "Zariadenie",
+        spArbitrary_labour: "Práca",
+        arbitrary_sp: '💦 Vlastné prvky zavlažovania',
+        arbitrary_ld: '🌳 Vlastné prvky krajiny',
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

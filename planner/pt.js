@@ -789,6 +789,12 @@ this.LNG = {
         labours_group_insets: "Revestimentos de tubulação",
         labours_group_lawns: "Gramado",
         labours_group_irrigatedArea: "Área irrigada",
+        ldArbitrary_equip: "Equipamento",
+        ldArbitrary_labour: "Mão de obra",
+        spArbitrary_equip: "Equipamento",
+        spArbitrary_labour: "Mão de obra",
+        arbitrary_sp: '💦 Elementos de irrigação personalizados',
+        arbitrary_ld: '🌳 Elementos de paisagem personalizados',
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

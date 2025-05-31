@@ -788,7 +788,13 @@ this.LNG = {
         labours_group_trenches: "Gräben",
         labours_group_insets: "Rohrhülsen",
         labours_group_lawns: "Rasenfläche",
-        labours_group_irrigatedArea: "Beregnete Fläche"
+        labours_group_irrigatedArea: "Beregnete Fläche",
+        ldArbitrary_equip: "Ausrüstung",
+        ldArbitrary_labour: "Arbeit",
+        spArbitrary_equip: "Ausrüstung",
+        spArbitrary_labour: "Arbeit",
+        arbitrary_sp: '💦 Benutzerdefinierte Bewässerungselemente',
+        arbitrary_ld: '🌳 Benutzerdefinierte Landschaftselemente'
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

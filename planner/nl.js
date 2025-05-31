@@ -789,6 +789,12 @@ this.LNG = {
         labours_group_insets: "Leidingdoorvoeren",
         labours_group_lawns: "Gras",
         labours_group_irrigatedArea: "Geïrrigeerd gebied",
+        ldArbitrary_equip: "Apparatuur",
+        ldArbitrary_labour: "Arbeid",
+        spArbitrary_equip: "Apparatuur",
+        spArbitrary_labour: "Arbeid",
+        arbitrary_sp: '💦 Aangepaste irrigatie-elementen',
+        arbitrary_ld: '🌳 Aangepaste landschapselementen',
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

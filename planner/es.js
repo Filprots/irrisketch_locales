@@ -789,6 +789,12 @@ this.LNG = {
         labours_group_insets: "Manguitos de tubería",
         labours_group_lawns: "Césped",
         labours_group_irrigatedArea: "Área regada",
+        ldArbitrary_equip: "Equipamiento",
+        ldArbitrary_labour: "Mano de obra",
+        spArbitrary_equip: "Equipamiento",
+        spArbitrary_labour: "Mano de obra",
+        arbitrary_sp: '💦 Elementos de riego personalizados',
+        arbitrary_ld: '🌳 Elementos de paisaje personalizados',
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

@@ -789,6 +789,13 @@ this.LNG = {
         labours_group_insets: "Pipe sleeves",
         labours_group_lawns: "Lawn",
         labours_group_irrigatedArea: "Irrigated area",
+        labours_group_customLabours: "Irrigated area",
+        ldArbitrary_equip: "Equipment",
+        ldArbitrary_labour: "Labour",
+        spArbitrary_equip: "Equipment",
+        spArbitrary_labour: "Labour",
+        arbitrary_sp: '💦 Custom Irrigation elements',
+        arbitrary_ld: '🌳 Custom Landscape elements',
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

@@ -789,6 +789,12 @@ this.LNG = {
         labours_group_insets: "Manicotti per tubi",
         labours_group_lawns: "Prato",
         labours_group_irrigatedArea: "Zona irrigata",
+        ldArbitrary_equip: "Attrezzatura",
+        ldArbitrary_labour: "Manodopera",
+        spArbitrary_equip: "Attrezzatura",
+        spArbitrary_labour: "Manodopera",
+        arbitrary_sp: '💦 Elementi di irrigazione personalizzati',
+        arbitrary_ld: '🌳 Elementi di paesaggio personalizzati',
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

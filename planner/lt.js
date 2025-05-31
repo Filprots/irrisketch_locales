@@ -789,6 +789,12 @@ this.LNG = {
         labours_group_insets: "Vamzdžių apsaugos",
         labours_group_lawns: "Vejos",
         labours_group_irrigatedArea: "Laistoma plotas",
+        ldArbitrary_equip: "Įranga",
+        ldArbitrary_labour: "Darbas",
+        spArbitrary_equip: "Įranga",
+        spArbitrary_labour: "Darbas",
+        arbitrary_sp: '💦 Pasirinktiniai laistymo elementai',
+        arbitrary_ld: '🌳 Pasirinktiniai kraštovaizdžio elementai',
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

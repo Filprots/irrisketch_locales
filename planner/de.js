@@ -789,6 +789,8 @@ this.LNG = {
         labours_group_insets: "Rohrhülsen",
         labours_group_lawns: "Rasenfläche",
         labours_group_irrigatedArea: "Beregnete Fläche",
+        labours_group_arbitrary_sp: "Benutzerdefinierte Bewässerungselemente",
+        labours_group_arbitrary_ld: "Benutzerdefinierte Landschaftselemente",
         ldArbitrary_equip: "Ausrüstung",
         ldArbitrary_labour: "Arbeit",
         spArbitrary_equip: "Ausrüstung",

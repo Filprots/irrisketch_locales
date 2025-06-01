@@ -789,6 +789,8 @@ this.LNG = {
         labours_group_insets: "Гильзы/Закладные",
         labours_group_lawns: "Газоны",
         labours_group_irrigatedArea: "Поливаемая площадь",
+        labours_group_arbitrary_sp: "Пользовательские элементы полива",
+        labours_group_arbitrary_ld: "Пользовательские элементы ландшафта",
         ldArbitrary_equip: "Оборудование",
         ldArbitrary_labour: "Работа",
         spArbitrary_equip: "Оборудование",

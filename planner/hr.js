@@ -789,6 +789,8 @@ this.LNG = {
         labours_group_insets: "Proturi",
         labours_group_lawns: "Travnjaci",
         labours_group_irrigatedArea: "Navodnjavana površina",
+        labours_group_arbitrary_sp: "Prilagođeni elementi navodnjavanja",
+        labours_group_arbitrary_ld: "Prilagođeni elementi krajobraza",
         ldArbitrary_equip: "Oprema",
         ldArbitrary_labour: "Rad",
         spArbitrary_equip: "Oprema",

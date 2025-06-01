@@ -789,6 +789,8 @@ this.LNG = {
         labours_group_insets: "管套",
         labours_group_lawns: "草坪",
         labours_group_irrigatedArea: "灌溉区域",
+        labours_group_arbitrary_sp: "自定义灌溉元素",
+        labours_group_arbitrary_ld: "自定义景观元素",
         ldArbitrary_equip: "设备",
         ldArbitrary_labour: "劳务",
         spArbitrary_equip: "设备",

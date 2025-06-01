@@ -789,6 +789,8 @@ this.LNG = {
         labours_group_insets: "Csővédők",
         labours_group_lawns: "Gyep",
         labours_group_irrigatedArea: "Öntözött terület",
+        labours_group_arbitrary_sp: "Egyedi öntözési elemek",
+        labours_group_arbitrary_ld: "Egyedi tájképi elemek",
         ldArbitrary_equip: "Felszerelés",
         ldArbitrary_labour: "Munkaerő",
         spArbitrary_equip: "Felszerelés",

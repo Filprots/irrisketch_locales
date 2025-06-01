@@ -789,6 +789,8 @@ this.LNG = {
         "labours_group_insets": "Boru Manşonları İşleri",
         "labours_group_lawns": "Çim Alan İşleri",
         "labours_group_irrigatedArea": "Sulanan Alan İşleri",
+        "labours_group_arbitrary_sp": "Özel Sulama Elemanları",
+        "labours_group_arbitrary_ld": "Özel Peyzaj Elemanları",
         "ldArbitrary_equip": "Ekipman",
         "ldArbitrary_labour": "İşçilik",
         "spArbitrary_equip": "Ekipman",

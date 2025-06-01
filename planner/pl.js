@@ -789,6 +789,8 @@ this.LNG = {
         labours_group_insets: "Mufy przewodów",
         labours_group_lawns: "Trawnik",
         labours_group_irrigatedArea: "Powierzchnia nawadniana",
+        labours_group_arbitrary_sp: "Niestandardowe elementy nawadniania",
+        labours_group_arbitrary_ld: "Niestandardowe elementy krajobrazu",
         ldArbitrary_equip: "Sprzęt",
         ldArbitrary_labour: "Praca",
         spArbitrary_equip: "Sprzęt",

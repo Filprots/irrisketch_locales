@@ -1733,5 +1733,8 @@
   "ComparisonPage_TryFree": "14 gün ücretsiz dene",
   "ComparisonPage_OrderPro": "PRO'ya abone ol",
   "ComparisonPage_ContactUs": "Bize ulaşın",
-  "ComparisonPage_VATNotice": "KDV fiyatlara dahil değildir"
+  "ComparisonPage_VATNotice": "KDV fiyatlara dahil değildir",
+  "StageEquipment": "Ekipman",
+  "StageLabours": "İşler",
+  "ProjectLaboursTableTitle": "İŞLER LİSTESİ"
 }

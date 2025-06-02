@@ -1733,5 +1733,8 @@
   "ComparisonPage_TryFree": "免費試用14天",
   "ComparisonPage_OrderPro": "訂閱PRO方案",
   "ComparisonPage_ContactUs": "聯絡我們",
-  "ComparisonPage_VATNotice": "所示價格未含增值稅"
+  "ComparisonPage_VATNotice": "所示價格未含增值稅",
+  "StageEquipment": "設備",
+  "StageLabours": "工作",
+  "ProjectLaboursTableTitle": "工作列表"
 }

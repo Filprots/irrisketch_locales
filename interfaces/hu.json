@@ -1733,5 +1733,8 @@
   "ComparisonPage_TryFree": "Próbáld ki ingyen 14 napig",
   "ComparisonPage_OrderPro": "Előfizetés PRO-ra",
   "ComparisonPage_ContactUs": "Lépj kapcsolatba velünk",
-  "ComparisonPage_VATNotice": "Az árak nem tartalmazzák az ÁFÁ-t"
+  "ComparisonPage_VATNotice": "Az árak nem tartalmazzák az ÁFÁ-t",
+  "StageEquipment": "Felszerelés",
+  "StageLabours": "Munkák",
+  "ProjectLaboursTableTitle": "MUNKÁK LISTÁJA"
 }

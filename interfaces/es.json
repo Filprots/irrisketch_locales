@@ -1733,5 +1733,8 @@
   "ComparisonPage_TryFree": "Prueba gratis por 14 días",
   "ComparisonPage_OrderPro": "Suscribirse a PRO",
   "ComparisonPage_ContactUs": "Contáctanos",
-  "ComparisonPage_VATNotice": "El IVA no está incluido en los precios mostrados"
+  "ComparisonPage_VATNotice": "El IVA no está incluido en los precios mostrados",
+  "StageEquipment": "Equipo",
+  "StageLabours": "Trabajos",
+  "ProjectLaboursTableTitle": "LISTA DE TRABAJOS"
 }

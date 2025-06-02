@@ -1733,5 +1733,8 @@
   "ComparisonPage_TryFree": "14 dagen gratis proberen",
   "ComparisonPage_OrderPro": "Abonneer op PRO",
   "ComparisonPage_ContactUs": "Neem contact met ons op",
-  "ComparisonPage_VATNotice": "BTW is niet inbegrepen in de weergegeven prijzen"
+  "ComparisonPage_VATNotice": "BTW is niet inbegrepen in de weergegeven prijzen",
+  "StageEquipment": "Apparatuur",
+  "StageLabours": "Werkzaamheden",
+  "ProjectLaboursTableTitle": "LIJST VAN WERKZAAMHEDEN"
 }

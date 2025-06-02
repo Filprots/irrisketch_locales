@@ -1733,5 +1733,8 @@
   "ComparisonPage_TryFree": "Išbandykite nemokamai 14 dienų",
   "ComparisonPage_OrderPro": "Prenumeruokite PRO",
   "ComparisonPage_ContactUs": "Susisiekite su mumis",
-  "ComparisonPage_VATNotice": "PVM neįtrauktas į nurodytas kainas"
+  "ComparisonPage_VATNotice": "PVM neįtrauktas į nurodytas kainas",
+  "StageEquipment": "Įranga",
+  "StageLabours": "Darbai",
+  "ProjectLaboursTableTitle": "DARBŲ SĄRAŠAS"
 }

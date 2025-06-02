@@ -1733,5 +1733,8 @@
   "ComparisonPage_TryFree": "Wypróbuj za darmo przez 14 dni",
   "ComparisonPage_OrderPro": "Subskrybuj PRO",
   "ComparisonPage_ContactUs": "Skontaktuj się z nami",
-  "ComparisonPage_VATNotice": "Podatek VAT nie jest wliczony w podane ceny"
+  "ComparisonPage_VATNotice": "Podatek VAT nie jest wliczony w podane ceny",
+  "StageEquipment": "Sprzęt",
+  "StageLabours": "Prace",
+  "ProjectLaboursTableTitle": "LISTA PRAC"
 }

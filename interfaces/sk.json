@@ -1733,5 +1733,8 @@
   "ComparisonPage_TryFree": "Vyskúšajte zdarma na 14 dní",
   "ComparisonPage_OrderPro": "Predplatiť si PRO",
   "ComparisonPage_ContactUs": "Kontaktujte nás",
-  "ComparisonPage_VATNotice": "DPH nie je zahrnutá v uvedených cenách"
+  "ComparisonPage_VATNotice": "DPH nie je zahrnutá v uvedených cenách",
+  "StageEquipment": "Vybavenie",
+  "StageLabours": "Práce",
+  "ProjectLaboursTableTitle": "ZOZNAM PRÁC"
 }

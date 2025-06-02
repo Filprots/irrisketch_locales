@@ -1733,5 +1733,8 @@
   "ComparisonPage_TryFree": "Isprobaj besplatno 14 dana",
   "ComparisonPage_OrderPro": "Pretplati se na PRO",
   "ComparisonPage_ContactUs": "Kontaktiraj nas",
-  "ComparisonPage_VATNotice": "PDV nije uključen u prikazane cijene"
+  "ComparisonPage_VATNotice": "PDV nije uključen u prikazane cijene",
+  "StageEquipment": "Oprema",
+  "StageLabours": "Radovi",
+  "ProjectLaboursTableTitle": "POPIS RADOVA"
 }

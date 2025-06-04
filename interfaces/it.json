@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "L'IVA non è inclusa nei prezzi indicati",
   "StageEquipment": "Attrezzatura",
   "StageLabours": "Lavori",
-  "ProjectLaboursTableTitle": "ELENCO DEI LAVORI"
+  "ProjectLaboursTableTitle": "ELENCO DEI LAVORI",
+  "CustomElementSetsLabel": "Elementi personalizzati",
+  "CustomElementSetsHelpText": "Se non viene selezionato nulla, tutti i set saranno disponibili"
 }

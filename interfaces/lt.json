@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "PVM neįtrauktas į nurodytas kainas",
   "StageEquipment": "Įranga",
   "StageLabours": "Darbai",
-  "ProjectLaboursTableTitle": "DARBŲ SĄRAŠAS"
+  "ProjectLaboursTableTitle": "DARBŲ SĄRAŠAS",
+  "CustomElementSetsLabel": "Tinkinti elementai",
+  "CustomElementSetsHelpText": "Jei niekas nepasirinkta, bus prieinami visi rinkiniai"
 }

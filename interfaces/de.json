@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "Die angegebenen Preise enthalten keine Mehrwertsteuer",
   "StageEquipment": "Ausrüstung",
   "StageLabours": "Arbeiten",
-  "ProjectLaboursTableTitle": "LISTE DER ARBEITEN"
+  "ProjectLaboursTableTitle": "LISTE DER ARBEITEN",
+  "CustomElementSetsLabel": "Benutzerdefinierte Elemente",
+  "CustomElementSetsHelpText": "Wenn nichts ausgewählt ist, sind alle Sets verfügbar"
 }

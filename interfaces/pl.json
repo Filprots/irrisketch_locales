@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "Podatek VAT nie jest wliczony w podane ceny",
   "StageEquipment": "Sprzęt",
   "StageLabours": "Prace",
-  "ProjectLaboursTableTitle": "LISTA PRAC"
+  "ProjectLaboursTableTitle": "LISTA PRAC",
+  "CustomElementSetsLabel": "Elementy niestandardowe",
+  "CustomElementSetsHelpText": "Jeśli nic nie wybrano, wszystkie zestawy będą dostępne"
 }

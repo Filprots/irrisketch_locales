@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "KDV fiyatlara dahil değildir",
   "StageEquipment": "Ekipman",
   "StageLabours": "İşler",
-  "ProjectLaboursTableTitle": "İŞLER LİSTESİ"
+  "ProjectLaboursTableTitle": "İŞLER LİSTESİ",
+  "CustomElementSetsLabel": "Özel Öğeler",
+  "CustomElementSetsHelpText": "Hiçbir şey seçilmezse, tüm setler kullanılabilir olacaktır"
 }

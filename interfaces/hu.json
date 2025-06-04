@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "Az árak nem tartalmazzák az ÁFÁ-t",
   "StageEquipment": "Felszerelés",
   "StageLabours": "Munkák",
-  "ProjectLaboursTableTitle": "MUNKÁK LISTÁJA"
+  "ProjectLaboursTableTitle": "MUNKÁK LISTÁJA",
+  "CustomElementSetsLabel": "Egyéni elemek",
+  "CustomElementSetsHelpText": "Ha semmi nincs kiválasztva, minden készlet elérhető lesz"
 }

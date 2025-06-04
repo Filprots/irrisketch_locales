@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "ПДВ не включено у вказані ціни",
   "StageEquipment": "Обладнання",
   "StageLabours": "Роботи",
-  "ProjectLaboursTableTitle": "СПИСОК РОБІТ"
+  "ProjectLaboursTableTitle": "СПИСОК РОБІТ",
+  "CustomElementSetsLabel": "Користувацькі елементи",
+  "CustomElementSetsHelpText": "Якщо нічого не вибрано, всі набори будуть доступні"
 }

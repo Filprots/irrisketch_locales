@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "所示價格未含增值稅",
   "StageEquipment": "設備",
   "StageLabours": "工作",
-  "ProjectLaboursTableTitle": "工作列表"
+  "ProjectLaboursTableTitle": "工作列表",
+  "CustomElementSetsLabel": "自訂元素",
+  "CustomElementSetsHelpText": "如果未選擇任何內容，所有集合都將可用"
 }

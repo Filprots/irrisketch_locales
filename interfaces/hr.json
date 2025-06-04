@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "PDV nije uključen u prikazane cijene",
   "StageEquipment": "Oprema",
   "StageLabours": "Radovi",
-  "ProjectLaboursTableTitle": "POPIS RADOVA"
+  "ProjectLaboursTableTitle": "POPIS RADOVA",
+  "CustomElementSetsLabel": "Prilagođeni elementi",
+  "CustomElementSetsHelpText": "Ako ništa nije odabrano, svi skupovi će biti dostupni"
 }

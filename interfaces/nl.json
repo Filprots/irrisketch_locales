@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "BTW is niet inbegrepen in de weergegeven prijzen",
   "StageEquipment": "Apparatuur",
   "StageLabours": "Werkzaamheden",
-  "ProjectLaboursTableTitle": "LIJST VAN WERKZAAMHEDEN"
+  "ProjectLaboursTableTitle": "LIJST VAN WERKZAAMHEDEN",
+  "CustomElementSetsLabel": "Aangepaste elementen",
+  "CustomElementSetsHelpText": "Als niets is geselecteerd, zijn alle sets beschikbaar"
 }

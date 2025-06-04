@@ -1736,5 +1736,7 @@
   "ComparisonPage_VATNotice": "ПДВ не ўключаны ў паказаныя цэны",
   "StageEquipment": "Абсталяванне",
   "StageLabours": "Працоўная сіла",
-  "ProjectLaboursTableTitle": "СПІС ПРАЦОЎНАЙ СІЛЫ"
+  "ProjectLaboursTableTitle": "СПІС ПРАЦОЎНАЙ СІЛЫ",
+  "CustomElementSetsLabel": "Карыстальніцкія элементы",
+  "CustomElementSetsHelpText": "Калі нічога не выбрана, усе наборы будуць даступныя"
 }

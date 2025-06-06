@@ -1738,5 +1738,6 @@
   "StageLabours": "Munkák",
   "ProjectLaboursTableTitle": "MUNKÁK LISTÁJA",
   "CustomElementSetsLabel": "Egyéni elemek",
-  "CustomElementSetsHelpText": "Ha semmi nincs kiválasztva, minden készlet elérhető lesz"
+  "CustomElementSetsHelpText": "Ha semmi nincs kiválasztva, minden készlet elérhető lesz",
+  "tt_custels": "Egyéni elemek központja"
 }

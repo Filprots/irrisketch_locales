@@ -1738,5 +1738,6 @@
   "StageLabours": "Работы",
   "ProjectLaboursTableTitle": "СПИСОК РАБОТ",
   "CustomElementSetsLabel": "Пользовательские элементы",
-  "CustomElementSetsHelpText": "Если ничего не выбрано, будут доступны все наборы"
+  "CustomElementSetsHelpText": "Если ничего не выбрано, будут доступны все наборы",
+  "tt_custels": "Библиотека пользовательских элементов"
 }

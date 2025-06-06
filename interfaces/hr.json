@@ -1738,5 +1738,6 @@
   "StageLabours": "Radovi",
   "ProjectLaboursTableTitle": "POPIS RADOVA",
   "CustomElementSetsLabel": "Prilagođeni elementi",
-  "CustomElementSetsHelpText": "Ako ništa nije odabrano, svi skupovi će biti dostupni"
+  "CustomElementSetsHelpText": "Ako ništa nije odabrano, svi skupovi će biti dostupni",
+  "tt_custels": "Središte prilagođenih elemenata"
 }

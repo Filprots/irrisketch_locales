@@ -1738,5 +1738,6 @@
   "StageLabours": "Trabalhos",
   "ProjectLaboursTableTitle": "LISTA DE TRABALHOS",
   "CustomElementSetsLabel": "Elementos personalizados",
-  "CustomElementSetsHelpText": "Se nada for selecionado, todos os conjuntos estarão disponíveis"
+  "CustomElementSetsHelpText": "Se nada for selecionado, todos os conjuntos estarão disponíveis",
+  "tt_custels": "Hub de elementos personalizados"
 }

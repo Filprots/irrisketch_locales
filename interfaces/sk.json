@@ -1738,5 +1738,6 @@
   "StageLabours": "Práce",
   "ProjectLaboursTableTitle": "ZOZNAM PRÁC",
   "CustomElementSetsLabel": "Vlastné prvky",
-  "CustomElementSetsHelpText": "Ak nie je nič vybrané, všetky sady budú dostupné"
+  "CustomElementSetsHelpText": "Ak nie je nič vybrané, všetky sady budú dostupné",
+  "tt_custels": "Centrum vlastných prvkov"
 }

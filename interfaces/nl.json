@@ -1738,5 +1738,6 @@
   "StageLabours": "Werkzaamheden",
   "ProjectLaboursTableTitle": "LIJST VAN WERKZAAMHEDEN",
   "CustomElementSetsLabel": "Aangepaste elementen",
-  "CustomElementSetsHelpText": "Als niets is geselecteerd, zijn alle sets beschikbaar"
+  "CustomElementSetsHelpText": "Als niets is geselecteerd, zijn alle sets beschikbaar",
+  "tt_custels": "Hub voor aangepaste elementen"
 }

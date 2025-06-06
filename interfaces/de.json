@@ -1738,5 +1738,6 @@
   "StageLabours": "Arbeiten",
   "ProjectLaboursTableTitle": "LISTE DER ARBEITEN",
   "CustomElementSetsLabel": "Benutzerdefinierte Elemente",
-  "CustomElementSetsHelpText": "Wenn nichts ausgewählt ist, sind alle Sets verfügbar"
+  "CustomElementSetsHelpText": "Wenn nichts ausgewählt ist, sind alle Sets verfügbar",
+  "tt_custels": "Hub für benutzerdefinierte Elemente"
 }

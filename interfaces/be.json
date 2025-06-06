@@ -1738,5 +1738,6 @@
   "StageLabours": "Працоўная сіла",
   "ProjectLaboursTableTitle": "СПІС ПРАЦОЎНАЙ СІЛЫ",
   "CustomElementSetsLabel": "Карыстальніцкія элементы",
-  "CustomElementSetsHelpText": "Калі нічога не выбрана, усе наборы будуць даступныя"
+  "CustomElementSetsHelpText": "Калі нічога не выбрана, усе наборы будуць даступныя",
+  "tt_custels": "Хаб карыстальніцкіх элементаў"
 }

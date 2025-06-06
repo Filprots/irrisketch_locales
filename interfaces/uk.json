@@ -1738,5 +1738,6 @@
   "StageLabours": "Роботи",
   "ProjectLaboursTableTitle": "СПИСОК РОБІТ",
   "CustomElementSetsLabel": "Користувацькі елементи",
-  "CustomElementSetsHelpText": "Якщо нічого не вибрано, всі набори будуть доступні"
+  "CustomElementSetsHelpText": "Якщо нічого не вибрано, всі набори будуть доступні",
+  "tt_custels": "Хаб користувацьких елементів"
 }

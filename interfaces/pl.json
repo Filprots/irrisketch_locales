@@ -1738,5 +1738,6 @@
   "StageLabours": "Prace",
   "ProjectLaboursTableTitle": "LISTA PRAC",
   "CustomElementSetsLabel": "Elementy niestandardowe",
-  "CustomElementSetsHelpText": "Jeśli nic nie wybrano, wszystkie zestawy będą dostępne"
+  "CustomElementSetsHelpText": "Jeśli nic nie wybrano, wszystkie zestawy będą dostępne",
+  "tt_custels": "Centrum elementów niestandardowych"
 }

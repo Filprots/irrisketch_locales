@@ -1738,5 +1738,6 @@
   "StageLabours": "İşler",
   "ProjectLaboursTableTitle": "İŞLER LİSTESİ",
   "CustomElementSetsLabel": "Özel Öğeler",
-  "CustomElementSetsHelpText": "Hiçbir şey seçilmezse, tüm setler kullanılabilir olacaktır"
+  "CustomElementSetsHelpText": "Hiçbir şey seçilmezse, tüm setler kullanılabilir olacaktır",
+  "tt_custels": "Özel Öğeler Merkezi"
 }

@@ -1738,5 +1738,6 @@
   "StageLabours": "Darbai",
   "ProjectLaboursTableTitle": "DARBŲ SĄRAŠAS",
   "CustomElementSetsLabel": "Tinkinti elementai",
-  "CustomElementSetsHelpText": "Jei niekas nepasirinkta, bus prieinami visi rinkiniai"
+  "CustomElementSetsHelpText": "Jei niekas nepasirinkta, bus prieinami visi rinkiniai",
+  "tt_custels": "Tinkintų elementų centras"
 }

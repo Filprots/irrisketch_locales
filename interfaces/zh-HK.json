@@ -1738,5 +1738,6 @@
   "StageLabours": "工作",
   "ProjectLaboursTableTitle": "工作列表",
   "CustomElementSetsLabel": "自訂元素",
-  "CustomElementSetsHelpText": "如果未選擇任何內容，所有集合都將可用"
+  "CustomElementSetsHelpText": "如果未選擇任何內容，所有集合都將可用",
+  "tt_custels": "自訂元素中心"
 }

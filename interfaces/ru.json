@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "СПИСОК РАБОТ",
   "CustomElementSetsLabel": "Пользовательские элементы",
   "CustomElementSetsHelpText": "Если ничего не выбрано, будут доступны все наборы",
-  "tt_custels": "Библиотека пользовательских элементов"
+  "tt_custels": "Библиотека пользовательских элементов",
+  "ElementImage": "Изображение предпросмотра",
+  "CropImage": "Обрезать изображение",
+  "SkipCrop": "Пропустить обрезку",
+  "Crop&Upload": "Обрезать и загрузить",
+  "DesignRequestPlannerRequesterCityLabel": "Город",
+  "DesignRequestPlannerRequesterCityPlc": "Туапсе",
+  "DesignRequestPlannerRequesterPostalLabel": "Почтовый индекс",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "Страна",
+  "DesignRequestPlannerRequesterCountryPlc": "Афганистан",
+  "tool_ValvePlace": "Клапан"
 }

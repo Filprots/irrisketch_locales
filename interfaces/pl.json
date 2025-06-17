@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "LISTA PRAC",
   "CustomElementSetsLabel": "Elementy niestandardowe",
   "CustomElementSetsHelpText": "Jeśli nic nie wybrano, wszystkie zestawy będą dostępne",
-  "tt_custels": "Centrum elementów niestandardowych"
+  "tt_custels": "Centrum elementów niestandardowych",
+  "ElementImage": "Obraz podglądu",
+  "CropImage": "Przytnij obraz",
+  "SkipCrop": "Pomiń przycinanie",
+  "Crop&Upload": "Przytnij i prześlij",
+  "DesignRequestPlannerRequesterCityLabel": "Miasto",
+  "DesignRequestPlannerRequesterCityPlc": "Tuapse",
+  "DesignRequestPlannerRequesterPostalLabel": "Kod pocztowy",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "Kraj",
+  "DesignRequestPlannerRequesterCountryPlc": "Afganistan",
+  "tool_ValvePlace": "Zawór"
 }

@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "LISTA DE TRABALHOS",
   "CustomElementSetsLabel": "Elementos personalizados",
   "CustomElementSetsHelpText": "Se nada for selecionado, todos os conjuntos estarão disponíveis",
-  "tt_custels": "Hub de elementos personalizados"
+  "tt_custels": "Hub de elementos personalizados",
+  "ElementImage": "Imagem de pré-visualização",
+  "CropImage": "Recortar imagem",
+  "SkipCrop": "Pular recorte",
+  "Crop&Upload": "Recortar e enviar",
+  "DesignRequestPlannerRequesterCityLabel": "Cidade",
+  "DesignRequestPlannerRequesterCityPlc": "Tuapse",
+  "DesignRequestPlannerRequesterPostalLabel": "Código postal",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "País",
+  "DesignRequestPlannerRequesterCountryPlc": "Afeganistão",
+  "tool_ValvePlace": "Válvula"
 }

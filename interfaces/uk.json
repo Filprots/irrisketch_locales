@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "СПИСОК РОБІТ",
   "CustomElementSetsLabel": "Користувацькі елементи",
   "CustomElementSetsHelpText": "Якщо нічого не вибрано, всі набори будуть доступні",
-  "tt_custels": "Хаб користувацьких елементів"
+  "tt_custels": "Хаб користувацьких елементів",
+  "ElementImage": "Зображення попереднього перегляду",
+  "CropImage": "Обрізати зображення",
+  "SkipCrop": "Пропустити обрізку",
+  "Crop&Upload": "Обрізати та завантажити",
+  "DesignRequestPlannerRequesterCityLabel": "Місто",
+  "DesignRequestPlannerRequesterCityPlc": "Туапсе",
+  "DesignRequestPlannerRequesterPostalLabel": "Поштовий індекс",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "Країна",
+  "DesignRequestPlannerRequesterCountryPlc": "Афганістан",
+  "tool_ValvePlace": "Клапан"
 }

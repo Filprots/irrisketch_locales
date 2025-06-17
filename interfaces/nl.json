@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "LIJST VAN WERKZAAMHEDEN",
   "CustomElementSetsLabel": "Aangepaste elementen",
   "CustomElementSetsHelpText": "Als niets is geselecteerd, zijn alle sets beschikbaar",
-  "tt_custels": "Hub voor aangepaste elementen"
+  "tt_custels": "Hub voor aangepaste elementen",
+  "ElementImage": "Voorbeeldafbeelding",
+  "CropImage": "Afbeelding bijsnijden",
+  "SkipCrop": "Bijsnijden overslaan",
+  "Crop&Upload": "Bijsnijden & uploaden",
+  "DesignRequestPlannerRequesterCityLabel": "Stad",
+  "DesignRequestPlannerRequesterCityPlc": "Tuapse",
+  "DesignRequestPlannerRequesterPostalLabel": "Postcode",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "Land",
+  "DesignRequestPlannerRequesterCountryPlc": "Afghanistan",
+  "tool_ValvePlace": "Klep"
 }

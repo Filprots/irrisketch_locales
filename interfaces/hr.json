@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "POPIS RADOVA",
   "CustomElementSetsLabel": "Prilagođeni elementi",
   "CustomElementSetsHelpText": "Ako ništa nije odabrano, svi skupovi će biti dostupni",
-  "tt_custels": "Središte prilagođenih elemenata"
+  "tt_custels": "Središte prilagođenih elemenata",
+  "ElementImage": "Preview Image",
+  "CropImage": "Crop Image",
+  "SkipCrop": "Skip Crop",
+  "Crop&Upload": "Crop & Upload",
+  "DesignRequestPlannerRequesterCityLabel": "City",
+  "DesignRequestPlannerRequesterCityPlc": "Tuapse",
+  "DesignRequestPlannerRequesterPostalLabel": "Postal code",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "Country",
+  "DesignRequestPlannerRequesterCountryPlc": "Afganistan",
+  "tool_ValvePlace": "Valve"
 }

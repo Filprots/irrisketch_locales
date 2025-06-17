@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "DARBŲ SĄRAŠAS",
   "CustomElementSetsLabel": "Tinkinti elementai",
   "CustomElementSetsHelpText": "Jei niekas nepasirinkta, bus prieinami visi rinkiniai",
-  "tt_custels": "Tinkintų elementų centras"
+  "tt_custels": "Tinkintų elementų centras",
+  "ElementImage": "Preview Image",
+  "CropImage": "Crop Image",
+  "SkipCrop": "Skip Crop",
+  "Crop&Upload": "Crop & Upload",
+  "DesignRequestPlannerRequesterCityLabel": "City",
+  "DesignRequestPlannerRequesterCityPlc": "Tuapse",
+  "DesignRequestPlannerRequesterPostalLabel": "Postal code",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "Country",
+  "DesignRequestPlannerRequesterCountryPlc": "Afganistan",
+  "tool_ValvePlace": "Valve"
 }

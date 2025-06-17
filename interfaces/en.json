@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "LABOURS LIST",
   "CustomElementSetsLabel": "Custom Elements",
   "CustomElementSetsHelpText": "If nothing selected, all Sets will be available",
-  "tt_custels": "Custom Elements Hub"
+  "tt_custels": "Custom Elements Hub",
+  "ElementImage": "Preview Image",
+  "CropImage": "Crop Image",
+  "SkipCrop": "Skip Crop",
+  "Crop&Upload": "Crop & Upload",
+  "DesignRequestPlannerRequesterCityLabel": "City",
+  "DesignRequestPlannerRequesterCityPlc": "Tuapse",
+  "DesignRequestPlannerRequesterPostalLabel": "Postal code",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "Country",
+  "DesignRequestPlannerRequesterCountryPlc": "Afganistan",
+  "tool_ValvePlace": "Valve"
 }

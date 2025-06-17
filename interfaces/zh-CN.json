@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "工作列表",
   "CustomElementSetsLabel": "自定义元素",
   "CustomElementSetsHelpText": "如果未选择任何内容，所有集合都将可用",
-  "tt_custels": "自定义元素中心"
+  "tt_custels": "自定义元素中心",
+  "ElementImage": "预览图像",
+  "CropImage": "裁剪图像",
+  "SkipCrop": "跳过裁剪",
+  "Crop&Upload": "裁剪并上传",
+  "DesignRequestPlannerRequesterCityLabel": "城市",
+  "DesignRequestPlannerRequesterCityPlc": "图阿普谢",
+  "DesignRequestPlannerRequesterPostalLabel": "邮政编码",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "国家",
+  "DesignRequestPlannerRequesterCountryPlc": "阿富汗",
+  "tool_ValvePlace": "阀门"
 }

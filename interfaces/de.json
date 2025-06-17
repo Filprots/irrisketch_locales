@@ -1739,5 +1739,16 @@
   "ProjectLaboursTableTitle": "LISTE DER ARBEITEN",
   "CustomElementSetsLabel": "Benutzerdefinierte Elemente",
   "CustomElementSetsHelpText": "Wenn nichts ausgewählt ist, sind alle Sets verfügbar",
-  "tt_custels": "Hub für benutzerdefinierte Elemente"
+  "tt_custels": "Hub für benutzerdefinierte Elemente",
+  "ElementImage": "Vorschaubild",
+  "CropImage": "Bild zuschneiden",
+  "SkipCrop": "Zuschneiden überspringen",
+  "Crop&Upload": "Zuschneiden & Hochladen",
+  "DesignRequestPlannerRequesterCityLabel": "Stadt",
+  "DesignRequestPlannerRequesterCityPlc": "Tuapse",
+  "DesignRequestPlannerRequesterPostalLabel": "Postleitzahl",
+  "DesignRequestPlannerRequesterPostalPlc": "52538",
+  "DesignRequestPlannerRequesterCountryLabel": "Land",
+  "DesignRequestPlannerRequesterCountryPlc": "Afghanistan",
+  "tool_ValvePlace": "Ventil"
 }

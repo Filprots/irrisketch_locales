@@ -1859,5 +1859,8 @@
   "CUSTELS_VOLUMETRIC_SURFACE_CONFIGURATION": "Konfigūracija",
   "CUSTELS_BEVEL": "Nuožambis",
   "CUSTELS_SQUARE": "Kvadratas",
-  "CUSTELS_CLONE": "Klonuoti"
+  "CUSTELS_CLONE": "Klonuoti",
+  "DimensionsWidthActionInput": "Plotis",
+  "DimensionsDepthActionInput": "Gylis",
+  "action_setDimensions": "Nustatyti matmenis"
 }

@@ -206,6 +206,10 @@ this.LNG = {
         zoneName: "Назва зоны",
         valveName: "размерк. вузел",
         itemAlias: "Назва",
+        lineWidth: "Шырыня",
+        lineDepth: "Глыбіня",
+        lineArea: "Плошча",
+        lineVolume: "Аб'ём",
         //MULTISELECTOR
         itemsSelected: "Абрана",
         totalArea: "Агульны пляц",
@@ -797,6 +801,18 @@ this.LNG = {
         spArbitrary_labour: "Праца",
         arbitrary_sp: '💦 Карыстальніцкія элементы паліву',
         arbitrary_ld: '🌳 Карыстальніцкія элементы ландшафту',
+        ldLine_labour: "Лінія",
+        ldLine_equip: "Лінія",
+        spLine_labour: "Лінія",
+        spLine_equip: "Лінія",
+        ldLineWithArea_labour: "Лінія (м2)",
+        ldLineWithArea_equip: "Лінія (м2)",
+        spLineWithArea_labour: "Лінія (м2)",
+        spLineWithArea_equip: "Лінія (м2)",
+        ldVolumetricLine_labour: "Лінія (м3)",
+        ldVolumetricLine_equip: "Лінія (м3)",
+        spVolumetricLine_labour: "Лінія (м3)",
+        spVolumetricLine_equip: "Лінія (м3)"
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1223,6 +1239,8 @@ this.LNG = {
         unitsSystemGridAndRuler: "Units of measurement system for grid and ruler",
         distanceUnits: "Адлегласць",
         distancePrecision: "Колькасць лічбаў пасля коскі",
+        trenchSizeUnits: "Адзінкі памераў",
+        trenchSizePrecision: "Колькасць лічбаў пасля коскі",
         sprinklerDistUnits: "Радыус дажджавацеля",
         sprinklerDistPrecision: "Колькасць лічбаў пасля коскі",
         areaUnits: "Пляц",

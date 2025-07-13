@@ -1859,5 +1859,8 @@
   "CUSTELS_VOLUMETRIC_SURFACE_CONFIGURATION": "Yapılandırma",
   "CUSTELS_BEVEL": "Eğim",
   "CUSTELS_SQUARE": "Kare",
-  "CUSTELS_CLONE": "Kopyala"
+  "CUSTELS_CLONE": "Kopyala",
+  "DimensionsWidthActionInput": "Genişlik",
+  "DimensionsDepthActionInput": "Derinlik",
+  "action_setDimensions": "Boyutları ayarla"
 }

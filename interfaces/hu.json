@@ -1859,5 +1859,8 @@
   "CUSTELS_VOLUMETRIC_SURFACE_CONFIGURATION": "Konfiguráció",
   "CUSTELS_BEVEL": "Letörés",
   "CUSTELS_SQUARE": "Négyzet",
-  "CUSTELS_CLONE": "Klónozás"
+  "CUSTELS_CLONE": "Klónozás",
+  "DimensionsWidthActionInput": "Szélesség",
+  "DimensionsDepthActionInput": "Mélység",
+  "action_setDimensions": "Méretek beállítása"
 }

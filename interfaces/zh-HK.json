@@ -1859,5 +1859,8 @@
   "CUSTELS_VOLUMETRIC_SURFACE_CONFIGURATION": "配置",
   "CUSTELS_BEVEL": "斜角",
   "CUSTELS_SQUARE": "方形",
-  "CUSTELS_CLONE": "克隆"
+  "CUSTELS_CLONE": "克隆",
+  "DimensionsWidthActionInput": "寬度",
+  "DimensionsDepthActionInput": "深度",
+  "action_setDimensions": "設定尺寸"
 }

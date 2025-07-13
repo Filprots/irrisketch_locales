@@ -1859,5 +1859,8 @@
   "CUSTELS_VOLUMETRIC_SURFACE_CONFIGURATION": "Configuración",
   "CUSTELS_BEVEL": "Bisel",
   "CUSTELS_SQUARE": "Cuadrado",
-  "CUSTELS_CLONE": "Clonar"
+  "CUSTELS_CLONE": "Clonar",
+  "DimensionsWidthActionInput": "Ancho",
+  "DimensionsDepthActionInput": "Profundidad",
+  "action_setDimensions": "Establecer dimensiones"
 }

@@ -1859,5 +1859,8 @@
   "CUSTELS_VOLUMETRIC_SURFACE_CONFIGURATION": "Konfiguration",
   "CUSTELS_BEVEL": "Abschrägung",
   "CUSTELS_SQUARE": "Quadrat",
-  "CUSTELS_CLONE": "Klonen"
+  "CUSTELS_CLONE": "Klonen",
+  "DimensionsWidthActionInput": "Breite",
+  "DimensionsDepthActionInput": "Tiefe",
+  "action_setDimensions": "Abmessungen festlegen"
 }

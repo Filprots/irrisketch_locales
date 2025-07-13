@@ -206,6 +206,10 @@ this.LNG = {
         zoneName: "Bölge adı",
         valveName: "Vana Kutusu",
         itemAlias: "Takma Ad",
+        lineWidth: "Genişlik",
+        lineDepth: "Derinlik",
+        lineArea: "Alan",
+        lineVolume: "Hacim",
         //MULTISELECTOR
         itemsSelected: "Seçilenler",
         totalArea: "Toplam alan",

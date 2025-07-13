@@ -206,6 +206,10 @@ this.LNG = {
         zoneName: "Zonen Name",
         valveName: "Valve Box", // TODO:translate
         itemAlias: "Naziv",
+        lineWidth: "Breite",
+        lineDepth: "Tiefe",
+        lineArea: "Fläche",
+        lineVolume: "Volumen",
         //MULTISELECTOR
         itemsSelected: "Ausgewählt",
         totalArea: "Gesamtabdeckung ",
@@ -796,7 +800,19 @@ this.LNG = {
         spArbitrary_equip: "Ausrüstung",
         spArbitrary_labour: "Arbeit",
         arbitrary_sp: '💦 Benutzerdefinierte Bewässerungselemente',
-        arbitrary_ld: '🌳 Benutzerdefinierte Landschaftselemente'
+        arbitrary_ld: '🌳 Benutzerdefinierte Landschaftselemente',
+        ldLine_labour: "Linie",
+        ldLine_equip: "Linie",
+        spLine_labour: "Linie",
+        spLine_equip: "Linie",
+        ldLineWithArea_labour: "Linie (m2)",
+        ldLineWithArea_equip: "Linie (m2)",
+        spLineWithArea_labour: "Linie (m2)",
+        spLineWithArea_equip: "Linie (m2)",
+        ldVolumetricLine_labour: "Linie (m3)",
+        ldVolumetricLine_equip: "Linie (m3)",
+        spVolumetricLine_labour: "Linie (m3)",
+        spVolumetricLine_equip: "Linie (m3)"
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1223,6 +1239,8 @@ this.LNG = {
         unitsSystemGridAndRuler: "Units of measurement system for grid and ruler",
         distanceUnits: "Entfernung",
         distancePrecision: "Nachkommastellen",
+        trenchSizeUnits: "Dimensionseinheiten",
+        trenchSizePrecision: "Nachkommastellen",
         sprinklerDistUnits: "Regnerradius",
         sprinklerDistPrecision: "Nachkommastellen",
         areaUnits: "Fläche",

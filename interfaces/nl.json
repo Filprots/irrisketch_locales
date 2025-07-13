@@ -1859,5 +1859,8 @@
   "CUSTELS_VOLUMETRIC_SURFACE_CONFIGURATION": "Configuratie",
   "CUSTELS_BEVEL": "Afschuining",
   "CUSTELS_SQUARE": "Vierkant",
-  "CUSTELS_CLONE": "Klonen"
+  "CUSTELS_CLONE": "Klonen",
+  "DimensionsWidthActionInput": "Breedte",
+  "DimensionsDepthActionInput": "Diepte",
+  "action_setDimensions": "Afmetingen instellen"
 }

@@ -1,0 +1,104 @@
+---
+alwaysApply: true
+---
+
+# IRRISketch Translation Project Rules
+
+You are working on the IRRISketch translation/localization project. This project contains translation files for multiple languages across different modules of the IRRISketch software application.
+
+## Project Structure
+
+The project contains translation files organized by module:
+- `catalogs/` - Product catalog translations (JSON)
+- `interfaces/` - User interface translations (JSON)
+- `irricalc/` - Calculator module translations (JSON)
+- `irrisadmin/` - Admin panel translations (JSON)
+- `irriseller/` - Seller module translations (JSON)
+- `irrisprice/` - Pricing module translations (JSON)
+- `planner/` - Planner module translations (JavaScript)
+- `planner_embedded/` - Embedded planner translations (JavaScript)
+- `pages/` - Static page content (EJS templates)
+- `mailer/` - Email template translations (EJS templates)
+
+## Translation Guidelines
+
+### When working with JSON translation files:
+- Maintain exact key structure across all language files
+- Use proper JSON formatting with consistent indentation
+- Preserve special characters and HTML entities when necessary
+- Keep translation keys in English as reference
+- Ensure all translation keys exist in all language files
+- No missing translations (empty strings are not allowed)
+
+### When working with JavaScript translation files:
+- Maintain object structure and function names
+- Translate only string values, not variable names or keys
+- Preserve JavaScript syntax and formatting
+
+### When working with EJS templates:
+- Translate only user-facing text content
+- Preserve EJS syntax, variables, and logic
+- Maintain HTML structure and attributes
+
+## Quality Standards
+
+1. **Accuracy**: Ensure technical terms are correctly translated
+2. **Consistency**: Use consistent terminology across all modules
+3. **Context**: Consider the context where text appears
+4. **Length**: Be mindful of UI space constraints
+5. **Cultural**: Adapt content appropriately for target culture
+
+## Workflow Rules
+
+### When adding new translations:
+1. Always start with English (en) as the source
+2. Add new keys to all language files simultaneously
+3. Mark incomplete translations with TODO comments
+4. Update translation status in README.md
+
+### When updating existing translations:
+1. Maintain backward compatibility
+2. Update all language files when changing keys
+3. Document changes in commit messages
+4. Test translations in the actual application
+
+### When asked to add/update translations to all laguages in folder(s) based on changes in English translations
+1. Prompt user which folder(s) he wants to be up-translated to all other languages
+2. Check diffs using git commands to see what whas changed
+3. Add newly added variables to all other files in the same place where they were added in english version
+4. Instantly translate the newly added/edited values to the language according to filename (e.g French for fr.json and so on)
+5. Check if all diffs were covered and all files in all requested folders were updated! By looking in git diffs and comparing with list of expected files
+
+### File naming conventions:
+- Use lowercase language codes (e.g., `en.json`, `ru.json`)
+- Maintain consistent naming across all modules
+- Use descriptive names for template files
+
+## Technical Considerations
+
+### Supported languages:
+be, de, en, es, fr, hr, hu, it, lt, nl, pl, pt, ru, sk, tr, uk, zh-CN, zh-HK
+
+### Special requirements:
+- Maintain consistency for irrigation/plumbing terminology
+- Use industry-standard translations where available
+- Consider regional variations in technical terminology
+- Adapt measurements and units where appropriate
+- Keep translation files optimized and properly encoded (UTF-8)
+
+### Validation:
+- Run Gulp tasks (`check-json-lines-*`) to validate consistency across files in each folder:
+gulp check-json-lines-cat for catalogs
+gulp check-json-lines-int for interfaces
+gulp check-json-lines-calc for irricalc
+gulp check-json-lines-admin for irrisadmin
+gulp check-json-lines-seller for irrisearch
+gulp check-json-lines-price for irrisprice
+gulp check-json-lines-planner for planner
+gulp check-json-lines-planner_emb for planner_embedded
+
+## Collaboration Guidelines
+
+- Follow established translation patterns
+- Validate technical accuracy with domain experts (if you are unsure about some translation, tell that a user)
+

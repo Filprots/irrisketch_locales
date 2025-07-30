@@ -484,6 +484,7 @@ this.LNG = {
         "sprinkler_rotor11/2F": "Kropiaci uzol (Rotor) 1 1/2\"",
         "sprinkler_rotor2F": "Kropiaci uzol (Rotor) 2\"",
         "sprinkler_rotor1/2M": "Kropiaci uzol (Rotor) 1/2\"male",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_bubbler1/2F": "Kropiaci uzol (Bubbler)",
         sprinkler_bubblerNozzleMT: "Kropiaci uzol (bublínová tryska s ženským závitom)",
         sprinkler_bubblerNozzleFT: "Kropiaci uzol (bublínová tryska s mužskou niťou)",

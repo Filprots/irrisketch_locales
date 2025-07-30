@@ -484,6 +484,7 @@ this.LNG = {
         "sprinkler_rotor11/2F": "Nó do aspersor (Rotor) 1 1/2\"",
         "sprinkler_rotor2F": "Nó do aspersor (Rotor) 2\"",
         "sprinkler_rotor1/2M": "Aspersor (Rotor) 1/2\" macho",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_bubbler1/2F": "Aspersor (Bubbler)",
         sprinkler_bubblerNozzleMT: "Aspersor (Bico de Bubbler com rosca fêmea)",
         sprinkler_bubblerNozzleFT: "Aspersor (Bico de Bubbler com rosca macho)",

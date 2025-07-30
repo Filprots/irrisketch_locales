@@ -484,6 +484,7 @@ this.LNG = {
         "sprinkler_rotor11/2F": "Sproeierknooppunt (Rotor) 1 1/2\"",
         "sprinkler_rotor2F": "Sproeierknooppunt (Rotor) 2\"",
         "sprinkler_rotor1/2M": "Sproeierknoop (Rotor) 1/2\" mannelijk",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_bubbler1/2F": "Sproeierknoop (Bubbler)",
         sprinkler_bubblerNozzleMT: "Sproeierknoop (Bubbler sproeikop met vrouwelijke schroefdraad)",
         sprinkler_bubblerNozzleFT: "Sproeierknoop (Bubbler sproeikop met mannelijke schroefdraad)",

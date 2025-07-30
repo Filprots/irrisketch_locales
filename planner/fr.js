@@ -484,6 +484,7 @@ this.LNG = {
         "sprinkler_rotor11/2F": "Nœud de l'arroseur (Rotor) 1 1/2\"",
         "sprinkler_rotor2F": "Nœud de l'arroseur (Rotor) 2\"",
         "sprinkler_rotor1/2M": "Buse d'arrosage (rotor) 1/2\" mâle",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_bubbler1/2F": "Buse d'arrosage (arroseur)",
         sprinkler_bubblerNozzleMT: "Buse d'arrosage (embout arroseur à filetage femelle)",
         sprinkler_bubblerNozzleFT: "Buse d'arrosage (embout arroseur à filetage mâle)",

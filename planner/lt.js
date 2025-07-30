@@ -484,6 +484,7 @@ this.LNG = {
         "sprinkler_rotor11/2F": "Purkštuvo mazgas (Rotorius) 1 1/2\"",
         "sprinkler_rotor2F": "Purkštuvo mazgas (Rotorius) 2\"",
         "sprinkler_rotor1/2M": "Laistytuvas (Rotacinis) 1/2\" mot.",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_bubbler1/2F": "Laistytuvas (Burbulinis)",
         sprinkler_bubblerNozzleMT: "Laistytuvas (Burbulinis žarna su vyr. gijomis)",
         sprinkler_bubblerNozzleFT: "Laistytuvas (Burbulinis žarna su mot. gijomis)",

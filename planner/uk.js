@@ -484,6 +484,7 @@ this.LNG = {
         "sprinkler_rotor11/2F": "Вузол зрошувача (Ротор) 1 1/2\"",
         "sprinkler_rotor2F": "Вузол зрошувача (Ротор) 2\"",
         "sprinkler_rotor1/2M": "Узел дождевания (Ротор) 1/2\"РЗ",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_bubbler1/2F": "Вузол зрошування (Баблер)",
         sprinkler_bubblerNozzleMT: "Вузол зрошування (Форсунка-баблер з внутрішьою різьбою)",
         sprinkler_bubblerNozzleFT: "Вузол зрошування (Форсунка-баблер із зовнішньою різьбою)",

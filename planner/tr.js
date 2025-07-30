@@ -481,6 +481,7 @@ this.LNG = {
         "sprinkler_rotor3/4F": "Sulama düğmesi (Rotor) 3/4\"",
         "sprinkler_rotor1F": "Sulama düğmesi (Rotor) 1\"",
         "sprinkler_rotor1/2M": "Sulama düğmesi (Rotor) 1/2\" erkek",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_rotor11/4F": "Püskürtücü düğümü (Rotor) 1 1/4\"",
         "sprinkler_rotor11/2F": "Püskürtücü düğümü (Rotor) 1 1/2\"",
         "sprinkler_rotor2F": "Püskürtücü düğümü (Rotor) 2\"",

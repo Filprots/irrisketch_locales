@@ -484,6 +484,7 @@ this.LNG = {
         "sprinkler_rotor11/2F": "Öntöző csomópont (Rotor) 1 1/2\"",
         "sprinkler_rotor2F": "Öntöző csomópont (Rotor) 2\"",
         "sprinkler_rotor1/2M": "Szórófej csatlakozó (Rotor) 1/2\" férfi",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_bubbler1/2F": "Zraszacz csomópont (Buborékos)",
         "sprinkler_bubblerNozzleMT": "Zraszacz csomópont (Buborékos fúvóka női menettel)",
         "sprinkler_bubblerNozzleFT": "Zraszacz csomópont (Buborékos fúvóka férfi menettel)",

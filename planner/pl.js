@@ -484,6 +484,7 @@ this.LNG = {
         "sprinkler_rotor11/2F": "Węzeł zraszacza (Rotor) 1 1/2\"",
         "sprinkler_rotor2F": "Węzeł zraszacza (Rotor) 2\"",
         "sprinkler_rotor1/2M": "Węzeł Zraszacza (Rotor) 1/2\" męski",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_bubbler1/2F": "Węzeł Zraszacza (Bubbler)",
         sprinkler_bubblerNozzleMT: "Węzeł Zraszacza (Dysza bąbelkowa z gwintem żeńskim)",
         sprinkler_bubblerNozzleFT: "Węzeł Zraszacza (Dysza bąbelkowa z gwintem męskim)",

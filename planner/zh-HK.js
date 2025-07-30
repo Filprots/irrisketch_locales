@@ -481,6 +481,7 @@ this.LNG = {
         "sprinkler_rotor3/4F": "喷头节点（转子）3/4\"",
         "sprinkler_rotor1F": "喷头节点（转子）1\"",
         "sprinkler_rotor1/2M": "喷头节点（转子）1/2\" 外螺纹",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_rotor11/4F": "噴頭節點（旋轉）1 1/4\"",
         "sprinkler_rotor11/2F": "噴頭節點（旋轉）1 1/2\"",
         "sprinkler_rotor2F": "噴頭節點（旋轉）2\"",

@@ -484,6 +484,7 @@ this.LNG = {
         "sprinkler_rotor11/2F": "Regneranschluss (Rotor) 1 1/2\"",
         "sprinkler_rotor2F": "Regneranschluss (Rotor) 2\"",
         "sprinkler_rotor1/2M": "Regneranschluss (Rotor) 1/2\" AG",
+        "sprinkler_rotor3/4M": "Sprinkler node (Rotor) 3/4\" male",
         "sprinkler_bubbler1/2F": "Regneranschluss (Bubbler)",
         sprinkler_bubblerNozzleMT: "Regneranschluss (Bubbler-Düse mit AG)",
         sprinkler_bubblerNozzleFT: "Regneranschluss (Bubbler-Düse mit IG)",

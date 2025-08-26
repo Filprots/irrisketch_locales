@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Dubina",
         lineArea: "Površina",
         lineVolume: "Volumen",
+        surfaceDepth: "Dubina/Visina",
+        surfaceVolume: "Volumen",
         //MULTISELECTOR
         itemsSelected: "Odabrano",
         totalArea: "Ukupna površina",
@@ -319,6 +321,8 @@ this.LNG = {
         stampTextgr21t: "Sign'n'Date",
         stampTextgr22t: "Repl. Inv.#",
         inserts: "Proturne cijevi",
+        poly: "Poligon",
+        brush: "Kist",
         //------------------------------------------------------------
         //-------------------LAYERS MANIPULATOR-----------------------
         //------------------------------------------------------------
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "Linija (m3)",
         spVolumetricLine_labour: "Linija (m3)",
         spVolumetricLine_equip: "Linija (m3)",
+        ldSurface_labour: "Površina",
+        ldSurface_equip: "Površina",
+        spSurface_labour: "Površina",
+        spSurface_equip: "Površina",
+        ldVolumetricSurface_labour: "Površina (m3)",
+        ldVolumetricSurface_equip: "Površina (m3)",
+        spVolumetricSurface_labour: "Površina (m3)",
+        spVolumetricSurface_equip: "Površina (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

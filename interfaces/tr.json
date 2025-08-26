@@ -1870,5 +1870,8 @@
   "CUSTELS_CLONE": "Kopyala",
   "DimensionsWidthActionInput": "Genişlik",
   "DimensionsDepthActionInput": "Derinlik",
-  "action_setDimensions": "Boyutları ayarla"
+  "action_setDimensions": "Boyutları ayarla",
+  "CUSTELS_PATTERN_LD": "Desen (Peyzaj)",
+  "CUSTELS_PATTERN_SP": "Desen (Sulama)",
+  "CUSTELS_PATTERN_LO": "Desen (Düzen)"
 }

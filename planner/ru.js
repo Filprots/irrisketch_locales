@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Глубина",
         lineArea: "Площадь",
         lineVolume: "Объём",
+        surfaceDepth: "Глубина/Высота",
+        surfaceVolume: "Объём",
         //MULTISELECTOR
         itemsSelected: "Выбрано",
         totalArea: "Общая площадь",
@@ -319,6 +321,8 @@ this.LNG = {
         stampTextgr21t: "Подп. и дата",
         stampTextgr22t: "Взам. инв.№",
         inserts: "Закладные",
+        poly: "Многоугольник",
+        brush: "Кисть",
         //------------------------------------------------------------
         //-------------------LAYERS MANIPULATOR-----------------------
         //------------------------------------------------------------
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "Линия (m3)",
         spVolumetricLine_labour: "Линия (m3)",
         spVolumetricLine_equip: "Линия (m3)",
+        ldSurface_labour: "Поверхность",
+        ldSurface_equip: "Поверхность",
+        spSurface_labour: "Поверхность",
+        spSurface_equip: "Поверхность",
+        ldVolumetricSurface_labour: "Поверхность (m3)",
+        ldVolumetricSurface_equip: "Поверхность (m3)",
+        spVolumetricSurface_labour: "Поверхность (m3)",
+        spVolumetricSurface_equip: "Поверхность (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

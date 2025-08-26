@@ -1870,5 +1870,8 @@
   "CUSTELS_CLONE": "Klonuj",
   "DimensionsWidthActionInput": "Szerokość",
   "DimensionsDepthActionInput": "Głębokość",
-  "action_setDimensions": "Ustaw wymiary"
+  "action_setDimensions": "Ustaw wymiary",
+  "CUSTELS_PATTERN_LD": "Wzór (Krajobraz)",
+  "CUSTELS_PATTERN_SP": "Wzór (Nawadnianie)",
+  "CUSTELS_PATTERN_LO": "Wzór (Układ)"
 }

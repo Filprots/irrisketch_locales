@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "深度",
         lineArea: "面積",
         lineVolume: "體積",
+        surfaceDepth: "深度/高度",
+        surfaceVolume: "體積",
         //MULTISELECTOR
         itemsSelected: "已选",
         totalArea: "总面积",
@@ -279,6 +281,8 @@ this.LNG = {
         Wiring: "连接",
         IrrigateMarks: "区域",
         Surface: "表面",
+        poly: "多邊形",
+        brush: "畫筆",
         Lawn: "草坪",
         Bed: "花坛",
         Shrubs: "灌木",
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "線 (m3)",
         spVolumetricLine_labour: "線 (m3)",
         spVolumetricLine_equip: "線 (m3)",
+        ldSurface_labour: "表面",
+        ldSurface_equip: "表面",
+        spSurface_labour: "表面",
+        spSurface_equip: "表面",
+        ldVolumetricSurface_labour: "表面 (m3)",
+        ldVolumetricSurface_equip: "表面 (m3)",
+        spVolumetricSurface_labour: "表面 (m3)",
+        spVolumetricSurface_equip: "表面 (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------
@@ -1112,7 +1124,6 @@ this.LNG = {
             '以下是自訂元素列表，這些元素在您的項目庫中缺失，因此無法渲染：',
             '請在項目設定選單（在工作坊）中啟用包含這些元素的集合'
         ],
-
         openInOtherTab: "打开最新",
         overwrite: "覆盖",
         saveToFile: "保存到文件",

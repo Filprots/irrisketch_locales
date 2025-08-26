@@ -1870,5 +1870,8 @@
   "CUSTELS_CLONE": "Clona",
   "DimensionsWidthActionInput": "Larghezza",
   "DimensionsDepthActionInput": "Profondità",
-  "action_setDimensions": "Imposta dimensioni"
+  "action_setDimensions": "Imposta dimensioni",
+  "CUSTELS_PATTERN_LD": "Modello (Paesaggio)",
+  "CUSTELS_PATTERN_SP": "Modello (Irrigazione)",
+  "CUSTELS_PATTERN_LO": "Modello (Layout)"
 }

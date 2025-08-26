@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Tiefe",
         lineArea: "Fläche",
         lineVolume: "Volumen",
+        surfaceDepth: "Tiefe/Höhe",
+        surfaceVolume: "Volumen",
         //MULTISELECTOR
         itemsSelected: "Ausgewählt",
         totalArea: "Gesamtabdeckung ",
@@ -319,6 +321,8 @@ this.LNG = {
         stampTextgr21t: "Zeichn. Dat.",
         stampTextgr22t: "Repl. Inv.#",
         inserts: "Rohrmuffen",
+        poly: "Polygon",
+        brush: "Pinsel",
         //------------------------------------------------------------
         //-------------------LAYERS MANIPULATOR-----------------------
         //------------------------------------------------------------
@@ -813,7 +817,15 @@ this.LNG = {
         ldVolumetricLine_labour: "Linie (m3)",
         ldVolumetricLine_equip: "Linie (m3)",
         spVolumetricLine_labour: "Linie (m3)",
-        spVolumetricLine_equip: "Linie (m3)"
+        spVolumetricLine_equip: "Linie (m3)",
+        ldSurface_labour: "Oberfläche",
+        ldSurface_equip: "Oberfläche",
+        spSurface_labour: "Oberfläche",
+        spSurface_equip: "Oberfläche",
+        ldVolumetricSurface_labour: "Oberfläche (m3)",
+        ldVolumetricSurface_equip: "Oberfläche (m3)",
+        spVolumetricSurface_labour: "Oberfläche (m3)",
+        spVolumetricSurface_equip: "Oberfläche (m3)"
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

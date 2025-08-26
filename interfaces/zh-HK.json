@@ -1870,5 +1870,8 @@
   "CUSTELS_CLONE": "克隆",
   "DimensionsWidthActionInput": "寬度",
   "DimensionsDepthActionInput": "深度",
-  "action_setDimensions": "設定尺寸"
+  "action_setDimensions": "設定尺寸",
+  "CUSTELS_PATTERN_LD": "圖案（景觀）",
+  "CUSTELS_PATTERN_SP": "圖案（灌溉）",
+  "CUSTELS_PATTERN_LO": "圖案（佈局）"
 }

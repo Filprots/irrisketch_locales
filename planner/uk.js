@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Глибина",
         lineArea: "Площа",
         lineVolume: "Об'єм",
+        surfaceDepth: "Глибина/Висота",
+        surfaceVolume: "Об'єм",
         //MULTISELECTOR
         itemsSelected: "Вибрано",
         totalArea: "Загальна площа",
@@ -279,6 +281,8 @@ this.LNG = {
         Wiring: "Підключення",
         IrrigateMarks: "Зоны",
         Surface: "Поверхня",
+        poly: "Полігон",
+        brush: "Пензель",
         Lawn: "Газон",
         Bed: "Клумба",
         Shrubs: "Кущі",
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "Лінія (m3)",
         spVolumetricLine_labour: "Лінія (m3)",
         spVolumetricLine_equip: "Лінія (m3)",
+        ldSurface_labour: "Поверхня",
+        ldSurface_equip: "Поверхня",
+        spSurface_labour: "Поверхня",
+        spSurface_equip: "Поверхня",
+        ldVolumetricSurface_labour: "Поверхня (m3)",
+        ldVolumetricSurface_equip: "Поверхня (m3)",
+        spVolumetricSurface_labour: "Поверхня (m3)",
+        spVolumetricSurface_equip: "Поверхня (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

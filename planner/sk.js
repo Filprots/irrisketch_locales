@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Hĺbka",
         lineArea: "Plocha",
         lineVolume: "Objem",
+        surfaceDepth: "Hĺbka/Výška",
+        surfaceVolume: "Objem",
         //MULTISELECTOR
         itemsSelected: "Vybrané",
         totalArea: "Celková plocha",
@@ -319,6 +321,8 @@ this.LNG = {
         stampTextgr21t: "Podpis'n'Dátum",
         stampTextgr22t: "Repl. Inv.#",
         inserts: "Rúrky",
+        poly: "Polygón",
+        brush: "Štetec",
         //------------------------------------------------------------
         //-------------------LAYERS MANIPULATOR-----------------------
         //------------------------------------------------------------
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "Čiara (m3)",
         spVolumetricLine_labour: "Čiara (m3)",
         spVolumetricLine_equip: "Čiara (m3)",
+        ldSurface_labour: "Plocha",
+        ldSurface_equip: "Plocha",
+        spSurface_labour: "Plocha",
+        spSurface_equip: "Plocha",
+        ldVolumetricSurface_labour: "Plocha (m3)",
+        ldVolumetricSurface_equip: "Plocha (m3)",
+        spVolumetricSurface_labour: "Plocha (m3)",
+        spVolumetricSurface_equip: "Plocha (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

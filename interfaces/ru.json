@@ -1870,5 +1870,8 @@
   "CUSTELS_CLONE": "Клонировать",
   "DimensionsWidthActionInput": "Ширина",
   "DimensionsDepthActionInput": "Глубина",
-  "action_setDimensions": "Установить размеры"
+  "action_setDimensions": "Установить размеры",
+  "CUSTELS_PATTERN_LD": "Паттерн (Ландшафт)",
+  "CUSTELS_PATTERN_SP": "Паттерн (Орошение)",
+  "CUSTELS_PATTERN_LO": "Паттерн (Макет)"
 }

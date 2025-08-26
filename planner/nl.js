@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Diepte",
         lineArea: "Oppervlakte",
         lineVolume: "Volume",
+        surfaceDepth: "Diepte/Hoogte",
+        surfaceVolume: "Volume",
 //MULTISELECTOR
         itemsSelected: "Geselecteerd",
         totalArea: "Totale oppervlakte",
@@ -319,6 +321,8 @@ this.LNG = {
         stampTextgr21t: "Ondertekening en datum",
         stampTextgr22t: "Vervangende Inv.#",
         inserts: "Mantelbuis tabel",
+        poly: "Polygoon",
+        brush: "Kwant",
         //------------------------------------------------------------
         //-------------------LAYERS MANIPULATOR-----------------------
         //------------------------------------------------------------
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "Lijn (m3)",
         spVolumetricLine_labour: "Lijn (m3)",
         spVolumetricLine_equip: "Lijn (m3)",
+        ldSurface_labour: "Oppervlak",
+        ldSurface_equip: "Oppervlak",
+        spSurface_labour: "Oppervlak",
+        spSurface_equip: "Oppervlak",
+        ldVolumetricSurface_labour: "Oppervlak (m3)",
+        ldVolumetricSurface_equip: "Oppervlak (m3)",
+        spVolumetricSurface_labour: "Oppervlak (m3)",
+        spVolumetricSurface_equip: "Oppervlak (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

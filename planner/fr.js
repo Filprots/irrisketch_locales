@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Profondeur",
         lineArea: "Surface",
         lineVolume: "Volume",
+        surfaceDepth: "Profondeur/Hauteur",
+        surfaceVolume: "Volume",
 //MULTISELECTOR
         itemsSelected: "Sélectionné(s)",
         totalArea: "Surface totale",
@@ -319,6 +321,8 @@ this.LNG = {
         stampTextgr21t: "Sign. et date",
         stampTextgr22t: "Inv. de remplacement",
         inserts: "Manchons de tuyaux",
+        poly: "Polygone",
+        brush: "Pinceau",
         //------------------------------------------------------------
         //-------------------LAYERS MANIPULATOR-----------------------
         //------------------------------------------------------------
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "Ligne (m3)",
         spVolumetricLine_labour: "Ligne (m3)",
         spVolumetricLine_equip: "Ligne (m3)",
+        ldSurface_labour: "Surface",
+        ldSurface_equip: "Surface",
+        spSurface_labour: "Surface",
+        spSurface_equip: "Surface",
+        ldVolumetricSurface_labour: "Surface (m3)",
+        ldVolumetricSurface_equip: "Surface (m3)",
+        spVolumetricSurface_labour: "Surface (m3)",
+        spVolumetricSurface_equip: "Surface (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

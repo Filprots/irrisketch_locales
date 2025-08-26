@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Głębokość",
         lineArea: "Powierzchnia",
         lineVolume: "Objętość",
+        surfaceDepth: "Głębokość/Wysokość",
+        surfaceVolume: "Objętość",
 //MULTISELECTOR
         itemsSelected: "Wybrane",
         totalArea: "Całkowita powierzchnia",
@@ -319,6 +321,8 @@ this.LNG = {
         stampTextgr21t: "Podpis i data",
         stampTextgr22t: "Zam. Nr faktury",
         inserts: "Mufy",
+        poly: "Wielokąt",
+        brush: "Pędzel",
 //------------------------------------------------------------
 //-------------------MENADŻER WARSTW---------------------------
 //------------------------------------------------------------
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "Linia (m3)",
         spVolumetricLine_labour: "Linia (m3)",
         spVolumetricLine_equip: "Linia (m3)",
+        ldSurface_labour: "Powierzchnia",
+        ldSurface_equip: "Powierzchnia",
+        spSurface_labour: "Powierzchnia",
+        spSurface_equip: "Powierzchnia",
+        ldVolumetricSurface_labour: "Powierzchnia (m3)",
+        ldVolumetricSurface_equip: "Powierzchnia (m3)",
+        spVolumetricSurface_labour: "Powierzchnia (m3)",
+        spVolumetricSurface_equip: "Powierzchnia (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

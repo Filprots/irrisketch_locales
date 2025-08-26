@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Gylis",
         lineArea: "Plotas",
         lineVolume: "Tūris",
+        surfaceDepth: "Gylis/Aukštis",
+        surfaceVolume: "Tūris",
 //MULTISELECTOR
         itemsSelected: "Pasirinkta",
         totalArea: "Iš viso plotas",
@@ -319,6 +321,8 @@ this.LNG = {
         stampTextgr21t: "Parašas ir data",
         stampTextgr22t: "Repl. Inv.#",
         inserts: "Vamzdžių dėklai",
+        poly: "Daugiakampis",
+        brush: "Šepečius",
         //------------------------------------------------------------
         //-------------------LAYERS MANIPULATOR-----------------------
         //------------------------------------------------------------
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "Linija (m3)",
         spVolumetricLine_labour: "Linija (m3)",
         spVolumetricLine_equip: "Linija (m3)",
+        ldSurface_labour: "Paviršius",
+        ldSurface_equip: "Paviršius",
+        spSurface_labour: "Paviršius",
+        spSurface_equip: "Paviršius",
+        ldVolumetricSurface_labour: "Paviršius (m3)",
+        ldVolumetricSurface_equip: "Paviršius (m3)",
+        spVolumetricSurface_labour: "Paviršius (m3)",
+        spVolumetricSurface_equip: "Paviršius (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

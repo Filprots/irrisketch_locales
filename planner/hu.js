@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "Mélység",
         lineArea: "Terület",
         lineVolume: "Térfogat",
+        surfaceDepth: "Mélység/Magasság",
+        surfaceVolume: "Térfogat",
         //MULTISELECTOR
         itemsSelected: "Kiválasztott",
         totalArea: "Teljes terület",
@@ -319,6 +321,8 @@ this.LNG = {
         stampTextgr21t: "Aláírás és dátum",
         stampTextgr22t: "Hely. Inv. sz.",
         inserts: "Csővédők",
+        poly: "Poligon",
+        brush: "Kefe",
         //------------------------------------------------------------
         //-------------------LAYERS MANIPULATOR-----------------------
         //------------------------------------------------------------
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "Vonal (m3)",
         spVolumetricLine_labour: "Vonal (m3)",
         spVolumetricLine_equip: "Vonal (m3)",
+        ldSurface_labour: "Felület",
+        ldSurface_equip: "Felület",
+        spSurface_labour: "Felület",
+        spSurface_equip: "Felület",
+        ldVolumetricSurface_labour: "Felület (m3)",
+        ldVolumetricSurface_equip: "Felület (m3)",
+        spVolumetricSurface_labour: "Felület (m3)",
+        spVolumetricSurface_equip: "Felület (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

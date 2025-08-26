@@ -1870,5 +1870,8 @@
   "CUSTELS_CLONE": "Klonovať",
   "DimensionsWidthActionInput": "Šírka",
   "DimensionsDepthActionInput": "Hĺbka",
-  "action_setDimensions": "Nastaviť rozmery"
+  "action_setDimensions": "Nastaviť rozmery",
+  "CUSTELS_PATTERN_LD": "Vzor (Krajina)",
+  "CUSTELS_PATTERN_SP": "Vzor (Zavlažovanie)",
+  "CUSTELS_PATTERN_LO": "Vzor (Rozloženie)"
 }

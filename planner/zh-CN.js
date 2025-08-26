@@ -210,6 +210,8 @@ this.LNG = {
         lineDepth: "深度",
         lineArea: "面积",
         lineVolume: "体积",
+        surfaceDepth: "深度/高度",
+        surfaceVolume: "体积",
         //MULTISELECTOR
         itemsSelected: "已选",
         totalArea: "总面积",
@@ -279,6 +281,8 @@ this.LNG = {
         Wiring: "连接",
         IrrigateMarks: "区域",
         Surface: "表面",
+        poly: "多边形",
+        brush: "画笔",
         Lawn: "草坪",
         Bed: "花坛",
         Shrubs: "灌木",
@@ -814,6 +818,14 @@ this.LNG = {
         ldVolumetricLine_equip: "线 (m3)",
         spVolumetricLine_labour: "线 (m3)",
         spVolumetricLine_equip: "线 (m3)",
+        ldSurface_labour: "表面",
+        ldSurface_equip: "表面",
+        spSurface_labour: "表面",
+        spSurface_equip: "表面",
+        ldVolumetricSurface_labour: "表面 (m3)",
+        ldVolumetricSurface_equip: "表面 (m3)",
+        spVolumetricSurface_labour: "表面 (m3)",
+        spVolumetricSurface_equip: "表面 (m3)",
     },
     //--------------------------------------------------------------------------
     //--------------------------------------------------------------------------

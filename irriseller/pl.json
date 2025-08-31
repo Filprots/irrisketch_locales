@@ -134,7 +134,8 @@
     "unitsNames-sqm": "metry kwadratowe",
     "unitsNames-sqft": "stopy kwadratowe",
     "unitsNames-m3": "metry sześcienne",
-    "unitsNames-usgal": "galon amerykański"
+    "unitsNames-usgal": "galon amerykański",
+    "unitsNames-cubft": "stopy sześcienne"
   },
   "PLCH": {
     "filterItems": "Wprowadź nazwę lub numer części",

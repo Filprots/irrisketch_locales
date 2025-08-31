@@ -134,7 +134,8 @@
     "unitsNames-sqm": "štvorcový meter",
     "unitsNames-sqft": "štvorcová stopa",
     "unitsNames-m3": "kubické merače",
-    "unitsNames-usgal": "Galón"
+    "unitsNames-usgal": "Galón",
+    "unitsNames-cubft": "kubické stopy"
   },
   "PLCH": {
     "filterItems": "Zadajte meno alebo číslo dielu",

@@ -134,7 +134,8 @@
     "unitsNames-sqm": "square meters",
     "unitsNames-sqft": "square feet",
     "unitsNames-m3": "cubic meters",
-    "unitsNames-usgal": "US gallon"
+    "unitsNames-usgal": "US gallon",
+    "unitsNames-cubft": "cubic feet"
   },
   "PLCH": {
     "filterItems": "Insira um nome ou um número de peça",

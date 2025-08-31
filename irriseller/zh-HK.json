@@ -134,7 +134,8 @@
     "unitsNames-sqm": "平方米",
     "unitsNames-sqft": "平方英尺",
     "unitsNames-m3": "立方米",
-    "unitsNames-usgal": "美制加仑"
+    "unitsNames-usgal": "美制加仑",
+    "unitsNames-cubft": "立方英尺"
   },
   "PLCH": {
     "filterItems": "输入名称或零件号",

@@ -134,7 +134,8 @@
     "unitsNames-sqm": "metrekare",
     "unitsNames-sqft": "metrekare",
     "unitsNames-m3": "metreküp",
-    "unitsNames-usgal": "ABD galonu"
+    "unitsNames-usgal": "ABD galonu",
+    "unitsNames-cubft": "kübik fit"
   },
   "PLCH": {
     "filterItems": "Bir ad veya parça numarası girin",

@@ -134,7 +134,8 @@
     "unitsNames-sqm": "",
     "unitsNames-sqft": "",
     "unitsNames-m3": "",
-    "unitsNames-usgal": ""
+    "unitsNames-usgal": "",
+    "unitsNames-cubft": "куб.фут."
   },
   "PLCH": {
     "filterItems": "Введите название или артикул",

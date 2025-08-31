@@ -23,6 +23,7 @@ this.LNG = {
         l: "l",
         m3: "m³",
         USg: "gallon",
+        cubft: "ft³",
         lpm: "l/perc",
         lph: "l/óra",
         m3h: "m³/óra",

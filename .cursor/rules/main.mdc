@@ -72,6 +72,7 @@ be, de, en, es, fr, hr, hu, it, lt, nl, pl, pt, ru, sk, tr, uk, zh-CN, zh-HK
 - Consider regional variations in technical terminology
 - Adapt measurements and units where appropriate
 - Keep translation files optimized and properly encoded (UTF-8)
+- At the end of each file newline must be preserved!!!
 
 ### Validation:
 - Run Gulp tasks (`check-json-lines-*`) to validate consistency across files in each folder:

@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Unpublish",
   "PublishedLinkStatus": "Published into IRRISearch",
   "PublishLinkDialogTitle": "Are you sure?",
-  "AreYouSurePublishLink": "As we are indexing all published links in the search engines, you will be unable to undo publication for one month.",
+  "AreYouSurePublishLink": "IMPORTANT! Please double-check the contact details you provide before submitting your link. Once published, it will be indexed by search engines across the internet. After posting your link on IRRISearch, the publication cannot be undone for one month!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Unblocks",
   "NotPublishableReason_NotAllFields": "You have not completed all mandatory fields",

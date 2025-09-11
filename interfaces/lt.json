@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Atšaukti publikavimą",
   "PublishedLinkStatus": "Publikuota IRRISearch",
   "PublishLinkDialogTitle": "Ar tikrai?",
-  "AreYouSurePublishLink": "Kadangi indeksuojame visus publikuotus nuorodas paieškos sistemose, negalėsite atšaukti publikavimo mėnesį.",
+  "AreYouSurePublishLink": "SVARBU! Prašome du kartus patikrinti pateiktus kontaktinius duomenis prieš pateikdami savo nuorodą. Paskelbus ji bus indeksuojama paieškos sistemų visame internete. Paskelbus jūsų nuorodą IRRISearch, publikavimas negalės būti atšauktas mėnesį!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Atblokuoja",
   "NotPublishableReason_NotAllFields": "Neužpildėte visų privalomų laukų",

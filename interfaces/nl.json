@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Publicatie ongedaan maken",
   "PublishedLinkStatus": "Gepubliceerd in IRRISearch",
   "PublishLinkDialogTitle": "Weet je het zeker?",
-  "AreYouSurePublishLink": "Omdat we alle gepubliceerde links in zoekmachines indexeren, kun je de publicatie een maand lang niet ongedaan maken.",
+  "AreYouSurePublishLink": "BELANGRIJK! Controleer de contactgegevens die je opgeeft twee keer voordat je je link indient. Na publicatie wordt deze geïndexeerd door zoekmachines over het hele internet. Na het plaatsen van je link op IRRISearch kan de publicatie een maand lang niet ongedaan worden gemaakt!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Deblokkeert",
   "NotPublishableReason_NotAllFields": "Je hebt niet alle verplichte velden ingevuld",

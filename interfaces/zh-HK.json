@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "取消發布",
   "PublishedLinkStatus": "已發布到IRRISearch",
   "PublishLinkDialogTitle": "您確定嗎？",
-  "AreYouSurePublishLink": "由於我們在搜尋引擎中索引所有已發布的連結，您將無法在一個月內撤銷發布。",
+  "AreYouSurePublishLink": "重要！請在提交連結前仔細檢查您提供的聯絡資訊。發布後，它將被全互聯網的搜尋引擎索引。在IRRISearch上發布您的連結後，發布將無法在一個月內撤銷！",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "解鎖",
   "NotPublishableReason_NotAllFields": "您尚未完成所有必填欄位",

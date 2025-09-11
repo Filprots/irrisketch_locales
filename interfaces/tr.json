@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Yayından kaldır",
   "PublishedLinkStatus": "IRRISearch'te yayınlandı",
   "PublishLinkDialogTitle": "Emin misiniz?",
-  "AreYouSurePublishLink": "Yayınlanan tüm bağlantıları arama motorlarında indekslediğimiz için, yayını bir ay boyunca geri alamayacaksınız.",
+  "AreYouSurePublishLink": "ÖNEMLİ! Lütfen bağlantınızı göndermeden önce sağladığınız iletişim bilgilerini iki kez kontrol edin. Yayınlandıktan sonra, tüm internet üzerindeki arama motorları tarafından indekslenecektir. Bağlantınızı IRRISearch'te yayınladıktan sonra, yayın bir ay boyunca geri alınamaz!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Kilidini açar",
   "NotPublishableReason_NotAllFields": "Tüm zorunlu alanları doldurmadınız",

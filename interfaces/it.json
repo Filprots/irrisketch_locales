@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Rimuovi pubblicazione",
   "PublishedLinkStatus": "Pubblicato in IRRISearch",
   "PublishLinkDialogTitle": "Sei sicuro?",
-  "AreYouSurePublishLink": "Poiché stiamo indicizzando tutti i link pubblicati nei motori di ricerca, non potrai annullare la pubblicazione per un mese.",
+  "AreYouSurePublishLink": "IMPORTANTE! Si prega di controllare due volte i dettagli di contatto che fornisci prima di inviare il tuo link. Una volta pubblicato, sarà indicizzato dai motori di ricerca in tutto Internet. Dopo aver pubblicato il tuo link su IRRISearch, la pubblicazione non potrà essere annullata per un mese!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Sblocca",
   "NotPublishableReason_NotAllFields": "Non hai completato tutti i campi obbligatori",

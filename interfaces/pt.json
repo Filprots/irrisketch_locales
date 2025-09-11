@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Despublicar",
   "PublishedLinkStatus": "Publicado no IRRISearch",
   "PublishLinkDialogTitle": "Tem certeza?",
-  "AreYouSurePublishLink": "Como estamos indexando todos os links publicados nos mecanismos de busca, você não poderá desfazer a publicação por um mês.",
+  "AreYouSurePublishLink": "IMPORTANTE! Por favor, verifique duas vezes os dados de contato que você fornece antes de enviar seu link. Uma vez publicado, será indexado por mecanismos de busca em toda a internet. Após publicar seu link no IRRISearch, a publicação não pode ser desfeita por um mês!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Desbloqueia",
   "NotPublishableReason_NotAllFields": "Você não preencheu todos os campos obrigatórios",

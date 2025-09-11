@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Közzététel visszavonása",
   "PublishedLinkStatus": "Közzétéve az IRRISearch-ben",
   "PublishLinkDialogTitle": "Biztos benne?",
-  "AreYouSurePublishLink": "Mivel az összes közzétett linket indexeljük a keresőmotorokban, egy hónapig nem tudja visszavonni a közzétételt.",
+  "AreYouSurePublishLink": "FONTOS! Kérjük, kétszer ellenőrizze a megadott kapcsolattartási adatokat, mielőtt elküldi a linkjét. A közzététel után a keresőmotorok az egész interneten indexelni fogják. A link IRRISearch-re való közzététele után a publikáció egy hónapig nem vonható vissza!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Feloldja",
   "NotPublishableReason_NotAllFields": "Nem töltötte ki az összes kötelező mezőt",

@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Скасувати публікацію",
   "PublishedLinkStatus": "Опубліковано в IRRISearch",
   "PublishLinkDialogTitle": "Ви впевнені?",
-  "AreYouSurePublishLink": "Оскільки ми індексуємо всі опубліковані посилання в пошукових системах, ви не зможете скасувати публікацію протягом місяця.",
+  "AreYouSurePublishLink": "ВАЖЛИВО! Будь ласка, двічі перевірте контактні дані, які ви надаєте, перед відправкою вашого посилання. Після публікації воно буде проіндексоване пошуковими системами по всьому інтернету. Після розміщення вашого посилання на IRRISearch публікацію не можна буде скасувати протягом місяця!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Розблоковує",
   "NotPublishableReason_NotAllFields": "Ви не заповнили всі обов'язкові поля",

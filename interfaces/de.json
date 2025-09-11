@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Veröffentlichung aufheben",
   "PublishedLinkStatus": "In IRRISearch veröffentlicht",
   "PublishLinkDialogTitle": "Sind Sie sicher?",
-  "AreYouSurePublishLink": "Da wir alle veröffentlichten Links in Suchmaschinen indexieren, können Sie die Veröffentlichung einen Monat lang nicht rückgängig machen.",
+  "AreYouSurePublishLink": "WICHTIG! Bitte überprüfen Sie die Kontaktdaten, die Sie angeben, doppelt, bevor Sie Ihren Link einreichen. Nach der Veröffentlichung wird er von Suchmaschinen im gesamten Internet indexiert. Nach dem Posten Ihres Links auf IRRISearch kann die Veröffentlichung einen Monat lang nicht rückgängig gemacht werden!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Entsperrt",
   "NotPublishableReason_NotAllFields": "Sie haben nicht alle Pflichtfelder ausgefüllt",

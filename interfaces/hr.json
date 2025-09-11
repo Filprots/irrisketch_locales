@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Ukloni objavu",
   "PublishedLinkStatus": "Objavljeno u IRRISearch",
   "PublishLinkDialogTitle": "Jeste li sigurni?",
-  "AreYouSurePublishLink": "Kako indeksiramo sve objavljene linkove u pretraživačima, nećete moći poništiti objavu mjesec dana.",
+  "AreYouSurePublishLink": "VAŽNO! Molimo vas da dvaput provjerite kontakt podatke koje unosite prije slanja vašeg linka. Nakon objave, bit će indeksiran od strane tražilica diljem interneta. Nakon objavljivanja vašeg linka na IRRISearch, objava se ne može poništiti mjesec dana!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Otključava",
   "NotPublishableReason_NotAllFields": "Niste ispunili sva obavezna polja",

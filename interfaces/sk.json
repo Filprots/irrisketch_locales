@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Zrušiť publikáciu",
   "PublishedLinkStatus": "Publikované v IRRISearch",
   "PublishLinkDialogTitle": "Ste si istí?",
-  "AreYouSurePublishLink": "Keďže indexujeme všetky publikované odkazy vo vyhľadávačoch, nebudete môcť zrušiť publikáciu po dobu jedného mesiaca.",
+  "AreYouSurePublishLink": "DÔLEŽITÉ! Prosím, dvakrát skontrolujte kontaktné údaje, ktoré poskytujete, pred odoslaním vášho odkazu. Po zverejnení bude indexovaný vyhľadávačmi po celom internete. Po zverejnení vášho odkazu na IRRISearch sa zverejnenie nedá zrušiť po dobu jedného mesiaca!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Odomkne",
   "NotPublishableReason_NotAllFields": "Nevyplnili ste všetky povinné polia",

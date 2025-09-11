@@ -1872,7 +1872,7 @@
   "UnpublishLinkButton": "Cofnij publikację",
   "PublishedLinkStatus": "Opublikowano w IRRISearch",
   "PublishLinkDialogTitle": "Czy na pewno?",
-  "AreYouSurePublishLink": "Ponieważ indeksujemy wszystkie opublikowane linki w wyszukiwarkach, nie będziesz mógł cofnąć publikacji przez miesiąc.",
+  "AreYouSurePublishLink": "WAŻNE! Proszę dwukrotnie sprawdzić dane kontaktowe, które podajesz przed przesłaniem swojego linku. Po opublikowaniu będzie on indeksowany przez wyszukiwarki w całym internecie. Po opublikowaniu swojego linku na IRRISearch publikacja nie może zostać cofnięta przez miesiąc!",
   "DesignRequestPlannerRequesterEmailPlc": "example@mail.com",
   "UnpublishableIn": "Odblokowuje",
   "NotPublishableReason_NotAllFields": "Nie wypełniłeś wszystkich obowiązkowych pól",

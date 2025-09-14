@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Početna",
+  "contractorView_design": "Dizajn",
+  "contractorView_moreDetails": "Više detalja",
+  "contractorView_fullName": "Puno ime",
+  "contractorView_organization": "Organizacija",
+  "contractorView_email": "E-mail",
+  "contractorView_phone": "Telefon",
+  "contractorView_address": "Adresa",
+  "pageNotFound_error": "Greška!",
+  "pageNotFound_notFound": "Nije pronađeno",
+  "pageNotFound_supportMessage": "Žao nam je, došlo je do pogreške, tražena stranica nije pronađena!",
+  "pageNotFound_returnHome": "Povratak na početnu",
+  "pageNotFound_support": "Kontaktirajte podršku",
+  "contractorCard_logo": "logo",
+  "filter_searchPlaceholder": "Pretraži izvođače",
+  "googleMap_design": "Dizajn",
+  "googleMap_moreDetails": "Više detalja",
+  "sitemap_contractors": "Izvođači"
+}

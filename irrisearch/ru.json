@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Главная",
+  "contractorView_design": "Проект",
+  "contractorView_moreDetails": "Подробнее",
+  "contractorView_fullName": "Имя",
+  "contractorView_organization": "Организация",
+  "contractorView_email": "Электронная почта",
+  "contractorView_phone": "Телефон",
+  "contractorView_address": "Адрес",
+  "pageNotFound_error": "Ошибка!",
+  "pageNotFound_notFound": "Не найдено",
+  "pageNotFound_supportMessage": "Извините, произошла ошибка, запрашиваемая страница не найдена!",
+  "pageNotFound_returnHome": "Вернуться на главную",
+  "pageNotFound_support": "Связаться с поддержкой",
+  "contractorCard_logo": "логотип",
+  "filter_searchPlaceholder": "Поиск подрядчиков",
+  "googleMap_design": "Проект",
+  "googleMap_moreDetails": "Подробнее",
+  "sitemap_contractors": "Подрядчики"
+}

@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "首页",
+  "contractorView_design": "设计",
+  "contractorView_moreDetails": "更多详情",
+  "contractorView_fullName": "全名",
+  "contractorView_organization": "组织",
+  "contractorView_email": "电子邮件",
+  "contractorView_phone": "电话",
+  "contractorView_address": "地址",
+  "pageNotFound_error": "错误！",
+  "pageNotFound_notFound": "未找到",
+  "pageNotFound_supportMessage": "抱歉，发生错误，未找到请求的页面！",
+  "pageNotFound_returnHome": "返回首页",
+  "pageNotFound_support": "联系支持",
+  "contractorCard_logo": "标志",
+  "filter_searchPlaceholder": "搜索承包商",
+  "googleMap_design": "设计",
+  "googleMap_moreDetails": "更多详情",
+  "sitemap_contractors": "承包商"
+}

@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Accueil",
+  "contractorView_design": "Conception",
+  "contractorView_moreDetails": "Plus de détails",
+  "contractorView_fullName": "Nom complet",
+  "contractorView_organization": "Organisation",
+  "contractorView_email": "E-mail",
+  "contractorView_phone": "Téléphone",
+  "contractorView_address": "Adresse",
+  "pageNotFound_error": "Erreur !",
+  "pageNotFound_notFound": "Non trouvé",
+  "pageNotFound_supportMessage": "Désolé, une erreur s'est produite, la page demandée n'a pas été trouvée !",
+  "pageNotFound_returnHome": "Retour à l'accueil",
+  "pageNotFound_support": "Contacter le support",
+  "contractorCard_logo": "logo",
+  "filter_searchPlaceholder": "Rechercher des entrepreneurs",
+  "googleMap_design": "Conception",
+  "googleMap_moreDetails": "Plus de détails",
+  "sitemap_contractors": "Entrepreneurs"
+}

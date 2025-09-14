@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Domov",
+  "contractorView_design": "Dizajn",
+  "contractorView_moreDetails": "Viac detailov",
+  "contractorView_fullName": "Celé meno",
+  "contractorView_organization": "Organizácia",
+  "contractorView_email": "E-mail",
+  "contractorView_phone": "Telefón",
+  "contractorView_address": "Adresa",
+  "pageNotFound_error": "Chyba!",
+  "pageNotFound_notFound": "Nenájdené",
+  "pageNotFound_supportMessage": "Ľutujeme, vyskytla sa chyba, požadovaná stránka nebola nájdená!",
+  "pageNotFound_returnHome": "Návrat domov",
+  "pageNotFound_support": "Kontaktovať podporu",
+  "contractorCard_logo": "logo",
+  "filter_searchPlaceholder": "Vyhľadať dodávateľov",
+  "googleMap_design": "Dizajn",
+  "googleMap_moreDetails": "Viac detailov",
+  "sitemap_contractors": "Dodávatelia"
+}

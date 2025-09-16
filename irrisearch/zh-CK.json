@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "首頁",
+  "contractorView_design": "設計",
+  "contractorView_moreDetails": "更多詳情",
+  "contractorView_fullName": "全名",
+  "contractorView_organization": "組織",
+  "contractorView_email": "電子郵件",
+  "contractorView_phone": "電話",
+  "contractorView_address": "地址",
+  "pageNotFound_error": "錯誤！",
+  "pageNotFound_notFound": "未找到",
+  "pageNotFound_supportMessage": "抱歉，發生錯誤，未找到請求的頁面！",
+  "pageNotFound_returnHome": "返回首頁",
+  "pageNotFound_support": "聯繫支持",
+  "contractorCard_logo": "標誌",
+  "filter_searchPlaceholder": "搜索承包商",
+  "googleMap_design": "設計",
+  "googleMap_moreDetails": "更多詳情",
+  "sitemap_contractors": "承包商"
+}

@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Home",
+  "contractorView_design": "Ontwerp",
+  "contractorView_moreDetails": "Meer details",
+  "contractorView_fullName": "Volledige naam",
+  "contractorView_organization": "Organisatie",
+  "contractorView_email": "E-mail",
+  "contractorView_phone": "Telefoon",
+  "contractorView_address": "Adres",
+  "pageNotFound_error": "Fout!",
+  "pageNotFound_notFound": "Niet gevonden",
+  "pageNotFound_supportMessage": "Sorry, er is een fout opgetreden, de gevraagde pagina is niet gevonden!",
+  "pageNotFound_returnHome": "Terug naar home",
+  "pageNotFound_support": "Contact opnemen met ondersteuning",
+  "contractorCard_logo": "logo",
+  "filter_searchPlaceholder": "Zoek aannemers",
+  "googleMap_design": "Ontwerp",
+  "googleMap_moreDetails": "Meer details",
+  "sitemap_contractors": "Aannemers"
+}

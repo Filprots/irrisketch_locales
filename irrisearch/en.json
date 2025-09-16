@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Home",
+  "contractorView_design": "Design",
+  "contractorView_moreDetails": "More Details",
+  "contractorView_fullName": "Full Name",
+  "contractorView_organization": "Organization",
+  "contractorView_email": "Email",
+  "contractorView_phone": "Phone",
+  "contractorView_address": "Address",
+  "pageNotFound_error": "Error!",
+  "pageNotFound_notFound": "Not Found",
+  "pageNotFound_supportMessage": "Sorry, an error has occurred, the requested page was not found!",
+  "pageNotFound_returnHome": "Return Home",
+  "pageNotFound_support": "Contact Support",
+  "contractorCard_logo": "logo",
+  "filter_searchPlaceholder": "Search contractors",
+  "googleMap_design": "Design",
+  "googleMap_moreDetails": "More Details",
+  "sitemap_contractors": "Contractors"
+}

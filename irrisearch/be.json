@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Галоўная",
+  "contractorView_design": "Праект",
+  "contractorView_moreDetails": "Падрабязней",
+  "contractorView_fullName": "Поўнае імя",
+  "contractorView_organization": "Арганізацыя",
+  "contractorView_email": "Электронная пошта",
+  "contractorView_phone": "Тэлефон",
+  "contractorView_address": "Адрас",
+  "pageNotFound_error": "Памылка!",
+  "pageNotFound_notFound": "Не знойдзена",
+  "pageNotFound_supportMessage": "Прабачце, адбылася памылка, запытаная старонка не знойдзена!",
+  "pageNotFound_returnHome": "Вярнуцца на галоўную",
+  "pageNotFound_support": "Звязацца з падтрымкай",
+  "contractorCard_logo": "лагатып",
+  "filter_searchPlaceholder": "Пошук падрадчыкаў",
+  "googleMap_design": "Праект",
+  "googleMap_moreDetails": "Падрабязней",
+  "sitemap_contractors": "Падрадчыкі"
+}

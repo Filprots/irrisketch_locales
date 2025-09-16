@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Ana Sayfa",
+  "contractorView_design": "Tasarım",
+  "contractorView_moreDetails": "Daha Fazla Detay",
+  "contractorView_fullName": "Tam İsim",
+  "contractorView_organization": "Organizasyon",
+  "contractorView_email": "E-posta",
+  "contractorView_phone": "Telefon",
+  "contractorView_address": "Adres",
+  "pageNotFound_error": "Hata!",
+  "pageNotFound_notFound": "Bulunamadı",
+  "pageNotFound_supportMessage": "Üzgünüz, bir hata oluştu, istenen sayfa bulunamadı!",
+  "pageNotFound_returnHome": "Ana Sayfaya Dön",
+  "pageNotFound_support": "Destek ile İletişime Geç",
+  "contractorCard_logo": "logo",
+  "filter_searchPlaceholder": "Yüklenici ara",
+  "googleMap_design": "Tasarım",
+  "googleMap_moreDetails": "Daha Fazla Detay",
+  "sitemap_contractors": "Yükleniciler"
+}

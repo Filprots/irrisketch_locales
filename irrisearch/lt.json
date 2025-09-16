@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Pradžia",
+  "contractorView_design": "Dizainas",
+  "contractorView_moreDetails": "Daugiau informacijos",
+  "contractorView_fullName": "Pilnas vardas",
+  "contractorView_organization": "Organizacija",
+  "contractorView_email": "El. paštas",
+  "contractorView_phone": "Telefonas",
+  "contractorView_address": "Adresas",
+  "pageNotFound_error": "Klaida!",
+  "pageNotFound_notFound": "Nerasta",
+  "pageNotFound_supportMessage": "Atsiprašome, įvyko klaida, prašomas puslapis nerastas!",
+  "pageNotFound_returnHome": "Grįžti į pradžią",
+  "pageNotFound_support": "Susisiekti su pagalba",
+  "contractorCard_logo": "logotipas",
+  "filter_searchPlaceholder": "Ieškoti rangovų",
+  "googleMap_design": "Dizainas",
+  "googleMap_moreDetails": "Daugiau informacijos",
+  "sitemap_contractors": "Rangovai"
+}

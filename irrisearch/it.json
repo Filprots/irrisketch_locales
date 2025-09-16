@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Home",
+  "contractorView_design": "Design",
+  "contractorView_moreDetails": "Maggiori dettagli",
+  "contractorView_fullName": "Nome completo",
+  "contractorView_organization": "Organizzazione",
+  "contractorView_email": "Email",
+  "contractorView_phone": "Telefono",
+  "contractorView_address": "Indirizzo",
+  "pageNotFound_error": "Errore!",
+  "pageNotFound_notFound": "Non trovato",
+  "pageNotFound_supportMessage": "Spiacenti, si è verificato un errore, la pagina richiesta non è stata trovata!",
+  "pageNotFound_returnHome": "Torna alla home",
+  "pageNotFound_support": "Contatta il supporto",
+  "contractorCard_logo": "logo",
+  "filter_searchPlaceholder": "Cerca appaltatori",
+  "googleMap_design": "Design",
+  "googleMap_moreDetails": "Maggiori dettagli",
+  "sitemap_contractors": "Appaltatori"
+}

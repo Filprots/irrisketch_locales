@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Início",
+  "contractorView_design": "Design",
+  "contractorView_moreDetails": "Mais detalhes",
+  "contractorView_fullName": "Nome completo",
+  "contractorView_organization": "Organização",
+  "contractorView_email": "E-mail",
+  "contractorView_phone": "Telefone",
+  "contractorView_address": "Endereço",
+  "pageNotFound_error": "Erro!",
+  "pageNotFound_notFound": "Não encontrado",
+  "pageNotFound_supportMessage": "Desculpe, ocorreu um erro, a página solicitada não foi encontrada!",
+  "pageNotFound_returnHome": "Voltar ao início",
+  "pageNotFound_support": "Contatar suporte",
+  "contractorCard_logo": "logo",
+  "filter_searchPlaceholder": "Pesquisar empreiteiros",
+  "googleMap_design": "Design",
+  "googleMap_moreDetails": "Mais detalhes",
+  "sitemap_contractors": "Empreiteiros"
+}

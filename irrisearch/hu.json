@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Kezdőlap",
+  "contractorView_design": "Tervezés",
+  "contractorView_moreDetails": "További részletek",
+  "contractorView_fullName": "Teljes név",
+  "contractorView_organization": "Szervezet",
+  "contractorView_email": "E-mail",
+  "contractorView_phone": "Telefon",
+  "contractorView_address": "Cím",
+  "pageNotFound_error": "Hiba!",
+  "pageNotFound_notFound": "Nem található",
+  "pageNotFound_supportMessage": "Sajnáljuk, hiba történt, a kért oldal nem található!",
+  "pageNotFound_returnHome": "Vissza a kezdőlapra",
+  "pageNotFound_support": "Kapcsolat a támogatással",
+  "contractorCard_logo": "logó",
+  "filter_searchPlaceholder": "Vállalkozók keresése",
+  "googleMap_design": "Tervezés",
+  "googleMap_moreDetails": "További részletek",
+  "sitemap_contractors": "Vállalkozók"
+}

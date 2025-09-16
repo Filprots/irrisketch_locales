@@ -1,0 +1,20 @@
+{
+  "contractorView_home": "Головна",
+  "contractorView_design": "Дизайн",
+  "contractorView_moreDetails": "Більше деталей",
+  "contractorView_fullName": "Повне ім'я",
+  "contractorView_organization": "Організація",
+  "contractorView_email": "Електронна пошта",
+  "contractorView_phone": "Телефон",
+  "contractorView_address": "Адреса",
+  "pageNotFound_error": "Помилка!",
+  "pageNotFound_notFound": "Не знайдено",
+  "pageNotFound_supportMessage": "Вибачте, сталася помилка, запитувана сторінка не знайдена!",
+  "pageNotFound_returnHome": "Повернутися на головну",
+  "pageNotFound_support": "Зв'язатися з підтримкою",
+  "contractorCard_logo": "логотип",
+  "filter_searchPlaceholder": "Пошук підрядників",
+  "googleMap_design": "Дизайн",
+  "googleMap_moreDetails": "Більше деталей",
+  "sitemap_contractors": "Підрядники"
+}

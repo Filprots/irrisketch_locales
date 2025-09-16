@@ -1887,5 +1887,6 @@
   "DesignRequestPlannerRequesterLongitudePlc": "6.80058115",
   "DesignRequestPlannerRequesterRegionLabel": "Región/Štát",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
-  "DesignRequestPlannerRequesterCoordinatesLabel": "Súradnice"
+  "DesignRequestPlannerRequesterCoordinatesLabel": "Súradnice",
+  "DesignRequestPlannerRequesterLogoLabel": "Logo"
 }

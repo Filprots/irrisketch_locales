@@ -1887,5 +1887,6 @@
   "DesignRequestPlannerRequesterLongitudePlc": "6.80058115",
   "DesignRequestPlannerRequesterRegionLabel": "Regionas/Valstija",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
-  "DesignRequestPlannerRequesterCoordinatesLabel": "Koordinatės"
+  "DesignRequestPlannerRequesterCoordinatesLabel": "Koordinatės",
+  "DesignRequestPlannerRequesterLogoLabel": "Logotipas"
 }

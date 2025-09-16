@@ -1887,5 +1887,6 @@
   "DesignRequestPlannerRequesterLongitudePlc": "6.80058115",
   "DesignRequestPlannerRequesterRegionLabel": "Регіон/Штат",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
-  "DesignRequestPlannerRequesterCoordinatesLabel": "Координати"
+  "DesignRequestPlannerRequesterCoordinatesLabel": "Координати",
+  "DesignRequestPlannerRequesterLogoLabel": "Логотип"
 }

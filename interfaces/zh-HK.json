@@ -1887,5 +1887,6 @@
   "DesignRequestPlannerRequesterLongitudePlc": "6.80058115",
   "DesignRequestPlannerRequesterRegionLabel": "地區/州",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
-  "DesignRequestPlannerRequesterCoordinatesLabel": "座標"
+  "DesignRequestPlannerRequesterCoordinatesLabel": "座標",
+  "DesignRequestPlannerRequesterLogoLabel": "標誌"
 }

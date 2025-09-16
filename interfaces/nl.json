@@ -1887,5 +1887,6 @@
   "DesignRequestPlannerRequesterLongitudePlc": "6.80058115",
   "DesignRequestPlannerRequesterRegionLabel": "Regio/Staat",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
-  "DesignRequestPlannerRequesterCoordinatesLabel": "Coördinaten"
+  "DesignRequestPlannerRequesterCoordinatesLabel": "Coördinaten",
+  "DesignRequestPlannerRequesterLogoLabel": "Logo"
 }

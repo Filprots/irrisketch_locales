@@ -1887,5 +1887,6 @@
   "DesignRequestPlannerRequesterLongitudePlc": "6.80058115",
   "DesignRequestPlannerRequesterRegionLabel": "Régió/Állam",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
-  "DesignRequestPlannerRequesterCoordinatesLabel": "Koordináták"
+  "DesignRequestPlannerRequesterCoordinatesLabel": "Koordináták",
+  "DesignRequestPlannerRequesterLogoLabel": "Logo"
 }

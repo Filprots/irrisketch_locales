@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "组织",
   "DesignRequestPlannerRequesterAddrPlc": "地址",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "姓名",
-  "DesignRequestPlannerRequesterOrgLabel": "组织",
+  "DesignRequestPlannerRequesterNameLabel": "聯絡人姓名",
+  "DesignRequestPlannerRequesterOrgLabel": "組織名稱",
   "DesignRequestPlannerRequesterEmailLabel": "电子邮件",
   "DesignRequestPlannerRequesterPhoneLabel": "电话号码",
   "DesignRequestPlannerRequesterAddrLabel": "地址",
@@ -1888,5 +1888,10 @@
   "DesignRequestPlannerRequesterRegionLabel": "地區/州",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
   "DesignRequestPlannerRequesterCoordinatesLabel": "座標",
-  "DesignRequestPlannerRequesterLogoLabel": "標誌"
+  "DesignRequestPlannerRequesterLogoLabel": "標誌",
+  "DesignRequestPlannerRequesterServicesLabel": "提供的服務",
+  "DesignRequestPlannerFieldService_design": "設計",
+  "DesignRequestPlannerFieldService_install": "安裝",
+  "DesignRequestPlannerFieldService_service": "維護",
+  "DesignRequestPlannerFieldService_supply": "設備供應"
 }

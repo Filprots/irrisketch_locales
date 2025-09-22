@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "Organization",
   "DesignRequestPlannerRequesterAddrPlc": "Address",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "Name",
-  "DesignRequestPlannerRequesterOrgLabel": "Organization",
+  "DesignRequestPlannerRequesterNameLabel": "Contact Name",
+  "DesignRequestPlannerRequesterOrgLabel": "Organization Name",
   "DesignRequestPlannerRequesterEmailLabel": "Email",
   "DesignRequestPlannerRequesterPhoneLabel": "Phone number",
   "DesignRequestPlannerRequesterAddrLabel": "Address",
@@ -1888,5 +1888,10 @@
   "DesignRequestPlannerRequesterRegionLabel": "Region/State",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
   "DesignRequestPlannerRequesterCoordinatesLabel": "Coordinates",
-  "DesignRequestPlannerRequesterLogoLabel": "Logo"
+  "DesignRequestPlannerRequesterLogoLabel": "Logo",
+  "DesignRequestPlannerRequesterServicesLabel": "Provided services",
+  "DesignRequestPlannerFieldService_design": "Design",
+  "DesignRequestPlannerFieldService_install": "Installation",
+  "DesignRequestPlannerFieldService_service": "Maintenance",
+  "DesignRequestPlannerFieldService_supply": "Equipment supply"
 }

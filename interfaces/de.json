@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "Organisation",
   "DesignRequestPlannerRequesterAddrPlc": "Adresse",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "Name",
-  "DesignRequestPlannerRequesterOrgLabel": "Organisation",
+  "DesignRequestPlannerRequesterNameLabel": "Kontaktname",
+  "DesignRequestPlannerRequesterOrgLabel": "Organisationsname",
   "DesignRequestPlannerRequesterEmailLabel": "E-Mail",
   "DesignRequestPlannerRequesterPhoneLabel": "Telefonnummer",
   "DesignRequestPlannerRequesterAddrLabel": "Adresse",
@@ -1888,5 +1888,10 @@
   "DesignRequestPlannerRequesterRegionLabel": "Region/Bundesland",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
   "DesignRequestPlannerRequesterCoordinatesLabel": "Koordinaten",
-  "DesignRequestPlannerRequesterLogoLabel": "Logo"
+  "DesignRequestPlannerRequesterLogoLabel": "Logo",
+  "DesignRequestPlannerRequesterServicesLabel": "Angebotene Dienstleistungen",
+  "DesignRequestPlannerFieldService_design": "Design",
+  "DesignRequestPlannerFieldService_install": "Installation",
+  "DesignRequestPlannerFieldService_service": "Wartung",
+  "DesignRequestPlannerFieldService_supply": "Ausrüstungslieferung"
 }

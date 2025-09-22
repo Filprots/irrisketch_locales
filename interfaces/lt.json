@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "Organizacija",
   "DesignRequestPlannerRequesterAddrPlc": "Adresas",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "vardas",
-  "DesignRequestPlannerRequesterOrgLabel": "Organizacija",
+  "DesignRequestPlannerRequesterNameLabel": "Kontakto vardas",
+  "DesignRequestPlannerRequesterOrgLabel": "Organizacijos pavadinimas",
   "DesignRequestPlannerRequesterEmailLabel": "El. paštas",
   "DesignRequestPlannerRequesterPhoneLabel": "Telefono numeris",
   "DesignRequestPlannerRequesterAddrLabel": "Adresas",
@@ -1888,5 +1888,10 @@
   "DesignRequestPlannerRequesterRegionLabel": "Regionas/Valstija",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
   "DesignRequestPlannerRequesterCoordinatesLabel": "Koordinatės",
-  "DesignRequestPlannerRequesterLogoLabel": "Logotipas"
+  "DesignRequestPlannerRequesterLogoLabel": "Logotipas",
+  "DesignRequestPlannerRequesterServicesLabel": "Teikiamos paslaugos",
+  "DesignRequestPlannerFieldService_design": "Projektavimas",
+  "DesignRequestPlannerFieldService_install": "Montavimas",
+  "DesignRequestPlannerFieldService_service": "Priežiūra",
+  "DesignRequestPlannerFieldService_supply": "Įrangos tiekimas"
 }

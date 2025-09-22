@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "Organizácia",
   "DesignRequestPlannerRequesterAddrPlc": "Osloviť",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "Pomenovať",
-  "DesignRequestPlannerRequesterOrgLabel": "Organizácia",
+  "DesignRequestPlannerRequesterNameLabel": "Meno kontaktu",
+  "DesignRequestPlannerRequesterOrgLabel": "Názov organizácie",
   "DesignRequestPlannerRequesterEmailLabel": "E -mail",
   "DesignRequestPlannerRequesterPhoneLabel": "Telefónne číslo",
   "DesignRequestPlannerRequesterAddrLabel": "Osloviť",
@@ -1888,5 +1888,10 @@
   "DesignRequestPlannerRequesterRegionLabel": "Región/Štát",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
   "DesignRequestPlannerRequesterCoordinatesLabel": "Súradnice",
-  "DesignRequestPlannerRequesterLogoLabel": "Logo"
+  "DesignRequestPlannerRequesterLogoLabel": "Logo",
+  "DesignRequestPlannerRequesterServicesLabel": "Poskytované služby",
+  "DesignRequestPlannerFieldService_design": "Dizajn",
+  "DesignRequestPlannerFieldService_install": "Inštalácia",
+  "DesignRequestPlannerFieldService_service": "Údržba",
+  "DesignRequestPlannerFieldService_supply": "Dodávka vybavenia"
 }

@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "Organizacija",
   "DesignRequestPlannerRequesterAddrPlc": "Adresa",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "Ime",
-  "DesignRequestPlannerRequesterOrgLabel": "Organizacija",
+  "DesignRequestPlannerRequesterNameLabel": "Ime kontakta",
+  "DesignRequestPlannerRequesterOrgLabel": "Naziv organizacije",
   "DesignRequestPlannerRequesterEmailLabel": "e-mail",
   "DesignRequestPlannerRequesterPhoneLabel": "Broj telefona",
   "DesignRequestPlannerRequesterAddrLabel": "Adresa",
@@ -1888,5 +1888,10 @@
   "DesignRequestPlannerRequesterRegionLabel": "Regija/Država",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
   "DesignRequestPlannerRequesterCoordinatesLabel": "Koordinate",
-  "DesignRequestPlannerRequesterLogoLabel": "Logo"
+  "DesignRequestPlannerRequesterLogoLabel": "Logo",
+  "DesignRequestPlannerRequesterServicesLabel": "Pružene usluge",
+  "DesignRequestPlannerFieldService_design": "Dizajn",
+  "DesignRequestPlannerFieldService_install": "Instalacija",
+  "DesignRequestPlannerFieldService_service": "Održavanje",
+  "DesignRequestPlannerFieldService_supply": "Dostava opreme"
 }

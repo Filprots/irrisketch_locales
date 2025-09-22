@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "Szervezet",
   "DesignRequestPlannerRequesterAddrPlc": "Cím",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "Név",
-  "DesignRequestPlannerRequesterOrgLabel": "Szervezet",
+  "DesignRequestPlannerRequesterNameLabel": "Kapcsolattartó neve",
+  "DesignRequestPlannerRequesterOrgLabel": "Szervezet neve",
   "DesignRequestPlannerRequesterEmailLabel": "Email",
   "DesignRequestPlannerRequesterPhoneLabel": "Telefonszám",
   "DesignRequestPlannerRequesterAddrLabel": "Cím",
@@ -1888,5 +1888,10 @@
   "DesignRequestPlannerRequesterRegionLabel": "Régió/Állam",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
   "DesignRequestPlannerRequesterCoordinatesLabel": "Koordináták",
-  "DesignRequestPlannerRequesterLogoLabel": "Logo"
+  "DesignRequestPlannerRequesterLogoLabel": "Logo",
+  "DesignRequestPlannerRequesterServicesLabel": "Nyújtott szolgáltatások",
+  "DesignRequestPlannerFieldService_design": "Tervezés",
+  "DesignRequestPlannerFieldService_install": "Telepítés",
+  "DesignRequestPlannerFieldService_service": "Karbantartás",
+  "DesignRequestPlannerFieldService_supply": "Berendezésszállítás"
 }

@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "Organisatie",
   "DesignRequestPlannerRequesterAddrPlc": "Adres",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "Naam",
-  "DesignRequestPlannerRequesterOrgLabel": "Organisatie",
+  "DesignRequestPlannerRequesterNameLabel": "Contactnaam",
+  "DesignRequestPlannerRequesterOrgLabel": "Organisatienaam",
   "DesignRequestPlannerRequesterEmailLabel": "E-mail",
   "DesignRequestPlannerRequesterPhoneLabel": "Telefoonnummer",
   "DesignRequestPlannerRequesterAddrLabel": "Adres",
@@ -1888,5 +1888,10 @@
   "DesignRequestPlannerRequesterRegionLabel": "Regio/Staat",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
   "DesignRequestPlannerRequesterCoordinatesLabel": "Coördinaten",
-  "DesignRequestPlannerRequesterLogoLabel": "Logo"
+  "DesignRequestPlannerRequesterLogoLabel": "Logo",
+  "DesignRequestPlannerRequesterServicesLabel": "Geboden diensten",
+  "DesignRequestPlannerFieldService_design": "Ontwerp",
+  "DesignRequestPlannerFieldService_install": "Installatie",
+  "DesignRequestPlannerFieldService_service": "Onderhoud",
+  "DesignRequestPlannerFieldService_supply": "Uitrustingslevering"
 }

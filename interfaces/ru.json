@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "Организация",
   "DesignRequestPlannerRequesterAddrPlc": "Адрес",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "Имя",
-  "DesignRequestPlannerRequesterOrgLabel": "Организация",
+  "DesignRequestPlannerRequesterNameLabel": "Контактное лицо",
+  "DesignRequestPlannerRequesterOrgLabel": "Название организации",
   "DesignRequestPlannerRequesterEmailLabel": "Электронная почта",
   "DesignRequestPlannerRequesterPhoneLabel": "Контактный телефон",
   "DesignRequestPlannerRequesterAddrLabel": "Адрес",
@@ -1887,5 +1887,11 @@
   "DesignRequestPlannerRequesterLongitudePlc": "6.80058115",
   "DesignRequestPlannerRequesterRegionLabel": "Регион/Штат",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
-  "DesignRequestPlannerRequesterCoordinatesLabel": "Координаты"
+  "DesignRequestPlannerRequesterCoordinatesLabel": "Координаты",
+  "DesignRequestPlannerRequesterLogoLabel": "Логотип",
+  "DesignRequestPlannerRequesterServicesLabel": "Предоставляемые услуги",
+  "DesignRequestPlannerFieldService_design": "Проектирование",
+  "DesignRequestPlannerFieldService_install": "Установка",
+  "DesignRequestPlannerFieldService_service": "Обслуживание",
+  "DesignRequestPlannerFieldService_supply": "Поставка оборудования"
 }

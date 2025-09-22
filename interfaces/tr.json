@@ -1348,8 +1348,8 @@
   "DesignRequestPlannerRequesterOrgPlc": "Organizasyon",
   "DesignRequestPlannerRequesterAddrPlc": "Adres",
   "DesignRequestPlannerRequesterAddressHelp": "",
-  "DesignRequestPlannerRequesterNameLabel": "İsim",
-  "DesignRequestPlannerRequesterOrgLabel": "Organizasyon",
+  "DesignRequestPlannerRequesterNameLabel": "İletişim adı",
+  "DesignRequestPlannerRequesterOrgLabel": "Organizasyon adı",
   "DesignRequestPlannerRequesterEmailLabel": "E-posta",
   "DesignRequestPlannerRequesterPhoneLabel": "Telefon numarası",
   "DesignRequestPlannerRequesterAddrLabel": "Adres",
@@ -1888,5 +1888,10 @@
   "DesignRequestPlannerRequesterRegionLabel": "Bölge/Eyalet",
   "DesignRequestPlannerRequesterRegionPlc": "CA",
   "DesignRequestPlannerRequesterCoordinatesLabel": "Koordinatlar",
-  "DesignRequestPlannerRequesterLogoLabel": "Logo"
+  "DesignRequestPlannerRequesterLogoLabel": "Logo",
+  "DesignRequestPlannerRequesterServicesLabel": "Sağlanan hizmetler",
+  "DesignRequestPlannerFieldService_design": "Tasarım",
+  "DesignRequestPlannerFieldService_install": "Kurulum",
+  "DesignRequestPlannerFieldService_service": "Bakım",
+  "DesignRequestPlannerFieldService_supply": "Ekipman tedariki"
 }

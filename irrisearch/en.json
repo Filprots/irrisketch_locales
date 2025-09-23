@@ -20,5 +20,6 @@
   "services_design": "Design Services",
   "services_install": "Installation Services",
   "services_service": "Service & Maintenance",
-  "services_supply": "Supply & Equipment"
+  "services_supply": "Supply & Equipment",
+  "serviceFilter_filterByServices": "Filter by Services"
 }

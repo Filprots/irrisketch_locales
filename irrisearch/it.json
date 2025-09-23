@@ -20,5 +20,6 @@
   "services_design": "Servizi di progettazione",
   "services_install": "Servizi di installazione",
   "services_service": "Servizio e manutenzione",
-  "services_supply": "Fornitura e attrezzature"
+  "services_supply": "Fornitura e attrezzature",
+  "serviceFilter_filterByServices": "Filtra per servizi"
 }

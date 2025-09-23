@@ -20,5 +20,6 @@
   "services_design": "Паслугі праектавання",
   "services_install": "Паслугі ўстаноўкі",
   "services_service": "Абслугоўванне і тэхнічнае абслугоўванне",
-  "services_supply": "Пастаўка і абсталяванне"
+  "services_supply": "Пастаўка і абсталяванне",
+  "serviceFilter_filterByServices": "Фільтраваць па паслугах"
 }

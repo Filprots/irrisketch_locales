@@ -20,5 +20,6 @@
   "services_design": "Ontwerpservices",
   "services_install": "Installatieservices",
   "services_service": "Service & onderhoud",
-  "services_supply": "Levering & uitrusting"
+  "services_supply": "Levering & uitrusting",
+  "serviceFilter_filterByServices": "Filteren op services"
 }

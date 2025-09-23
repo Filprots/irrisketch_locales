@@ -20,5 +20,6 @@
   "services_design": "Послуги проектування",
   "services_install": "Послуги монтажу",
   "services_service": "Сервіс та обслуговування",
-  "services_supply": "Поставка та обладнання"
+  "services_supply": "Поставка та обладнання",
+  "serviceFilter_filterByServices": "Фільтр за послугами"
 }

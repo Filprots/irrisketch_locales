@@ -20,5 +20,6 @@
   "services_design": "Tervezési szolgáltatások",
   "services_install": "Telepítési szolgáltatások",
   "services_service": "Szerviz és karbantartás",
-  "services_supply": "Beszerzés és felszerelés"
+  "services_supply": "Beszerzés és felszerelés",
+  "serviceFilter_filterByServices": "Szűrés szolgáltatások szerint"
 }

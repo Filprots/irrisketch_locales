@@ -20,5 +20,6 @@
   "services_design": "Design-Services",
   "services_install": "Installations-Services",
   "services_service": "Service & Wartung",
-  "services_supply": "Lieferung & Ausrüstung"
+  "services_supply": "Lieferung & Ausrüstung",
+  "serviceFilter_filterByServices": "Nach Services filtern"
 }

@@ -20,5 +20,6 @@
   "services_design": "设计服务",
   "services_install": "安装服务",
   "services_service": "服务与维护",
-  "services_supply": "供应与设备"
+  "services_supply": "供应与设备",
+  "serviceFilter_filterByServices": "按服务筛选"
 }

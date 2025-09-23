@@ -20,5 +20,6 @@
   "services_design": "Projektavimo paslaugos",
   "services_install": "Montavimo paslaugos",
   "services_service": "Aptarnavimas ir priežiūra",
-  "services_supply": "Tiekimas ir įranga"
+  "services_supply": "Tiekimas ir įranga",
+  "serviceFilter_filterByServices": "Filtruoti pagal paslaugas"
 }

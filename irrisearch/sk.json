@@ -20,5 +20,6 @@
   "services_design": "Dizajnové služby",
   "services_install": "Inštalačné služby",
   "services_service": "Servis a údržba",
-  "services_supply": "Dodávka a vybavenie"
+  "services_supply": "Dodávka a vybavenie",
+  "serviceFilter_filterByServices": "Filtrovať podľa služieb"
 }

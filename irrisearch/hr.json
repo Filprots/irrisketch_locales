@@ -20,5 +20,6 @@
   "services_design": "Usluge dizajna",
   "services_install": "Usluge instalacije",
   "services_service": "Servis i održavanje",
-  "services_supply": "Opskrba i oprema"
+  "services_supply": "Opskrba i oprema",
+  "serviceFilter_filterByServices": "Filtriraj po uslugama"
 }

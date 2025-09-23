@@ -20,5 +20,6 @@
   "services_design": "Tasarım Hizmetleri",
   "services_install": "Kurulum Hizmetleri",
   "services_service": "Servis ve Bakım",
-  "services_supply": "Tedarik ve Ekipman"
+  "services_supply": "Tedarik ve Ekipman",
+  "serviceFilter_filterByServices": "Hizmetlere göre filtrele"
 }

@@ -20,5 +20,6 @@
   "services_design": "設計服務",
   "services_install": "安裝服務",
   "services_service": "服務與維護",
-  "services_supply": "供應與設備"
+  "services_supply": "供應與設備",
+  "serviceFilter_filterByServices": "按服務篩選"
 }

@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Vállalkozók keresése",
   "googleMap_design": "Tervezés kérése",
   "googleMap_moreDetails": "További részletek",
-  "sitemap_contractors": "Vállalkozók"
+  "sitemap_contractors": "Vállalkozók",
+  "services_design": "Tervezési szolgáltatások",
+  "services_install": "Telepítési szolgáltatások",
+  "services_service": "Szerviz és karbantartás",
+  "services_supply": "Beszerzés és felszerelés"
 }

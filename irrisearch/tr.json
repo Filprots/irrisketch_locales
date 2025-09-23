@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Yüklenici ara",
   "googleMap_design": "Tasarım iste",
   "googleMap_moreDetails": "Daha Fazla Detay",
-  "sitemap_contractors": "Yükleniciler"
+  "sitemap_contractors": "Yükleniciler",
+  "services_design": "Tasarım Hizmetleri",
+  "services_install": "Kurulum Hizmetleri",
+  "services_service": "Servis ve Bakım",
+  "services_supply": "Tedarik ve Ekipman"
 }

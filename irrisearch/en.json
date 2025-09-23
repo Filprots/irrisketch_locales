@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Search contractors",
   "googleMap_design": "Request design",
   "googleMap_moreDetails": "More Details",
-  "sitemap_contractors": "Contractors"
+  "sitemap_contractors": "Contractors",
+  "services_design": "Design Services",
+  "services_install": "Installation Services",
+  "services_service": "Service & Maintenance",
+  "services_supply": "Supply & Equipment"
 }

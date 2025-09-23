@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Vyhľadať dodávateľov",
   "googleMap_design": "Požiadať o dizajn",
   "googleMap_moreDetails": "Viac detailov",
-  "sitemap_contractors": "Dodávatelia"
+  "sitemap_contractors": "Dodávatelia",
+  "services_design": "Dizajnové služby",
+  "services_install": "Inštalačné služby",
+  "services_service": "Servis a údržba",
+  "services_supply": "Dodávka a vybavenie"
 }

@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Поиск подрядчиков",
   "googleMap_design": "Заказать проект",
   "googleMap_moreDetails": "Подробнее",
-  "sitemap_contractors": "Подрядчики"
+  "sitemap_contractors": "Подрядчики",
+  "services_design": "Услуги проектирования",
+  "services_install": "Услуги монтажа",
+  "services_service": "Сервис и обслуживание",
+  "services_supply": "Поставка и оборудование"
 }

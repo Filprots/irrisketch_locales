@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Rechercher des entrepreneurs",
   "googleMap_design": "Demander une conception",
   "googleMap_moreDetails": "Plus de détails",
-  "sitemap_contractors": "Entrepreneurs"
+  "sitemap_contractors": "Entrepreneurs",
+  "services_design": "Services de conception",
+  "services_install": "Services d'installation",
+  "services_service": "Service et maintenance",
+  "services_supply": "Fourniture et équipement"
 }

@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Cerca appaltatori",
   "googleMap_design": "Richiedi progetto",
   "googleMap_moreDetails": "Maggiori dettagli",
-  "sitemap_contractors": "Appaltatori"
+  "sitemap_contractors": "Appaltatori",
+  "services_design": "Servizi di progettazione",
+  "services_install": "Servizi di installazione",
+  "services_service": "Servizio e manutenzione",
+  "services_supply": "Fornitura e attrezzature"
 }

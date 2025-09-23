@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Buscar contratistas",
   "googleMap_design": "Solicitar diseño",
   "googleMap_moreDetails": "Más detalles",
-  "sitemap_contractors": "Contratistas"
+  "sitemap_contractors": "Contratistas",
+  "services_design": "Servicios de diseño",
+  "services_install": "Servicios de instalación",
+  "services_service": "Servicio y mantenimiento",
+  "services_supply": "Suministro y equipamiento"
 }

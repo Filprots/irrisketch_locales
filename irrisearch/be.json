@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Пошук падрадчыкаў",
   "googleMap_design": "Запытаць праект",
   "googleMap_moreDetails": "Падрабязней",
-  "sitemap_contractors": "Падрадчыкі"
+  "sitemap_contractors": "Падрадчыкі",
+  "services_design": "Паслугі праектавання",
+  "services_install": "Паслугі ўстаноўкі",
+  "services_service": "Абслугоўванне і тэхнічнае абслугоўванне",
+  "services_supply": "Пастаўка і абсталяванне"
 }

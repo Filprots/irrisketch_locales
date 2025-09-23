@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Пошук підрядників",
   "googleMap_design": "Запитати дизайн",
   "googleMap_moreDetails": "Більше деталей",
-  "sitemap_contractors": "Підрядники"
+  "sitemap_contractors": "Підрядники",
+  "services_design": "Послуги проектування",
+  "services_install": "Послуги монтажу",
+  "services_service": "Сервіс та обслуговування",
+  "services_supply": "Поставка та обладнання"
 }

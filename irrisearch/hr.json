@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Pretraži izvođače",
   "googleMap_design": "Zatražiti dizajn",
   "googleMap_moreDetails": "Više detalja",
-  "sitemap_contractors": "Izvođači"
+  "sitemap_contractors": "Izvođači",
+  "services_design": "Usluge dizajna",
+  "services_install": "Usluge instalacije",
+  "services_service": "Servis i održavanje",
+  "services_supply": "Opskrba i oprema"
 }

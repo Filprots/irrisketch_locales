@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Szukaj wykonawców",
   "googleMap_design": "Zamów projekt",
   "googleMap_moreDetails": "Więcej szczegółów",
-  "sitemap_contractors": "Wykonawcy"
+  "sitemap_contractors": "Wykonawcy",
+  "services_design": "Usługi projektowe",
+  "services_install": "Usługi instalacyjne",
+  "services_service": "Serwis i konserwacja",
+  "services_supply": "Dostawa i wyposażenie"
 }

@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "搜索承包商",
   "googleMap_design": "請求設計",
   "googleMap_moreDetails": "更多詳情",
-  "sitemap_contractors": "承包商"
+  "sitemap_contractors": "承包商",
+  "services_design": "設計服務",
+  "services_install": "安裝服務",
+  "services_service": "服務與維護",
+  "services_supply": "供應與設備"
 }

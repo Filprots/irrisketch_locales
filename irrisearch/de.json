@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Auftragnehmer suchen",
   "googleMap_design": "Design anfragen",
   "googleMap_moreDetails": "Mehr Details",
-  "sitemap_contractors": "Auftragnehmer"
+  "sitemap_contractors": "Auftragnehmer",
+  "services_design": "Design-Services",
+  "services_install": "Installations-Services",
+  "services_service": "Service & Wartung",
+  "services_supply": "Lieferung & Ausrüstung"
 }

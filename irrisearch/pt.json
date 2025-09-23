@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Pesquisar empreiteiros",
   "googleMap_design": "Solicitar projeto",
   "googleMap_moreDetails": "Mais detalhes",
-  "sitemap_contractors": "Empreiteiros"
+  "sitemap_contractors": "Empreiteiros",
+  "services_design": "Serviços de design",
+  "services_install": "Serviços de instalação",
+  "services_service": "Serviço e manutenção",
+  "services_supply": "Fornecimento e equipamentos"
 }

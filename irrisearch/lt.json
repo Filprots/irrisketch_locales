@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Ieškoti rangovų",
   "googleMap_design": "Prašyti dizaino",
   "googleMap_moreDetails": "Daugiau informacijos",
-  "sitemap_contractors": "Rangovai"
+  "sitemap_contractors": "Rangovai",
+  "services_design": "Projektavimo paslaugos",
+  "services_install": "Montavimo paslaugos",
+  "services_service": "Aptarnavimas ir priežiūra",
+  "services_supply": "Tiekimas ir įranga"
 }

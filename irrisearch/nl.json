@@ -16,5 +16,9 @@
   "filter_searchPlaceholder": "Zoek aannemers",
   "googleMap_design": "Ontwerp aanvragen",
   "googleMap_moreDetails": "Meer details",
-  "sitemap_contractors": "Aannemers"
+  "sitemap_contractors": "Aannemers",
+  "services_design": "Ontwerpservices",
+  "services_install": "Installatieservices",
+  "services_service": "Service & onderhoud",
+  "services_supply": "Levering & uitrusting"
 }

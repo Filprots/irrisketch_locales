@@ -21,5 +21,18 @@
   "services_install": "Services d'installation",
   "services_service": "Service et maintenance",
   "services_supply": "Fourniture et équipement",
-  "serviceFilter_filterByServices": "Filtrer par services"
+  "serviceFilter_filterByServices": "Filtrer par services",
+  "helpTour_startTour": "Commencer la visite d'aide",
+  "helpTour_welcome_title": "Bienvenue sur IrriSearch",
+  "helpTour_welcome_content": "Cette visite guidée vous aidera à comprendre comment utiliser IrriSearch pour trouver des entrepreneurs en irrigation dans votre région.",
+  "helpTour_filter_title": "Rechercher des entrepreneurs",
+  "helpTour_filter_content": "Utilisez cette zone de recherche pour trouver des entrepreneurs par nom, organisation ou localisation. Tapez n'importe quelle partie de leurs informations pour filtrer les résultats.",
+  "helpTour_contractorCard_title": "Informations sur l'entrepreneur",
+  "helpTour_contractorCard_content": "Chaque carte montre les détails de l'entrepreneur incluant son nom, organisation et informations de contact. Cliquez sur un entrepreneur pour voir plus de détails.",
+  "helpTour_services_title": "Services offerts",
+  "helpTour_services_content": "Ces icônes montrent quels services chaque entrepreneur fournit : Conception, Installation, Service et maintenance, ou Fourniture et équipement.",
+  "helpTour_skip": "Passer la visite",
+  "helpTour_previous": "Précédent",
+  "helpTour_next": "Suivant",
+  "helpTour_finish": "Terminer"
 }

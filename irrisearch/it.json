@@ -21,5 +21,18 @@
   "services_install": "Servizi di installazione",
   "services_service": "Servizio e manutenzione",
   "services_supply": "Fornitura e attrezzature",
-  "serviceFilter_filterByServices": "Filtra per servizi"
+  "serviceFilter_filterByServices": "Filtra per servizi",
+  "helpTour_startTour": "Inizia tour di aiuto",
+  "helpTour_welcome_title": "Benvenuto in IrriSearch",
+  "helpTour_welcome_content": "Questo tour guidato ti aiuterà a capire come usare IrriSearch per trovare appaltatori di irrigazione nella tua zona.",
+  "helpTour_filter_title": "Cerca appaltatori",
+  "helpTour_filter_content": "Usa questa casella di ricerca per trovare appaltatori per nome, organizzazione o posizione. Digita qualsiasi parte delle loro informazioni per filtrare i risultati.",
+  "helpTour_contractorCard_title": "Informazioni appaltatore",
+  "helpTour_contractorCard_content": "Ogni scheda mostra i dettagli dell'appaltatore inclusi nome, organizzazione e informazioni di contatto. Clicca su un appaltatore per vedere più dettagli.",
+  "helpTour_services_title": "Servizi offerti",
+  "helpTour_services_content": "Queste icone mostrano quali servizi ogni appaltatore fornisce: Progettazione, Installazione, Servizio e manutenzione, o Fornitura e attrezzature.",
+  "helpTour_skip": "Salta tour",
+  "helpTour_previous": "Precedente",
+  "helpTour_next": "Successivo",
+  "helpTour_finish": "Termina"
 }

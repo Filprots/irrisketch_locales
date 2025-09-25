@@ -21,5 +21,18 @@
   "services_install": "Telepítési szolgáltatások",
   "services_service": "Szerviz és karbantartás",
   "services_supply": "Beszerzés és felszerelés",
-  "serviceFilter_filterByServices": "Szűrés szolgáltatások szerint"
+  "serviceFilter_filterByServices": "Szűrés szolgáltatások szerint",
+  "helpTour_startTour": "Segítség túra indítása",
+  "helpTour_welcome_title": "Üdvözöljük az IrriSearch-ben",
+  "helpTour_welcome_content": "Ez az útmutató segít megérteni, hogyan használja az IrriSearch-et öntözési vállalkozók megtalálására a környéken.",
+  "helpTour_filter_title": "Vállalkozók keresése",
+  "helpTour_filter_content": "Használja ezt a keresőmezőt vállalkozók keresésére név, szervezet vagy helyszín szerint. Írjon be bármilyen részét az információiknak az eredmények szűréséhez.",
+  "helpTour_contractorCard_title": "Vállalkozó információk",
+  "helpTour_contractorCard_content": "Minden kártya mutatja a vállalkozó részleteit, beleértve a nevét, szervezetét és kapcsolattartási információit. Kattintson egy vállalkozóra a további részletek megtekintéséhez.",
+  "helpTour_services_title": "Nyújtott szolgáltatások",
+  "helpTour_services_content": "Ezek az ikonok mutatják, hogy milyen szolgáltatásokat nyújt minden vállalkozó: Tervezés, Telepítés, Szerviz és karbantartás, vagy Beszerzés és felszerelés.",
+  "helpTour_skip": "Túra kihagyása",
+  "helpTour_previous": "Előző",
+  "helpTour_next": "Következő",
+  "helpTour_finish": "Befejezés"
 }

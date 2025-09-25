@@ -21,5 +21,18 @@
   "services_install": "Installations-Services",
   "services_service": "Service & Wartung",
   "services_supply": "Lieferung & Ausrüstung",
-  "serviceFilter_filterByServices": "Nach Services filtern"
+  "serviceFilter_filterByServices": "Nach Services filtern",
+  "helpTour_startTour": "Hilfe-Tour starten",
+  "helpTour_welcome_title": "Willkommen bei IrriSearch",
+  "helpTour_welcome_content": "Diese geführte Tour hilft Ihnen zu verstehen, wie Sie IrriSearch verwenden, um Bewässerungsunternehmer in Ihrer Gegend zu finden.",
+  "helpTour_filter_title": "Auftragnehmer suchen",
+  "helpTour_filter_content": "Verwenden Sie dieses Suchfeld, um Auftragnehmer nach Name, Organisation oder Standort zu finden. Geben Sie einen beliebigen Teil ihrer Informationen ein, um die Ergebnisse zu filtern.",
+  "helpTour_contractorCard_title": "Auftragnehmer-Informationen",
+  "helpTour_contractorCard_content": "Jede Karte zeigt Auftragnehmer-Details einschließlich ihres Namens, ihrer Organisation und Kontaktinformationen. Klicken Sie auf einen Auftragnehmer, um weitere Details anzuzeigen.",
+  "helpTour_services_title": "Angebotene Services",
+  "helpTour_services_content": "Diese Symbole zeigen, welche Services jeder Auftragnehmer anbietet: Design, Installation, Service & Wartung oder Lieferung & Ausrüstung.",
+  "helpTour_skip": "Tour überspringen",
+  "helpTour_previous": "Zurück",
+  "helpTour_next": "Weiter",
+  "helpTour_finish": "Beenden"
 }

@@ -21,5 +21,18 @@
   "services_install": "Installatieservices",
   "services_service": "Service & onderhoud",
   "services_supply": "Levering & uitrusting",
-  "serviceFilter_filterByServices": "Filteren op services"
+  "serviceFilter_filterByServices": "Filteren op services",
+  "helpTour_startTour": "Start hulptour",
+  "helpTour_welcome_title": "Welkom bij IrriSearch",
+  "helpTour_welcome_content": "Deze rondleiding helpt je begrijpen hoe je IrriSearch kunt gebruiken om irrigatieaannemers in jouw omgeving te vinden.",
+  "helpTour_filter_title": "Zoek aannemers",
+  "helpTour_filter_content": "Gebruik dit zoekvak om aannemers te vinden op naam, organisatie of locatie. Typ elk deel van hun informatie om de resultaten te filteren.",
+  "helpTour_contractorCard_title": "Aannemer informatie",
+  "helpTour_contractorCard_content": "Elke kaart toont aannemer details inclusief hun naam, organisatie en contactinformatie. Klik op een aannemer om meer details te bekijken.",
+  "helpTour_services_title": "Aangeboden services",
+  "helpTour_services_content": "Deze pictogrammen tonen welke services elke aannemer biedt: Ontwerp, Installatie, Service & onderhoud, of Levering & uitrusting.",
+  "helpTour_skip": "Tour overslaan",
+  "helpTour_previous": "Vorige",
+  "helpTour_next": "Volgende",
+  "helpTour_finish": "Voltooien"
 }

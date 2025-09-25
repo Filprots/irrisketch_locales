@@ -21,5 +21,18 @@
   "services_install": "Услуги монтажа",
   "services_service": "Сервис и обслуживание",
   "services_supply": "Поставка и оборудование",
-  "serviceFilter_filterByServices": "Фильтр по услугам"
+  "serviceFilter_filterByServices": "Фильтр по услугам",
+  "helpTour_startTour": "Начать экскурсию помощи",
+  "helpTour_welcome_title": "Добро пожаловать в IrriSearch",
+  "helpTour_welcome_content": "Эта экскурсия поможет вам понять, как использовать IrriSearch для поиска подрядчиков по орошению в вашем районе.",
+  "helpTour_filter_title": "Поиск подрядчиков",
+  "helpTour_filter_content": "Используйте это поле поиска, чтобы найти подрядчиков по имени, организации или местоположению. Введите любую часть их информации для фильтрации результатов.",
+  "helpTour_contractorCard_title": "Информация о подрядчике",
+  "helpTour_contractorCard_content": "Каждая карточка показывает детали подрядчика, включая его имя, организацию и контактную информацию. Нажмите на подрядчика, чтобы увидеть больше деталей.",
+  "helpTour_services_title": "Предлагаемые услуги",
+  "helpTour_services_content": "Эти иконки показывают, какие услуги предоставляет каждый подрядчик: Проектирование, Монтаж, Сервис и обслуживание, или Поставка и оборудование.",
+  "helpTour_skip": "Пропустить экскурсию",
+  "helpTour_previous": "Предыдущий",
+  "helpTour_next": "Следующий",
+  "helpTour_finish": "Завершить"
 }

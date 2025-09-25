@@ -21,5 +21,18 @@
   "services_install": "Installation Services",
   "services_service": "Service & Maintenance",
   "services_supply": "Supply & Equipment",
-  "serviceFilter_filterByServices": "Filter by Services"
+  "serviceFilter_filterByServices": "Filter by Services",
+  "helpTour_startTour": "Start Help Tour",
+  "helpTour_welcome_title": "Welcome to IrriSearch",
+  "helpTour_welcome_content": "This guided tour will help you understand how to use IrriSearch to find irrigation contractors in your area.",
+  "helpTour_filter_title": "Search Contractors",
+  "helpTour_filter_content": "Use this search box to find contractors by name, organization, or location. Type any part of their information to filter the results.",
+  "helpTour_contractorCard_title": "Contractor Information",
+  "helpTour_contractorCard_content": "Each card shows contractor details including their name, organization, and contact information. Click on a contractor to view more details.",
+  "helpTour_services_title": "Services Offered",
+  "helpTour_services_content": "These icons show what services each contractor provides: Design, Installation, Service & Maintenance, or Supply & Equipment.",
+  "helpTour_skip": "Skip Tour",
+  "helpTour_previous": "Previous",
+  "helpTour_next": "Next",
+  "helpTour_finish": "Finish"
 }

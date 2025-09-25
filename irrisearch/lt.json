@@ -21,5 +21,18 @@
   "services_install": "Montavimo paslaugos",
   "services_service": "Aptarnavimas ir priežiūra",
   "services_supply": "Tiekimas ir įranga",
-  "serviceFilter_filterByServices": "Filtruoti pagal paslaugas"
+  "serviceFilter_filterByServices": "Filtruoti pagal paslaugas",
+  "helpTour_startTour": "Pradėti pagalbos turą",
+  "helpTour_welcome_title": "Sveiki atvykę į IrriSearch",
+  "helpTour_welcome_content": "Šis vadovaujamas turas padės jums suprasti, kaip naudoti IrriSearch drėkinimo rangovų paieškai jūsų regione.",
+  "helpTour_filter_title": "Ieškoti rangovų",
+  "helpTour_filter_content": "Naudokite šią paieškos lauką, kad rastumėte rangovus pagal vardą, organizaciją ar vietą. Įveskite bet kurią jų informacijos dalį rezultatų filtravimui.",
+  "helpTour_contractorCard_title": "Rangovo informacija",
+  "helpTour_contractorCard_content": "Kiekviena kortelė rodo rangovo detales, įskaitant jo vardą, organizaciją ir kontaktinę informaciją. Spustelėkite rangovą, kad pamatytumėte daugiau detalių.",
+  "helpTour_services_title": "Siūlomos paslaugos",
+  "helpTour_services_content": "Šios ikonos rodo, kokias paslaugas teikia kiekvienas rangovas: Projektavimas, Montavimas, Aptarnavimas ir priežiūra, arba Tiekimas ir įranga.",
+  "helpTour_skip": "Praleisti turą",
+  "helpTour_previous": "Ankstesnis",
+  "helpTour_next": "Kitas",
+  "helpTour_finish": "Baigti"
 }

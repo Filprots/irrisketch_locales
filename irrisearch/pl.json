@@ -21,5 +21,18 @@
   "services_install": "Usługi instalacyjne",
   "services_service": "Serwis i konserwacja",
   "services_supply": "Dostawa i wyposażenie",
-  "serviceFilter_filterByServices": "Filtruj według usług"
+  "serviceFilter_filterByServices": "Filtruj według usług",
+  "helpTour_startTour": "Rozpocznij przewodnik",
+  "helpTour_welcome_title": "Witamy w IrriSearch",
+  "helpTour_welcome_content": "Ten przewodnik pomoże Ci zrozumieć, jak używać IrriSearch do znajdowania wykonawców nawadniania w Twojej okolicy.",
+  "helpTour_filter_title": "Szukaj wykonawców",
+  "helpTour_filter_content": "Użyj tego pola wyszukiwania, aby znaleźć wykonawców według nazwy, organizacji lub lokalizacji. Wpisz dowolną część ich informacji, aby filtrować wyniki.",
+  "helpTour_contractorCard_title": "Informacje o wykonawcy",
+  "helpTour_contractorCard_content": "Każda karta pokazuje szczegóły wykonawcy, w tym jego nazwę, organizację i informacje kontaktowe. Kliknij wykonawcę, aby zobaczyć więcej szczegółów.",
+  "helpTour_services_title": "Oferowane usługi",
+  "helpTour_services_content": "Te ikony pokazują, jakie usługi oferuje każdy wykonawca: Projektowanie, Instalacja, Serwis i konserwacja, lub Dostawa i wyposażenie.",
+  "helpTour_skip": "Pomiń przewodnik",
+  "helpTour_previous": "Poprzedni",
+  "helpTour_next": "Następny",
+  "helpTour_finish": "Zakończ"
 }

@@ -21,5 +21,18 @@
   "services_install": "Usluge instalacije",
   "services_service": "Servis i održavanje",
   "services_supply": "Opskrba i oprema",
-  "serviceFilter_filterByServices": "Filtriraj po uslugama"
+  "serviceFilter_filterByServices": "Filtriraj po uslugama",
+  "helpTour_startTour": "Pokreni turu pomoći",
+  "helpTour_welcome_title": "Dobrodošli u IrriSearch",
+  "helpTour_welcome_content": "Ovaj vodič će vam pomoći razumjeti kako koristiti IrriSearch za pronalaženje izvođača navodnjavanja u vašem području.",
+  "helpTour_filter_title": "Pretraži izvođače",
+  "helpTour_filter_content": "Koristite ovaj okvir za pretraživanje da pronađete izvođače po imenu, organizaciji ili lokaciji. Upišite bilo koji dio njihovih informacija za filtriranje rezultata.",
+  "helpTour_contractorCard_title": "Informacije o izvođaču",
+  "helpTour_contractorCard_content": "Svaka kartica prikazuje detalje izvođača uključujući njihovo ime, organizaciju i kontakt informacije. Kliknite na izvođača da vidite više detalja.",
+  "helpTour_services_title": "Pružene usluge",
+  "helpTour_services_content": "Ove ikone pokazuju koje usluge svaki izvođač pruža: Dizajn, Instalacija, Servis i održavanje, ili Opskrba i oprema.",
+  "helpTour_skip": "Preskoči turu",
+  "helpTour_previous": "Prethodno",
+  "helpTour_next": "Sljedeće",
+  "helpTour_finish": "Završi"
 }

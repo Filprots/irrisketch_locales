@@ -21,5 +21,18 @@
   "services_install": "Servicios de instalación",
   "services_service": "Servicio y mantenimiento",
   "services_supply": "Suministro y equipamiento",
-  "serviceFilter_filterByServices": "Filtrar por servicios"
+  "serviceFilter_filterByServices": "Filtrar por servicios",
+  "helpTour_startTour": "Iniciar tour de ayuda",
+  "helpTour_welcome_title": "Bienvenido a IrriSearch",
+  "helpTour_welcome_content": "Este tour guiado te ayudará a entender cómo usar IrriSearch para encontrar contratistas de riego en tu área.",
+  "helpTour_filter_title": "Buscar contratistas",
+  "helpTour_filter_content": "Usa esta caja de búsqueda para encontrar contratistas por nombre, organización o ubicación. Escribe cualquier parte de su información para filtrar los resultados.",
+  "helpTour_contractorCard_title": "Información del contratista",
+  "helpTour_contractorCard_content": "Cada tarjeta muestra los detalles del contratista incluyendo su nombre, organización e información de contacto. Haz clic en un contratista para ver más detalles.",
+  "helpTour_services_title": "Servicios ofrecidos",
+  "helpTour_services_content": "Estos iconos muestran qué servicios ofrece cada contratista: Diseño, Instalación, Servicio y mantenimiento, o Suministro y equipamiento.",
+  "helpTour_skip": "Saltar tour",
+  "helpTour_previous": "Anterior",
+  "helpTour_next": "Siguiente",
+  "helpTour_finish": "Finalizar"
 }

@@ -21,5 +21,18 @@
   "services_install": "Kurulum Hizmetleri",
   "services_service": "Servis ve Bakım",
   "services_supply": "Tedarik ve Ekipman",
-  "serviceFilter_filterByServices": "Hizmetlere göre filtrele"
+  "serviceFilter_filterByServices": "Hizmetlere göre filtrele",
+  "helpTour_startTour": "Yardım turunu başlat",
+  "helpTour_welcome_title": "IrriSearch'e hoş geldiniz",
+  "helpTour_welcome_content": "Bu rehberli tur, IrriSearch'i bölgenizdeki sulama yüklenicilerini bulmak için nasıl kullanacağınızı anlamanıza yardımcı olacak.",
+  "helpTour_filter_title": "Yüklenici ara",
+  "helpTour_filter_content": "Yüklenicileri isim, organizasyon veya konuma göre bulmak için bu arama kutusunu kullanın. Sonuçları filtrelemek için bilgilerinin herhangi bir kısmını yazın.",
+  "helpTour_contractorCard_title": "Yüklenici bilgileri",
+  "helpTour_contractorCard_content": "Her kart, yüklenicinin adı, organizasyonu ve iletişim bilgileri dahil olmak üzere detaylarını gösterir. Daha fazla detay görmek için bir yükleniciye tıklayın.",
+  "helpTour_services_title": "Sunulan hizmetler",
+  "helpTour_services_content": "Bu ikonlar her yüklenicinin hangi hizmetleri sunduğunu gösterir: Tasarım, Kurulum, Servis ve Bakım, veya Tedarik ve Ekipman.",
+  "helpTour_skip": "Turu atla",
+  "helpTour_previous": "Önceki",
+  "helpTour_next": "Sonraki",
+  "helpTour_finish": "Bitir"
 }

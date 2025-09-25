@@ -21,5 +21,18 @@
   "services_install": "Inštalačné služby",
   "services_service": "Servis a údržba",
   "services_supply": "Dodávka a vybavenie",
-  "serviceFilter_filterByServices": "Filtrovať podľa služieb"
+  "serviceFilter_filterByServices": "Filtrovať podľa služieb",
+  "helpTour_startTour": "Spustiť pomocnú prehliadku",
+  "helpTour_welcome_title": "Vitajte v IrriSearch",
+  "helpTour_welcome_content": "Táto sprievodná prehliadka vám pomôže pochopiť, ako používať IrriSearch na hľadanie dodávateľov zavlažovania vo vašej oblasti.",
+  "helpTour_filter_title": "Hľadať dodávateľov",
+  "helpTour_filter_content": "Použite toto vyhľadávacie pole na nájdenie dodávateľov podľa mena, organizácie alebo umiestnenia. Zadajte akúkoľvek časť ich informácií na filtrovanie výsledkov.",
+  "helpTour_contractorCard_title": "Informácie o dodávateľovi",
+  "helpTour_contractorCard_content": "Každá karta zobrazuje detaily dodávateľa vrátane jeho mena, organizácie a kontaktných informácií. Kliknite na dodávateľa, aby ste videli viac detailov.",
+  "helpTour_services_title": "Ponúkané služby",
+  "helpTour_services_content": "Tieto ikony ukazujú, aké služby každý dodávateľ poskytuje: Dizajn, Inštalácia, Servis a údržba, alebo Dodávka a vybavenie.",
+  "helpTour_skip": "Preskočiť prehliadku",
+  "helpTour_previous": "Predchádzajúci",
+  "helpTour_next": "Ďalší",
+  "helpTour_finish": "Dokončiť"
 }

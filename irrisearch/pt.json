@@ -21,5 +21,18 @@
   "services_install": "Serviços de instalação",
   "services_service": "Serviço e manutenção",
   "services_supply": "Fornecimento e equipamentos",
-  "serviceFilter_filterByServices": "Filtrar por serviços"
+  "serviceFilter_filterByServices": "Filtrar por serviços",
+  "helpTour_startTour": "Iniciar tour de ajuda",
+  "helpTour_welcome_title": "Bem-vindo ao IrriSearch",
+  "helpTour_welcome_content": "Este tour guiado ajudará você a entender como usar o IrriSearch para encontrar empreiteiros de irrigação na sua área.",
+  "helpTour_filter_title": "Pesquisar empreiteiros",
+  "helpTour_filter_content": "Use esta caixa de pesquisa para encontrar empreiteiros por nome, organização ou localização. Digite qualquer parte de suas informações para filtrar os resultados.",
+  "helpTour_contractorCard_title": "Informações do empreiteiro",
+  "helpTour_contractorCard_content": "Cada cartão mostra detalhes do empreiteiro incluindo seu nome, organização e informações de contato. Clique em um empreiteiro para ver mais detalhes.",
+  "helpTour_services_title": "Serviços oferecidos",
+  "helpTour_services_content": "Estes ícones mostram quais serviços cada empreiteiro oferece: Design, Instalação, Serviço e manutenção, ou Fornecimento e equipamentos.",
+  "helpTour_skip": "Pular tour",
+  "helpTour_previous": "Anterior",
+  "helpTour_next": "Próximo",
+  "helpTour_finish": "Finalizar"
 }

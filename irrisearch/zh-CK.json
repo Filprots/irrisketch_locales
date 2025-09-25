@@ -21,5 +21,18 @@
   "services_install": "安裝服務",
   "services_service": "服務與維護",
   "services_supply": "供應與設備",
-  "serviceFilter_filterByServices": "按服務篩選"
+  "serviceFilter_filterByServices": "按服務篩選",
+  "helpTour_startTour": "開始幫助導覽",
+  "helpTour_welcome_title": "歡迎使用IrriSearch",
+  "helpTour_welcome_content": "這個導覽將幫助您了解如何使用IrriSearch在您所在地區尋找灌溉承包商。",
+  "helpTour_filter_title": "搜索承包商",
+  "helpTour_filter_content": "使用此搜索框按姓名、組織或位置查找承包商。輸入他們信息的任何部分來過濾結果。",
+  "helpTour_contractorCard_title": "承包商信息",
+  "helpTour_contractorCard_content": "每張卡片顯示承包商的詳細信息，包括他們的姓名、組織和聯繫信息。點擊承包商查看更多詳細信息。",
+  "helpTour_services_title": "提供的服務",
+  "helpTour_services_content": "這些圖標顯示每個承包商提供的服務：設計、安裝、服務與維護，或供應與設備。",
+  "helpTour_skip": "跳過導覽",
+  "helpTour_previous": "上一個",
+  "helpTour_next": "下一個",
+  "helpTour_finish": "完成"
 }

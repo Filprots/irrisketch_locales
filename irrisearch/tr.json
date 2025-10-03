@@ -34,5 +34,14 @@
   "helpTour_skip": "Turu atla",
   "helpTour_previous": "Önceki",
   "helpTour_next": "Sonraki",
-  "helpTour_finish": "Bitir"
+  "helpTour_finish": "Bitir",
+  "cityPage_contractorsFound": "yüklenici bulundu",
+  "cityPage_aboutIrrigation": "Sulama hizmetleri hakkında",
+  "cityPage_irrigationDescription": "Profesyonel sulama hizmetleri sağlıklı peyzajlar ve bahçelerin korunmasına yardımcı olur. Yüklenicilerimiz tasarım, kurulum, bakım ve ekipman tedariki dahil olmak üzere kapsamlı sulama çözümleri sağlar.",
+  "cityPage_servicesOffered": "Sunulan hizmetler",
+  "cityPage_whyChooseUs": "Neden yüklenicilerimizi seçmelisiniz",
+  "cityPage_whyChooseUsDescription": "Nitelikli sulama yüklenicilerimizin ağı, uzmanlıkları, güvenilirlikleri ve kaliteli hizmete bağlılıkları nedeniyle dikkatli bir şekilde seçilmiştir. Her yüklenici lisanslı ve sigortalıdır, projenizin en yüksek standartlarda tamamlanmasını sağlar.",
+  "common_loading": "Yükleniyor...",
+  "sitemap_cityPages": "Şehir sayfaları",
+  "sitemap_allContractors": "Tüm yükleniciler"
 }

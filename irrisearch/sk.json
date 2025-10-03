@@ -34,5 +34,14 @@
   "helpTour_skip": "Preskočiť prehliadku",
   "helpTour_previous": "Predchádzajúci",
   "helpTour_next": "Ďalší",
-  "helpTour_finish": "Dokončiť"
+  "helpTour_finish": "Dokončiť",
+  "cityPage_contractorsFound": "dodávateľov nájdených",
+  "cityPage_aboutIrrigation": "O službách zavlažovania",
+  "cityPage_irrigationDescription": "Profesionálne služby zavlažovania pomáhajú udržiavať zdravé krajiny a záhrady. Naši dodávatelia poskytujú komplexné riešenia zavlažovania vrátane dizajnu, inštalácie, údržby a dodávky vybavenia.",
+  "cityPage_servicesOffered": "Ponúkané služby",
+  "cityPage_whyChooseUs": "Prečo si vybrať našich dodávateľov",
+  "cityPage_whyChooseUsDescription": "Naša sieť kvalifikovaných dodávateľov zavlažovania bola starostlivo vybraná pre ich expertízu, spoľahlivosť a záväzok ku kvalitnej službe. Každý dodávateľ je licencovaný a poistený, čo zabezpečuje, že váš projekt bude dokončený podľa najvyšších štandardov.",
+  "common_loading": "Načítavanie...",
+  "sitemap_cityPages": "Stránky miest",
+  "sitemap_allContractors": "Všetci dodávatelia"
 }

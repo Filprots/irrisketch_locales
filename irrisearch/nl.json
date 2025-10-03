@@ -34,5 +34,14 @@
   "helpTour_skip": "Tour overslaan",
   "helpTour_previous": "Vorige",
   "helpTour_next": "Volgende",
-  "helpTour_finish": "Voltooien"
+  "helpTour_finish": "Voltooien",
+  "cityPage_contractorsFound": "aannemers gevonden",
+  "cityPage_aboutIrrigation": "Over irrigatiediensten",
+  "cityPage_irrigationDescription": "Professionele irrigatiediensten helpen bij het onderhouden van gezonde landschappen en tuinen. Onze aannemers bieden uitgebreide irrigatieoplossingen inclusief ontwerp, installatie, onderhoud en uitrustingslevering.",
+  "cityPage_servicesOffered": "Aangeboden services",
+  "cityPage_whyChooseUs": "Waarom onze aannemers kiezen",
+  "cityPage_whyChooseUsDescription": "Ons netwerk van gekwalificeerde irrigatieaannemers is zorgvuldig geselecteerd vanwege hun expertise, betrouwbaarheid en toewijding aan kwaliteitsservice. Elke aannemer is gelicentieerd en verzekerd, waardoor uw project wordt voltooid volgens de hoogste normen.",
+  "common_loading": "Laden...",
+  "sitemap_cityPages": "Stadsbladen",
+  "sitemap_allContractors": "Alle aannemers"
 }

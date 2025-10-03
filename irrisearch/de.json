@@ -34,5 +34,14 @@
   "helpTour_skip": "Tour überspringen",
   "helpTour_previous": "Zurück",
   "helpTour_next": "Weiter",
-  "helpTour_finish": "Beenden"
+  "helpTour_finish": "Beenden",
+  "cityPage_contractorsFound": "Auftragnehmer gefunden",
+  "cityPage_aboutIrrigation": "Über Bewässerungsdienstleistungen",
+  "cityPage_irrigationDescription": "Professionelle Bewässerungsdienstleistungen helfen dabei, gesunde Landschaften und Gärten zu erhalten. Unsere Auftragnehmer bieten umfassende Bewässerungslösungen einschließlich Design, Installation, Wartung und Ausrüstungsversorgung.",
+  "cityPage_servicesOffered": "Angebotene Services",
+  "cityPage_whyChooseUs": "Warum unsere Auftragnehmer wählen",
+  "cityPage_whyChooseUsDescription": "Unser Netzwerk qualifizierter Bewässerungsauftragnehmer wurde sorgfältig für ihre Expertise, Zuverlässigkeit und ihr Engagement für qualitativ hochwertige Dienstleistungen ausgewählt. Jeder Auftragnehmer ist lizenziert und versichert und stellt sicher, dass Ihr Projekt nach höchsten Standards abgeschlossen wird.",
+  "common_loading": "Laden...",
+  "sitemap_cityPages": "Stadtseiten",
+  "sitemap_allContractors": "Alle Auftragnehmer"
 }

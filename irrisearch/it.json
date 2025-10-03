@@ -34,5 +34,14 @@
   "helpTour_skip": "Salta tour",
   "helpTour_previous": "Precedente",
   "helpTour_next": "Successivo",
-  "helpTour_finish": "Termina"
+  "helpTour_finish": "Termina",
+  "cityPage_contractorsFound": "appaltatori trovati",
+  "cityPage_aboutIrrigation": "Informazioni sui servizi di irrigazione",
+  "cityPage_irrigationDescription": "I servizi professionali di irrigazione aiutano a mantenere paesaggi e giardini sani. I nostri appaltatori forniscono soluzioni complete di irrigazione inclusi progettazione, installazione, manutenzione e fornitura di attrezzature.",
+  "cityPage_servicesOffered": "Servizi offerti",
+  "cityPage_whyChooseUs": "Perché scegliere i nostri appaltatori",
+  "cityPage_whyChooseUsDescription": "La nostra rete di appaltatori di irrigazione qualificati è stata accuratamente selezionata per la loro competenza, affidabilità e impegno verso un servizio di qualità. Ogni appaltatore è autorizzato e assicurato, garantendo che il vostro progetto sia completato secondo i più alti standard.",
+  "common_loading": "Caricamento...",
+  "sitemap_cityPages": "Pagine delle città",
+  "sitemap_allContractors": "Tutti gli appaltatori"
 }

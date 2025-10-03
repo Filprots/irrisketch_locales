@@ -34,5 +34,14 @@
   "helpTour_skip": "Túra kihagyása",
   "helpTour_previous": "Előző",
   "helpTour_next": "Következő",
-  "helpTour_finish": "Befejezés"
+  "helpTour_finish": "Befejezés",
+  "cityPage_contractorsFound": "vállalkozó találva",
+  "cityPage_aboutIrrigation": "Az öntözési szolgáltatásokról",
+  "cityPage_irrigationDescription": "A professzionális öntözési szolgáltatások segítenek egészséges tájakat és kerteket fenntartani. Vállalkozóink átfogó öntözési megoldásokat biztosítanak, beleértve a tervezést, telepítést, karbantartást és felszerelésszolgáltatást.",
+  "cityPage_servicesOffered": "Nyújtott szolgáltatások",
+  "cityPage_whyChooseUs": "Miért válassza vállalkozóinkat",
+  "cityPage_whyChooseUsDescription": "Képzett öntözési vállalkozóink hálózatát gondosan válogattuk ki szakértelmük, megbízhatóságuk és a minőségi szolgáltatás iránti elkötelezettségük alapján. Minden vállalkozó licencelt és biztosított, biztosítva, hogy projektje a legmagasabb színvonalon készüljön el.",
+  "common_loading": "Betöltés...",
+  "sitemap_cityPages": "Városoldalak",
+  "sitemap_allContractors": "Minden vállalkozó"
 }

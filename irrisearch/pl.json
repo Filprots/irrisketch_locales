@@ -34,5 +34,14 @@
   "helpTour_skip": "Pomiń przewodnik",
   "helpTour_previous": "Poprzedni",
   "helpTour_next": "Następny",
-  "helpTour_finish": "Zakończ"
+  "helpTour_finish": "Zakończ",
+  "cityPage_contractorsFound": "wykonawców znaleziono",
+  "cityPage_aboutIrrigation": "O usługach nawadniania",
+  "cityPage_irrigationDescription": "Profesjonalne usługi nawadniania pomagają w utrzymaniu zdrowych krajobrazów i ogrodów. Nasi wykonawcy zapewniają kompleksowe rozwiązania nawadniające, w tym projektowanie, instalację, konserwację i dostawę sprzętu.",
+  "cityPage_servicesOffered": "Oferowane usługi",
+  "cityPage_whyChooseUs": "Dlaczego wybrać naszych wykonawców",
+  "cityPage_whyChooseUsDescription": "Nasza sieć wykwalifikowanych wykonawców nawadniania została starannie wybrana ze względu na ich ekspertyzę, niezawodność i zaangażowanie w jakościową obsługę. Każdy wykonawca ma licencję i ubezpieczenie, zapewniając, że Twój projekt zostanie ukończony zgodnie z najwyższymi standardami.",
+  "common_loading": "Ładowanie...",
+  "sitemap_cityPages": "Strony miast",
+  "sitemap_allContractors": "Wszyscy wykonawcy"
 }

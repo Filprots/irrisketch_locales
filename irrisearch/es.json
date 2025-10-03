@@ -34,5 +34,14 @@
   "helpTour_skip": "Saltar tour",
   "helpTour_previous": "Anterior",
   "helpTour_next": "Siguiente",
-  "helpTour_finish": "Finalizar"
+  "helpTour_finish": "Finalizar",
+  "cityPage_contractorsFound": "contratistas encontrados",
+  "cityPage_aboutIrrigation": "Acerca de los servicios de riego",
+  "cityPage_irrigationDescription": "Los servicios profesionales de riego ayudan a mantener paisajes y jardines saludables. Nuestros contratistas proporcionan soluciones integrales de riego incluyendo diseño, instalación, mantenimiento y suministro de equipos.",
+  "cityPage_servicesOffered": "Servicios ofrecidos",
+  "cityPage_whyChooseUs": "Por qué elegir nuestros contratistas",
+  "cityPage_whyChooseUsDescription": "Nuestra red de contratistas de riego calificados ha sido cuidadosamente seleccionada por su experiencia, confiabilidad y compromiso con el servicio de calidad. Cada contratista está licenciado y asegurado, asegurando que su proyecto se complete con los más altos estándares.",
+  "common_loading": "Cargando...",
+  "sitemap_cityPages": "Páginas de ciudades",
+  "sitemap_allContractors": "Todos los contratistas"
 }

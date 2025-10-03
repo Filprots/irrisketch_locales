@@ -34,5 +34,14 @@
   "helpTour_skip": "Pular tour",
   "helpTour_previous": "Anterior",
   "helpTour_next": "Próximo",
-  "helpTour_finish": "Finalizar"
+  "helpTour_finish": "Finalizar",
+  "cityPage_contractorsFound": "empreiteiros encontrados",
+  "cityPage_aboutIrrigation": "Sobre serviços de irrigação",
+  "cityPage_irrigationDescription": "Serviços profissionais de irrigação ajudam a manter paisagens e jardins saudáveis. Nossos empreiteiros fornecem soluções abrangentes de irrigação incluindo design, instalação, manutenção e fornecimento de equipamentos.",
+  "cityPage_servicesOffered": "Serviços oferecidos",
+  "cityPage_whyChooseUs": "Por que escolher nossos empreiteiros",
+  "cityPage_whyChooseUsDescription": "Nossa rede de empreiteiros de irrigação qualificados foi cuidadosamente selecionada por sua expertise, confiabilidade e compromisso com serviço de qualidade. Cada empreiteiro é licenciado e segurado, garantindo que seu projeto seja concluído com os mais altos padrões.",
+  "common_loading": "Carregando...",
+  "sitemap_cityPages": "Páginas das cidades",
+  "sitemap_allContractors": "Todos os empreiteiros"
 }

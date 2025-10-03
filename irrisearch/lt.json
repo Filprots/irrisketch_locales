@@ -34,5 +34,14 @@
   "helpTour_skip": "Praleisti turą",
   "helpTour_previous": "Ankstesnis",
   "helpTour_next": "Kitas",
-  "helpTour_finish": "Baigti"
+  "helpTour_finish": "Baigti",
+  "cityPage_contractorsFound": "rangovų rasta",
+  "cityPage_aboutIrrigation": "Apie drėkinimo paslaugas",
+  "cityPage_irrigationDescription": "Profesionalios drėkinimo paslaugos padeda išlaikyti sveikus kraštovaizdžius ir sodus. Mūsų rangovai teikia išsamius drėkinimo sprendimus, įskaitant projektavimą, montavimą, priežiūrą ir įrangos tiekimą.",
+  "cityPage_servicesOffered": "Siūlomos paslaugos",
+  "cityPage_whyChooseUs": "Kodėl rinktis mūsų rangovus",
+  "cityPage_whyChooseUsDescription": "Mūsų kvalifikuotų drėkinimo rangovų tinklas buvo kruopščiai atrinktas pagal jų ekspertizę, patikimumą ir įsipareigojimą kokybiškoms paslaugoms. Kiekvienas rangovas turi licenciją ir draudimą, užtikrinant, kad jūsų projektas bus baigtas pagal aukščiausius standartus.",
+  "common_loading": "Kraunama...",
+  "sitemap_cityPages": "Miestų puslapiai",
+  "sitemap_allContractors": "Visi rangovai"
 }

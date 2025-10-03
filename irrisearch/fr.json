@@ -34,5 +34,14 @@
   "helpTour_skip": "Passer la visite",
   "helpTour_previous": "Précédent",
   "helpTour_next": "Suivant",
-  "helpTour_finish": "Terminer"
+  "helpTour_finish": "Terminer",
+  "cityPage_contractorsFound": "entrepreneurs trouvés",
+  "cityPage_aboutIrrigation": "À propos des services d'irrigation",
+  "cityPage_irrigationDescription": "Les services d'irrigation professionnels aident à maintenir des paysages et jardins sains. Nos entrepreneurs fournissent des solutions d'irrigation complètes incluant la conception, l'installation, la maintenance et la fourniture d'équipements.",
+  "cityPage_servicesOffered": "Services offerts",
+  "cityPage_whyChooseUs": "Pourquoi choisir nos entrepreneurs",
+  "cityPage_whyChooseUsDescription": "Notre réseau d'entrepreneurs d'irrigation qualifiés a été soigneusement sélectionné pour leur expertise, fiabilité et engagement envers un service de qualité. Chaque entrepreneur est licencié et assuré, garantissant que votre projet est complété selon les plus hauts standards.",
+  "common_loading": "Chargement...",
+  "sitemap_cityPages": "Pages des villes",
+  "sitemap_allContractors": "Tous les entrepreneurs"
 }

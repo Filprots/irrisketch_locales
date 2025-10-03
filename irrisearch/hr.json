@@ -34,5 +34,14 @@
   "helpTour_skip": "Preskoči turu",
   "helpTour_previous": "Prethodno",
   "helpTour_next": "Sljedeće",
-  "helpTour_finish": "Završi"
+  "helpTour_finish": "Završi",
+  "cityPage_contractorsFound": "izvođača pronađeno",
+  "cityPage_aboutIrrigation": "O uslugama navodnjavanja",
+  "cityPage_irrigationDescription": "Profesionalne usluge navodnjavanja pomažu u održavanju zdravih krajolika i vrtova. Naši izvođači pružaju sveobuhvatna rješenja za navodnjavanje uključujući dizajn, instalaciju, održavanje i opskrbu opremom.",
+  "cityPage_servicesOffered": "Pružene usluge",
+  "cityPage_whyChooseUs": "Zašto odabrati naše izvođače",
+  "cityPage_whyChooseUsDescription": "Naša mreža kvalificiranih izvođača navodnjavanja pažljivo je odabrana zbog njihove stručnosti, pouzdanosti i predanosti kvalitetnoj usluzi. Svaki izvođač ima licencu i osiguranje, osiguravajući da se vaš projekt završi prema najvišim standardima.",
+  "common_loading": "Učitavanje...",
+  "sitemap_cityPages": "Stranice gradova",
+  "sitemap_allContractors": "Svi izvođači"
 }

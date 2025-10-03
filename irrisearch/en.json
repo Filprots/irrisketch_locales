@@ -34,5 +34,14 @@
   "helpTour_skip": "Skip Tour",
   "helpTour_previous": "Previous",
   "helpTour_next": "Next",
-  "helpTour_finish": "Finish"
+  "helpTour_finish": "Finish",
+  "cityPage_contractorsFound": "contractors found",
+  "cityPage_aboutIrrigation": "About Irrigation Services",
+  "cityPage_irrigationDescription": "Professional irrigation services help maintain healthy landscapes and gardens. Our contractors provide comprehensive irrigation solutions including design, installation, maintenance, and equipment supply.",
+  "cityPage_servicesOffered": "Services Offered",
+  "cityPage_whyChooseUs": "Why Choose Our Contractors",
+  "cityPage_whyChooseUsDescription": "Our network of qualified irrigation contractors has been carefully selected for their expertise, reliability, and commitment to quality service. Each contractor is licensed and insured, ensuring your project is completed to the highest standards.",
+  "common_loading": "Loading...",
+  "sitemap_cityPages": "City Pages",
+  "sitemap_allContractors": "All Contractors"
 }

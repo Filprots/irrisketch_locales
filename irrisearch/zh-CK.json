@@ -34,5 +34,14 @@
   "helpTour_skip": "跳過導覽",
   "helpTour_previous": "上一個",
   "helpTour_next": "下一個",
-  "helpTour_finish": "完成"
+  "helpTour_finish": "完成",
+  "cityPage_contractorsFound": "找到承包商",
+  "cityPage_aboutIrrigation": "關於灌溉服務",
+  "cityPage_irrigationDescription": "專業灌溉服務有助於維護健康的景觀和花園。我們的承包商提供全面的灌溉解決方案，包括設計、安裝、維護和設備供應。",
+  "cityPage_servicesOffered": "提供的服務",
+  "cityPage_whyChooseUs": "為什麼選擇我們的承包商",
+  "cityPage_whyChooseUsDescription": "我們合格的灌溉承包商網絡因其專業知識、可靠性和對優質服務的承諾而被精心挑選。每個承包商都獲得許可和保險，確保您的項目按照最高標準完成。",
+  "common_loading": "載入中...",
+  "sitemap_cityPages": "城市頁面",
+  "sitemap_allContractors": "所有承包商"
 }

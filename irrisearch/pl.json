@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Nasza sieć wykwalifikowanych wykonawców nawadniania została starannie wybrana ze względu na ich ekspertyzę, niezawodność i zaangażowanie w jakościową obsługę. Każdy wykonawca ma licencję i ubezpieczenie, zapewniając, że Twój projekt zostanie ukończony zgodnie z najwyższymi standardami.",
   "common_loading": "Ładowanie...",
   "sitemap_cityPages": "Strony miast",
-  "sitemap_allContractors": "Wszyscy wykonawcy"
+  "sitemap_allContractors": "Wszyscy wykonawcy",
+  "city.description.variant1": "Znajdź wykonawców nawadniania w {cityName}, {country}. Profesjonalne projektowanie, instalacja i konserwacja systemów nawadniania.",
+  "city.description.variant2": "Profesjonalne usługi nawadniania w {cityName}, {country}. Eksperci wykonawcy do projektowania, instalacji i konserwacji.",
+  "city.h1.variant1": "Wykonawcy Nawadniania w {cityName}",
+  "city.h1.variant2": "Profesjonalne Usługi Nawadniania w {cityName}",
+  "city.metaTitle.variant1": "Wykonawcy Nawadniania w {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Profesjonalne Usługi Nawadniania w {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Profesjonalni wykonawcy nawadniania w {cityName}. Usługi projektowania, instalacji i konserwacji dla nieruchomości mieszkalnych i komercyjnych.",
+  "city.metaDescription.variant2": "Eksperckie usługi nawadniania w {cityName}. Profesjonalni wykonawcy do projektowania, instalacji i konserwacji nawadniania krajobrazowego."
 }

@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Nossa rede de empreiteiros de irrigação qualificados foi cuidadosamente selecionada por sua expertise, confiabilidade e compromisso com serviço de qualidade. Cada empreiteiro é licenciado e segurado, garantindo que seu projeto seja concluído com os mais altos padrões.",
   "common_loading": "Carregando...",
   "sitemap_cityPages": "Páginas das cidades",
-  "sitemap_allContractors": "Todos os empreiteiros"
+  "sitemap_allContractors": "Todos os empreiteiros",
+  "city.description.variant1": "Encontre empreiteiros de irrigação em {cityName}, {country}. Serviços profissionais de design, instalação e manutenção de irrigação.",
+  "city.description.variant2": "Serviços profissionais de irrigação em {cityName}, {country}. Empreiteiros especialistas para design, instalação e manutenção.",
+  "city.h1.variant1": "Empreiteiros de Irrigação em {cityName}",
+  "city.h1.variant2": "Serviços Profissionais de Irrigação em {cityName}",
+  "city.metaTitle.variant1": "Empreiteiros de Irrigação em {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Serviços Profissionais de Irrigação em {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Empreiteiros profissionais de irrigação em {cityName}. Serviços de design, instalação e manutenção para propriedades residenciais e comerciais.",
+  "city.metaDescription.variant2": "Serviços especializados de irrigação em {cityName}. Empreiteiros profissionais para design, instalação e manutenção de irrigação paisagística."
 }

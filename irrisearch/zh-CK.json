@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "我們合格的灌溉承包商網絡因其專業知識、可靠性和對優質服務的承諾而被精心挑選。每個承包商都獲得許可和保險，確保您的項目按照最高標準完成。",
   "common_loading": "載入中...",
   "sitemap_cityPages": "城市頁面",
-  "sitemap_allContractors": "所有承包商"
+  "sitemap_allContractors": "所有承包商",
+  "city.description.variant1": "在{cityName}，{country}尋找灌溉承包商。專業的灌溉設計、安裝和維護服務。",
+  "city.description.variant2": "{cityName}，{country}的專業灌溉服務。設計、安裝和維護的專家承包商。",
+  "city.h1.variant1": "{cityName}的灌溉承包商",
+  "city.h1.variant2": "{cityName}的專業灌溉服務",
+  "city.metaTitle.variant1": "{cityName}，{country}的灌溉承包商 | IrriSearch",
+  "city.metaTitle.variant2": "{cityName}，{country}的專業灌溉服務 | IrriSearch",
+  "city.metaDescription.variant1": "{cityName}的專業灌溉承包商。為住宅和商業物業提供設計、安裝和維護服務。",
+  "city.metaDescription.variant2": "{cityName}的專家灌溉服務。景觀灌溉設計、安裝和維護的專業承包商。"
 }

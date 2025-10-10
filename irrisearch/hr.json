@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Naša mreža kvalificiranih izvođača navodnjavanja pažljivo je odabrana zbog njihove stručnosti, pouzdanosti i predanosti kvalitetnoj usluzi. Svaki izvođač ima licencu i osiguranje, osiguravajući da se vaš projekt završi prema najvišim standardima.",
   "common_loading": "Učitavanje...",
   "sitemap_cityPages": "Stranice gradova",
-  "sitemap_allContractors": "Svi izvođači"
+  "sitemap_allContractors": "Svi izvođači",
+  "city.description.variant1": "Pronađite izvođače navodnjavanja u {cityName}, {country}. Profesionalni dizajn, instalacija i održavanje sustava navodnjavanja.",
+  "city.description.variant2": "Profesionalne usluge navodnjavanja u {cityName}, {country}. Stručni izvođači za dizajn, instalaciju i održavanje.",
+  "city.h1.variant1": "Izvođači Navodnjavanja u {cityName}",
+  "city.h1.variant2": "Profesionalne Usluge Navodnjavanja u {cityName}",
+  "city.metaTitle.variant1": "Izvođači Navodnjavanja u {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Profesionalne Usluge Navodnjavanja u {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Profesionalni izvođači navodnjavanja u {cityName}. Usluge dizajna, instalacije i održavanja za stambene i komercijalne nekretnine.",
+  "city.metaDescription.variant2": "Stručne usluge navodnjavanja u {cityName}. Profesionalni izvođači za dizajn, instalaciju i održavanje krajobraznog navodnjavanja."
 }

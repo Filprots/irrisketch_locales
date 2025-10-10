@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Our network of qualified irrigation contractors has been carefully selected for their expertise, reliability, and commitment to quality service. Each contractor is licensed and insured, ensuring your project is completed to the highest standards.",
   "common_loading": "Loading...",
   "sitemap_cityPages": "City Pages",
-  "sitemap_allContractors": "All Contractors"
+  "sitemap_allContractors": "All Contractors",
+  "city.description.variant1": "Find irrigation contractors in {cityName}, {country}. Professional irrigation design, installation, and maintenance services.",
+  "city.description.variant2": "Professional irrigation services in {cityName}, {country}. Expert contractors for design, installation, and maintenance.",
+  "city.h1.variant1": "Irrigation Contractors in {cityName}",
+  "city.h1.variant2": "Professional Irrigation Services in {cityName}",
+  "city.metaTitle.variant1": "Irrigation Contractors in {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Professional Irrigation Services in {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Professional irrigation contractors in {cityName}. Design, installation, and maintenance services for residential and commercial properties.",
+  "city.metaDescription.variant2": "Expert irrigation services in {cityName}. Professional contractors for landscape irrigation design, installation, and maintenance."
 }

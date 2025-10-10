@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Notre réseau d'entrepreneurs d'irrigation qualifiés a été soigneusement sélectionné pour leur expertise, fiabilité et engagement envers un service de qualité. Chaque entrepreneur est licencié et assuré, garantissant que votre projet est complété selon les plus hauts standards.",
   "common_loading": "Chargement...",
   "sitemap_cityPages": "Pages des villes",
-  "sitemap_allContractors": "Tous les entrepreneurs"
+  "sitemap_allContractors": "Tous les entrepreneurs",
+  "city.description.variant1": "Trouvez des entrepreneurs en irrigation à {cityName}, {country}. Services professionnels de conception, installation et maintenance d'irrigation.",
+  "city.description.variant2": "Services professionnels d'irrigation à {cityName}, {country}. Entrepreneurs experts pour la conception, installation et maintenance.",
+  "city.h1.variant1": "Entrepreneurs en Irrigation à {cityName}",
+  "city.h1.variant2": "Services Professionnels d'Irrigation à {cityName}",
+  "city.metaTitle.variant1": "Entrepreneurs en Irrigation à {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Services Professionnels d'Irrigation à {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Entrepreneurs professionnels en irrigation à {cityName}. Services de conception, installation et maintenance pour propriétés résidentielles et commerciales.",
+  "city.metaDescription.variant2": "Services experts d'irrigation à {cityName}. Entrepreneurs professionnels pour la conception, installation et maintenance d'irrigation paysagère."
 }

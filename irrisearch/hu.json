@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Képzett öntözési vállalkozóink hálózatát gondosan válogattuk ki szakértelmük, megbízhatóságuk és a minőségi szolgáltatás iránti elkötelezettségük alapján. Minden vállalkozó licencelt és biztosított, biztosítva, hogy projektje a legmagasabb színvonalon készüljön el.",
   "common_loading": "Betöltés...",
   "sitemap_cityPages": "Városoldalak",
-  "sitemap_allContractors": "Minden vállalkozó"
+  "sitemap_allContractors": "Minden vállalkozó",
+  "city.description.variant1": "Találjon öntözési vállalkozókat {cityName}, {country}. Professzionális öntözési tervezés, telepítés és karbantartási szolgáltatások.",
+  "city.description.variant2": "Professzionális öntözési szolgáltatások {cityName}, {country}. Szakértő vállalkozók tervezéshez, telepítéshez és karbantartáshoz.",
+  "city.h1.variant1": "Öntözési Vállalkozók {cityName}",
+  "city.h1.variant2": "Professzionális Öntözési Szolgáltatások {cityName}",
+  "city.metaTitle.variant1": "Öntözési Vállalkozók {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Professzionális Öntözési Szolgáltatások {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Professzionális öntözési vállalkozók {cityName}. Tervezési, telepítési és karbantartási szolgáltatások lakó- és kereskedelmi ingatlanokhoz.",
+  "city.metaDescription.variant2": "Szakértő öntözési szolgáltatások {cityName}. Professzionális vállalkozók tájrendezési öntözési tervezéshez, telepítéshez és karbantartáshoz."
 }

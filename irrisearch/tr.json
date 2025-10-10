@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Nitelikli sulama yüklenicilerimizin ağı, uzmanlıkları, güvenilirlikleri ve kaliteli hizmete bağlılıkları nedeniyle dikkatli bir şekilde seçilmiştir. Her yüklenici lisanslı ve sigortalıdır, projenizin en yüksek standartlarda tamamlanmasını sağlar.",
   "common_loading": "Yükleniyor...",
   "sitemap_cityPages": "Şehir sayfaları",
-  "sitemap_allContractors": "Tüm yükleniciler"
+  "sitemap_allContractors": "Tüm yükleniciler",
+  "city.description.variant1": "{cityName}, {country} şehrinde sulama yüklenicileri bulun. Profesyonel sulama tasarımı, kurulum ve bakım hizmetleri.",
+  "city.description.variant2": "{cityName}, {country} şehrinde profesyonel sulama hizmetleri. Tasarım, kurulum ve bakım için uzman yükleniciler.",
+  "city.h1.variant1": "{cityName} Şehrinde Sulama Yüklenicileri",
+  "city.h1.variant2": "{cityName} Şehrinde Profesyonel Sulama Hizmetleri",
+  "city.metaTitle.variant1": "{cityName}, {country} Şehrinde Sulama Yüklenicileri | IrriSearch",
+  "city.metaTitle.variant2": "{cityName}, {country} Şehrinde Profesyonel Sulama Hizmetleri | IrriSearch",
+  "city.metaDescription.variant1": "{cityName} şehrinde profesyonel sulama yüklenicileri. Konut ve ticari mülkler için tasarım, kurulum ve bakım hizmetleri.",
+  "city.metaDescription.variant2": "{cityName} şehrinde uzman sulama hizmetleri. Peyzaj sulama tasarımı, kurulum ve bakım için profesyonel yükleniciler."
 }

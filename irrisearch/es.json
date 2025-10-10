@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Nuestra red de contratistas de riego calificados ha sido cuidadosamente seleccionada por su experiencia, confiabilidad y compromiso con el servicio de calidad. Cada contratista está licenciado y asegurado, asegurando que su proyecto se complete con los más altos estándares.",
   "common_loading": "Cargando...",
   "sitemap_cityPages": "Páginas de ciudades",
-  "sitemap_allContractors": "Todos los contratistas"
+  "sitemap_allContractors": "Todos los contratistas",
+  "city.description.variant1": "Encuentra contratistas de riego en {cityName}, {country}. Servicios profesionales de diseño, instalación y mantenimiento de riego.",
+  "city.description.variant2": "Servicios profesionales de riego en {cityName}, {country}. Contratistas expertos para diseño, instalación y mantenimiento.",
+  "city.h1.variant1": "Contratistas de Riego en {cityName}",
+  "city.h1.variant2": "Servicios Profesionales de Riego en {cityName}",
+  "city.metaTitle.variant1": "Contratistas de Riego en {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Servicios Profesionales de Riego en {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Contratistas profesionales de riego en {cityName}. Servicios de diseño, instalación y mantenimiento para propiedades residenciales y comerciales.",
+  "city.metaDescription.variant2": "Servicios expertos de riego en {cityName}. Contratistas profesionales para diseño, instalación y mantenimiento de riego paisajístico."
 }

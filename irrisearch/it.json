@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "La nostra rete di appaltatori di irrigazione qualificati è stata accuratamente selezionata per la loro competenza, affidabilità e impegno verso un servizio di qualità. Ogni appaltatore è autorizzato e assicurato, garantendo che il vostro progetto sia completato secondo i più alti standard.",
   "common_loading": "Caricamento...",
   "sitemap_cityPages": "Pagine delle città",
-  "sitemap_allContractors": "Tutti gli appaltatori"
+  "sitemap_allContractors": "Tutti gli appaltatori",
+  "city.description.variant1": "Trova appaltatori di irrigazione a {cityName}, {country}. Servizi professionali di progettazione, installazione e manutenzione dell'irrigazione.",
+  "city.description.variant2": "Servizi professionali di irrigazione a {cityName}, {country}. Appaltatori esperti per progettazione, installazione e manutenzione.",
+  "city.h1.variant1": "Appaltatori di Irrigazione a {cityName}",
+  "city.h1.variant2": "Servizi Professionali di Irrigazione a {cityName}",
+  "city.metaTitle.variant1": "Appaltatori di Irrigazione a {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Servizi Professionali di Irrigazione a {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Appaltatori professionali di irrigazione a {cityName}. Servizi di progettazione, installazione e manutenzione per proprietà residenziali e commerciali.",
+  "city.metaDescription.variant2": "Servizi esperti di irrigazione a {cityName}. Appaltatori professionali per progettazione, installazione e manutenzione dell'irrigazione paesaggistica."
 }

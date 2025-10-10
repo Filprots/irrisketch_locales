@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Naša sieť kvalifikovaných dodávateľov zavlažovania bola starostlivo vybraná pre ich expertízu, spoľahlivosť a záväzok ku kvalitnej službe. Každý dodávateľ je licencovaný a poistený, čo zabezpečuje, že váš projekt bude dokončený podľa najvyšších štandardov.",
   "common_loading": "Načítavanie...",
   "sitemap_cityPages": "Stránky miest",
-  "sitemap_allContractors": "Všetci dodávatelia"
+  "sitemap_allContractors": "Všetci dodávatelia",
+  "city.description.variant1": "Nájdite dodávateľov zavlažovania v {cityName}, {country}. Profesionálny dizajn, inštalácia a údržba systémov zavlažovania.",
+  "city.description.variant2": "Profesionálne služby zavlažovania v {cityName}, {country}. Expertní dodávatelia pre dizajn, inštaláciu a údržbu.",
+  "city.h1.variant1": "Dodávatelia Zavlažovania v {cityName}",
+  "city.h1.variant2": "Profesionálne Služby Zavlažovania v {cityName}",
+  "city.metaTitle.variant1": "Dodávatelia Zavlažovania v {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Profesionálne Služby Zavlažovania v {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Profesionálni dodávatelia zavlažovania v {cityName}. Služby dizajnu, inštalácie a údržby pre rezidenčné a komerčné nehnuteľnosti.",
+  "city.metaDescription.variant2": "Expertné služby zavlažovania v {cityName}. Profesionálni dodávatelia pre dizajn, inštaláciu a údržbu krajinného zavlažovania."
 }

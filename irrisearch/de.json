@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Unser Netzwerk qualifizierter Bewässerungsauftragnehmer wurde sorgfältig für ihre Expertise, Zuverlässigkeit und ihr Engagement für qualitativ hochwertige Dienstleistungen ausgewählt. Jeder Auftragnehmer ist lizenziert und versichert und stellt sicher, dass Ihr Projekt nach höchsten Standards abgeschlossen wird.",
   "common_loading": "Laden...",
   "sitemap_cityPages": "Stadtseiten",
-  "sitemap_allContractors": "Alle Auftragnehmer"
+  "sitemap_allContractors": "Alle Auftragnehmer",
+  "city.description.variant1": "Finden Sie Bewässerungsunternehmer in {cityName}, {country}. Professionelle Bewässerungsplanung, Installation und Wartungsservices.",
+  "city.description.variant2": "Professionelle Bewässerungsdienstleistungen in {cityName}, {country}. Expertenunternehmer für Planung, Installation und Wartung.",
+  "city.h1.variant1": "Bewässerungsunternehmer in {cityName}",
+  "city.h1.variant2": "Professionelle Bewässerungsdienstleistungen in {cityName}",
+  "city.metaTitle.variant1": "Bewässerungsunternehmer in {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Professionelle Bewässerungsdienstleistungen in {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Professionelle Bewässerungsunternehmer in {cityName}. Planungs-, Installations- und Wartungsservices für Wohn- und Gewerbeimmobilien.",
+  "city.metaDescription.variant2": "Experten-Bewässerungsdienstleistungen in {cityName}. Professionelle Unternehmer für Landschaftsbewässerungsplanung, Installation und Wartung."
 }

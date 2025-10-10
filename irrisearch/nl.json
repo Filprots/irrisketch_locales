@@ -43,5 +43,13 @@
   "cityPage_whyChooseUsDescription": "Ons netwerk van gekwalificeerde irrigatieaannemers is zorgvuldig geselecteerd vanwege hun expertise, betrouwbaarheid en toewijding aan kwaliteitsservice. Elke aannemer is gelicentieerd en verzekerd, waardoor uw project wordt voltooid volgens de hoogste normen.",
   "common_loading": "Laden...",
   "sitemap_cityPages": "Stadsbladen",
-  "sitemap_allContractors": "Alle aannemers"
+  "sitemap_allContractors": "Alle aannemers",
+  "city.description.variant1": "Vind irrigatieaannemers in {cityName}, {country}. Professionele irrigatieontwerp, installatie en onderhoudsservices.",
+  "city.description.variant2": "Professionele irrigatiediensten in {cityName}, {country}. Expert aannemers voor ontwerp, installatie en onderhoud.",
+  "city.h1.variant1": "Irrigatieaannemers in {cityName}",
+  "city.h1.variant2": "Professionele Irrigatiediensten in {cityName}",
+  "city.metaTitle.variant1": "Irrigatieaannemers in {cityName}, {country} | IrriSearch",
+  "city.metaTitle.variant2": "Professionele Irrigatiediensten in {cityName}, {country} | IrriSearch",
+  "city.metaDescription.variant1": "Professionele irrigatieaannemers in {cityName}. Ontwerp-, installatie- en onderhoudsservices voor residentiële en commerciële eigendommen.",
+  "city.metaDescription.variant2": "Expert irrigatiediensten in {cityName}. Professionele aannemers voor landschapsirrigatieontwerp, installatie en onderhoud."
 }

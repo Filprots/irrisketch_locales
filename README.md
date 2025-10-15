@@ -6,8 +6,6 @@ If you want to translate interface of IRRISketch into your language, you can con
 
 I will include you into the list of contributors.
 
-Those who complete translation will be awarded by lifetime IRRISketch PRO-account!
-
 # Current translators
 <pre>
 Russian - Philiph Protsenko (filprocenko@gmail.com)     |||||||||||||||| (COMPLETED)

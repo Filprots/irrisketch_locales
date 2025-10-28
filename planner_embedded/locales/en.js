@@ -273,7 +273,7 @@
             tree16: "Tree #16",
             tree17: "Tree #17",
             stdRuler: "Standard",
-            fixedCntr: "Fixed zones numbers",
+            fixedCntr: "Fixed zones",
             stand_aloneCntr: "Stand alone controller",
             modularCntr: "Modular controller",
             rainSensor: "Rain sensor",

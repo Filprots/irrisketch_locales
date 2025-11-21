@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Dizajn",
   "DesignRequestPlannerFieldService_install": "Instalacija",
   "DesignRequestPlannerFieldService_service": "Održavanje",
-  "DesignRequestPlannerFieldService_supply": "Dostava opreme"
+  "DesignRequestPlannerFieldService_supply": "Dostava opreme",
+  "tgchat_title": "Chat podrške",
+  "tgchat_textarea_placeholder": "Upišite svoju poruku...",
+  "tgchat_attach_button_title": "Priložite sliku",
+  "tgchat_send_button": "Pošalji",
+  "tgchat_disabled_chat": "Trenutno smo offline. Molimo kontaktirajte podršku koristeći ovaj link:",
+  "tgchat_label_you": "Vi",
+  "tgchat_label_system": "Sustav",
+  "tgchat_label_operator": "Operater",
+  "tgchat_label_here": "Link",
+  "tgchat_label_expand_chat": "Proširi chat",
+  "tgchat_label_collapse_chat": "Sažmi chat",
+  "tgchat_label_open_chat": "Otvori chat"
 }

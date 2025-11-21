@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Ontwerp",
   "DesignRequestPlannerFieldService_install": "Installatie",
   "DesignRequestPlannerFieldService_service": "Onderhoud",
-  "DesignRequestPlannerFieldService_supply": "Uitrustingslevering"
+  "DesignRequestPlannerFieldService_supply": "Uitrustingslevering",
+  "tgchat_title": "Ondersteuningschat",
+  "tgchat_textarea_placeholder": "Typ uw bericht...",
+  "tgchat_attach_button_title": "Afbeelding bijvoegen",
+  "tgchat_send_button": "Verzenden",
+  "tgchat_disabled_chat": "We zijn momenteel offline. Neem contact op met ondersteuning via deze link:",
+  "tgchat_label_you": "U",
+  "tgchat_label_system": "Systeem",
+  "tgchat_label_operator": "Operator",
+  "tgchat_label_here": "De link",
+  "tgchat_label_expand_chat": "Chat uitklappen",
+  "tgchat_label_collapse_chat": "Chat inklappen",
+  "tgchat_label_open_chat": "Chat openen"
 }

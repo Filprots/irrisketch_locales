@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Projektavimas",
   "DesignRequestPlannerFieldService_install": "Montavimas",
   "DesignRequestPlannerFieldService_service": "Priežiūra",
-  "DesignRequestPlannerFieldService_supply": "Įrangos tiekimas"
+  "DesignRequestPlannerFieldService_supply": "Įrangos tiekimas",
+  "tgchat_title": "Pagalbos pokalbis",
+  "tgchat_textarea_placeholder": "Įveskite savo žinutę...",
+  "tgchat_attach_button_title": "Pridėti vaizdą",
+  "tgchat_send_button": "Siųsti",
+  "tgchat_disabled_chat": "Šiuo metu esame neprisijungę. Prašome susisiekti su pagalba naudodami šią nuorodą:",
+  "tgchat_label_you": "Jūs",
+  "tgchat_label_system": "Sistema",
+  "tgchat_label_operator": "Operatorius",
+  "tgchat_label_here": "Nuoroda",
+  "tgchat_label_expand_chat": "Išplėsti pokalbį",
+  "tgchat_label_collapse_chat": "Suskleisti pokalbį",
+  "tgchat_label_open_chat": "Atidaryti pokalbį"
 }

@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Проектування",
   "DesignRequestPlannerFieldService_install": "Встановлення",
   "DesignRequestPlannerFieldService_service": "Обслуговування",
-  "DesignRequestPlannerFieldService_supply": "Поставка обладнання"
+  "DesignRequestPlannerFieldService_supply": "Поставка обладнання",
+  "tgchat_title": "Чат підтримки",
+  "tgchat_textarea_placeholder": "Введіть ваше повідомлення...",
+  "tgchat_attach_button_title": "Прикріпити зображення",
+  "tgchat_send_button": "Відправити",
+  "tgchat_disabled_chat": "Ми зараз не в мережі. Будь ласка, зв'яжіться з підтримкою за цим посиланням:",
+  "tgchat_label_you": "Ви",
+  "tgchat_label_system": "Система",
+  "tgchat_label_operator": "Оператор",
+  "tgchat_label_here": "Посилання",
+  "tgchat_label_expand_chat": "Розгорнути чат",
+  "tgchat_label_collapse_chat": "Згорнути чат",
+  "tgchat_label_open_chat": "Відкрити чат"
 }

@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Праектаванне",
   "DesignRequestPlannerFieldService_install": "Устаноўка",
   "DesignRequestPlannerFieldService_service": "Абслугоўванне",
-  "DesignRequestPlannerFieldService_supply": "Пастаўка абсталявання"
+  "DesignRequestPlannerFieldService_supply": "Пастаўка абсталявання",
+  "tgchat_title": "Чат падтрымкі",
+  "tgchat_textarea_placeholder": "Увядзіце ваша паведамленне...",
+  "tgchat_attach_button_title": "Прымацаваць выяву",
+  "tgchat_send_button": "Адправіць",
+  "tgchat_disabled_chat": "Мы зараз не ў сеткі. Калі ласка, звяжыцеся з падтрымкай па гэтай спасылцы:",
+  "tgchat_label_you": "Вы",
+  "tgchat_label_system": "Сістэма",
+  "tgchat_label_operator": "Аператар",
+  "tgchat_label_here": "Спасылка",
+  "tgchat_label_expand_chat": "Разгарнуць чат",
+  "tgchat_label_collapse_chat": "Згарнуць чат",
+  "tgchat_label_open_chat": "Адкрыць чат"
 }

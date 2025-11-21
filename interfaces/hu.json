@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Tervezés",
   "DesignRequestPlannerFieldService_install": "Telepítés",
   "DesignRequestPlannerFieldService_service": "Karbantartás",
-  "DesignRequestPlannerFieldService_supply": "Berendezésszállítás"
+  "DesignRequestPlannerFieldService_supply": "Berendezésszállítás",
+  "tgchat_title": "Támogatási chat",
+  "tgchat_textarea_placeholder": "Írja be üzenetét...",
+  "tgchat_attach_button_title": "Kép csatolása",
+  "tgchat_send_button": "Küldés",
+  "tgchat_disabled_chat": "Jelenleg offline vagyunk. Kérjük, lépjen kapcsolatba a támogatással ezen a linken:",
+  "tgchat_label_you": "Ön",
+  "tgchat_label_system": "Rendszer",
+  "tgchat_label_operator": "Operátor",
+  "tgchat_label_here": "A link",
+  "tgchat_label_expand_chat": "Chat kibontása",
+  "tgchat_label_collapse_chat": "Chat összecsukása",
+  "tgchat_label_open_chat": "Chat megnyitása"
 }

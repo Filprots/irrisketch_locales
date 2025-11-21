@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Design",
   "DesignRequestPlannerFieldService_install": "Installation",
   "DesignRequestPlannerFieldService_service": "Wartung",
-  "DesignRequestPlannerFieldService_supply": "Ausrüstungslieferung"
+  "DesignRequestPlannerFieldService_supply": "Ausrüstungslieferung",
+  "tgchat_title": "Support-Chat",
+  "tgchat_textarea_placeholder": "Geben Sie Ihre Nachricht ein...",
+  "tgchat_attach_button_title": "Bild anhängen",
+  "tgchat_send_button": "Senden",
+  "tgchat_disabled_chat": "Wir sind derzeit offline. Bitte kontaktieren Sie den Support über diesen Link:",
+  "tgchat_label_you": "Sie",
+  "tgchat_label_system": "System",
+  "tgchat_label_operator": "Operator",
+  "tgchat_label_here": "Der Link",
+  "tgchat_label_expand_chat": "Chat erweitern",
+  "tgchat_label_collapse_chat": "Chat minimieren",
+  "tgchat_label_open_chat": "Chat öffnen"
 }

@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Diseño",
   "DesignRequestPlannerFieldService_install": "Instalación",
   "DesignRequestPlannerFieldService_service": "Mantenimiento",
-  "DesignRequestPlannerFieldService_supply": "Suministro de equipos"
+  "DesignRequestPlannerFieldService_supply": "Suministro de equipos",
+  "tgchat_title": "Chat de soporte",
+  "tgchat_textarea_placeholder": "Escriba su mensaje...",
+  "tgchat_attach_button_title": "Adjuntar imagen",
+  "tgchat_send_button": "Enviar",
+  "tgchat_disabled_chat": "Actualmente estamos fuera de línea. Por favor, contacte con soporte usando este enlace:",
+  "tgchat_label_you": "Usted",
+  "tgchat_label_system": "Sistema",
+  "tgchat_label_operator": "Operador",
+  "tgchat_label_here": "El enlace",
+  "tgchat_label_expand_chat": "Expandir chat",
+  "tgchat_label_collapse_chat": "Contraer chat",
+  "tgchat_label_open_chat": "Abrir chat"
 }

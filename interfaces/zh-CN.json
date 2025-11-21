@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "设计",
   "DesignRequestPlannerFieldService_install": "安装",
   "DesignRequestPlannerFieldService_service": "维护",
-  "DesignRequestPlannerFieldService_supply": "设备供应"
+  "DesignRequestPlannerFieldService_supply": "设备供应",
+  "tgchat_title": "支持聊天",
+  "tgchat_textarea_placeholder": "输入您的消息...",
+  "tgchat_attach_button_title": "附加图片",
+  "tgchat_send_button": "发送",
+  "tgchat_disabled_chat": "我们目前离线。请使用此链接联系支持：",
+  "tgchat_label_you": "您",
+  "tgchat_label_system": "系统",
+  "tgchat_label_operator": "操作员",
+  "tgchat_label_here": "链接",
+  "tgchat_label_expand_chat": "展开聊天",
+  "tgchat_label_collapse_chat": "折叠聊天",
+  "tgchat_label_open_chat": "打开聊天"
 }

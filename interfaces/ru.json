@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Проектирование",
   "DesignRequestPlannerFieldService_install": "Установка",
   "DesignRequestPlannerFieldService_service": "Обслуживание",
-  "DesignRequestPlannerFieldService_supply": "Поставка оборудования"
+  "DesignRequestPlannerFieldService_supply": "Поставка оборудования",
+  "tgchat_title": "Чатик с Филом",
+  "tgchat_textarea_placeholder": "Введите ваше сообщение...",
+  "tgchat_attach_button_title": "Прикрепить изображение",
+  "tgchat_send_button": "Отправить",
+  "tgchat_disabled_chat": "Мы с братом сейчас не в сети. Пожалуйста, свяжитесь с поддержкой по этой ссылке:",
+  "tgchat_label_you": "Вы",
+  "tgchat_label_system": "Система",
+  "tgchat_label_operator": "Оператор",
+  "tgchat_label_here": "Ссылка",
+  "tgchat_label_expand_chat": "Развернуть чат",
+  "tgchat_label_collapse_chat": "Свернуть чат",
+  "tgchat_label_open_chat": "Открыть чат"
 }

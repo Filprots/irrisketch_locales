@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Dizajn",
   "DesignRequestPlannerFieldService_install": "Inštalácia",
   "DesignRequestPlannerFieldService_service": "Údržba",
-  "DesignRequestPlannerFieldService_supply": "Dodávka vybavenia"
+  "DesignRequestPlannerFieldService_supply": "Dodávka vybavenia",
+  "tgchat_title": "Chat podpory",
+  "tgchat_textarea_placeholder": "Zadajte svoju správu...",
+  "tgchat_attach_button_title": "Priložiť obrázok",
+  "tgchat_send_button": "Odoslať",
+  "tgchat_disabled_chat": "Momentálne sme offline. Prosím, kontaktujte podporu pomocou tohto odkazu:",
+  "tgchat_label_you": "Vy",
+  "tgchat_label_system": "Systém",
+  "tgchat_label_operator": "Operátor",
+  "tgchat_label_here": "Odkaz",
+  "tgchat_label_expand_chat": "Rozbaliť chat",
+  "tgchat_label_collapse_chat": "Zbaliť chat",
+  "tgchat_label_open_chat": "Otvoriť chat"
 }

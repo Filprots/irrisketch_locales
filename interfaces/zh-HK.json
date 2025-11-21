@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "設計",
   "DesignRequestPlannerFieldService_install": "安裝",
   "DesignRequestPlannerFieldService_service": "維護",
-  "DesignRequestPlannerFieldService_supply": "設備供應"
+  "DesignRequestPlannerFieldService_supply": "設備供應",
+  "tgchat_title": "支援聊天",
+  "tgchat_textarea_placeholder": "輸入您的訊息...",
+  "tgchat_attach_button_title": "附加圖片",
+  "tgchat_send_button": "發送",
+  "tgchat_disabled_chat": "我們目前離線。請使用此連結聯繫支援：",
+  "tgchat_label_you": "您",
+  "tgchat_label_system": "系統",
+  "tgchat_label_operator": "操作員",
+  "tgchat_label_here": "連結",
+  "tgchat_label_expand_chat": "展開聊天",
+  "tgchat_label_collapse_chat": "摺疊聊天",
+  "tgchat_label_open_chat": "打開聊天"
 }

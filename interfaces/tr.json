@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Tasarım",
   "DesignRequestPlannerFieldService_install": "Kurulum",
   "DesignRequestPlannerFieldService_service": "Bakım",
-  "DesignRequestPlannerFieldService_supply": "Ekipman tedariki"
+  "DesignRequestPlannerFieldService_supply": "Ekipman tedariki",
+  "tgchat_title": "Destek sohbeti",
+  "tgchat_textarea_placeholder": "Mesajınızı yazın...",
+  "tgchat_attach_button_title": "Resim ekle",
+  "tgchat_send_button": "Gönder",
+  "tgchat_disabled_chat": "Şu anda çevrimdışıyız. Lütfen bu bağlantıyı kullanarak destek ile iletişime geçin:",
+  "tgchat_label_you": "Siz",
+  "tgchat_label_system": "Sistem",
+  "tgchat_label_operator": "Operatör",
+  "tgchat_label_here": "Bağlantı",
+  "tgchat_label_expand_chat": "Sohbeti genişlet",
+  "tgchat_label_collapse_chat": "Sohbeti daralt",
+  "tgchat_label_open_chat": "Sohbeti aç"
 }

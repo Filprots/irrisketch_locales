@@ -1893,5 +1893,17 @@
   "DesignRequestPlannerFieldService_design": "Projektowanie",
   "DesignRequestPlannerFieldService_install": "Instalacja",
   "DesignRequestPlannerFieldService_service": "Konserwacja",
-  "DesignRequestPlannerFieldService_supply": "Dostawa sprzętu"
+  "DesignRequestPlannerFieldService_supply": "Dostawa sprzętu",
+  "tgchat_title": "Czat wsparcia",
+  "tgchat_textarea_placeholder": "Wpisz swoją wiadomość...",
+  "tgchat_attach_button_title": "Załącz obraz",
+  "tgchat_send_button": "Wyślij",
+  "tgchat_disabled_chat": "Jesteśmy obecnie offline. Proszę skontaktować się z pomocą techniczną używając tego linku:",
+  "tgchat_label_you": "Ty",
+  "tgchat_label_system": "System",
+  "tgchat_label_operator": "Operator",
+  "tgchat_label_here": "Link",
+  "tgchat_label_expand_chat": "Rozwiń czat",
+  "tgchat_label_collapse_chat": "Zwiń czat",
+  "tgchat_label_open_chat": "Otwórz czat"
 }

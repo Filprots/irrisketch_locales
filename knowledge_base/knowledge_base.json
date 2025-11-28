@@ -1,0 +1,352 @@
+[
+  {
+    "text": "Question: HOW DO I GET FILE FROM CAD\n\nAnswer: Hello! You can import .PDF or Image from your CAD as layout image in drawing mode. If you are asking how to export an AutoCAD compatible file from IRRISketch — sadly it is not implemented asa straightforward feature.",
+    "metadata": {
+      "question": "HOW DO I GET FILE FROM CAD",
+      "category": "import_export"
+    }
+  },
+  {
+    "text": "Question: wie kann ich bei Irrisketch ohne eine Maus arbeiten. Bspw. Kann ich nicht Greifen und das Bild nach links oder rechts schieben\n\nAnswer: If you are working from a mobile device with a touch screen, IRRISketch will suggest you undergo a calibration, which is required to properly work with your projects using a touch screen",
+    "metadata": {
+      "question": "wie kann ich bei Irrisketch ohne eine Maus arbeiten. Bspw. Kann ich nicht Greifen und das Bild nach links oder rechts schieben",
+      "category": "mobile_touchscreen"
+    }
+  },
+  {
+    "text": "Question: Як змінити метричну систему вимірювання на американську\n\nAnswer: Inside the project you are working on, open the settings from the menu in top-right corner of the screen. There you can change units of measurments under the corresponding tab.",
+    "metadata": {
+      "question": "Як змінити метричну систему вимірювання на американську",
+      "category": "settings_units"
+    }
+  },
+  {
+    "text": "Question: All my projects don't load. I am stuck in loading screen whenever I open any project.\n\nAnswer: Usually this happens due to updates. Clearing cache and turning off plugins on our page in your browser should fix the issue. If it didn't help, please contact us through e-mail or leave a report.",
+    "metadata": {
+      "question": "All my projects don't load. I am stuck in loading screen whenever I open any project.",
+      "category": "troubleshooting"
+    }
+  },
+  {
+    "text": "Question: Can you upload DWF files into the system?\n\nAnswer: DWF and DWG support is not implemented yet. The only way to import something from other CAD is to import it as PDF file, which our service supports",
+    "metadata": {
+      "question": "Can you upload DWF files into the system?",
+      "category": "import_export"
+    }
+  },
+  {
+    "text": "Question: Hello! Can I set up the irrisketch program to allow me to combine PGP sprinklers with an MP rotator in one zone?\n\nAnswer: Yes! You can combine different sprinklers from different manufacturer by turning off \"strict mode\" in your project settings. To do this, you need to open desired project, click on settings button and find strict mode settings under \"consumers\" tab. Change it to \"Unsafe mode\" and it will be done",
+    "metadata": {
+      "question": "Hello! Can I set up the irrisketch program to allow me to combine PGP sprinklers with an MP rotator in one zone?",
+      "category": "settings_strict_mode"
+    }
+  },
+  {
+    "text": "Question: How do I select a certain diameter for a pipe or a pipe branch?\n\nAnswer: You can do it by right clicking whenever you are in drawing/branching mode and then selecting \"Set diameter\" option. This will allow you to draw the rest of the pipe in a certain diameter.",
+    "metadata": {
+      "question": "How do I select a certain diameter for a pipe or a pipe branch?",
+      "category": "drawing_pipes"
+    }
+  },
+  {
+    "text": "Question: How do I make branches from pipes?\n\nAnswer: To make a branch, you need to select a pipe, and select \"Add branches\" tool in the bottom left menu. Alternatively you can press TAB twice to enter pipe drawing mode for a selected pipe.",
+    "metadata": {
+      "question": "How do I make branches from pipes?",
+      "category": "drawing_pipes"
+    }
+  },
+  {
+    "text": "Question: theres no option for monthly subscription\n\nAnswer: We have 3 main subscription options: Annual, Semi-annual and Monthly. You can find them all here: https://irrisketch.com/account/subscriptions\nThe monthly one will be the last one in the list with the price being specified as per month",
+    "metadata": {
+      "question": "theres no option for monthly subscription",
+      "category": "subscription"
+    }
+  },
+  {
+    "text": "Question: Pontos árat írd le kérlek\n\nAnswer: I can't provide exact prices. This is done to ensure user personal data safety as well because the prices for the service are dynamic and can change depending on location/date/discounts, etc. Please consider checking the prices yourself at https://irrisketch.com/account/subscription",
+    "metadata": {
+      "question": "Pontos árat írd le kérlek",
+      "category": "subscription"
+    }
+  },
+  {
+    "text": "Question: Wie kann ich angeschlossene Regner wieder von der Leitung trennen?\n\nAnswer: To detach sprinkler from a pipe, you can select a pipe and press TAB once. This will activate attachment/detachment mode where you will be able to detach any consumer by clicking on it.",
+    "metadata": {
+      "question": "Wie kann ich angeschlossene Regner wieder von der Leitung trennen?",
+      "category": "drawing_sprinklers"
+    }
+  },
+  {
+    "text": "Question: Can I copy parts of my design/irrigation from project to project?\n\nAnswer: Yes you can do it! To copy one part of project to another, just select the needed part, press CTRL+C, then open new project in new tab and put the copied part in by CTRL+V combination. Basically, you can copy and paste any part of the project.",
+    "metadata": {
+      "question": "Can I copy parts of my design/irrigation from project to project?",
+      "category": "project_management"
+    }
+  },
+  {
+    "text": "Question: Beste, de druppelslang afdekking toont zich in de tekening met horizontale lijnen. is het mogelijk deze verticaal te zetten?\n\nAnswer: Yes you can! There is two ways to change the direction of drip cover. First you can use \"set angle of laying\" button in bottom left corner of the screen. Other method is by using left and right arrow keys on keyboard which will also change the angle in desired direction.",
+    "metadata": {
+      "question": "Beste, de druppelslang afdekking toont zich in de tekening met horizontale lijnen. is het mogelijk deze verticaal te zetten?",
+      "category": "drawing_drip"
+    }
+  },
+  {
+    "text": "Question: ich kann in einem Projekt nicht in das layout wechseln\n\nAnswer: If you can't switch to the layout in your project, this usually means that you got an error in your project. Most likely that technical support is already fixing your project, but if you are unsure or it happens for a long time please contact us via e-mail or our telegram or whatsapp chats.",
+    "metadata": {
+      "question": "ich kann in einem Projekt nicht in das layout wechseln",
+      "category": "troubleshooting"
+    }
+  },
+  {
+    "text": "Question: Where do I set the precipitation profile?\n\nAnswer: There is no way to add precipitation profile yourself. We are constantly adding precipitation profiles to equipment as soon as manufacturer sends us their specifications. For now you can see which equipment has precipitation profiles available by seeing blue \"water droplets\" icon near said equipment",
+    "metadata": {
+      "question": "Where do I set the precipitation profile?",
+      "category": "equipment_profiles"
+    }
+  },
+  {
+    "text": "Question: Hello, cant get code to email\n\nAnswer: If you are not getting confirmation code, please check your \"Spam\" folder as sometimes it appears there. If that's not the case, please contact us through E-mail or one of our chats In Telegram or WhatsApp so we can investigate this issue thoroughly.",
+    "metadata": {
+      "question": "Hello, cant get code to email",
+      "category": "account_verification"
+    }
+  },
+  {
+    "text": "Question: wie kann ich Regner bei einer bestehenden voreinstellung hinzufügen?\n\nAnswer: Sie müssen die Voreinstellung, die Sie aktualisieren möchten, anwenden, dann Regner hinzufügen und anschließend eine neue Voreinstellung auf der Grundlage der alten Voreinstellung erstellen. In dieser Version des Programms ist es nicht möglich, eine bestehende Voreinstellung zu ändern.",
+    "metadata": {
+      "question": "wie kann ich Regner bei einer bestehenden voreinstellung hinzufügen?",
+      "category": "presets"
+    }
+  },
+  {
+    "text": "Question: rozmery sú v cm alebo mm?\n\nAnswer: Drawing sizes are measured in units that you can select in project configuration tab (located in top right menu in your project) under \"Units of measurement\" tab.",
+    "metadata": {
+      "question": "rozmery sú v cm alebo mm?",
+      "category": "settings_units"
+    }
+  },
+  {
+    "text": "Question: there is no specific master valve to select in the components\n\nAnswer: IRRISketch version 1.0 does not have a master valve element to draw on canvas. You can just simply add solenoid valve in specifications list as arbitrary element on the mainline",
+    "metadata": {
+      "question": "there is no specific master valve to select in the components",
+      "category": "equipment_components"
+    }
+  },
+  {
+    "text": "Question: Hi will we be able to add individual drip/micro sprayers ie. Antelco spike Shrubblers. For veggie patches soon.\n\nAnswer: Currently there is no way to add custom irrigation parts that are not listed in our equipments lists. However, we are currently collecting user feedback to figure out what features they will want in next version of IRRISketch. I noted developer about your request so it might appear in future!",
+    "metadata": {
+      "question": "Hi will we be able to add individual drip/micro sprayers ie. Antelco spike Shrubblers. For veggie patches soon.",
+      "category": "equipment_custom"
+    }
+  },
+  {
+    "text": "Question: laba diena, gal galėtumėte pateikti keletą purkštukų dėliojimo pavyzdžių ?\n\nAnswer: While I can't directly provide you with best practices to place the nozzles, you can get some information from experienced users in our chats here:\nTelegram: https://t.me/irrisketchTGEN\nWhatsApp: http://bit.ly/irrishelpEN",
+    "metadata": {
+      "question": "laba diena, gal galėtumėte pateikti keletą purkštukų dėliojimo pavyzdžių ?",
+      "category": "support_community"
+    }
+  },
+  {
+    "text": "Question: Wie geht es Herrn Wirtz?\n\nAnswer: Mr. Wirtz is doing great and you can reach him on anything in regard of IRRISketch here: theo@irrisketch.com tel:+4924565074510",
+    "metadata": {
+      "question": "Wie geht es Herrn Wirtz?",
+      "category": "contact"
+    }
+  },
+  {
+    "text": "Question: wie platziere ich einen Regner?\n\nAnswer: To place a sprinkler go to irrigation tab, select the desired sprinkler from tool menu on the left and click on canvas to put the sprinkler.",
+    "metadata": {
+      "question": "wie platziere ich einen Regner?",
+      "category": "drawing_sprinklers"
+    }
+  },
+  {
+    "text": "Question: How to draw a perfect circle?\n\nAnswer: To draw a perfect circle, you can draw it with a single touch of a brush instrument of required size (Brush size is in centimeters, consider it when setting the size up). After that just make a perfect circle with brush tool and you can transform it into the polygon via bottom left menu.",
+    "metadata": {
+      "question": "How to draw a perfect circle?",
+      "category": "drawing_tools"
+    }
+  },
+  {
+    "text": "Question: How do you make multiple lines in a stamp?\n\nAnswer: There are two ways: In the stamp text creation mode, in the actions menu on the left, click the Number of lines button. Or use the keyboard and press the plus and minus buttons. It is important to be in stamp text creation or modification mode!",
+    "metadata": {
+      "question": "How do you make multiple lines in a stamp?",
+      "category": "drawing_stamps"
+    }
+  },
+  {
+    "text": "Question: How to make an assembly in the price list\n\nAnswer: First you need to create an empty assembly. Then you need to select a few elements that you want to add to the assembly and the assembly itself is also included in the selection, then call the context menu in which you click: \"Add selected elements to selected assemblies\".",
+    "metadata": {
+      "question": "How to make an assembly in the price list",
+      "category": "price_list"
+    }
+  },
+  {
+    "text": "Question: How do I change the pitch of the drip coverage?\n\nAnswer: When drawing drip coating, there are corresponding buttons in the action menu (bottom left). The arrows on the keyboard and the plus and minus buttons also work",
+    "metadata": {
+      "question": "How do I change the pitch of the drip coverage?",
+      "category": "drawing_drip"
+    }
+  },
+  {
+    "text": "Question: The throughput capacity of pipelines with a diameter of ...?\n\nAnswer: To calculate pipeline losses, we have a calculator at https://irrisketch.com/calcs.",
+    "metadata": {
+      "question": "The throughput capacity of pipelines with a diameter of ...?",
+      "category": "calculations"
+    }
+  },
+  {
+    "text": "Question: How to influence the hydraulic calculation?\n\nAnswer: The program does not perform a full hydraulic calculation. Pipe diameters are determined based on the maximum allowable flow velocity in the pipe. You can set a fixed pipe diameter while drawing the pipes. Or set a range of possible diameters in the project settings for automatic selection.",
+    "metadata": {
+      "question": "How to influence the hydraulic calculation?",
+      "category": "calculations"
+    }
+  },
+  {
+    "text": "Question: When the second or any other version of IRRISketch will be released?\n\nAnswer: IRRISketch 2.0 is in development, but we can't disclose any dates or progress that is being made towards new iteration of our service. You will know everything when the time comes from our public chats, groups and other social media.",
+    "metadata": {
+      "question": "When the second or any other version of IRRISketch will be released?",
+      "category": "product_info"
+    }
+  },
+  {
+    "text": "Question: are RainBird R-Van Nozzels in irrisketch?\n\nAnswer: Yes IRRISketch have RainBird R-Van Nozzles implemented in equipment lists",
+    "metadata": {
+      "question": "are RainBird R-Van Nozzels in irrisketch?",
+      "category": "equipment_brands"
+    }
+  },
+  {
+    "text": "Question: which products are included?\n\nAnswer: Here is the list of available equipment manufacturers: - Hunter - Rain Bird - Rain S.P.A. - TORO - K-Rain - Weathermatic - Irritec - AZUD - DROPBYDROP - Netafim - IRRI-GO - Solem - NaanDanJain",
+    "metadata": {
+      "question": "which products are included?",
+      "category": "equipment_brands"
+    }
+  },
+  {
+    "text": "Question: What's the difference between PRO and free version?\n\nAnswer: Free version allows: \n- Up to 3 projects\n- Up to 1 layout\n- Maximum size of canvas is 50x50m\n- No specs\n- Export only to image\nPRO version allows:\n- Any amount of projects\n- Any amount of layouts\n- Maximum size of canvas is 500x500m\n- Export to PDF/Image\n- Includes: IRRISeller and Design Studio",
+    "metadata": {
+      "question": "What's the difference between PRO and free version?",
+      "category": "subscription"
+    }
+  },
+  {
+    "text": "Question: can I add own products?\n\nAnswer: You can send a request to add new products to IRRISketch via contacting support or reaching us in our chats in WhatsApp or Telegram. You can find links to chats or send us an email",
+    "metadata": {
+      "question": "can I add own products?",
+      "category": "equipment_custom"
+    }
+  },
+  {
+    "text": "Question: who invented irisktech?\n\nAnswer: IRRISketch was invented by Philiph Protsenko. He is a lead designer and developer for IRRISketch. You can learn more about team behind this service here: https://irrisketch.com/about",
+    "metadata": {
+      "question": "who invented irisktech?",
+      "category": "product_info"
+    }
+  },
+  {
+    "text": "Question: I want to submit a bug\n\nAnswer: Of course! Please write down description of what causes the bug and how to recreate it as thoroughly as possible. You can also attach screenshots and/or contact technical support if you want to give more information on the bug or you think it's crucial:\n\nhttps://irrisketch.com/support",
+    "metadata": {
+      "question": "I want to submit a bug",
+      "category": "support"
+    }
+  },
+  {
+    "text": "Question: I can't export my project to .PDF\n\nAnswer: Most commonly this issue occurs when you don't have pop-up windows allowed on our website. They are crucial for PDF export to work, so to fix this problem, please check if they are turned on.\n\nIf it's not the case and pop-up windows are active, please send me link to the project that you have issues with and I will send it to the developer for further investigation.",
+    "metadata": {
+      "question": "I can't export my project to .PDF",
+      "category": "export"
+    }
+  },
+  {
+    "text": "Question: How do I add Irrigation time table?\n\nAnswer: This feature has been removed due to issues it caused in previous versions of the service. For now there is no way to use this table.",
+    "metadata": {
+      "question": "How do I add Irrigation time table?",
+      "category": "features_removed"
+    }
+  },
+  {
+    "text": "Question: Why can't I find \"Irrigation time\" table like shown in tutorial?\n\nAnswer: This feature has been removed due to issues it caused in previous versions of the service. For now there is no way to use this table.",
+    "metadata": {
+      "question": "Why can't I find \"Irrigation time\" table like shown in tutorial?",
+      "category": "features_removed"
+    }
+  },
+  {
+    "text": "Question: How do I increase size of pipes, water sources or consumers in my project?\n\nAnswer: To increase size of any irrigation element as well as to change it visibility you can use layer manager tool in layouts mode. It is located in bottom right part of the screen:\nThere you can change anything related to visibility of irrigation design layers.",
+    "metadata": {
+      "question": "How do I increase size of pipes, water sources or consumers in my project?",
+      "category": "layouts"
+    }
+  },
+  {
+    "text": "Question: Where can I find tutorials for IRRISketch?\n\nAnswer: All tutorials are located here:\nhttps://irrisketch.com/tutorials",
+    "metadata": {
+      "question": "Where can I find tutorials for IRRISketch?",
+      "category": "tutorials"
+    }
+  },
+  {
+    "text": "Question: Layout image is rotated after I export my project to PDF or Image\n\nAnswer: This is happening because your original image contains exif metadata. To make the image behave properly, you need to remove this metadata by using service www.verexif.com/en/. After you open the link - load your image, then press \"Remove exif\" button, download new image and replace old one in IRRISketch.",
+    "metadata": {
+      "question": "Layout image is rotated after I export my project to PDF or Image",
+      "category": "export"
+    }
+  },
+  {
+    "text": "Question: The drip pipes are not displayed in layout mode\n\nAnswer: This behaviour is related to the zone representation settings in the layout. To change the zone representation settings, in the lower left corner, in the layouts mode, click on the \"Zones representation\" button and check the boxes next to the zones you want to see in the layout. Alternatively, you can create a new layout and all existing zones will be displayed on it.",
+    "metadata": {
+      "question": "The drip pipes are not displayed in layout mode",
+      "category": "layouts"
+    }
+  },
+  {
+    "text": "Question: Transition to drawing mode takes a lot of time\n\nAnswer: Usually, this is related to a very large number of elements in the project, as IRRISketch Residential is not designed for particularly large plots. This problem can be solved by deleting all existing objects in drawing mode and replacing them with a single background.\n\n1. Create a copy of the project and open it if you're afraid of accidentally losing data.\n2. Switch to irrigation mode and use the ctrl+a key combination to select all elements, then cut them using the ctrl+x key combination (they will be saved in the clipboard).\n3. Switch to drawing mode, set the \"Landscape\" setting in the \"Visual Style\" tab to obtain the original landscape of the project, and remove the stamp.\n4. Select a sheet format from A1 to A4. The larger the sheet size, the higher the quality of the final image, but the more space it will occupy.\n5. Use the \"Ruler\" tool in drawing mode to measure any easily measurable element of the drawing and record its length, as it will be needed later.\n6. Switch to \"Edit Drawing\" mode at the bottom of the screen and insert the drawing into the sheet using the button at the bottom left. Export the project as an image. If the resulting image is larger than 10MB, you won't be able to use it. In that case, if you know how to use various image editors (such as Photoshop, Gimp), compress the image or reduce the number of colors. This will reduce the file size.\n7. Insert the image into the project and set the correct scale using the length recorded in step 5.\n8. Align the image with your drawing so that all elements are in the same positions as they appear in the image.\n9. Lock the image by selecting it and clicking the corresponding button at the bottom left.\n10. Use the ctrl+a key combination to select all elements in drawing mode and delete them. Only your image should remain.\n11. Return to irrigation mode and paste all previously deleted irrigation elements back onto the drawing using the ctrl+v key combination. If done correctly, all elements should return to their original positions.",
+    "metadata": {
+      "question": "Transition to drawing mode takes a lot of time",
+      "category": "troubleshooting"
+    }
+  },
+  {
+    "text": "Question: How do I send a project to another user?\n\nAnswer: To do this, you can download the project file using the appropriate button on the top right panel and send the downloaded file to another user. After that, he should create an empty project and using the \"Load\" button, open previously downloaded file.",
+    "metadata": {
+      "question": "How do I send a project to another user?",
+      "category": "project_management"
+    }
+  },
+  {
+    "text": "Question: How do I display the grid in a project drawing? The grid doesn't appear when I export a project as PDF or PNG.\n\nAnswer: To display the grid when printing, it must be placed on the drawing as an image. You can download the grid, for example from here - https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing, and then scale it on the drawing to the desired size.",
+    "metadata": {
+      "question": "How do I display the grid in a project drawing? The grid doesn't appear when I export a project as PDF or PNG.",
+      "category": "drawing_tools"
+    }
+  },
+  {
+    "text": "Question: I want to restore a certain state of my project\n\nAnswer: 1. Open the same browser, on the same computer where you last worked on the project.\n2. Go to the IRRISketch workshop and open the project that the problem is related to.\n3. If when opening a project, a window appears offering to restore the project - press the \"Restore\" button and look at the result. If the project has not been restored to the required state, continue to follow instructions.\n4. In the upper right corner, click the History button (clock icon with arrow) and if everything was saved correctly, you will see a list of timestamps of your project states. Select the one when the project was in the most desired state. After that, be sure to save the project!",
+    "metadata": {
+      "question": "I want to restore a certain state of my project",
+      "category": "project_management"
+    }
+  },
+  {
+    "text": "Question: Changes in the project have not been saved. What should I do?\n\nAnswer: 1. Open the same browser, on the same computer where you last worked on the project.\n2. Go to the IRRISketch workshop and open the project that the problem is related to.\n3. If when opening a project, a window appears offering to restore the project - press the \"Restore\" button and look at the result. If the project has not been restored to the required state, continue to follow instructions.\n4. In the upper right corner, click the History button (clock icon with arrow) and if everything was saved correctly, you will see a list of timestamps of your project states. Select the one when the project was in the most desired state. After that, be sure to save the project!",
+    "metadata": {
+      "question": "Changes in the project have not been saved. What should I do?",
+      "category": "troubleshooting"
+    }
+  },
+  {
+    "text": "Question: I paid for the subscription, but it did not appear in my personal cabinet\n\nAnswer: In this case, you need to go to your personal account by following this link: www.irrisketch.com/account/orders. Look at the button at the bottom of the order. The red \"Repeat\" button means that the payment failed and you should try again, but first check to see if the money has been charged. If you have been seeing the yellow \"Payment in progress\" button for a long time, chances are that the transaction has not happened automatic confirmation. If this is the case, click this button to complete it and everything should work. After the successful payment and completion of the transaction you will see a green \"Payment Verified\" button. Click it and your subscription will appear in the right column.",
+    "metadata": {
+      "question": "I paid for the subscription, but it did not appear in my personal cabinet",
+      "category": "subscription"
+    }
+  },
+  {
+    "text": "Question: Hello! I have a problem with one of my projects. When I switch to \"layouts\" tab it gives me an error. What should I do?\n\nAnswer: Hello! Errors can happen from time to time, we fix each one manually. To resolve your issue, you can contact our technical support using our chats in Telegram or WhatsApp or writing us a direct e-mail.",
+    "metadata": {
+      "question": "Hello! I have a problem with one of my projects. When I switch to \"layouts\" tab it gives me an error. What should I do?",
+      "category": "troubleshooting"
+    }
+  }
+]

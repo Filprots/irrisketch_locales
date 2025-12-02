@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "Der Link",
   "tgchat_label_expand_chat": "Chat erweitern",
   "tgchat_label_collapse_chat": "Chat minimieren",
-  "tgchat_label_open_chat": "Chat öffnen"
+  "tgchat_label_open_chat": "Chat öffnen",
+  "CUSTELS_TYPE_pinpoint": "Punktregner",
+  "CUSTELS_DL_CONFIGURATION": "Tropfleitungskonfiguration",
+  "CUSTELS_DL_VARIANT": "Variante",
+  "CUSTELS_DL_STEP": "Emitterabstand",
+  "CUSTELS_DL_FLOW": "Emitterdurchfluss",
+  "CUSTELS_DL_EMITTER": "Mit Emittern"
 }

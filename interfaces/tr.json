@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "Bağlantı",
   "tgchat_label_expand_chat": "Sohbeti genişlet",
   "tgchat_label_collapse_chat": "Sohbeti daralt",
-  "tgchat_label_open_chat": "Sohbeti aç"
+  "tgchat_label_open_chat": "Sohbeti aç",
+  "CUSTELS_TYPE_pinpoint": "Nokta fıskiyesi",
+  "CUSTELS_DL_CONFIGURATION": "Damla sulama hattı yapılandırması",
+  "CUSTELS_DL_VARIANT": "Varyant",
+  "CUSTELS_DL_STEP": "Emitör adımı",
+  "CUSTELS_DL_FLOW": "Emitör debisi",
+  "CUSTELS_DL_EMITTER": "Emitörlü"
 }

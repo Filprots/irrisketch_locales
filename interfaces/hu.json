@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "A link",
   "tgchat_label_expand_chat": "Chat kibontása",
   "tgchat_label_collapse_chat": "Chat összecsukása",
-  "tgchat_label_open_chat": "Chat megnyitása"
+  "tgchat_label_open_chat": "Chat megnyitása",
+  "CUSTELS_TYPE_pinpoint": "Pontpermető",
+  "CUSTELS_DL_CONFIGURATION": "Csepegtető vezeték konfiguráció",
+  "CUSTELS_DL_VARIANT": "Változat",
+  "CUSTELS_DL_STEP": "Emitter lépés",
+  "CUSTELS_DL_FLOW": "Emitter áramlás",
+  "CUSTELS_DL_EMITTER": "Emitterekkel"
 }

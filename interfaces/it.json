@@ -210,7 +210,7 @@
   "loader_loadingObjects": "Creazione di oggetti",
   "loader_loadingLayouts": "Preparazione dei layout",
   "loader_pdfConverting": "Convertire il PDF",
-  "-----------------------------------------SITE SECTION": "-",
+  "-----------------------------------------SITE SECTION": "",
   "_0_": "-",
   "About": "Di",
   "Services": "Servizi",
@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "Il link",
   "tgchat_label_expand_chat": "Espandi chat",
   "tgchat_label_collapse_chat": "Comprimi chat",
-  "tgchat_label_open_chat": "Apri chat"
+  "tgchat_label_open_chat": "Apri chat",
+  "CUSTELS_TYPE_pinpoint": "Irrigatore a punto",
+  "CUSTELS_DL_CONFIGURATION": "Configurazione linea gocciolante",
+  "CUSTELS_DL_VARIANT": "Variante",
+  "CUSTELS_DL_STEP": "Passo degli emettitori",
+  "CUSTELS_DL_FLOW": "Portata dell'emettitore",
+  "CUSTELS_DL_EMITTER": "Con emettitori"
 }

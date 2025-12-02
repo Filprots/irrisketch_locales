@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "Nuoroda",
   "tgchat_label_expand_chat": "Išplėsti pokalbį",
   "tgchat_label_collapse_chat": "Suskleisti pokalbį",
-  "tgchat_label_open_chat": "Atidaryti pokalbį"
+  "tgchat_label_open_chat": "Atidaryti pokalbį",
+  "CUSTELS_TYPE_pinpoint": "Taškinis purkštuvas",
+  "CUSTELS_DL_CONFIGURATION": "Lašinimo linijos konfigūracija",
+  "CUSTELS_DL_VARIANT": "Variantas",
+  "CUSTELS_DL_STEP": "Emitatorių žingsnis",
+  "CUSTELS_DL_FLOW": "Emitatoriaus srautas",
+  "CUSTELS_DL_EMITTER": "Su emitatoriais"
 }

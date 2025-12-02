@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "Odkaz",
   "tgchat_label_expand_chat": "Rozbaliť chat",
   "tgchat_label_collapse_chat": "Zbaliť chat",
-  "tgchat_label_open_chat": "Otvoriť chat"
+  "tgchat_label_open_chat": "Otvoriť chat",
+  "CUSTELS_TYPE_pinpoint": "Bodový postrekovač",
+  "CUSTELS_DL_CONFIGURATION": "Konfigurácia kvapkovej línie",
+  "CUSTELS_DL_VARIANT": "Varianta",
+  "CUSTELS_DL_STEP": "Krok emiterov",
+  "CUSTELS_DL_FLOW": "Prietoč emitera",
+  "CUSTELS_DL_EMITTER": "S emitermi"
 }

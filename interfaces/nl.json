@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "De link",
   "tgchat_label_expand_chat": "Chat uitklappen",
   "tgchat_label_collapse_chat": "Chat inklappen",
-  "tgchat_label_open_chat": "Chat openen"
+  "tgchat_label_open_chat": "Chat openen",
+  "CUSTELS_TYPE_pinpoint": "Puntverstuiver",
+  "CUSTELS_DL_CONFIGURATION": "Druppelleiding configuratie",
+  "CUSTELS_DL_VARIANT": "Variant",
+  "CUSTELS_DL_STEP": "Emitter stap",
+  "CUSTELS_DL_FLOW": "Emitter debiet",
+  "CUSTELS_DL_EMITTER": "Met emitters"
 }

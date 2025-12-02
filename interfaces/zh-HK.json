@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "連結",
   "tgchat_label_expand_chat": "展開聊天",
   "tgchat_label_collapse_chat": "摺疊聊天",
-  "tgchat_label_open_chat": "打開聊天"
+  "tgchat_label_open_chat": "打開聊天",
+  "CUSTELS_TYPE_pinpoint": "點灑水器",
+  "CUSTELS_DL_CONFIGURATION": "滴灌線配置",
+  "CUSTELS_DL_VARIANT": "變體",
+  "CUSTELS_DL_STEP": "發射器間距",
+  "CUSTELS_DL_FLOW": "發射器流量",
+  "CUSTELS_DL_EMITTER": "帶發射器"
 }

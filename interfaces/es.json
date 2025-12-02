@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "El enlace",
   "tgchat_label_expand_chat": "Expandir chat",
   "tgchat_label_collapse_chat": "Contraer chat",
-  "tgchat_label_open_chat": "Abrir chat"
+  "tgchat_label_open_chat": "Abrir chat",
+  "CUSTELS_TYPE_pinpoint": "Aspersor de punto",
+  "CUSTELS_DL_CONFIGURATION": "Configuración de línea de goteo",
+  "CUSTELS_DL_VARIANT": "Variante",
+  "CUSTELS_DL_STEP": "Paso de emisores",
+  "CUSTELS_DL_FLOW": "Caudal del emisor",
+  "CUSTELS_DL_EMITTER": "Con emisores"
 }

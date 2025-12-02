@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "Link",
   "tgchat_label_expand_chat": "Rozwiń czat",
   "tgchat_label_collapse_chat": "Zwiń czat",
-  "tgchat_label_open_chat": "Otwórz czat"
+  "tgchat_label_open_chat": "Otwórz czat",
+  "CUSTELS_TYPE_pinpoint": "Zraszacz punktowy",
+  "CUSTELS_DL_CONFIGURATION": "Konfiguracja linii kroplującej",
+  "CUSTELS_DL_VARIANT": "Wariant",
+  "CUSTELS_DL_STEP": "Krok emiterów",
+  "CUSTELS_DL_FLOW": "Przepływ emitera",
+  "CUSTELS_DL_EMITTER": "Z emiterami"
 }

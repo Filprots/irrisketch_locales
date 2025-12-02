@@ -1905,5 +1905,11 @@
   "tgchat_label_here": "Le lien",
   "tgchat_label_expand_chat": "Développer le chat",
   "tgchat_label_collapse_chat": "Réduire le chat",
-  "tgchat_label_open_chat": "Ouvrir le chat"
+  "tgchat_label_open_chat": "Ouvrir le chat",
+  "CUSTELS_TYPE_pinpoint": "Arroseur ponctuel",
+  "CUSTELS_DL_CONFIGURATION": "Configuration de la ligne de goutte à goutte",
+  "CUSTELS_DL_VARIANT": "Variante",
+  "CUSTELS_DL_STEP": "Pas des émetteurs",
+  "CUSTELS_DL_FLOW": "Débit de l'émetteur",
+  "CUSTELS_DL_EMITTER": "Avec émetteurs"
 }

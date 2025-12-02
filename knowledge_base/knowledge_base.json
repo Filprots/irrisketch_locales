@@ -56,14 +56,14 @@
     }
   },
   {
-    "text": "Question: There's no option for monthly subscription.\n\nAnswer: We have 3 main subscription options: Annual, Semi-annual and Monthly. You can find them all here: https://irrisketch.com/account/subscriptions\nThe monthly one will be the last one in the list with the price being specified as per month.",
+    "text": "Question: There's no option for monthly subscription.\n\nAnswer: We have 3 main subscription options: Annual, Semi-annual and Monthly. You can find them all here: /account/subscriptions\nThe monthly one will be the last one in the list with the price being specified as per month.",
     "metadata": {
       "question": "There's no option for monthly subscription.",
       "category": "subscription"
     }
   },
   {
-    "text": "Question: Pontos árat írd le kérlek\n\nAnswer: I can't provide exact prices. This is done to ensure user personal data safety as well because the prices for the service are dynamic and can change depending on location/date/discounts, etc. Please consider checking the prices yourself at https://irrisketch.com/account/subscription",
+    "text": "Question: Pontos árat írd le kérlek\n\nAnswer: I can't provide exact prices. This is done to ensure user personal data safety as well because the prices for the service are dynamic and can change depending on location/date/discounts, etc. Please consider checking the prices yourself at /account/subscription",
     "metadata": {
       "question": "Pontos árat írd le kérlek",
       "category": "subscription"
@@ -189,7 +189,7 @@
     }
   },
   {
-    "text": "Question: The throughput capacity of pipelines with a diameter of ...?\n\nAnswer: To calculate pipeline losses, we have a calculator at https://irrisketch.com/calcs.",
+    "text": "Question: The throughput capacity of pipelines with a diameter of ...?\n\nAnswer: To calculate pipeline losses, we have a calculator at /calcs.",
     "metadata": {
       "question": "The throughput capacity of pipelines with a diameter of ...?",
       "category": "calculations"
@@ -238,14 +238,14 @@
     }
   },
   {
-    "text": "Question: Who invented irisktech?\n\nAnswer: IRRISketch was invented by Philiph Protsenko. He is a lead designer and developer for IRRISketch. You can learn more about team behind this service here: https://irrisketch.com/about",
+    "text": "Question: Who invented irisktech?\n\nAnswer: IRRISketch was invented by Philiph Protsenko. He is a lead designer and developer for IRRISketch. You can learn more about team behind this service here: /about",
     "metadata": {
       "question": "Who invented irisktech?",
       "category": "product_info"
     }
   },
   {
-    "text": "Question: I want to submit a bug.\n\nAnswer: Of course! Please write down description of what causes the bug and how to recreate it as thoroughly as possible. You can also attach screenshots and/or contact technical support if you want to give more information on the bug or you think it's crucial:\n\nhttps://irrisketch.com/support",
+    "text": "Question: I want to submit a bug.\n\nAnswer: Of course! Please write down description of what causes the bug and how to recreate it as thoroughly as possible. You can also attach screenshots and/or contact technical support if you want to give more information on the bug or you think it's crucial:\n\n/support",
     "metadata": {
       "question": "I want to submit a bug.",
       "category": "support"
@@ -280,7 +280,7 @@
     }
   },
   {
-    "text": "Question: Where can I find tutorials for IRRISketch?\n\nAnswer: All tutorials are located here:\nhttps://irrisketch.com/tutorials",
+    "text": "Question: Where can I find tutorials for IRRISketch?\n\nAnswer: All tutorials are located here:\n/tutorials",
     "metadata": {
       "question": "Where can I find tutorials for IRRISketch?",
       "category": "tutorials"
@@ -336,7 +336,7 @@
     }
   },
   {
-    "text": "Question: I paid for the subscription, but it did not appear in my personal cabinet\n\nAnswer: In this case, you need to go to your personal account by following this link: www.irrisketch.com/account/orders. Look at the button at the bottom of the order. The red \"Repeat\" button means that the payment failed and you should try again, but first check to see if the money has been charged. If you have been seeing the yellow \"Payment in progress\" button for a long time, chances are that the transaction has not happened automatic confirmation. If this is the case, click this button to complete it and everything should work. After the successful payment and completion of the transaction you will see a green \"Payment Verified\" button. Click it and your subscription will appear in the right column.",
+    "text": "Question: I paid for the subscription, but it did not appear in my personal cabinet\n\nAnswer: In this case, you need to go to your personal account by following this link: /account/orders. Look at the button at the bottom of the order. The red \"Repeat\" button means that the payment failed and you should try again, but first check to see if the money has been charged. If you have been seeing the yellow \"Payment in progress\" button for a long time, chances are that the transaction has not happened automatic confirmation. If this is the case, click this button to complete it and everything should work. After the successful payment and completion of the transaction you will see a green \"Payment Verified\" button. Click it and your subscription will appear in the right column.",
     "metadata": {
       "question": "I paid for the subscription, but it did not appear in my personal cabinet",
       "category": "subscription"

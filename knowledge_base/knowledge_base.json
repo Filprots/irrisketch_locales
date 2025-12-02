@@ -1,22 +1,22 @@
 [
   {
-    "text": "Question: HOW DO I GET FILE FROM CAD\n\nAnswer: Hello! You can import .PDF or Image from your CAD as layout image in drawing mode. If you are asking how to export an AutoCAD compatible file from IRRISketch — sadly it is not implemented asa straightforward feature.",
+    "text": "Question: How do I get file from CAD?\n\nAnswer: Hello! You can import .PDF or Image from your CAD as layout image in drawing mode. If you are asking how to export an AutoCAD compatible file from IRRISketch — sadly it is not implemented as a straightforward feature.",
     "metadata": {
-      "question": "HOW DO I GET FILE FROM CAD",
+      "question": "How do I get file from CAD?",
       "category": "import_export"
     }
   },
   {
-    "text": "Question: wie kann ich bei Irrisketch ohne eine Maus arbeiten. Bspw. Kann ich nicht Greifen und das Bild nach links oder rechts schieben\n\nAnswer: If you are working from a mobile device with a touch screen, IRRISketch will suggest you undergo a calibration, which is required to properly work with your projects using a touch screen",
+    "text": "Question: Wie kann ich bei Irrisketch ohne eine Maus arbeiten? Bspw. Kann ich nicht Greifen und das Bild nach links oder rechts schieben.\n\nAnswer: If you are working from a mobile device with a touch screen, IRRISketch will suggest you undergo a calibration, which is required to properly work with your projects using a touch screen.",
     "metadata": {
-      "question": "wie kann ich bei Irrisketch ohne eine Maus arbeiten. Bspw. Kann ich nicht Greifen und das Bild nach links oder rechts schieben",
+      "question": "Wie kann ich bei Irrisketch ohne eine Maus arbeiten? Bspw. Kann ich nicht Greifen und das Bild nach links oder rechts schieben.",
       "category": "mobile_touchscreen"
     }
   },
   {
-    "text": "Question: Як змінити метричну систему вимірювання на американську\n\nAnswer: Inside the project you are working on, open the settings from the menu in top-right corner of the screen. There you can change units of measurments under the corresponding tab.",
+    "text": "Question: Як змінити метричну систему вимірювання на американську?\n\nAnswer: Inside the project you are working on, open the settings from the menu in top-right corner of the screen. There you can change units of measurements under the corresponding tab.",
     "metadata": {
-      "question": "Як змінити метричну систему вимірювання на американську",
+      "question": "Як змінити метричну систему вимірювання на американську?",
       "category": "settings_units"
     }
   },
@@ -28,14 +28,14 @@
     }
   },
   {
-    "text": "Question: Can you upload DWF files into the system?\n\nAnswer: DWF and DWG support is not implemented yet. The only way to import something from other CAD is to import it as PDF file, which our service supports",
+    "text": "Question: Can you upload DWF files into the system?\n\nAnswer: DWF and DWG support is not implemented yet. The only way to import something from other CAD is to import it as PDF file, which our service supports.",
     "metadata": {
       "question": "Can you upload DWF files into the system?",
       "category": "import_export"
     }
   },
   {
-    "text": "Question: Hello! Can I set up the irrisketch program to allow me to combine PGP sprinklers with an MP rotator in one zone?\n\nAnswer: Yes! You can combine different sprinklers from different manufacturer by turning off \"strict mode\" in your project settings. To do this, you need to open desired project, click on settings button and find strict mode settings under \"consumers\" tab. Change it to \"Unsafe mode\" and it will be done",
+    "text": "Question: Hello! Can I set up the irrisketch program to allow me to combine PGP sprinklers with an MP rotator in one zone?\n\nAnswer: Yes! You can combine different sprinklers from different manufacturers by turning off \"strict mode\" in your project settings. To do this, you need to open desired project, click on settings button and find strict mode settings under \"consumers\" tab. Change it to \"Unsafe mode\" and it will be done.",
     "metadata": {
       "question": "Hello! Can I set up the irrisketch program to allow me to combine PGP sprinklers with an MP rotator in one zone?",
       "category": "settings_strict_mode"
@@ -56,14 +56,14 @@
     }
   },
   {
-    "text": "Question: theres no option for monthly subscription\n\nAnswer: We have 3 main subscription options: Annual, Semi-annual and Monthly. You can find them all here: https://irrisketch.com/account/subscriptions\nThe monthly one will be the last one in the list with the price being specified as per month",
+    "text": "Question: There's no option for monthly subscription.\n\nAnswer: We have 3 main subscription options: Annual, Semi-annual and Monthly. You can find them all here: /account/subscriptions\nThe monthly one will be the last one in the list with the price being specified as per month.",
     "metadata": {
-      "question": "theres no option for monthly subscription",
+      "question": "There's no option for monthly subscription.",
       "category": "subscription"
     }
   },
   {
-    "text": "Question: Pontos árat írd le kérlek\n\nAnswer: I can't provide exact prices. This is done to ensure user personal data safety as well because the prices for the service are dynamic and can change depending on location/date/discounts, etc. Please consider checking the prices yourself at https://irrisketch.com/account/subscription",
+    "text": "Question: Pontos árat írd le kérlek\n\nAnswer: I can't provide exact prices. This is done to ensure user personal data safety as well because the prices for the service are dynamic and can change depending on location/date/discounts, etc. Please consider checking the prices yourself at /account/subscription",
     "metadata": {
       "question": "Pontos árat írd le kérlek",
       "category": "subscription"
@@ -77,72 +77,72 @@
     }
   },
   {
-    "text": "Question: Can I copy parts of my design/irrigation from project to project?\n\nAnswer: Yes you can do it! To copy one part of project to another, just select the needed part, press CTRL+C, then open new project in new tab and put the copied part in by CTRL+V combination. Basically, you can copy and paste any part of the project.",
+    "text": "Question: Can I copy parts of my design/irrigation from project to project?\n\nAnswer: Yes, you can do it! To copy one part of project to another, just select the needed part, press CTRL+C, then open new project in new tab and put the copied part in by CTRL+V combination. Basically, you can copy and paste any part of the project.",
     "metadata": {
       "question": "Can I copy parts of my design/irrigation from project to project?",
       "category": "project_management"
     }
   },
   {
-    "text": "Question: Beste, de druppelslang afdekking toont zich in de tekening met horizontale lijnen. is het mogelijk deze verticaal te zetten?\n\nAnswer: Yes you can! There is two ways to change the direction of drip cover. First you can use \"set angle of laying\" button in bottom left corner of the screen. Other method is by using left and right arrow keys on keyboard which will also change the angle in desired direction.",
+    "text": "Question: Beste, de druppelslang afdekking toont zich in de tekening met horizontale lijnen. Is het mogelijk deze verticaal te zetten?\n\nAnswer: Yes, you can! There are two ways to change the direction of drip cover. First you can use \"set angle of laying\" button in bottom left corner of the screen. Other method is by using left and right arrow keys on keyboard which will also change the angle in desired direction.",
     "metadata": {
-      "question": "Beste, de druppelslang afdekking toont zich in de tekening met horizontale lijnen. is het mogelijk deze verticaal te zetten?",
+      "question": "Beste, de druppelslang afdekking toont zich in de tekening met horizontale lijnen. Is het mogelijk deze verticaal te zetten?",
       "category": "drawing_drip"
     }
   },
   {
-    "text": "Question: ich kann in einem Projekt nicht in das layout wechseln\n\nAnswer: If you can't switch to the layout in your project, this usually means that you got an error in your project. Most likely that technical support is already fixing your project, but if you are unsure or it happens for a long time please contact us via e-mail or our telegram or whatsapp chats.",
+    "text": "Question: Ich kann in einem Projekt nicht in das Layout wechseln.\n\nAnswer: If you can't switch to the layout in your project, this usually means that you got an error in your project. Most likely that technical support is already fixing your project, but if you are unsure or it happens for a long time please contact us via e-mail or our Telegram or WhatsApp chats.",
     "metadata": {
-      "question": "ich kann in einem Projekt nicht in das layout wechseln",
+      "question": "Ich kann in einem Projekt nicht in das Layout wechseln.",
       "category": "troubleshooting"
     }
   },
   {
-    "text": "Question: Where do I set the precipitation profile?\n\nAnswer: There is no way to add precipitation profile yourself. We are constantly adding precipitation profiles to equipment as soon as manufacturer sends us their specifications. For now you can see which equipment has precipitation profiles available by seeing blue \"water droplets\" icon near said equipment",
+    "text": "Question: Where do I set the precipitation profile?\n\nAnswer: There is no way to add precipitation profile yourself. We are constantly adding precipitation profiles to equipment as soon as manufacturer sends us their specifications. For now you can see which equipment has precipitation profiles available by seeing blue \"water droplets\" icon near said equipment.",
     "metadata": {
       "question": "Where do I set the precipitation profile?",
       "category": "equipment_profiles"
     }
   },
   {
-    "text": "Question: Hello, cant get code to email\n\nAnswer: If you are not getting confirmation code, please check your \"Spam\" folder as sometimes it appears there. If that's not the case, please contact us through E-mail or one of our chats In Telegram or WhatsApp so we can investigate this issue thoroughly.",
+    "text": "Question: Hello, can't get code to email.\n\nAnswer: If you are not getting confirmation code, please check your \"Spam\" folder as sometimes it appears there. If that's not the case, please contact us through E-mail or one of our chats in Telegram or WhatsApp so we can investigate this issue thoroughly.",
     "metadata": {
-      "question": "Hello, cant get code to email",
+      "question": "Hello, can't get code to email.",
       "category": "account_verification"
     }
   },
   {
-    "text": "Question: wie kann ich Regner bei einer bestehenden voreinstellung hinzufügen?\n\nAnswer: Sie müssen die Voreinstellung, die Sie aktualisieren möchten, anwenden, dann Regner hinzufügen und anschließend eine neue Voreinstellung auf der Grundlage der alten Voreinstellung erstellen. In dieser Version des Programms ist es nicht möglich, eine bestehende Voreinstellung zu ändern.",
+    "text": "Question: Wie kann ich Regner bei einer bestehenden Voreinstellung hinzufügen?\n\nAnswer: Sie müssen die Voreinstellung, die Sie aktualisieren möchten, anwenden, dann Regner hinzufügen und anschließend eine neue Voreinstellung auf der Grundlage der alten Voreinstellung erstellen. In dieser Version des Programms ist es nicht möglich, eine bestehende Voreinstellung zu ändern.",
     "metadata": {
-      "question": "wie kann ich Regner bei einer bestehenden voreinstellung hinzufügen?",
+      "question": "Wie kann ich Regner bei einer bestehenden Voreinstellung hinzufügen?",
       "category": "presets"
     }
   },
   {
-    "text": "Question: rozmery sú v cm alebo mm?\n\nAnswer: Drawing sizes are measured in units that you can select in project configuration tab (located in top right menu in your project) under \"Units of measurement\" tab.",
+    "text": "Question: Rozmery sú v cm alebo mm?\n\nAnswer: Drawing sizes are measured in units that you can select in project configuration tab (located in top right menu in your project) under \"Units of measurement\" tab.",
     "metadata": {
-      "question": "rozmery sú v cm alebo mm?",
+      "question": "Rozmery sú v cm alebo mm?",
       "category": "settings_units"
     }
   },
   {
-    "text": "Question: there is no specific master valve to select in the components\n\nAnswer: IRRISketch version 1.0 does not have a master valve element to draw on canvas. You can just simply add solenoid valve in specifications list as arbitrary element on the mainline",
+    "text": "Question: There is no specific master valve to select in the components.\n\nAnswer: IRRISketch version 1.0 does not have a master valve element to draw on canvas. You can just simply add solenoid valve in specifications list as arbitrary element on the mainline.",
     "metadata": {
-      "question": "there is no specific master valve to select in the components",
+      "question": "There is no specific master valve to select in the components.",
       "category": "equipment_components"
     }
   },
   {
-    "text": "Question: Hi will we be able to add individual drip/micro sprayers ie. Antelco spike Shrubblers. For veggie patches soon.\n\nAnswer: Currently there is no way to add custom irrigation parts that are not listed in our equipments lists. However, we are currently collecting user feedback to figure out what features they will want in next version of IRRISketch. I noted developer about your request so it might appear in future!",
+    "text": "Question: Hi, will we be able to add individual drip/micro sprayers i.e. Antelco spike Shrubblers for veggie patches soon?\n\nAnswer: Currently there is no way to add custom irrigation parts that are not listed in our equipment lists. However, we are currently collecting user feedback to figure out what features they will want in next version of IRRISketch. I noted developer about your request so it might appear in future!",
     "metadata": {
-      "question": "Hi will we be able to add individual drip/micro sprayers ie. Antelco spike Shrubblers. For veggie patches soon.",
+      "question": "Hi, will we be able to add individual drip/micro sprayers i.e. Antelco spike Shrubblers for veggie patches soon?",
       "category": "equipment_custom"
     }
   },
   {
-    "text": "Question: laba diena, gal galėtumėte pateikti keletą purkštukų dėliojimo pavyzdžių ?\n\nAnswer: While I can't directly provide you with best practices to place the nozzles, you can get some information from experienced users in our chats here:\nTelegram: https://t.me/irrisketchTGEN\nWhatsApp: http://bit.ly/irrishelpEN",
+    "text": "Question: Laba diena, gal galėtumėte pateikti keletą purkštukų dėliojimo pavyzdžių?\n\nAnswer: While I can't directly provide you with best practices to place the nozzles, you can get some information from experienced users in our chats here:\nTelegram: https://t.me/irrisketchTGEN\nWhatsApp: http://bit.ly/irrishelpEN",
     "metadata": {
-      "question": "laba diena, gal galėtumėte pateikti keletą purkštukų dėliojimo pavyzdžių ?",
+      "question": "Laba diena, gal galėtumėte pateikti keletą purkštukų dėliojimo pavyzdžių?",
       "category": "support_community"
     }
   },
@@ -154,9 +154,9 @@
     }
   },
   {
-    "text": "Question: wie platziere ich einen Regner?\n\nAnswer: To place a sprinkler go to irrigation tab, select the desired sprinkler from tool menu on the left and click on canvas to put the sprinkler.",
+    "text": "Question: Wie platziere ich einen Regner?\n\nAnswer: To place a sprinkler go to irrigation tab, select the desired sprinkler from tool menu on the left and click on canvas to put the sprinkler.",
     "metadata": {
-      "question": "wie platziere ich einen Regner?",
+      "question": "Wie platziere ich einen Regner?",
       "category": "drawing_sprinklers"
     }
   },
@@ -175,21 +175,21 @@
     }
   },
   {
-    "text": "Question: How to make an assembly in the price list\n\nAnswer: First you need to create an empty assembly. Then you need to select a few elements that you want to add to the assembly and the assembly itself is also included in the selection, then call the context menu in which you click: \"Add selected elements to selected assemblies\".",
+    "text": "Question: How to make an assembly in the price list?\n\nAnswer: First you need to create an empty assembly. Then you need to select a few elements that you want to add to the assembly and the assembly itself is also included in the selection, then call the context menu in which you click: \"Add selected elements to selected assemblies\".",
     "metadata": {
-      "question": "How to make an assembly in the price list",
+      "question": "How to make an assembly in the price list?",
       "category": "price_list"
     }
   },
   {
-    "text": "Question: How do I change the pitch of the drip coverage?\n\nAnswer: When drawing drip coating, there are corresponding buttons in the action menu (bottom left). The arrows on the keyboard and the plus and minus buttons also work",
+    "text": "Question: How do I change the pitch of the drip coverage?\n\nAnswer: When drawing drip coating, there are corresponding buttons in the action menu (bottom left). The arrows on the keyboard and the plus and minus buttons also work.",
     "metadata": {
       "question": "How do I change the pitch of the drip coverage?",
       "category": "drawing_drip"
     }
   },
   {
-    "text": "Question: The throughput capacity of pipelines with a diameter of ...?\n\nAnswer: To calculate pipeline losses, we have a calculator at https://irrisketch.com/calcs.",
+    "text": "Question: The throughput capacity of pipelines with a diameter of ...?\n\nAnswer: To calculate pipeline losses, we have a calculator at /calcs.",
     "metadata": {
       "question": "The throughput capacity of pipelines with a diameter of ...?",
       "category": "calculations"
@@ -203,51 +203,51 @@
     }
   },
   {
-    "text": "Question: When the second or any other version of IRRISketch will be released?\n\nAnswer: IRRISketch 2.0 is in development, but we can't disclose any dates or progress that is being made towards new iteration of our service. You will know everything when the time comes from our public chats, groups and other social media.",
+    "text": "Question: When will the second or any other version of IRRISketch be released?\n\nAnswer: IRRISketch 2.0 is in development, but we can't disclose any dates or progress that is being made towards new iteration of our service. You will know everything when the time comes from our public chats, groups and other social media.",
     "metadata": {
-      "question": "When the second or any other version of IRRISketch will be released?",
+      "question": "When will the second or any other version of IRRISketch be released?",
       "category": "product_info"
     }
   },
   {
-    "text": "Question: are RainBird R-Van Nozzels in irrisketch?\n\nAnswer: Yes IRRISketch have RainBird R-Van Nozzles implemented in equipment lists",
+    "text": "Question: Are RainBird R-Van Nozzles in irrisketch?\n\nAnswer: Yes, IRRISketch has RainBird R-Van Nozzles implemented in equipment lists.",
     "metadata": {
-      "question": "are RainBird R-Van Nozzels in irrisketch?",
+      "question": "Are RainBird R-Van Nozzles in irrisketch?",
       "category": "equipment_brands"
     }
   },
   {
-    "text": "Question: which products are included?\n\nAnswer: Here is the list of available equipment manufacturers: - Hunter - Rain Bird - Rain S.P.A. - TORO - K-Rain - Weathermatic - Irritec - AZUD - DROPBYDROP - Netafim - IRRI-GO - Solem - NaanDanJain",
+    "text": "Question: Which products are included?\n\nAnswer: Here is the list of available equipment manufacturers:\n- Hunter\n- Rain Bird\n- Rain S.P.A.\n- TORO\n- K-Rain\n- Weathermatic\n- Irritec\n- AZUD\n- DROPBYDROP\n- Netafim\n- IRRI-GO\n- Solem\n- NaanDanJain",
     "metadata": {
-      "question": "which products are included?",
+      "question": "Which products are included?",
       "category": "equipment_brands"
     }
   },
   {
-    "text": "Question: What's the difference between PRO and free version?\n\nAnswer: Free version allows: \n- Up to 3 projects\n- Up to 1 layout\n- Maximum size of canvas is 50x50m\n- No specs\n- Export only to image\nPRO version allows:\n- Any amount of projects\n- Any amount of layouts\n- Maximum size of canvas is 500x500m\n- Export to PDF/Image\n- Includes: IRRISeller and Design Studio",
+    "text": "Question: What's the difference between PRO and free version?\n\nAnswer: Free version allows:\n- Up to 3 projects\n- Up to 1 layout\n- Maximum size of canvas is 50x50m\n- No specs\n- Export only to image\n\nPRO version allows:\n- Any amount of projects\n- Any amount of layouts\n- Maximum size of canvas is 500x500m\n- Export to PDF/Image\n- Includes: IRRISeller and Design Studio",
     "metadata": {
       "question": "What's the difference between PRO and free version?",
       "category": "subscription"
     }
   },
   {
-    "text": "Question: can I add own products?\n\nAnswer: You can send a request to add new products to IRRISketch via contacting support or reaching us in our chats in WhatsApp or Telegram. You can find links to chats or send us an email",
+    "text": "Question: Can I add own products?\n\nAnswer: You can send a request to add new products to IRRISketch via contacting support or reaching us in our chats in WhatsApp or Telegram. You can find links to chats or send us an email.",
     "metadata": {
-      "question": "can I add own products?",
+      "question": "Can I add own products?",
       "category": "equipment_custom"
     }
   },
   {
-    "text": "Question: who invented irisktech?\n\nAnswer: IRRISketch was invented by Philiph Protsenko. He is a lead designer and developer for IRRISketch. You can learn more about team behind this service here: https://irrisketch.com/about",
+    "text": "Question: Who invented irisktech?\n\nAnswer: IRRISketch was invented by Philiph Protsenko. He is a lead designer and developer for IRRISketch. You can learn more about team behind this service here: /about",
     "metadata": {
-      "question": "who invented irisktech?",
+      "question": "Who invented irisktech?",
       "category": "product_info"
     }
   },
   {
-    "text": "Question: I want to submit a bug\n\nAnswer: Of course! Please write down description of what causes the bug and how to recreate it as thoroughly as possible. You can also attach screenshots and/or contact technical support if you want to give more information on the bug or you think it's crucial:\n\nhttps://irrisketch.com/support",
+    "text": "Question: I want to submit a bug.\n\nAnswer: Of course! Please write down description of what causes the bug and how to recreate it as thoroughly as possible. You can also attach screenshots and/or contact technical support if you want to give more information on the bug or you think it's crucial:\n\n/support",
     "metadata": {
-      "question": "I want to submit a bug",
+      "question": "I want to submit a bug.",
       "category": "support"
     }
   },
@@ -273,14 +273,14 @@
     }
   },
   {
-    "text": "Question: How do I increase size of pipes, water sources or consumers in my project?\n\nAnswer: To increase size of any irrigation element as well as to change it visibility you can use layer manager tool in layouts mode. It is located in bottom right part of the screen:\nThere you can change anything related to visibility of irrigation design layers.",
+    "text": "Question: How do I increase size of pipes, water sources or consumers in my project?\n\nAnswer: To increase size of any irrigation element as well as to change its visibility you can use layer manager tool in layouts mode. It is located in bottom right part of the screen. There you can change anything related to visibility of irrigation design layers.",
     "metadata": {
       "question": "How do I increase size of pipes, water sources or consumers in my project?",
       "category": "layouts"
     }
   },
   {
-    "text": "Question: Where can I find tutorials for IRRISketch?\n\nAnswer: All tutorials are located here:\nhttps://irrisketch.com/tutorials",
+    "text": "Question: Where can I find tutorials for IRRISketch?\n\nAnswer: All tutorials are located here:\n/tutorials",
     "metadata": {
       "question": "Where can I find tutorials for IRRISketch?",
       "category": "tutorials"
@@ -336,7 +336,7 @@
     }
   },
   {
-    "text": "Question: I paid for the subscription, but it did not appear in my personal cabinet\n\nAnswer: In this case, you need to go to your personal account by following this link: www.irrisketch.com/account/orders. Look at the button at the bottom of the order. The red \"Repeat\" button means that the payment failed and you should try again, but first check to see if the money has been charged. If you have been seeing the yellow \"Payment in progress\" button for a long time, chances are that the transaction has not happened automatic confirmation. If this is the case, click this button to complete it and everything should work. After the successful payment and completion of the transaction you will see a green \"Payment Verified\" button. Click it and your subscription will appear in the right column.",
+    "text": "Question: I paid for the subscription, but it did not appear in my personal cabinet\n\nAnswer: In this case, you need to go to your personal account by following this link: /account/orders. Look at the button at the bottom of the order. The red \"Repeat\" button means that the payment failed and you should try again, but first check to see if the money has been charged. If you have been seeing the yellow \"Payment in progress\" button for a long time, chances are that the transaction has not happened automatic confirmation. If this is the case, click this button to complete it and everything should work. After the successful payment and completion of the transaction you will see a green \"Payment Verified\" button. Click it and your subscription will appear in the right column.",
     "metadata": {
       "question": "I paid for the subscription, but it did not appear in my personal cabinet",
       "category": "subscription"

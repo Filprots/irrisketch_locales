@@ -1954,5 +1954,6 @@
   "CUSTELS_INCOMPLETE_CONFIG": "配置不完整",
   "CUSTELS_INCOMPLETE": "不完整",
   "CUSTELS_CONFIG_REQUIRED": "需要配置",
-  "CUSTELS_REQUIRED": "必需"
+  "CUSTELS_REQUIRED": "必需",
+  "LiveChatSupport": "在線聊天"
 }

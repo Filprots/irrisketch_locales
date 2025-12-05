@@ -1954,5 +1954,6 @@
   "CUSTELS_INCOMPLETE_CONFIG": "Configurazione incompleta",
   "CUSTELS_INCOMPLETE": "Incompleto",
   "CUSTELS_CONFIG_REQUIRED": "La configurazione è obbligatoria",
-  "CUSTELS_REQUIRED": "Obbligatorio"
+  "CUSTELS_REQUIRED": "Obbligatorio",
+  "LiveChatSupport": "Chat Live"
 }

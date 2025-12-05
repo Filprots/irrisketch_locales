@@ -1954,5 +1954,6 @@
   "CUSTELS_INCOMPLETE_CONFIG": "Hiányos konfiguráció",
   "CUSTELS_INCOMPLETE": "Hiányos",
   "CUSTELS_CONFIG_REQUIRED": "A konfiguráció kötelező",
-  "CUSTELS_REQUIRED": "Kötelező"
+  "CUSTELS_REQUIRED": "Kötelező",
+  "LiveChatSupport": "Élő Chat"
 }

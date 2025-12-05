@@ -1954,5 +1954,6 @@
   "CUSTELS_INCOMPLETE_CONFIG": "Неповна конфігурація",
   "CUSTELS_INCOMPLETE": "Незавершено",
   "CUSTELS_CONFIG_REQUIRED": "Конфігурація обов'язкова",
-  "CUSTELS_REQUIRED": "Обов'язково"
+  "CUSTELS_REQUIRED": "Обов'язково",
+  "LiveChatSupport": "Онлайн-чат"
 }

@@ -1950,5 +1950,9 @@
   "CUSTELS_ERROR": "Hata",
   "CUSTELS_CONFIRM_DELETE_ELEMENT": "Bu öğeyi silmek istediğinizden emin misiniz?",
   "CUSTELS_CONFIG_SAVED_LOCALLY": "Yapılandırma yerel olarak kaydedildi. Öğe henüz oluşturulmadı.",
-  "CUSTELS_CONFIG_SAVED_SERVER": "Yapılandırma sunucuda kaydedildi."
+  "CUSTELS_CONFIG_SAVED_SERVER": "Yapılandırma sunucuda kaydedildi.",
+  "CUSTELS_INCOMPLETE_CONFIG": "Eksik yapılandırma",
+  "CUSTELS_INCOMPLETE": "Eksik",
+  "CUSTELS_CONFIG_REQUIRED": "Yapılandırma gereklidir",
+  "CUSTELS_REQUIRED": "Gerekli"
 }

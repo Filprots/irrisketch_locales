@@ -1950,5 +1950,9 @@
   "CUSTELS_ERROR": "Fehler",
   "CUSTELS_CONFIRM_DELETE_ELEMENT": "Sind Sie sicher, dass Sie dieses Element löschen möchten?",
   "CUSTELS_CONFIG_SAVED_LOCALLY": "Konfiguration lokal gespeichert. Element noch nicht erstellt.",
-  "CUSTELS_CONFIG_SAVED_SERVER": "Konfiguration auf dem Server gespeichert."
+  "CUSTELS_CONFIG_SAVED_SERVER": "Konfiguration auf dem Server gespeichert.",
+  "CUSTELS_INCOMPLETE_CONFIG": "Unvollständige Konfiguration",
+  "CUSTELS_INCOMPLETE": "Unvollständig",
+  "CUSTELS_CONFIG_REQUIRED": "Konfiguration ist erforderlich",
+  "CUSTELS_REQUIRED": "Erforderlich"
 }

@@ -1950,5 +1950,9 @@
   "CUSTELS_ERROR": "Klaida",
   "CUSTELS_CONFIRM_DELETE_ELEMENT": "Ar tikrai norite ištrinti šį elementą?",
   "CUSTELS_CONFIG_SAVED_LOCALLY": "Konfigūracija išsaugota vietoje. Elementas dar nesukurtas.",
-  "CUSTELS_CONFIG_SAVED_SERVER": "Konfigūracija išsaugota serveryje."
+  "CUSTELS_CONFIG_SAVED_SERVER": "Konfigūracija išsaugota serveryje.",
+  "CUSTELS_INCOMPLETE_CONFIG": "Nebaigta konfigūracija",
+  "CUSTELS_INCOMPLETE": "Nebaigta",
+  "CUSTELS_CONFIG_REQUIRED": "Konfigūracija yra būtina",
+  "CUSTELS_REQUIRED": "Būtina"
 }

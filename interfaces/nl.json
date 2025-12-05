@@ -1950,5 +1950,9 @@
   "CUSTELS_ERROR": "Fout",
   "CUSTELS_CONFIRM_DELETE_ELEMENT": "Weet u zeker dat u dit element wilt verwijderen?",
   "CUSTELS_CONFIG_SAVED_LOCALLY": "Configuratie lokaal opgeslagen. Element nog niet aangemaakt.",
-  "CUSTELS_CONFIG_SAVED_SERVER": "Configuratie opgeslagen op de server."
+  "CUSTELS_CONFIG_SAVED_SERVER": "Configuratie opgeslagen op de server.",
+  "CUSTELS_INCOMPLETE_CONFIG": "Onvolledige configuratie",
+  "CUSTELS_INCOMPLETE": "Onvolledig",
+  "CUSTELS_CONFIG_REQUIRED": "Configuratie is vereist",
+  "CUSTELS_REQUIRED": "Vereist"
 }

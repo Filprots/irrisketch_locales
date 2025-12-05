@@ -1950,5 +1950,9 @@
   "CUSTELS_ERROR": "Chyba",
   "CUSTELS_CONFIRM_DELETE_ELEMENT": "Ste si istí, že chcete odstrániť tento prvok?",
   "CUSTELS_CONFIG_SAVED_LOCALLY": "Konfigurácia uložená lokálne. Prvok ešte nie je vytvorený.",
-  "CUSTELS_CONFIG_SAVED_SERVER": "Konfigurácia uložená na serveri."
+  "CUSTELS_CONFIG_SAVED_SERVER": "Konfigurácia uložená na serveri.",
+  "CUSTELS_INCOMPLETE_CONFIG": "Neúplná konfigurácia",
+  "CUSTELS_INCOMPLETE": "Neúplné",
+  "CUSTELS_CONFIG_REQUIRED": "Konfigurácia je povinná",
+  "CUSTELS_REQUIRED": "Povinné"
 }

@@ -1950,5 +1950,9 @@
   "CUSTELS_ERROR": "Hiba",
   "CUSTELS_CONFIRM_DELETE_ELEMENT": "Biztosan törölni szeretné ezt az elemet?",
   "CUSTELS_CONFIG_SAVED_LOCALLY": "Konfiguráció helyileg mentve. Az elem még nincs létrehozva.",
-  "CUSTELS_CONFIG_SAVED_SERVER": "Konfiguráció a szerveren mentve."
+  "CUSTELS_CONFIG_SAVED_SERVER": "Konfiguráció a szerveren mentve.",
+  "CUSTELS_INCOMPLETE_CONFIG": "Hiányos konfiguráció",
+  "CUSTELS_INCOMPLETE": "Hiányos",
+  "CUSTELS_CONFIG_REQUIRED": "A konfiguráció kötelező",
+  "CUSTELS_REQUIRED": "Kötelező"
 }

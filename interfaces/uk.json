@@ -1950,5 +1950,9 @@
   "CUSTELS_ERROR": "Помилка",
   "CUSTELS_CONFIRM_DELETE_ELEMENT": "Ви впевнені, що хочете видалити цей елемент?",
   "CUSTELS_CONFIG_SAVED_LOCALLY": "Конфігурацію збережено локально. Елемент ще не створено.",
-  "CUSTELS_CONFIG_SAVED_SERVER": "Конфігурацію збережено на сервері."
+  "CUSTELS_CONFIG_SAVED_SERVER": "Конфігурацію збережено на сервері.",
+  "CUSTELS_INCOMPLETE_CONFIG": "Неповна конфігурація",
+  "CUSTELS_INCOMPLETE": "Незавершено",
+  "CUSTELS_CONFIG_REQUIRED": "Конфігурація обов'язкова",
+  "CUSTELS_REQUIRED": "Обов'язково"
 }

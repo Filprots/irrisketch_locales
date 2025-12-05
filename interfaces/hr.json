@@ -1950,5 +1950,9 @@
   "CUSTELS_ERROR": "Greška",
   "CUSTELS_CONFIRM_DELETE_ELEMENT": "Jeste li sigurni da želite obrisati ovaj element?",
   "CUSTELS_CONFIG_SAVED_LOCALLY": "Konfiguracija spremljena lokalno. Element još nije kreiran.",
-  "CUSTELS_CONFIG_SAVED_SERVER": "Konfiguracija spremljena na serveru."
+  "CUSTELS_CONFIG_SAVED_SERVER": "Konfiguracija spremljena na serveru.",
+  "CUSTELS_INCOMPLETE_CONFIG": "Nepotpuna konfiguracija",
+  "CUSTELS_INCOMPLETE": "Nepotpuno",
+  "CUSTELS_CONFIG_REQUIRED": "Konfiguracija je obavezna",
+  "CUSTELS_REQUIRED": "Obavezno"
 }

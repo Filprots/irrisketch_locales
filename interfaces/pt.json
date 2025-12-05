@@ -1950,5 +1950,9 @@
   "CUSTELS_ERROR": "Erro",
   "CUSTELS_CONFIRM_DELETE_ELEMENT": "Tem certeza de que deseja excluir este elemento?",
   "CUSTELS_CONFIG_SAVED_LOCALLY": "Configuração salva localmente. O elemento ainda não foi criado.",
-  "CUSTELS_CONFIG_SAVED_SERVER": "Configuração salva no servidor."
+  "CUSTELS_CONFIG_SAVED_SERVER": "Configuração salva no servidor.",
+  "CUSTELS_INCOMPLETE_CONFIG": "Configuração incompleta",
+  "CUSTELS_INCOMPLETE": "Incompleto",
+  "CUSTELS_CONFIG_REQUIRED": "A configuração é obrigatória",
+  "CUSTELS_REQUIRED": "Obrigatório"
 }

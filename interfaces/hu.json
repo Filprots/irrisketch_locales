@@ -1955,5 +1955,7 @@
   "CUSTELS_INCOMPLETE": "Hiányos",
   "CUSTELS_CONFIG_REQUIRED": "A konfiguráció kötelező",
   "CUSTELS_REQUIRED": "Kötelező",
-  "LiveChatSupport": "Élő Chat"
+  "LiveChatSupport": "Élő Chat",
+  "Rewards": "Jutalmak",
+  "DownloadBadge": "Töltse le az emblémáját"
 }

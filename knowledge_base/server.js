@@ -2,6 +2,7 @@ const express = require('express');
 const fs = require('fs').promises;
 const path = require('path');
 const cors = require('cors');
+const crypto = require('crypto');
 
 const app = express();
 const PORT = 8888;
@@ -11,11 +12,32 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static(__dirname));
 
-// Read knowledge base data
+// Generate unique ID
+function generateId() {
+  return crypto.randomUUID();
+}
+
+// Read knowledge base data and assign IDs if missing
 async function readData() {
   try {
     const data = await fs.readFile(DATA_FILE, 'utf8');
-    return JSON.parse(data);
+    const entries = JSON.parse(data);
+    let needsSave = false;
+    
+    // Assign IDs to entries that don't have one
+    entries.forEach((entry, index) => {
+      if (!entry.id) {
+        entry.id = generateId();
+        needsSave = true;
+      }
+    });
+    
+    // Save if any IDs were assigned
+    if (needsSave) {
+      await writeData(entries);
+    }
+    
+    return entries;
   } catch (error) {
     console.error('Error reading data:', error);
     return [];
@@ -82,6 +104,7 @@ app.post('/api/entries', async (req, res) => {
   try {
     const data = await readData();
     const newEntry = {
+      id: generateId(),
       question: req.body.question || '',
       answer: req.body.answer || '',
       metadata: {
@@ -110,7 +133,10 @@ app.put('/api/entries/:index', async (req, res) => {
     const index = parseInt(req.params.index);
     
     if (index >= 0 && index < data.length) {
+      // Preserve existing ID
+      const existingId = data[index].id || generateId();
       data[index] = {
+        id: existingId,
         question: req.body.question || '',
         answer: req.body.answer || '',
         metadata: {

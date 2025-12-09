@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "Būtina",
   "LiveChatSupport": "Tiesioginis Chatas",
   "Rewards": "Apdovanojimai",
-  "DownloadBadge": "Atsisiųskite savo ženklelį"
+  "DownloadBadge": "Atsisiųskite savo ženklelį",
+  "CUSTELS_RATING": "Įvertinimas",
+  "CUSTELS_CURRENT_RATING": "Dabartinis vidutinis įvertinimas",
+  "CUSTELS_VOTERS_COUNT": "Balsavusiųjų skaičius",
+  "CUSTELS_NUM_OF_USERS": "Naudotojų skaičius"
 }
+

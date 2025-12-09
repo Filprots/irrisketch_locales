@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "Povinné",
   "LiveChatSupport": "Chat naživo",
   "Rewards": "Odmeny",
-  "DownloadBadge": "Stiahnite si svoju odznaku"
+  "DownloadBadge": "Stiahnite si svoju odznaku",
+  "CUSTELS_RATING": "Hodnotenie",
+  "CUSTELS_CURRENT_RATING": "Aktuálne priemerné hodnotenie",
+  "CUSTELS_VOTERS_COUNT": "Počet hlasujúcich",
+  "CUSTELS_NUM_OF_USERS": "Počet používateľov"
 }
+

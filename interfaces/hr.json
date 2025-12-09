@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "Obavezno",
   "LiveChatSupport": "Chat u Stvarnom Vremenu",
   "Rewards": "Nagrade",
-  "DownloadBadge": "Preuzmite svoju značku"
+  "DownloadBadge": "Preuzmite svoju značku",
+  "CUSTELS_RATING": "Ocjena",
+  "CUSTELS_CURRENT_RATING": "Trenutna prosječna ocjena",
+  "CUSTELS_VOTERS_COUNT": "Broj glasača",
+  "CUSTELS_NUM_OF_USERS": "Broj korisnika"
 }
+

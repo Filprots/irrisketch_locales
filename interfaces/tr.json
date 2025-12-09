@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "Gerekli",
   "LiveChatSupport": "Canlı Sohbet",
   "Rewards": "Ödüller",
-  "DownloadBadge": "Rozetinizi indirin"
+  "DownloadBadge": "Rozetinizi indirin",
+  "CUSTELS_RATING": "Değerlendirme",
+  "CUSTELS_CURRENT_RATING": "Mevcut ortalama değerlendirme",
+  "CUSTELS_VOTERS_COUNT": "Oy veren sayısı",
+  "CUSTELS_NUM_OF_USERS": "Kullanıcı sayısı"
 }
+

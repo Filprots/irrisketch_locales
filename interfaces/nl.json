@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "Vereist",
   "LiveChatSupport": "Live Chat",
   "Rewards": "Beloningen",
-  "DownloadBadge": "Download uw badge"
+  "DownloadBadge": "Download uw badge",
+  "CUSTELS_RATING": "Beoordeling",
+  "CUSTELS_CURRENT_RATING": "Huidige gemiddelde beoordeling",
+  "CUSTELS_VOTERS_COUNT": "Aantal stemmers",
+  "CUSTELS_NUM_OF_USERS": "Aantal gebruikers"
 }
+

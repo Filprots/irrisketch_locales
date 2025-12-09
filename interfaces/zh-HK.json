@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "必需",
   "LiveChatSupport": "在線聊天",
   "Rewards": "獎勵",
-  "DownloadBadge": "下載您的徽章"
+  "DownloadBadge": "下載您的徽章",
+  "CUSTELS_RATING": "評分",
+  "CUSTELS_CURRENT_RATING": "當前平均評分",
+  "CUSTELS_VOTERS_COUNT": "投票人數",
+  "CUSTELS_NUM_OF_USERS": "用戶數量"
 }
+

@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "Абавязкова",
   "LiveChatSupport": "Жывы чат",
   "Rewards": "Узнагароды",
-  "DownloadBadge": "Спампаваць ваш значок"
+  "DownloadBadge": "Спампаваць ваш значок",
+  "CUSTELS_RATING": "Рэйтынг",
+  "CUSTELS_CURRENT_RATING": "Бягучы сярэдні рэйтынг",
+  "CUSTELS_VOTERS_COUNT": "Колькасць галасоўшых",
+  "CUSTELS_NUM_OF_USERS": "Колькасць карыстальнікаў"
 }
+

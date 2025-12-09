@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "Обязательно",
   "LiveChatSupport": "Онлайн-чат",
   "Rewards": "Награды",
-  "DownloadBadge": "Скачайте свой значок"
+  "DownloadBadge": "Скачайте свой значок",
+  "CUSTELS_RATING": "Рейтинг",
+  "CUSTELS_CURRENT_RATING": "Текущий средний рейтинг",
+  "CUSTELS_VOTERS_COUNT": "Количество проголосовавших",
+  "CUSTELS_NUM_OF_USERS": "Количество пользователей"
 }
+

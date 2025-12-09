@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "Kötelező",
   "LiveChatSupport": "Élő Chat",
   "Rewards": "Jutalmak",
-  "DownloadBadge": "Töltse le az emblémáját"
+  "DownloadBadge": "Töltse le az emblémáját",
+  "CUSTELS_RATING": "Értékelés",
+  "CUSTELS_CURRENT_RATING": "Jelenlegi átlagos értékelés",
+  "CUSTELS_VOTERS_COUNT": "Szavazók száma",
+  "CUSTELS_NUM_OF_USERS": "Felhasználók száma"
 }
+

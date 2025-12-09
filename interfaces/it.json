@@ -1957,5 +1957,10 @@
   "CUSTELS_REQUIRED": "Obbligatorio",
   "LiveChatSupport": "Chat Live",
   "Rewards": "Ricompense",
-  "DownloadBadge": "Scarica il tuo badge"
+  "DownloadBadge": "Scarica il tuo badge",
+  "CUSTELS_RATING": "Valutazione",
+  "CUSTELS_CURRENT_RATING": "Valutazione media attuale",
+  "CUSTELS_VOTERS_COUNT": "Numero di votanti",
+  "CUSTELS_NUM_OF_USERS": "Numero di utenti"
 }
+

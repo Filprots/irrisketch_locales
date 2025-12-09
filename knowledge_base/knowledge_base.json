@@ -1,9 +1,11 @@
 [
   {
-    "question": "How do I get file from CAD?",
+    "id": "806dacde-d9cc-472d-b5bf-1c98ba399eb2",
+    "question": "How do I import a file from CAD into IRRISketch?",
     "answer": "Hello! You can import .PDF or Image from your CAD as layout image in drawing mode. If you are asking how to export an AutoCAD compatible file from IRRISketch — sadly it is not implemented as a straightforward feature.",
     "metadata": {
-      "category": "import_export"
+      "category": "import_export",
+      "call_human": false
     }
   },
   {
@@ -11,14 +13,16 @@
     "answer": "If you are working from a mobile device with a touch screen, IRRISketch will suggest you undergo a calibration, which is required to properly work with your projects using a touch screen.",
     "metadata": {
       "category": "mobile_touchscreen"
-    }
+    },
+    "id": "6ef9833e-dbf0-446a-b72e-de30a039f0dd"
   },
   {
     "question": "How do I change the metric measurement system to American?",
     "answer": "Inside the project you are working on, open the settings from the menu in top-right corner of the screen. There you can change units of measurements under the corresponding tab.",
     "metadata": {
       "category": "settings_units"
-    }
+    },
+    "id": "0c858a08-378d-4376-a78a-8c8c1597a532"
   },
   {
     "question": "All my projects don't load. I am stuck in loading screen whenever I open any project.",
@@ -26,84 +30,96 @@
     "metadata": {
       "category": "troubleshooting",
       "call_human": true
-    }
+    },
+    "id": "68185b2f-20f0-41dc-a07e-25bdbcb468be"
   },
   {
     "question": "Can you upload DWF files into the system?",
     "answer": "DWF and DWG support is not implemented yet. The only way to import something from other CAD is to import it as PDF file, which our service supports.",
     "metadata": {
       "category": "import_export"
-    }
+    },
+    "id": "4889186e-4937-4949-bcd7-9b7f6a406fa8"
   },
   {
     "question": "Hello! Can I set up the irrisketch program to allow me to combine PGP sprinklers with an MP rotator in one zone?",
     "answer": "Yes! You can combine different sprinklers from different manufacturers by turning off \"strict mode\" in your project settings. To do this, you need to open desired project, click on settings button and find strict mode settings under \"consumers\" tab. Change it to \"Unsafe mode\" and it will be done.",
     "metadata": {
       "category": "settings_strict_mode"
-    }
+    },
+    "id": "5aa1288e-bb2a-44fb-bd50-61fc5447ff5b"
   },
   {
     "question": "How do I select a certain diameter for a pipe or a pipe branch?",
     "answer": "You can do it by right clicking whenever you are in drawing/branching mode and then selecting \"Set diameter\" option. This will allow you to draw the rest of the pipe in a certain diameter.",
     "metadata": {
       "category": "drawing_pipes"
-    }
+    },
+    "id": "4dbfb4ad-0b66-4e37-b15c-3c4beda29e3a"
   },
   {
     "question": "How do I make branches from pipes?",
     "answer": "To make a branch, you need to select a pipe, and select \"Add branches\" tool in the bottom left menu. Alternatively you can press TAB twice to enter pipe drawing mode for a selected pipe.",
     "metadata": {
       "category": "drawing_pipes"
-    }
+    },
+    "id": "6a66db94-f095-4f85-b47e-c6e470df7614"
   },
   {
     "question": "There's no option for monthly subscription.",
     "answer": "We have 3 main subscription options: Annual, Semi-annual and Monthly. You can find them all here: /account/subscriptions\nThe monthly one will be the last one in the list with the price being specified as per month.",
     "metadata": {
       "category": "subscription"
-    }
+    },
+    "id": "8c27c93c-9849-427b-9190-3c62c0507e89"
   },
   {
     "question": "Please write down the exact price",
     "answer": "I can't provide exact prices. This is done to ensure user personal data safety as well because the prices for the service are dynamic and can change depending on location/date/discounts, etc. Please consider checking the prices yourself at /account/subscription",
     "metadata": {
       "category": "subscription"
-    }
+    },
+    "id": "3c2d2d3d-b56e-4dea-ab60-12e5c0f2f187"
   },
   {
     "question": "How can I detach connected sprinklers from the pipe?",
     "answer": "To detach sprinkler from a pipe, you can select a pipe and press TAB once. This will activate attachment/detachment mode where you will be able to detach any consumer by clicking on it.",
     "metadata": {
       "category": "drawing_sprinklers"
-    }
+    },
+    "id": "e6cd9083-7639-4805-a3f1-0a803a2daca2"
   },
   {
     "question": "Can I copy parts of my design/irrigation from project to project?",
     "answer": "Yes, you can do it! To copy one part of project to another, just select the needed part, press CTRL+C, then open new project in new tab and put the copied part in by CTRL+V combination. Basically, you can copy and paste any part of the project.",
     "metadata": {
       "category": "project_management"
-    }
+    },
+    "id": "4384b2f6-5788-4efa-83df-fff036fe3dbb"
   },
   {
     "question": "Hello, the drip line coverage is shown in the drawing with horizontal lines. Is it possible to set these vertically?",
     "answer": "Yes, you can! There are two ways to change the direction of drip cover. First you can use \"set angle of laying\" button in bottom left corner of the screen. Other method is by using left and right arrow keys on keyboard which will also change the angle in desired direction.",
     "metadata": {
       "category": "drawing_drip"
-    }
+    },
+    "id": "d003f38a-7ea1-4a70-b9d4-bb332f596de0"
   },
   {
     "question": "I cannot switch to the layout in a project.",
     "answer": "If you can't switch to the layout in your project, this usually means that you got an error in your project. Most likely that technical support is already fixing your project, but if you are unsure or it happens for a long time please contact us via e-mail or our Telegram or WhatsApp chats.",
     "metadata": {
       "category": "troubleshooting"
-    }
+    },
+    "id": "077c9035-3457-4e11-851a-d3019366b4fc"
   },
   {
     "question": "Where do I set the precipitation profile?",
     "answer": "There is no way to add precipitation profile yourself. We are constantly adding precipitation profiles to equipment as soon as manufacturer sends us their specifications. For now you can see which equipment has precipitation profiles available by seeing blue \"water droplets\" icon near said equipment.",
     "metadata": {
       "category": "equipment_profiles"
-    }
+    },
+    "id": "f7ebd601-cf6b-4b08-a1a4-a84ffe7a74c6"
   },
   {
     "question": "Hello, can't get code to email.",
@@ -111,132 +127,152 @@
     "metadata": {
       "category": "account_verification",
       "call_human": true
-    }
+    },
+    "id": "e06a9cf1-77fc-48af-8ad6-23ce6cdb4821"
   },
   {
     "question": "How can I add sprinklers to an existing preset?",
     "answer": "You need to apply the preset you want to update, then add sprinklers and then create a new preset based on the old preset. In this version of the program, it is not possible to change an existing preset.",
     "metadata": {
       "category": "presets"
-    }
+    },
+    "id": "16048c03-749f-44de-bfd5-d5193b5c2073"
   },
   {
     "question": "Are the dimensions in cm or mm?",
     "answer": "Drawing sizes are measured in units that you can select in project configuration tab (located in top right menu in your project) under \"Units of measurement\" tab.",
     "metadata": {
       "category": "settings_units"
-    }
+    },
+    "id": "4d5046e2-11c7-4742-8cbf-7f66b483bb98"
   },
   {
     "question": "There is no specific master valve to select in the components.",
     "answer": "IRRISketch version 1.0 does not have a master valve element to draw on canvas. You can just simply add solenoid valve in specifications list as arbitrary element on the mainline.",
     "metadata": {
       "category": "equipment_components"
-    }
+    },
+    "id": "ddf511cf-0261-4332-8dd5-a983bc7333dc"
   },
   {
     "question": "Hi, will we be able to add individual drip/micro sprayers i.e. Antelco spike Shrubblers for veggie patches soon?",
     "answer": "Currently there is no way to add custom irrigation parts that are not listed in our equipment lists. However, we are currently collecting user feedback to figure out what features they will want in next version of IRRISketch. I noted developer about your request so it might appear in future!",
     "metadata": {
       "category": "equipment_custom"
-    }
+    },
+    "id": "a695c4bc-14e3-4d8a-9e56-7d423118b6a4"
   },
   {
     "question": "Good day, could you provide some examples of nozzle placement?",
     "answer": "While I can't directly provide you with best practices to place the nozzles, you can get some information from experienced users in our chats here:\nTelegram: https://t.me/irrisketchTGEN\nWhatsApp: http://bit.ly/irrishelpEN",
     "metadata": {
       "category": "support_community"
-    }
+    },
+    "id": "f117c323-a3da-4307-8eb4-6f02f979d0c1"
   },
   {
     "question": "How is Mr. Wirtz doing?",
     "answer": "Mr. Wirtz is doing great and you can reach him on anything in regard of IRRISketch here: theo@irrisketch.com tel:+4924565074510",
     "metadata": {
       "category": "contact"
-    }
+    },
+    "id": "3ce01f74-b7e1-4232-9f50-0855f5c70f98"
   },
   {
     "question": "How do I place a sprinkler?",
     "answer": "To place a sprinkler go to irrigation tab, select the desired sprinkler from tool menu on the left and click on canvas to put the sprinkler.",
     "metadata": {
       "category": "drawing_sprinklers"
-    }
+    },
+    "id": "bcced313-116f-419b-8fde-f33625dc72b4"
   },
   {
     "question": "How to draw a perfect circle?",
     "answer": "To draw a perfect circle, you can draw it with a single touch of a brush instrument of required size (Brush size is in centimeters, consider it when setting the size up). After that just make a perfect circle with brush tool and you can transform it into the polygon via bottom left menu.",
     "metadata": {
       "category": "drawing_tools"
-    }
+    },
+    "id": "7855267e-dae7-4559-a768-248358940cf1"
   },
   {
     "question": "How do you make multiple lines in a stamp?",
     "answer": "There are two ways: In the stamp text creation mode, in the actions menu on the left, click the Number of lines button. Or use the keyboard and press the plus and minus buttons. It is important to be in stamp text creation or modification mode!",
     "metadata": {
       "category": "drawing_stamps"
-    }
+    },
+    "id": "3384854b-5e31-4e90-854d-783cf5a52730"
   },
   {
     "question": "How to make an assembly in the price list?",
     "answer": "First you need to create an empty assembly. Then you need to select a few elements that you want to add to the assembly and the assembly itself is also included in the selection, then call the context menu in which you click: \"Add selected elements to selected assemblies\".",
     "metadata": {
       "category": "price_list"
-    }
+    },
+    "id": "529343d9-75ee-4e90-8c50-4b031293350d"
   },
   {
     "question": "How do I change the pitch of the drip coverage?",
     "answer": "When drawing drip coating, there are corresponding buttons in the action menu (bottom left). The arrows on the keyboard and the plus and minus buttons also work.",
     "metadata": {
       "category": "drawing_drip"
-    }
+    },
+    "id": "20222c6e-3f10-4498-9b28-ced38d3d38b6"
   },
   {
     "question": "The throughput capacity of pipelines with a diameter of ...?",
     "answer": "To calculate pipeline losses, we have a calculator at /calcs.",
     "metadata": {
       "category": "calculations"
-    }
+    },
+    "id": "024050b4-dba0-4ed5-b215-6d8413386a94"
   },
   {
     "question": "How to influence the hydraulic calculation?",
     "answer": "The program does not perform a full hydraulic calculation. Pipe diameters are determined based on the maximum allowable flow velocity in the pipe. You can set a fixed pipe diameter while drawing the pipes. Or set a range of possible diameters in the project settings for automatic selection.",
     "metadata": {
       "category": "calculations"
-    }
+    },
+    "id": "4a5fd7ef-b8b6-4152-be34-90718bb82698"
   },
   {
     "question": "When will the second or any other version of IRRISketch be released?",
     "answer": "IRRISketch 2.0 is in development, but we can't disclose any dates or progress that is being made towards new iteration of our service. You will know everything when the time comes from our public chats, groups and other social media.",
     "metadata": {
       "category": "product_info"
-    }
+    },
+    "id": "840f4f9d-ea42-4dfd-b001-1d052baee616"
   },
   {
     "question": "Are RainBird R-Van Nozzles in irrisketch?",
     "answer": "Yes, IRRISketch has RainBird R-Van Nozzles implemented in equipment lists.",
     "metadata": {
       "category": "equipment_brands"
-    }
+    },
+    "id": "7184f447-dd8b-4750-a2f3-afc8a47f03e6"
   },
   {
     "question": "Which products are included?",
     "answer": "Here is the list of available equipment manufacturers:\n- Hunter\n- Rain Bird\n- Rain S.P.A.\n- TORO\n- K-Rain\n- Weathermatic\n- Irritec\n- AZUD\n- DROPBYDROP\n- Netafim\n- IRRI-GO\n- Solem\n- NaanDanJain",
     "metadata": {
       "category": "equipment_brands"
-    }
+    },
+    "id": "f2557e85-ce87-48ef-a8d8-6cda4ecdb8c6"
   },
   {
     "question": "What's the difference between PRO and free version?",
     "answer": "Free version allows:\n- Up to 3 projects\n- Up to 1 layout\n- Maximum size of canvas is 50x50m\n- No specs\n- Export only to image\n\nPRO version allows:\n- Any amount of projects\n- Any amount of layouts\n- Maximum size of canvas is 500x500m\n- Export to PDF/Image\n- Includes: IRRISeller and Design Studio",
     "metadata": {
       "category": "subscription"
-    }
+    },
+    "id": "c2a9a17d-76fa-4863-a00d-088efb4faed1"
   },
   {
+    "id": "406a0088-00c1-4e5e-85a0-0c016dd9aacd",
     "question": "Can I add own products?",
-    "answer": "You can send a request to add new products to IRRISketch via contacting support or reaching us in our chats in WhatsApp or Telegram. You can find links to chats or send us an email.",
+    "answer": "Yes and No. We have ability to create custom elements at /customElements. But not everything can be added. If you want to add specific nozzles or rotors, it is only possible per support request.",
     "metadata": {
-      "category": "equipment_custom"
+      "category": "equipment_custom",
+      "call_human": true
     }
   },
   {
@@ -244,69 +280,80 @@
     "answer": "IRRISketch was invented by Philiph Protsenko. He is a lead designer and developer for IRRISketch. You can learn more about team behind this service here: /about",
     "metadata": {
       "category": "product_info"
-    }
+    },
+    "id": "3df3b2de-73c1-4c33-952b-aec115134650"
   },
   {
     "question": "I want to submit a bug.",
     "answer": "Of course! Please write down description of what causes the bug and how to recreate it as thoroughly as possible. You can also attach screenshots and/or contact technical support if you want to give more information on the bug or you think it's crucial:\n\n/support",
     "metadata": {
       "category": "support"
-    }
+    },
+    "id": "f5cc69d5-89bb-4104-90f8-4c6c9d1157ce"
   },
   {
     "question": "I can't export my project to .PDF",
     "answer": "Most commonly this issue occurs when you don't have pop-up windows allowed on our website. They are crucial for PDF export to work, so to fix this problem, please check if they are turned on.\n\nIf it's not the case and pop-up windows are active, please send me link to the project that you have issues with and I will send it to the developer for further investigation.",
     "metadata": {
       "category": "export"
-    }
+    },
+    "id": "87f6e3fe-3c77-470c-be4a-2d05c70353d0"
   },
   {
     "question": "How do I add Irrigation time table?",
     "answer": "This feature has been removed due to issues it caused in previous versions of the service. For now there is no way to use this table.",
     "metadata": {
       "category": "features_removed"
-    }
+    },
+    "id": "7bcdbc78-893c-4c0c-af3b-ec62b3fddd00"
   },
   {
     "question": "Why can't I find \"Irrigation time\" table like shown in tutorial?",
     "answer": "This feature has been removed due to issues it caused in previous versions of the service. For now there is no way to use this table.",
     "metadata": {
       "category": "features_removed"
-    }
+    },
+    "id": "fe2c2023-de96-451f-8dc6-72a18b99c6fc"
   },
   {
     "question": "How do I increase size of pipes, water sources or consumers in my project?",
     "answer": "To increase size of any irrigation element as well as to change its visibility you can use layer manager tool in layouts mode. It is located in bottom right part of the screen. There you can change anything related to visibility of irrigation design layers.",
     "metadata": {
       "category": "layouts"
-    }
+    },
+    "id": "f94ef87e-df96-4b77-abf0-a0d23be57d92"
   },
   {
     "question": "Where can I find tutorials for IRRISketch?",
     "answer": "All tutorials are located here:\n/tutorials",
     "metadata": {
       "category": "tutorials"
-    }
+    },
+    "id": "e2dd752d-13c2-4418-aab3-5ce99a7bcfce"
   },
   {
     "question": "Layout image is rotated after I export my project to PDF or Image",
     "answer": "This is happening because your original image contains exif metadata. To make the image behave properly, you need to remove this metadata by using service www.verexif.com/en/. After you open the link - load your image, then press \"Remove exif\" button, download new image and replace old one in IRRISketch.",
     "metadata": {
       "category": "export"
-    }
+    },
+    "id": "4ff37a91-d830-477e-a201-ce922dafeecc"
   },
   {
     "question": "The drip pipes are not displayed in layout mode",
     "answer": "This behaviour is related to the zone representation settings in the layout. To change the zone representation settings, in the lower left corner, in the layouts mode, click on the \"Zones representation\" button and check the boxes next to the zones you want to see in the layout. Alternatively, you can create a new layout and all existing zones will be displayed on it.",
     "metadata": {
       "category": "layouts"
-    }
+    },
+    "id": "72dd635d-8f14-4a57-a912-2f38eac3d625"
   },
   {
+    "id": "3542cad0-9ffd-4ce0-9d4f-ddfa56555970",
     "question": "Transition to drawing mode takes a lot of time",
     "answer": "Usually, this is related to a very large number of elements in the project, as IRRISketch Residential is not designed for particularly large plots. This problem can be solved by deleting all existing objects in drawing mode and replacing them with a single background.\n\n1. Create a copy of the project and open it if you're afraid of accidentally losing data.\n2. Switch to irrigation mode and use the ctrl+a key combination to select all elements, then cut them using the ctrl+x key combination (they will be saved in the clipboard).\n3. Switch to drawing mode, set the \"Landscape\" setting in the \"Visual Style\" tab to obtain the original landscape of the project, and remove the stamp.\n4. Select a sheet format from A1 to A4. The larger the sheet size, the higher the quality of the final image, but the more space it will occupy.\n5. Use the \"Ruler\" tool in drawing mode to measure any easily measurable element of the drawing and record its length, as it will be needed later.\n6. Switch to \"Edit Drawing\" mode at the bottom of the screen and insert the drawing into the sheet using the button at the bottom left. Export the project as an image. If the resulting image is larger than 10MB, you won't be able to use it. In that case, if you know how to use various image editors (such as Photoshop, Gimp), compress the image or reduce the number of colors. This will reduce the file size.\n7. Insert the image into the project and set the correct scale using the length recorded in step 5.\n8. Align the image with your drawing so that all elements are in the same positions as they appear in the image.\n9. Lock the image by selecting it and clicking the corresponding button at the bottom left.\n10. Use the ctrl+a key combination to select all elements in drawing mode and delete them. Only your image should remain.\n11. Return to irrigation mode and paste all previously deleted irrigation elements back onto the drawing using the ctrl+v key combination. If done correctly, all elements should return to their original positions.",
     "metadata": {
-      "category": "troubleshooting"
+      "category": "troubleshooting",
+      "call_human": true
     }
   },
   {
@@ -314,41 +361,49 @@
     "answer": "To do this, you can download the project file using the appropriate button on the top right panel and send the downloaded file to another user. After that, he should create an empty project and using the \"Load\" button, open previously downloaded file.",
     "metadata": {
       "category": "project_management"
-    }
+    },
+    "id": "cf41efc7-2a72-4d2f-aae4-1c8ad58408d9"
   },
   {
     "question": "How do I display the grid in a project drawing? The grid doesn't appear when I export a project as PDF or PNG.",
     "answer": "To display the grid when printing, it must be placed on the drawing as an image. You can download the grid, for example from here - https://drive.google.com/file/d/1PrKMoz9YDW-UHNwBpxTXMzGqLM-X3Mb_/view?usp=sharing, and then scale it on the drawing to the desired size.",
     "metadata": {
       "category": "drawing_tools"
-    }
+    },
+    "id": "b2208dd1-b06b-4fb5-a0b8-6c1d53a24950"
   },
   {
     "question": "I want to restore a certain state of my project",
     "answer": "1. Open the same browser, on the same computer where you last worked on the project.\n2. Go to the IRRISketch workshop and open the project that the problem is related to.\n3. If when opening a project, a window appears offering to restore the project - press the \"Restore\" button and look at the result. If the project has not been restored to the required state, continue to follow instructions.\n4. In the upper right corner, click the History button (clock icon with arrow) and if everything was saved correctly, you will see a list of timestamps of your project states. Select the one when the project was in the most desired state. After that, be sure to save the project!",
     "metadata": {
       "category": "project_management"
-    }
+    },
+    "id": "bdfc9a05-17a1-40e5-9854-c9769b7d71f1"
   },
   {
     "question": "Changes in the project have not been saved. What should I do?",
     "answer": "1. Open the same browser, on the same computer where you last worked on the project.\n2. Go to the IRRISketch workshop and open the project that the problem is related to.\n3. If when opening a project, a window appears offering to restore the project - press the \"Restore\" button and look at the result. If the project has not been restored to the required state, continue to follow instructions.\n4. In the upper right corner, click the History button (clock icon with arrow) and if everything was saved correctly, you will see a list of timestamps of your project states. Select the one when the project was in the most desired state. After that, be sure to save the project!",
     "metadata": {
       "category": "troubleshooting"
-    }
+    },
+    "id": "8e2ffa76-d6d0-48ab-8d1e-a755375e00f7"
   },
   {
+    "id": "66940534-b37c-4e89-9d76-f0d94968c234",
     "question": "I paid for the subscription, but it did not appear in my personal cabinet",
     "answer": "In this case, you need to go to your personal account by following this link: /account/orders. Look at the button at the bottom of the order. The red \"Repeat\" button means that the payment failed and you should try again, but first check to see if the money has been charged. If you have been seeing the yellow \"Payment in progress\" button for a long time, chances are that the transaction has not happened automatic confirmation. If this is the case, click this button to complete it and everything should work. After the successful payment and completion of the transaction you will see a green \"Payment Verified\" button. Click it and your subscription will appear in the right column.",
     "metadata": {
-      "category": "subscription"
+      "category": "subscription",
+      "call_human": true
     }
   },
   {
+    "id": "10e87a31-e9b5-4c2f-bc92-d9d3b62c3057",
     "question": "Hello! I have a problem with one of my projects. When I switch to \"layouts\" tab it gives me an error. What should I do?",
     "answer": "Hello! Errors can happen from time to time, we fix each one manually. To resolve your issue, you can contact our technical support using our chats in Telegram or WhatsApp or writing us a direct e-mail.",
     "metadata": {
-      "category": "troubleshooting"
+      "category": "troubleshooting",
+      "call_human": true
     }
   }
 ]

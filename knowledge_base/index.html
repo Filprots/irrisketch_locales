@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Knowledge Base Editor</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      background: #f5f5f5;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    header {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+
+    .controls {
+      display: flex;
+      gap: 15px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .category-filter {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    label {
+      font-weight: 500;
+      color: #555;
+    }
+
+    select, input[type="text"] {
+      padding: 8px 12px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+      min-width: 200px;
+    }
+
+    select:focus, input[type="text"]:focus {
+      outline: none;
+      border-color: #4CAF50;
+    }
+
+    .btn {
+      padding: 8px 16px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 500;
+      transition: background 0.2s;
+    }
+
+    .btn-primary {
+      background: #4CAF50;
+      color: white;
+    }
+
+    .btn-primary:hover {
+      background: #45a049;
+    }
+
+    .btn-danger {
+      background: #f44336;
+      color: white;
+    }
+
+    .btn-danger:hover {
+      background: #da190b;
+    }
+
+    .btn-secondary {
+      background: #2196F3;
+      color: white;
+    }
+
+    .btn-secondary:hover {
+      background: #0b7dda;
+    }
+
+    .entries-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .entry-card {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      transition: transform 0.2s, box-shadow 0.2s;
+      border-left: 4px solid transparent;
+    }
+
+    .entry-card.call-human {
+      border-left-color: #ff9800;
+      background: #fff8f0;
+    }
+
+    .entry-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    }
+
+    .entry-card.call-human:hover {
+      box-shadow: 0 4px 12px rgba(255, 152, 0, 0.3);
+    }
+
+    .entry-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      margin-bottom: 15px;
+    }
+
+    .entry-header > div:first-child {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .entry-category {
+      background: #e3f2fd;
+      color: #1976d2;
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 12px;
+      font-weight: 500;
+    }
+
+    .entry-actions {
+      display: flex;
+      gap: 8px;
+    }
+
+    .entry-question {
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    .entry-answer {
+      color: #666;
+      line-height: 1.6;
+      white-space: pre-wrap;
+      margin-bottom: 15px;
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.5);
+      overflow: auto;
+    }
+
+    .modal-content {
+      background: white;
+      margin: 50px auto;
+      padding: 30px;
+      border-radius: 8px;
+      max-width: 800px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .modal-header h2 {
+      color: #333;
+    }
+
+    .close {
+      color: #aaa;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+      border: none;
+      background: none;
+    }
+
+    .close:hover {
+      color: #000;
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    .form-group label {
+      display: block;
+      margin-bottom: 8px;
+      color: #555;
+      font-weight: 500;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+      font-family: inherit;
+    }
+
+    .form-group textarea {
+      min-height: 150px;
+      resize: vertical;
+    }
+
+    .form-group select {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 14px;
+    }
+
+    .form-actions {
+      display: flex;
+      gap: 10px;
+      justify-content: flex-end;
+      margin-top: 20px;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: #999;
+    }
+
+    .empty-state h3 {
+      margin-bottom: 10px;
+      color: #666;
+    }
+
+    .category-input-wrapper {
+      position: relative;
+    }
+
+    .category-suggestions {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: white;
+      border: 1px solid #ddd;
+      border-top: none;
+      border-radius: 0 0 4px 4px;
+      max-height: 200px;
+      overflow-y: auto;
+      z-index: 10;
+      display: none;
+    }
+
+    .category-suggestion {
+      padding: 8px 12px;
+      cursor: pointer;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .category-suggestion:hover {
+      background: #f5f5f5;
+    }
+
+    .category-suggestion:last-child {
+      border-bottom: none;
+    }
+
+    .call-human-badge {
+      background: #ff9800;
+      color: white;
+      padding: 4px 12px;
+      border-radius: 12px;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      margin-left: 8px;
+      box-shadow: 0 2px 4px rgba(255, 152, 0, 0.3);
+    }
+
+    .form-group-checkbox {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .form-group-checkbox input[type="checkbox"] {
+      width: auto;
+      min-width: 18px;
+      height: 18px;
+      cursor: pointer;
+    }
+
+    .form-group-checkbox label {
+      margin-bottom: 0;
+      cursor: pointer;
+      user-select: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Knowledge Base Editor</h1>
+      <div class="controls">
+        <div class="category-filter">
+          <label for="categoryFilter">Filter by Category:</label>
+          <select id="categoryFilter">
+            <option value="all">All Categories</option>
+          </select>
+        </div>
+        <button class="btn btn-primary" onclick="openModal()">+ Add New Entry</button>
+      </div>
+    </header>
+
+    <div id="entriesContainer" class="entries-grid">
+      <div class="empty-state">
+        <h3>Loading entries...</h3>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal for Add/Edit -->
+  <div id="entryModal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="modalTitle">Add New Entry</h2>
+        <button class="close" onclick="closeModal()">&times;</button>
+      </div>
+      <form id="entryForm">
+        <div class="form-group">
+          <label for="entryQuestion">Question:</label>
+          <input type="text" id="entryQuestion" required>
+        </div>
+        <div class="form-group">
+          <label for="entryAnswer">Answer:</label>
+          <textarea id="entryAnswer" required></textarea>
+        </div>
+        <div class="form-group">
+          <label for="entryCategory">Category:</label>
+          <div class="category-input-wrapper">
+            <input type="text" id="entryCategory" list="categoryList" autocomplete="off" required>
+            <datalist id="categoryList"></datalist>
+            <div id="categorySuggestions" class="category-suggestions"></div>
+          </div>
+        </div>
+        <div class="form-group-checkbox">
+          <input type="checkbox" id="entryCallHuman">
+          <label for="entryCallHuman">Call Human (automatically calls human when this question is asked)</label>
+        </div>
+        <div class="form-actions">
+          <button type="button" class="btn btn-secondary" onclick="closeModal()">Cancel</button>
+          <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    let entries = [];
+    let categories = [];
+    let currentEditIndex = null;
+
+    // Load entries and categories
+    async function loadData() {
+      try {
+        const response = await fetch('/api/entries');
+        entries = await response.json();
+        
+        const catResponse = await fetch('/api/categories');
+        categories = await catResponse.json();
+        
+        updateCategoryFilter();
+        updateCategoryDatalist();
+        renderEntries();
+      } catch (error) {
+        console.error('Error loading data:', error);
+      }
+    }
+
+    // Update category filter dropdown
+    function updateCategoryFilter() {
+      const filter = document.getElementById('categoryFilter');
+      const currentValue = filter.value;
+      
+      // Calculate counts per category
+      const categoryCounts = {};
+      entries.forEach(entry => {
+        const cat = entry.metadata?.category || 'Uncategorized';
+        categoryCounts[cat] = (categoryCounts[cat] || 0) + 1;
+      });
+      
+      // Calculate total count
+      const totalCount = entries.length;
+      
+      filter.innerHTML = `<option value="all">All Categories (${totalCount})</option>`;
+      categories.forEach(cat => {
+        const option = document.createElement('option');
+        option.value = cat;
+        const count = categoryCounts[cat] || 0;
+        option.textContent = `${cat} (${count})`;
+        filter.appendChild(option);
+      });
+      
+      filter.value = currentValue || 'all';
+    }
+
+    // Update category datalist
+    function updateCategoryDatalist() {
+      const datalist = document.getElementById('categoryList');
+      datalist.innerHTML = '';
+      categories.forEach(cat => {
+        const option = document.createElement('option');
+        option.value = cat;
+        datalist.appendChild(option);
+      });
+    }
+
+    // Render entries
+    function renderEntries() {
+      const container = document.getElementById('entriesContainer');
+      const filter = document.getElementById('categoryFilter').value;
+      
+      let filteredEntries = entries;
+      if (filter !== 'all') {
+        filteredEntries = entries.filter(entry => entry.metadata?.category === filter);
+      }
+
+      if (filteredEntries.length === 0) {
+        container.innerHTML = '<div class="empty-state"><h3>No entries found</h3><p>Click "Add New Entry" to create one.</p></div>';
+        return;
+      }
+
+      container.innerHTML = filteredEntries.map((entry, index) => {
+        const actualIndex = entries.indexOf(entry);
+        const callHuman = entry.metadata?.call_human === true;
+        return `
+          <div class="entry-card ${callHuman ? 'call-human' : ''}">
+            <div class="entry-header">
+              <div>
+                <span class="entry-category">${entry.metadata?.category || 'Uncategorized'}</span>
+                ${callHuman ? '<span class="call-human-badge">Call Human</span>' : ''}
+              </div>
+              <div class="entry-actions">
+                <button class="btn btn-secondary" onclick="editEntry(${actualIndex})">Edit</button>
+                <button class="btn btn-danger" onclick="deleteEntry(${actualIndex})">Delete</button>
+              </div>
+            </div>
+            <div class="entry-question">${escapeHtml(entry.question)}</div>
+            <div class="entry-answer">${escapeHtml(entry.answer)}</div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // Escape HTML
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // Open modal for new entry
+    function openModal() {
+      currentEditIndex = null;
+      document.getElementById('modalTitle').textContent = 'Add New Entry';
+      document.getElementById('entryForm').reset();
+      document.getElementById('entryModal').style.display = 'block';
+    }
+
+    // Open modal for editing
+    function editEntry(index) {
+      currentEditIndex = index;
+      const entry = entries[index];
+      
+      document.getElementById('modalTitle').textContent = 'Edit Entry';
+      document.getElementById('entryQuestion').value = entry.question || '';
+      document.getElementById('entryAnswer').value = entry.answer || '';
+      document.getElementById('entryCategory').value = entry.metadata?.category || '';
+      document.getElementById('entryCallHuman').checked = entry.metadata?.call_human === true;
+      document.getElementById('entryModal').style.display = 'block';
+    }
+
+    // Close modal
+    function closeModal() {
+      document.getElementById('entryModal').style.display = 'none';
+      currentEditIndex = null;
+    }
+
+    // Save entry
+    async function saveEntry(event) {
+      event.preventDefault();
+      
+      const question = document.getElementById('entryQuestion').value.trim();
+      const answer = document.getElementById('entryAnswer').value.trim();
+      const category = document.getElementById('entryCategory').value.trim();
+      const callHuman = document.getElementById('entryCallHuman').checked;
+
+      if (!question || !answer || !category) {
+        alert('Please fill in all fields');
+        return;
+      }
+
+      try {
+        const url = currentEditIndex !== null 
+          ? `/api/entries/${currentEditIndex}` 
+          : '/api/entries';
+        
+        const method = currentEditIndex !== null ? 'PUT' : 'POST';
+        
+        const response = await fetch(url, {
+          method: method,
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ question, answer, category, call_human: callHuman })
+        });
+
+        if (response.ok) {
+          await loadData();
+          closeModal();
+        } else {
+          const error = await response.json();
+          alert('Error saving entry: ' + error.error);
+        }
+      } catch (error) {
+        console.error('Error saving entry:', error);
+        alert('Error saving entry');
+      }
+    }
+
+    // Delete entry
+    async function deleteEntry(index) {
+      if (!confirm('Are you sure you want to delete this entry?')) {
+        return;
+      }
+
+      try {
+        const response = await fetch(`/api/entries/${index}`, {
+          method: 'DELETE'
+        });
+
+        if (response.ok) {
+          await loadData();
+        } else {
+          const error = await response.json();
+          alert('Error deleting entry: ' + error.error);
+        }
+      } catch (error) {
+        console.error('Error deleting entry:', error);
+        alert('Error deleting entry');
+      }
+    }
+
+    // Event listeners
+    document.getElementById('entryForm').addEventListener('submit', saveEntry);
+    document.getElementById('categoryFilter').addEventListener('change', renderEntries);
+    
+    // Close modal when clicking outside
+    window.onclick = function(event) {
+      const modal = document.getElementById('entryModal');
+      if (event.target === modal) {
+        closeModal();
+      }
+    }
+
+    // Initialize
+    loadData();
+  </script>
+</body>
+</html>
+

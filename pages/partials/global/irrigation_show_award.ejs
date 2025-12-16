@@ -1,7 +1,7 @@
 <div class="jumbotron py-4 mb-3">
     <div class="row">
         <div class="col-lg-3 col-sm-12 my-lg-auto mb-sm-4 text-center">
-            <img width="200" src="/images/irrigation_show_2025_award.png" alt="Irrigation Show 2025">
+            <img width="200" src="/images/irrigation_show_2025_award.png" alt="Irrigation Show 2025" class="img-fluid" style="cursor: pointer;" data-toggle="modal" data-target="#awardModalGlobal">
         </div>
         <div class="col-lg-9 col-sm-12">
             <div class="text-center mb-3">
@@ -25,3 +25,186 @@
         </div>
     </div>
 </div>
+
+<!-- Modal -->
+<div class="modal fade" id="awardModalGlobal" tabindex="-1" role="dialog" aria-labelledby="awardModalLabelGlobal" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document" style="max-width: 90vw; max-height: 90vh; margin: auto;">
+        <div class="modal-content" style="max-height: 90vh; display: flex; flex-direction: column;">
+            <div class="modal-header" style="flex-shrink: 0;">
+                <h5 class="modal-title" id="awardModalLabelGlobal">Irrigation Show 2025 Award</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-center" style="overflow: auto; flex: 1; display: flex; align-items: center; justify-content: center; position: relative;">
+                <div class="magnifier-container" style="position: relative; display: inline-block;">
+                    <img src="/images/irrigation_show_2025_award.png" alt="Irrigation Show 2025" class="img-fluid magnifier-image" style="max-width: 100%; max-height: calc(90vh - 120px); object-fit: contain; cursor: zoom-in;">
+                    <div class="magnifier-result" style="display: none; position: fixed; width: 300px; height: 300px; border: 3px solid #fff; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); pointer-events: none; z-index: 1001; background-repeat: no-repeat; background-image: url('/images/irrigation_show_2025_award.png');"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+(function() {
+    var zoomState = {
+        isActive: false,
+        img: null,
+        result: null,
+        zoom: 3,
+        resultWidth: 300,
+        resultHeight: 300
+    };
+    
+    function getEventCoordinates(e) {
+        if (e.touches && e.touches.length > 0) {
+            return {
+                clientX: e.touches[0].clientX,
+                clientY: e.touches[0].clientY
+            };
+        }
+        return {
+            clientX: e.clientX || 0,
+            clientY: e.clientY || 0
+        };
+    }
+    
+    function toggleZoom(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        zoomState.isActive = !zoomState.isActive;
+        if (zoomState.isActive && zoomState.result) {
+            zoomState.result.style.display = 'block';
+            updateZoom(e);
+        } else if (zoomState.result) {
+            zoomState.result.style.display = 'none';
+        }
+    }
+    
+    function updateZoom(e) {
+        if (!zoomState.isActive || !zoomState.img || !zoomState.result) return;
+        
+        var coords = getEventCoordinates(e);
+        var rect = zoomState.img.getBoundingClientRect();
+        var imgWidth = zoomState.img.offsetWidth || zoomState.img.clientWidth;
+        var imgHeight = zoomState.img.offsetHeight || zoomState.img.clientHeight;
+        
+        if (imgWidth === 0 || imgHeight === 0) return;
+        
+        var x = coords.clientX - rect.left;
+        var y = coords.clientY - rect.top;
+        
+        if (x < 0 || y < 0 || x > imgWidth || y > imgHeight) return;
+        
+        zoomState.result.style.backgroundSize = (imgWidth * zoomState.zoom) + 'px ' + (imgHeight * zoomState.zoom) + 'px';
+        
+        var bgX = -(x * zoomState.zoom - zoomState.resultWidth / 2);
+        var bgY = -(y * zoomState.zoom - zoomState.resultHeight / 2);
+        
+        zoomState.result.style.backgroundPosition = bgX + 'px ' + bgY + 'px';
+        
+        zoomState.result.style.left = (coords.clientX + 20) + 'px';
+        zoomState.result.style.top = (coords.clientY + 20) + 'px';
+        
+        if (zoomState.result.offsetLeft + zoomState.result.offsetWidth > window.innerWidth) {
+            zoomState.result.style.left = (coords.clientX - zoomState.result.offsetWidth - 20) + 'px';
+        }
+        if (zoomState.result.offsetTop + zoomState.result.offsetHeight > window.innerHeight) {
+            zoomState.result.style.top = (coords.clientY - zoomState.result.offsetHeight - 20) + 'px';
+        }
+    }
+    
+    function initMagnifier() {
+        var container = document.querySelector('#awardModalGlobal .magnifier-container');
+        if (!container) return false;
+        
+        var img = container.querySelector('.magnifier-image');
+        var result = container.querySelector('.magnifier-result');
+        if (!img || !result) return false;
+        
+        if (zoomState.img === img) return true;
+        
+        zoomState.img = img;
+        zoomState.result = result;
+        
+        img.addEventListener('click', toggleZoom, {passive: false});
+        img.addEventListener('touchstart', toggleZoom, {passive: false});
+        
+        img.addEventListener('mousemove', function(e) {
+            if (zoomState.isActive) {
+                updateZoom(e);
+            }
+        });
+        
+        img.addEventListener('touchmove', function(e) {
+            if (zoomState.isActive) {
+                e.preventDefault();
+                updateZoom(e);
+            }
+        }, {passive: false});
+        
+        return true;
+    }
+    
+    function resetZoom() {
+        zoomState.isActive = false;
+        if (zoomState.result) {
+            zoomState.result.style.display = 'none';
+        }
+        zoomState.img = null;
+        zoomState.result = null;
+    }
+    
+    var modal = document.getElementById('awardModalGlobal');
+    var initAttempts = 0;
+    var maxAttempts = 20;
+    
+    function checkAndInit() {
+        if (modal && modal.classList.contains('show') && modal.style.display !== 'none') {
+            if (!zoomState.img && initAttempts < maxAttempts) {
+                initAttempts++;
+                if (!initMagnifier()) {
+                    setTimeout(checkAndInit, 100);
+                } else {
+                    initAttempts = 0;
+                }
+            }
+        } else {
+            if (zoomState.isActive) {
+                resetZoom();
+            }
+            initAttempts = 0;
+        }
+    }
+    
+    if (modal) {
+        modal.addEventListener('shown.bs.modal', function() {
+            initAttempts = 0;
+            function tryInit() {
+                if (!initMagnifier()) {
+                    initAttempts++;
+                    if (initAttempts < maxAttempts) {
+                        setTimeout(tryInit, 100);
+                    }
+                } else {
+                    initAttempts = 0;
+                }
+            }
+            setTimeout(tryInit, 50);
+        });
+        
+        modal.addEventListener('hidden.bs.modal', function() {
+            resetZoom();
+        });
+        
+        setInterval(checkAndInit, 200);
+    }
+    
+    document.addEventListener('click', function(e) {
+        if (zoomState.isActive && zoomState.img && zoomState.result && !zoomState.img.contains(e.target) && !zoomState.result.contains(e.target)) {
+            resetZoom();
+        }
+    });
+})();
+</script>

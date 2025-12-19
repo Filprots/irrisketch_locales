@@ -23,6 +23,36 @@
             </p>
         </div>
     </div>
+    <!-- Photo Carousel -->
+    <div class="row mt-4">
+        <div class="col-12 text-center">
+            <div class="startup-images-carousel" style="max-width: 600px; margin: 0 auto;">
+                <div><img src="/images/startup2025_1.jpg" alt="Startup 2025 Image 1" class="img-fluid carousel-thumb" data-image-src="/images/startup2025_1.jpg" style="cursor: pointer; max-height: 150px; width: auto; margin: 0 auto; display: block;"></div>
+                <div><img src="/images/startup2025_2.jpg" alt="Startup 2025 Image 2" class="img-fluid carousel-thumb" data-image-src="/images/startup2025_2.jpg" style="cursor: pointer; max-height: 150px; width: auto; margin: 0 auto; display: block;"></div>
+                <div><img src="/images/startup2025_3.png" alt="Startup 2025 Image 3" data-link="https://www.motorist-online.de/irrisketch-gewinnt-preis-auf-der-irrigation-show-2025-18122025" class="img-fluid carousel-thumb" data-image-src="/images/startup2025_3.png" style="cursor: pointer; max-height: 150px; width: auto; margin: 0 auto; display: block;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Carousel Image Modal -->
+<div class="modal fade" id="carouselImageModal" tabindex="-1" role="dialog" aria-labelledby="carouselImageModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document" style="max-width: 90vw; max-height: 90vh; margin: auto;">
+        <div class="modal-content" style="max-height: 90vh; display: flex; flex-direction: column;">
+            <div class="modal-header" style="flex-shrink: 0;">
+                <h5 class="modal-title" id="carouselImageModalLabel">Startup 2025</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-center" style="overflow: auto; flex: 1; display: flex; align-items: center; justify-content: center; position: relative;">
+                <div class="magnifier-container" style="position: relative; display: inline-block;">
+                    <img id="carouselModalImage" src="" alt="Startup 2025" class="img-fluid magnifier-image" style="max-width: 100%; max-height: calc(90vh - 120px); object-fit: contain; cursor: zoom-in;">
+                    <div class="magnifier-result" style="display: none; position: fixed; width: 300px; height: 300px; border: 3px solid #fff; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); pointer-events: none; z-index: 1001; background-repeat: no-repeat; transform-origin: center center;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <!-- Modal -->
@@ -114,25 +144,11 @@
         
         zoomState.result.style.backgroundPosition = bgX + 'px ' + bgY + 'px';
         
-        if (isMobile) {
-            // Center the magnifier on mobile
-            zoomState.result.style.left = '50%';
-            zoomState.result.style.top = '50%';
-            zoomState.result.style.transform = 'translate(-50%, -50%)';
-            zoomState.result.style.margin = '0';
-        } else {
-            // Desktop: follow cursor
-            zoomState.result.style.transform = 'none';
-            zoomState.result.style.left = (coords.clientX + 20) + 'px';
-            zoomState.result.style.top = (coords.clientY + 20) + 'px';
-            
-            if (zoomState.result.offsetLeft + zoomState.result.offsetWidth > window.innerWidth) {
-                zoomState.result.style.left = (coords.clientX - zoomState.result.offsetWidth - 20) + 'px';
-            }
-            if (zoomState.result.offsetTop + zoomState.result.offsetHeight > window.innerHeight) {
-                zoomState.result.style.top = (coords.clientY - zoomState.result.offsetHeight - 20) + 'px';
-            }
-        }
+        // Center the magnifier on all devices
+        zoomState.result.style.left = '50%';
+        zoomState.result.style.top = '50%';
+        zoomState.result.style.transform = 'translate(-50%, -50%)';
+        zoomState.result.style.margin = '0';
     }
     
     function initMagnifier() {
@@ -226,6 +242,242 @@
             resetZoom();
         }
     });
+})();
+</script>
+
+<script>
+(function() {
+    'use strict';
+
+    var SLIDES_TO_SHOW = 2;
+    var carouselModalId = 'carouselImageModal';
+    var carouselZoomState = {
+        isActive: false,
+        img: null,
+        result: null,
+        zoom: 3,
+        resultWidth: 300,
+        resultHeight: 300
+    };
+
+    function getEventCoordinates(e) {
+        if (e.touches && e.touches.length > 0) {
+            return {
+                clientX: e.touches[0].clientX,
+                clientY: e.touches[0].clientY
+            };
+        }
+        return {
+            clientX: e.clientX || 0,
+            clientY: e.clientY || 0
+        };
+    }
+
+    function toggleCarouselZoom(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        carouselZoomState.isActive = !carouselZoomState.isActive;
+        if (carouselZoomState.isActive && carouselZoomState.result) {
+            carouselZoomState.result.style.display = 'block';
+            updateCarouselZoom(e);
+        } else if (carouselZoomState.result) {
+            carouselZoomState.result.style.display = 'none';
+        }
+    }
+
+    function updateCarouselZoom(e) {
+        if (!carouselZoomState.isActive || !carouselZoomState.img || !carouselZoomState.result) return;
+
+        var coords = getEventCoordinates(e);
+        var rect = carouselZoomState.img.getBoundingClientRect();
+        var imgWidth = carouselZoomState.img.offsetWidth || carouselZoomState.img.clientWidth;
+        var imgHeight = carouselZoomState.img.offsetHeight || carouselZoomState.img.clientHeight;
+
+        if (imgWidth === 0 || imgHeight === 0) return;
+
+        var x = coords.clientX - rect.left;
+        var y = coords.clientY - rect.top;
+
+        if (x < 0 || y < 0 || x > imgWidth || y > imgHeight) return;
+
+        var isMobile = ('ontouchstart' in window || navigator.maxTouchPoints > 0) && window.innerWidth < 768;
+        var magnifierSize = isMobile ? Math.min(window.innerWidth * 0.8, window.innerHeight * 0.6, 250) : carouselZoomState.resultWidth;
+
+        carouselZoomState.result.style.width = magnifierSize + 'px';
+        carouselZoomState.result.style.height = magnifierSize + 'px';
+        carouselZoomState.result.style.backgroundSize = (imgWidth * carouselZoomState.zoom) + 'px ' + (imgHeight * carouselZoomState.zoom) + 'px';
+
+        var bgX = -(x * carouselZoomState.zoom - magnifierSize / 2);
+        var bgY = -(y * carouselZoomState.zoom - magnifierSize / 2);
+
+        carouselZoomState.result.style.backgroundPosition = bgX + 'px ' + bgY + 'px';
+
+        // Center the magnifier on all devices
+        carouselZoomState.result.style.left = '50%';
+        carouselZoomState.result.style.top = '50%';
+        carouselZoomState.result.style.transform = 'translate(-50%, -50%)';
+        carouselZoomState.result.style.margin = '0';
+    }
+
+    function initCarouselMagnifier() {
+        var container = document.querySelector('#' + carouselModalId + ' .magnifier-container');
+        if (!container) return false;
+
+        var img = container.querySelector('.magnifier-image');
+        var result = container.querySelector('.magnifier-result');
+        if (!img || !result) return false;
+
+        if (carouselZoomState.img === img) {
+            // Update background image if image src changed
+            carouselZoomState.result.style.backgroundImage = 'url("' + img.src + '")';
+            return true;
+        }
+
+        carouselZoomState.img = img;
+        carouselZoomState.result = result;
+        carouselZoomState.result.style.backgroundImage = 'url("' + img.src + '")';
+
+        img.addEventListener('click', toggleCarouselZoom, {passive: false});
+        img.addEventListener('touchstart', toggleCarouselZoom, {passive: false});
+
+        img.addEventListener('mousemove', function(e) {
+            if (carouselZoomState.isActive) {
+                updateCarouselZoom(e);
+            }
+        });
+
+        img.addEventListener('touchmove', function(e) {
+            if (carouselZoomState.isActive) {
+                e.preventDefault();
+                updateCarouselZoom(e);
+            }
+        }, {passive: false});
+
+        return true;
+    }
+
+    function resetCarouselZoom() {
+        carouselZoomState.isActive = false;
+        if (carouselZoomState.result) {
+            carouselZoomState.result.style.display = 'none';
+        }
+        carouselZoomState.img = null;
+        carouselZoomState.result = null;
+    }
+
+    function initCarousel() {
+        if (typeof jQuery === 'undefined' || typeof jQuery.fn.slick === 'undefined') {
+            setTimeout(initCarousel, 100);
+            return;
+        }
+
+        var $ = jQuery;
+        var carouselContainer = $('.startup-images-carousel');
+        if (!carouselContainer || !carouselContainer[0]) return;
+
+        $(document).ready(function() {
+            carouselContainer.slick({
+                slidesToShow: SLIDES_TO_SHOW,
+                slidesToScroll: 1,
+                autoplay: true,
+                autoplaySpeed: 5000,
+                arrows: true,
+                dots: true,
+                pauseOnHover: true,
+                lazyLoad: 'ondemand',
+                adaptiveHeight: true,
+                responsive: [{
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 1
+                    }
+                }, {
+                    breakpoint: 520,
+                    settings: {
+                        slidesToShow: 1
+                    }
+                }]
+            }).on('setPosition', function(event, slick) {
+                slick.$slides.css('height', slick.$slideTrack.height() + 'px');
+            });
+
+            // Add click handlers to carousel images
+            $(document).on('click', '.carousel-thumb', function() {
+                var link = $(this).data('link');
+                if (link) {
+                    // Open link in new tab if data-link attribute is provided
+                    window.open(link, '_blank');
+                    return;
+                }
+                // Default behavior: open modal
+                var imageSrc = $(this).data('image-src') || $(this).attr('src');
+                resetCarouselZoom();
+                $('#carouselModalImage').attr('src', imageSrc);
+                $('#carouselImageModal').modal('show');
+            });
+
+            // Update magnifier background when image loads
+            $('#carouselModalImage').on('load', function() {
+                if (carouselZoomState.result) {
+                    carouselZoomState.result.style.backgroundImage = 'url("' + this.src + '")';
+                }
+            });
+        });
+
+        // Initialize magnifier for carousel modal
+        var carouselModal = document.getElementById(carouselModalId);
+        var carouselInitAttempts = 0;
+        var carouselMaxAttempts = 20;
+
+        function checkAndInitCarousel() {
+            if (carouselModal && carouselModal.classList.contains('show') && carouselModal.style.display !== 'none') {
+                if (!carouselZoomState.img && carouselInitAttempts < carouselMaxAttempts) {
+                    carouselInitAttempts++;
+                    if (!initCarouselMagnifier()) {
+                        setTimeout(checkAndInitCarousel, 100);
+                    } else {
+                        carouselInitAttempts = 0;
+                    }
+                }
+            } else {
+                if (carouselZoomState.isActive) {
+                    resetCarouselZoom();
+                }
+                carouselInitAttempts = 0;
+            }
+        }
+
+        if (carouselModal) {
+            carouselModal.addEventListener('shown.bs.modal', function() {
+                carouselInitAttempts = 0;
+                function tryInit() {
+                    if (!initCarouselMagnifier()) {
+                        carouselInitAttempts++;
+                        if (carouselInitAttempts < carouselMaxAttempts) {
+                            setTimeout(tryInit, 100);
+                        }
+                    } else {
+                        carouselInitAttempts = 0;
+                    }
+                }
+                setTimeout(tryInit, 50);
+            });
+
+            carouselModal.addEventListener('hidden.bs.modal', function() {
+                resetCarouselZoom();
+            });
+
+            setInterval(checkAndInitCarousel, 200);
+        }
+
+        document.addEventListener('click', function(e) {
+            if (carouselZoomState.isActive && carouselZoomState.img && carouselZoomState.result && !carouselZoomState.img.contains(e.target) && !carouselZoomState.result.contains(e.target)) {
+                resetCarouselZoom();
+            }
+        });
+    }
+
+    initCarousel();
 })();
 </script>
 

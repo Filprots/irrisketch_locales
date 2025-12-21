@@ -1961,6 +1961,10 @@
   "CUSTELS_RATING": "Рэйтынг",
   "CUSTELS_CURRENT_RATING": "Бягучы сярэдні рэйтынг",
   "CUSTELS_VOTERS_COUNT": "Колькасць галасоўшых",
-  "CUSTELS_NUM_OF_USERS": "Колькасць карыстальнікаў"
+  "CUSTELS_NUM_OF_USERS": "Колькасць карыстальнікаў",
+  "Mail_userEvents_you_recieved_a_message_in_a_chat": "У вас новы ліст у чаце",
+  "Mail_userEvents_click_here_to_get_back_to_conversation": "Пстрыкніце тут, каб вярнуцца да размовы (вам трэба ўвайсці ў сістэму):",
+  "Go_To_chat": "Перайсці да чата",
+  "email_subject_Chat Messages": "IRRISketch - У вас новы ліст у чаце"
 }
 

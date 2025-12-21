@@ -1961,6 +1961,10 @@
   "CUSTELS_RATING": "Įvertinimas",
   "CUSTELS_CURRENT_RATING": "Dabartinis vidutinis įvertinimas",
   "CUSTELS_VOTERS_COUNT": "Balsavusiųjų skaičius",
-  "CUSTELS_NUM_OF_USERS": "Naudotojų skaičius"
+  "CUSTELS_NUM_OF_USERS": "Naudotojų skaičius",
+  "Mail_userEvents_you_recieved_a_message_in_a_chat": "Turite naują žinutę pokalbyje",
+  "Mail_userEvents_click_here_to_get_back_to_conversation": "Spustelėkite čia, kad grįžtumėte į pokalbį (turite būti prisijungę):",
+  "Go_To_chat": "Eiti į pokalbį",
+  "email_subject_Chat Messages": "IRRISketch - Turite naują žinutę pokalbyje"
 }
 

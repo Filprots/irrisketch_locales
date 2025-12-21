@@ -1961,6 +1961,10 @@
   "CUSTELS_RATING": "Bewertung",
   "CUSTELS_CURRENT_RATING": "Aktuelle Durchschnittsbewertung",
   "CUSTELS_VOTERS_COUNT": "Anzahl der Abstimmenden",
-  "CUSTELS_NUM_OF_USERS": "Anzahl der Benutzer"
+  "CUSTELS_NUM_OF_USERS": "Anzahl der Benutzer",
+  "Mail_userEvents_you_recieved_a_message_in_a_chat": "Sie haben eine neue Nachricht im Chat",
+  "Mail_userEvents_click_here_to_get_back_to_conversation": "Klicken Sie hier, um zur Unterhaltung zurückzukehren (Sie müssen angemeldet sein):",
+  "Go_To_chat": "Zum Chat gehen",
+  "email_subject_Chat Messages": "IRRISketch - Sie haben eine neue Nachricht im Chat"
 }
 

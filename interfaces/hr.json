@@ -1961,6 +1961,10 @@
   "CUSTELS_RATING": "Ocjena",
   "CUSTELS_CURRENT_RATING": "Trenutna prosječna ocjena",
   "CUSTELS_VOTERS_COUNT": "Broj glasača",
-  "CUSTELS_NUM_OF_USERS": "Broj korisnika"
+  "CUSTELS_NUM_OF_USERS": "Broj korisnika",
+  "Mail_userEvents_you_recieved_a_message_in_a_chat": "Imate novu poruku u chatu",
+  "Mail_userEvents_click_here_to_get_back_to_conversation": "Kliknite ovdje da se vratite na razgovor (morate biti prijavljeni):",
+  "Go_To_chat": "Idi na chat",
+  "email_subject_Chat Messages": "IRRISketch - Imate novu poruku u chatu"
 }
 

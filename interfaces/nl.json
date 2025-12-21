@@ -1961,6 +1961,10 @@
   "CUSTELS_RATING": "Beoordeling",
   "CUSTELS_CURRENT_RATING": "Huidige gemiddelde beoordeling",
   "CUSTELS_VOTERS_COUNT": "Aantal stemmers",
-  "CUSTELS_NUM_OF_USERS": "Aantal gebruikers"
+  "CUSTELS_NUM_OF_USERS": "Aantal gebruikers",
+  "Mail_userEvents_you_recieved_a_message_in_a_chat": "U heeft een nieuw bericht in de chat",
+  "Mail_userEvents_click_here_to_get_back_to_conversation": "Klik hier om terug te gaan naar het gesprek (u moet ingelogd zijn):",
+  "Go_To_chat": "Ga naar chat",
+  "email_subject_Chat Messages": "IRRISketch - U heeft een nieuw bericht in de chat"
 }
 

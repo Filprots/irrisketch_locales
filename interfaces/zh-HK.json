@@ -1961,6 +1961,10 @@
   "CUSTELS_RATING": "評分",
   "CUSTELS_CURRENT_RATING": "當前平均評分",
   "CUSTELS_VOTERS_COUNT": "投票人數",
-  "CUSTELS_NUM_OF_USERS": "用戶數量"
+  "CUSTELS_NUM_OF_USERS": "用戶數量",
+  "Mail_userEvents_you_recieved_a_message_in_a_chat": "您在聊天中收到了一條新訊息",
+  "Mail_userEvents_click_here_to_get_back_to_conversation": "點擊此處返回對話（您需要登入）：",
+  "Go_To_chat": "前往聊天",
+  "email_subject_Chat Messages": "IRRISketch - 您在聊天中收到了一條新訊息"
 }
 

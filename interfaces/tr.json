@@ -1965,6 +1965,7 @@
   "Mail_userEvents_you_recieved_a_message_in_a_chat": "Sohbette yeni bir mesajınız var",
   "Mail_userEvents_click_here_to_get_back_to_conversation": "Konuşmaya dönmek için buraya tıklayın (giriş yapmanız gerekir):",
   "Go_To_chat": "Sohbete git",
-  "email_subject_Chat Messages": "IRRISketch - Sohbette yeni bir mesajınız var"
+  "email_subject_Chat Messages": "IRRISketch - Sohbette yeni bir mesajınız var",
+  "StageInformation": "Bilgi"
 }
 

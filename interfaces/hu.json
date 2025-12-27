@@ -1965,6 +1965,7 @@
   "Mail_userEvents_you_recieved_a_message_in_a_chat": "Új üzenetet kaptál a chatben",
   "Mail_userEvents_click_here_to_get_back_to_conversation": "Kattintson ide, hogy visszatérjen a beszélgetéshez (be kell jelentkeznie):",
   "Go_To_chat": "Ugrás a chathez",
-  "email_subject_Chat Messages": "IRRISketch - Új üzenetet kaptál a chatben"
+  "email_subject_Chat Messages": "IRRISketch - Új üzenetet kaptál a chatben",
+  "StageInformation": "Információ"
 }
 

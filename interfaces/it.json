@@ -1965,6 +1965,7 @@
   "Mail_userEvents_you_recieved_a_message_in_a_chat": "Hai ricevuto un nuovo messaggio nella chat",
   "Mail_userEvents_click_here_to_get_back_to_conversation": "Clicca qui per tornare alla conversazione (devi essere connesso):",
   "Go_To_chat": "Vai alla chat",
-  "email_subject_Chat Messages": "IRRISketch - Hai ricevuto un nuovo messaggio nella chat"
+  "email_subject_Chat Messages": "IRRISketch - Hai ricevuto un nuovo messaggio nella chat",
+  "StageInformation": "Informazione"
 }
 

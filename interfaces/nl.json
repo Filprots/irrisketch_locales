@@ -2009,6 +2009,11 @@
   "Sprinkling": "Beregening",
   "Layouting": "Tekeningen",
   "Outlaying": "Uitrusting",
-  "Info": "Info"
+  "Info": "Info",
+  "ViewLinkNotFound": "Link niet gevonden",
+  "ViewLinkNotFoundDetails": "Controleer de link en probeer het opnieuw",
+  "ViewLinkError": "Fout",
+  "ViewLinkDeactivated": "Link gedeactiveerd",
+  "ViewLinkDeactivatedDetails": "Neem contact op met de linkuitgever om toegang te krijgen"
 }
 

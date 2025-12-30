@@ -2009,6 +2009,11 @@
   "Sprinkling": "Іригація",
   "Layouting": "Креслення",
   "Outlaying": "Обладнання",
-  "Info": "Інформація"
+  "Info": "Інформація",
+  "ViewLinkNotFound": "Посилання не знайдено",
+  "ViewLinkNotFoundDetails": "Будь ласка, перевірте посилання та спробуйте ще раз",
+  "ViewLinkError": "Помилка",
+  "ViewLinkDeactivated": "Посилання деактивовано",
+  "ViewLinkDeactivatedDetails": "Будь ласка, зв'яжіться з видавцем посилання для отримання доступу"
 }
 

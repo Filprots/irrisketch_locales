@@ -2009,6 +2009,11 @@
   "Sprinkling": "灌溉",
   "Layouting": "圖紙",
   "Outlaying": "設備",
-  "Info": "資訊"
+  "Info": "資訊",
+  "ViewLinkNotFound": "找不到連結",
+  "ViewLinkNotFoundDetails": "請檢查連結並重試",
+  "ViewLinkError": "錯誤",
+  "ViewLinkDeactivated": "連結已停用",
+  "ViewLinkDeactivatedDetails": "請聯繫連結發布者以獲取訪問權限"
 }
 

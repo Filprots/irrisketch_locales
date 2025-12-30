@@ -2009,6 +2009,11 @@
   "Sprinkling": "Полив",
   "Layouting": "Чертежи",
   "Outlaying": "Оборудование",
-  "Info": "Информация"
+  "Info": "Информация",
+  "ViewLinkNotFound": "Ссылка не найдена",
+  "ViewLinkNotFoundDetails": "Пожалуйста, проверьте ссылку и попробуйте снова",
+  "ViewLinkError": "Ошибка",
+  "ViewLinkDeactivated": "Ссылка деактивирована",
+  "ViewLinkDeactivatedDetails": "Пожалуйста, свяжитесь с создателем ссылки для получения доступа"
 }
 

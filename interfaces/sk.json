@@ -2009,6 +2009,11 @@
   "Sprinkling": "Zavlažovanie",
   "Layouting": "Kresby",
   "Outlaying": "Vybavenie",
-  "Info": "Info"
+  "Info": "Info",
+  "ViewLinkNotFound": "Odkaz sa nenašiel",
+  "ViewLinkNotFoundDetails": "Prosím, skontrolujte odkaz a skúste znova",
+  "ViewLinkError": "Chyba",
+  "ViewLinkDeactivated": "Odkaz deaktivovaný",
+  "ViewLinkDeactivatedDetails": "Prosím, kontaktujte vydavateľa odkazu pre získanie prístupu"
 }
 

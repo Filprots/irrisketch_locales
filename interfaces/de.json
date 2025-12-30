@@ -2009,6 +2009,11 @@
   "Sprinkling": "Bewässerung",
   "Layouting": "Zeichnungen",
   "Outlaying": "Ausrüstung",
-  "Info": "Info"
+  "Info": "Info",
+  "ViewLinkNotFound": "Link nicht gefunden",
+  "ViewLinkNotFoundDetails": "Bitte überprüfen Sie den Link und versuchen Sie es erneut",
+  "ViewLinkError": "Fehler",
+  "ViewLinkDeactivated": "Link deaktiviert",
+  "ViewLinkDeactivatedDetails": "Bitte kontaktieren Sie den Link-Aussteller, um Zugang zu erhalten"
 }
 

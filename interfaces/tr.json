@@ -2009,6 +2009,11 @@
   "Sprinkling": "Sulama",
   "Layouting": "Çizimler",
   "Outlaying": "Ekipman",
-  "Info": "Bilgi"
+  "Info": "Bilgi",
+  "ViewLinkNotFound": "Bağlantı bulunamadı",
+  "ViewLinkNotFoundDetails": "Lütfen bağlantıyı kontrol edin ve tekrar deneyin",
+  "ViewLinkError": "Hata",
+  "ViewLinkDeactivated": "Bağlantı devre dışı",
+  "ViewLinkDeactivatedDetails": "Erişim için lütfen bağlantıyı veren kişiyle iletişime geçin"
 }
 

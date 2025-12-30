@@ -2009,6 +2009,11 @@
   "Sprinkling": "Öntözés",
   "Layouting": "Rajzok",
   "Outlaying": "Felszerelés",
-  "Info": "Info"
+  "Info": "Info",
+  "ViewLinkNotFound": "A hivatkozás nem található",
+  "ViewLinkNotFoundDetails": "Kérjük, ellenőrizze a hivatkozást és próbálja újra",
+  "ViewLinkError": "Hiba",
+  "ViewLinkDeactivated": "A hivatkozás deaktiválva",
+  "ViewLinkDeactivatedDetails": "Kérjük, lépjen kapcsolatba a hivatkozás kiadójával a hozzáféréshez"
 }
 

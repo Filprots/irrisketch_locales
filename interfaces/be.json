@@ -2009,6 +2009,11 @@
   "Sprinkling": "Ірыгацыя",
   "Layouting": "Чарцёжы",
   "Outlaying": "Абсталяванне",
-  "Info": "Інфармацыя"
+  "Info": "Інфармацыя",
+  "ViewLinkNotFound": "Спасылка не знойдзена",
+  "ViewLinkNotFoundDetails": "Калі ласка, праверце спасылку і паспрабуйце яшчэ раз",
+  "ViewLinkError": "Памылка",
+  "ViewLinkDeactivated": "Спасылка дэактывавана",
+  "ViewLinkDeactivatedDetails": "Калі ласка, звяжыцеся з выдаўцом спасылкі для атрымання доступу"
 }
 

@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "Lütfen bağlantıyı kontrol edin ve tekrar deneyin",
   "ViewLinkError": "Hata",
   "ViewLinkDeactivated": "Bağlantı devre dışı",
-  "ViewLinkDeactivatedDetails": "Erişim için lütfen bağlantıyı veren kişiyle iletişime geçin"
+  "ViewLinkDeactivatedDetails": "Erişim için lütfen bağlantıyı veren kişiyle iletişime geçin",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Fıskıye Yapılandırması",
+  "CUSTELS_PINPOINT_THROW": "Atış mesafesi",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Su tüketimi"
 }
 

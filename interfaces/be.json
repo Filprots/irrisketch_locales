@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "Калі ласка, праверце спасылку і паспрабуйце яшчэ раз",
   "ViewLinkError": "Памылка",
   "ViewLinkDeactivated": "Спасылка дэактывавана",
-  "ViewLinkDeactivatedDetails": "Калі ласка, звяжыцеся з выдаўцом спасылкі для атрымання доступу"
+  "ViewLinkDeactivatedDetails": "Калі ласка, звяжыцеся з выдаўцом спасылкі для атрымання доступу",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Канфігурацыя разбрызгівальніка",
+  "CUSTELS_PINPOINT_THROW": "Адлегласць выкіду",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Спажыванне вады"
 }
 

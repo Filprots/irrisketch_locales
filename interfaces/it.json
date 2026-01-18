@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "Si prega di controllare il collegamento e riprovare",
   "ViewLinkError": "Errore",
   "ViewLinkDeactivated": "Collegamento disattivato",
-  "ViewLinkDeactivatedDetails": "Si prega di contattare l'emittente del collegamento per ottenere l'accesso"
+  "ViewLinkDeactivatedDetails": "Si prega di contattare l'emittente del collegamento per ottenere l'accesso",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Configurazione irrigatore",
+  "CUSTELS_PINPOINT_THROW": "Gittata",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Consumo d'acqua"
 }
 

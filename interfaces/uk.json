@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "Будь ласка, перевірте посилання та спробуйте ще раз",
   "ViewLinkError": "Помилка",
   "ViewLinkDeactivated": "Посилання деактивовано",
-  "ViewLinkDeactivatedDetails": "Будь ласка, зв'яжіться з видавцем посилання для отримання доступу"
+  "ViewLinkDeactivatedDetails": "Будь ласка, зв'яжіться з видавцем посилання для отримання доступу",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Конфігурація розпилювача",
+  "CUSTELS_PINPOINT_THROW": "Дальність викиду",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Споживання води"
 }
 

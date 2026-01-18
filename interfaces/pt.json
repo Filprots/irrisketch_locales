@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "Por favor, verifique o link e tente novamente",
   "ViewLinkError": "Erro",
   "ViewLinkDeactivated": "Link desativado",
-  "ViewLinkDeactivatedDetails": "Por favor, entre em contato com o emissor do link para obter acesso"
+  "ViewLinkDeactivatedDetails": "Por favor, entre em contato com o emissor do link para obter acesso",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Configuração do aspersor",
+  "CUSTELS_PINPOINT_THROW": "Distância de alcance",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Consumo de água"
 }
 

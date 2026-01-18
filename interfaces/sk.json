@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "Prosím, skontrolujte odkaz a skúste znova",
   "ViewLinkError": "Chyba",
   "ViewLinkDeactivated": "Odkaz deaktivovaný",
-  "ViewLinkDeactivatedDetails": "Prosím, kontaktujte vydavateľa odkazu pre získanie prístupu"
+  "ViewLinkDeactivatedDetails": "Prosím, kontaktujte vydavateľa odkazu pre získanie prístupu",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Konfigurácia postrekovača",
+  "CUSTELS_PINPOINT_THROW": "Dosah postreku",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Spotreba vody"
 }
 

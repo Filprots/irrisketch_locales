@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "Controleer de link en probeer het opnieuw",
   "ViewLinkError": "Fout",
   "ViewLinkDeactivated": "Link gedeactiveerd",
-  "ViewLinkDeactivatedDetails": "Neem contact op met de linkuitgever om toegang te krijgen"
+  "ViewLinkDeactivatedDetails": "Neem contact op met de linkuitgever om toegang te krijgen",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Sprinklerconfiguratie",
+  "CUSTELS_PINPOINT_THROW": "Werpafstand",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Waterverbruik"
 }
 

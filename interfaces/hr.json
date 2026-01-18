@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "Molimo provjerite vezu i pokušajte ponovno",
   "ViewLinkError": "Greška",
   "ViewLinkDeactivated": "Veza deaktivirana",
-  "ViewLinkDeactivatedDetails": "Molimo kontaktirajte izdavača veze da biste dobili pristup"
+  "ViewLinkDeactivatedDetails": "Molimo kontaktirajte izdavača veze da biste dobili pristup",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Konfiguracija prskalice",
+  "CUSTELS_PINPOINT_THROW": "Domet prskanja",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Potrošnja vode"
 }
 

@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "请检查链接并重试",
   "ViewLinkError": "错误",
   "ViewLinkDeactivated": "链接已停用",
-  "ViewLinkDeactivatedDetails": "请联系链接发布者以获取访问权限"
+  "ViewLinkDeactivatedDetails": "请联系链接发布者以获取访问权限",
+  "CUSTELS_PINPOINT_CONFIGURATION": "洒水器配置",
+  "CUSTELS_PINPOINT_THROW": "喷射距离",
+  "CUSTELS_PINPOINT_CONSUMPTION": "耗水量"
 }
 

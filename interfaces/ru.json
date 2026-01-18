@@ -2014,6 +2014,8 @@
   "ViewLinkNotFoundDetails": "Пожалуйста, проверьте ссылку и попробуйте снова",
   "ViewLinkError": "Ошибка",
   "ViewLinkDeactivated": "Ссылка деактивирована",
-  "ViewLinkDeactivatedDetails": "Пожалуйста, свяжитесь с создателем ссылки для получения доступа"
+  "ViewLinkDeactivatedDetails": "Пожалуйста, свяжитесь с создателем ссылки для получения доступа",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Конфигурация дождевателя",
+  "CUSTELS_PINPOINT_THROW": "Дальность распыления",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Расход воды"
 }
-

@@ -2014,6 +2014,9 @@
   "ViewLinkNotFoundDetails": "Bitte überprüfen Sie den Link und versuchen Sie es erneut",
   "ViewLinkError": "Fehler",
   "ViewLinkDeactivated": "Link deaktiviert",
-  "ViewLinkDeactivatedDetails": "Bitte kontaktieren Sie den Link-Aussteller, um Zugang zu erhalten"
+  "ViewLinkDeactivatedDetails": "Bitte kontaktieren Sie den Link-Aussteller, um Zugang zu erhalten",
+  "CUSTELS_PINPOINT_CONFIGURATION": "Sprinkler-Konfiguration",
+  "CUSTELS_PINPOINT_THROW": "Wurfweite",
+  "CUSTELS_PINPOINT_CONSUMPTION": "Wasserverbrauch"
 }
 

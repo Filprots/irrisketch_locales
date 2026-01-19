@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Consommateurs - Rotors",
             sprinklers_bubbler: "Consommateurs - Bubblers",
             sprinklers_bubblerNozzle: "Consommateurs - Buses-bubblers",
+            sprinklers_pinpoint: "Consommateurs - Arroseurs de précision",
             dripStarts: "Départs goutte à goutte",
             rzwLayer: "Arrosage racinaire",
             dripLines: "Tuyaux d'égouttement",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Câblage de capteurs",
             quickCoupLayer: "Raccords rapides",
             surfaces: "Polygones et lignes",
-            ldItemsLayer: "Éléments paysagers"
+            ldItemsLayer: "Éléments paysagers",
+            ldArbitraryLayer: "Éléments paysagers personnalisés",
+            spArbitraryLayer: "Éléments d'irrigation personnalisés"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Noeud de sprinkler",

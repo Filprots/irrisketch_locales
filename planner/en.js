@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Consumers - Rotors",
             sprinklers_bubbler: "Consumers - Bubblers",
             sprinklers_bubblerNozzle: "Consumers - Bubbler-nozzles",
+            sprinklers_pinpoint: "Consumers - Pinpoint Sprinklers",
             dripStarts: "Drip starts",
             rzwLayer: "Root zone watering",
             dripLines: "Drip lines",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Sensor wiring",
             quickCoupLayer: "Quick couplings",
             surfaces: "Polygons and lines",
-            ldItemsLayer: "Landscape items"
+            ldItemsLayer: "Landscape items",
+            ldArbitraryLayer: "Custom landscape elements",
+            spArbitraryLayer: "Custom irrigation elements"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Sprinkler node",

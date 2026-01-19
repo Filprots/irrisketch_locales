@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Watergevers - Rotors",
             sprinklers_bubbler: "Watergevers - Bubbler",
             sprinklers_bubblerNozzle: "Watergevers - Bubbler-nozzles",
+            sprinklers_pinpoint: "Watergevers - Precisie sproeiers",
             dripStarts: "Drip startpunten",
             rzwLayer: "Root zone watering",
             dripLines: "Druppelleidingen",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Sensor bedrading",
             quickCoupLayer: "Snelkoppelingen",
             surfaces: "Polygoon en lijnen",
-            ldItemsLayer: "Objecten"
+            ldItemsLayer: "Objecten",
+            ldArbitraryLayer: "Aangepaste landschapselementen",
+            spArbitraryLayer: "Aangepaste irrigatie-elementen"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Sproeierknoop",

@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "消费者 - 转子",
             sprinklers_bubbler: "消费者 - 涌泉",
             sprinklers_bubblerNozzle: "消费者 - 涌泉喷嘴",
+            sprinklers_pinpoint: "消费者 - 精準噴頭",
             dripStarts: "滴灌起点",
             rzwLayer: "根区灌溉",
             dripLines: "滴灌管线",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "传感器布线",
             quickCoupLayer: "快速接头",
             surfaces: "多边形和线条",
-            ldItemsLayer: "景观物品"
+            ldItemsLayer: "景观物品",
+            ldArbitraryLayer: "自訂景觀元素",
+            spArbitraryLayer: "自訂灌溉元素"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "喷头节点",

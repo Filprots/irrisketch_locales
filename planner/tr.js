@@ -1146,6 +1146,7 @@ this.LNG = {
             "sprinklers_rotor": "Tüketici - Rotorlar",
             "sprinklers_bubbler": "Tüketici - Bubblers",
             "sprinklers_bubblerNozzle": "Tüketici - Bubbler-Memeler",
+            "sprinklers_pinpoint": "Tüketici - Hassas Spreyler",
             "dripStarts": "Damlama Başlangıçları",
             "rzwLayer": "Kök Bölgesi Sulama",
             "dripLines": "Damlama Hatları",
@@ -1164,6 +1165,8 @@ this.LNG = {
             "quickCoupLayer": "Hızlı Bağlantılar",
             "surfaces": "Poligonlar ve Çizgiler",
             "ldItemsLayer": "Manzara Öğeleri",
+            "ldArbitraryLayer": "Özel manzara öğeleri",
+            "spArbitraryLayer": "Özel sulama öğeleri"
         },
         //SPRINKLER NODE CONFIGS
         "sprinklerNode": "Sprey Başlığı Düğümü",

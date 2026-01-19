@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Водоспоживачі - Роторы",
             sprinklers_bubbler: "Водоспоживачі - Бабблеры",
             sprinklers_bubblerNozzle: "Водоспоживачі - Сопла-Бабблеры",
+            sprinklers_pinpoint: "Водоспоживачі - Точечные Спринклери",
             dripStarts: "Крапельні старти",
             rzwLayer: "Прикорневий полив",
             dripLines: "Крапельні лінії",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Провід датчика",
             quickCoupLayer: "Гидранти",
             surfaces: "Полігони і лінії",
-            ldItemsLayer: "Елементи ландшафу"
+            ldItemsLayer: "Елементи ландшафу",
+            ldArbitraryLayer: "Користувацькі елементи ландшафту",
+            spArbitraryLayer: "Користувацькі елементи іригації"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Вузол зрошувача",

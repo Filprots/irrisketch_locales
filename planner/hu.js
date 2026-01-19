@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Fogyasztók - Rotorok",
             sprinklers_bubbler: "Fogyasztók - Buborékfúvók",
             sprinklers_bubblerNozzle: "Fogyasztók - Buborékfúvó Nozzlik",
+            sprinklers_pinpoint: "Fogyasztók - Pontos szórófejek",
             dripStarts: "Csepegtetők indítása",
             rzwLayer: "Gyökérzóna öntözése",
             dripLines: "Csepegtető csövek",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Érzékelő vezetékezés",
             quickCoupLayer: "Gyors csatlakozók",
             surfaces: "Poligonok és vonalak",
-            ldItemsLayer: "Tájképi elemek"
+            ldItemsLayer: "Tájképi elemek",
+            ldArbitraryLayer: "Egyedi tájképi elemek",
+            spArbitraryLayer: "Egyedi öntözési elemek"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Szórófej csomópont",

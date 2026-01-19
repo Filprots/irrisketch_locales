@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Verbraucher - Rotors",
             sprinklers_bubbler: "Verbraucher - Bubblers",
             sprinklers_bubblerNozzle: "Verbraucher - Bubbler-nozzles",
+            sprinklers_pinpoint: "Verbraucher - Pinpoint Sprinkler",
             dripStarts: "Start Tropfleitung",
             rzwLayer: "Wurzelbewässerung",
             dripLines: "Tropfleitung",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Sensorverkabelung",
             quickCoupLayer: "Schnellmontageschelle",
             surfaces: "Polygone und Linien",
-            ldItemsLayer: "Landschafts-Objekte"
+            ldItemsLayer: "Landschafts-Objekte",
+            ldArbitraryLayer: "Benutzerdefinierte Landschaftselemente",
+            spArbitraryLayer: "Benutzerdefinierte Bewässerungselemente"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Sprinkler-Knoten",

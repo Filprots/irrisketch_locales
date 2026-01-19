@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Paskirstytuvai - rotoriniai antgaliai",
             sprinklers_bubbler: "Paskirstytuvai - burbuliukai",
             sprinklers_bubblerNozzle: "Paskirstytuvai - burbuliukų antgaliai",
+            sprinklers_pinpoint: "Paskirstytuvai - tikslūs laistytuvai",
             dripStarts: "Lašeliniai pradžių mazgai",
             rzwLayer: "Šaknų zonos laistymas",
             dripLines: "Lašelinės linijos",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Jutiklių elektrinės linijos",
             quickCoupLayer: "Greiti jungtys",
             surfaces: "Daugiakampiai ir linijos",
-            ldItemsLayer: "Landskape elemento sluoksnis"
+            ldItemsLayer: "Landskape elemento sluoksnis",
+            ldArbitraryLayer: "Pasirinktiniai landšafto elementai",
+            spArbitraryLayer: "Pasirinktiniai laistymo elementai"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Laistytuvo mazgas",

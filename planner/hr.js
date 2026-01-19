@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Potrošači - Rotori",
             sprinklers_bubbler: "Potrošači - Bubbleri",
             sprinklers_bubblerNozzle: "Potrošači - Bubbleri-dizne",
+            sprinklers_pinpoint: "Potrošači - Precizni rasprskivači",
             dripStarts: "Priključci za kap po kap",
             rzwLayer: "Navodnjavanje zone korijenja",
             dripLines: "Cijevi kap po kap",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Ožičenje senzora",
             quickCoupLayer: "Hidrantski spojevi",
             surfaces: "Poligoni i linije",
-            ldItemsLayer: "Elementi pejzaža"
+            ldItemsLayer: "Elementi pejzaža",
+            ldArbitraryLayer: "Prilagođeni elementi pejzaža",
+            spArbitraryLayer: "Prilagođeni elementi navodnjavanja"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Priključak rasprskivača",

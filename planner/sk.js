@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Spotrebitelia - rotory",
             sprinklers_bubbler: "Spotrebitelia - bubliny",
             sprinklers_bubblerNozzle: "Spotrebitelia - bubliny",
+            sprinklers_pinpoint: "Spotrebitelia - Presné postrekovače",
             dripStarts: "Drip začína",
             rzwLayer: "Root zone watering",
             dripLines: "Linky na kvapkanie",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Sensor wiring",
             quickCoupLayer: "Rýchle spojky",
             surfaces: "Polygóny a čiary",
-            ldItemsLayer: "Položka krajiny"
+            ldItemsLayer: "Položka krajiny",
+            ldArbitraryLayer: "Vlastné prvky krajiny",
+            spArbitraryLayer: "Vlastné prvky zavlažovania"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Kropiaci uzol",

@@ -1146,6 +1146,7 @@ this.LNG = {
             sprinklers_rotor: "Odbiorniki - Rotory",
             sprinklers_bubbler: "Odbiorniki - Fontanny",
             sprinklers_bubblerNozzle: "Odbiorniki - Fontanny z dyszą",
+            sprinklers_pinpoint: "Odbiorniki - Precyzyjne zraszacze",
             dripStarts: "Początki linii kroplujących",
             rzwLayer: "Nawadnianie strefy korzeniowej",
             dripLines: "Linie kroplujące",
@@ -1163,7 +1164,9 @@ this.LNG = {
             senswiresLayer: "Okablowanie czujników",
             quickCoupLayer: "Szybkozłącza",
             surfaces: "Powierzchnie",
-            ldItemsLayer: "Elementy krajobrazu"
+            ldItemsLayer: "Elementy krajobrazu",
+            ldArbitraryLayer: "Niestandardowe elementy krajobrazu",
+            spArbitraryLayer: "Niestandardowe elementy nawadniania"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Przyłącze zraszacza",

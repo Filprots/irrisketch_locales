@@ -2017,6 +2017,7 @@
   "ViewLinkDeactivatedDetails": "Please contact link issuer to get access",
   "CUSTELS_PINPOINT_CONFIGURATION": "Sprinkler Configuration",
   "CUSTELS_PINPOINT_THROW": "Distance of throw",
-  "CUSTELS_PINPOINT_CONSUMPTION": "Water consumption"
+  "CUSTELS_PINPOINT_CONSUMPTION": "Water consumption",
+  "Help": "Help"
 }
 

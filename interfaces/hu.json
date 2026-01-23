@@ -2017,6 +2017,7 @@
   "ViewLinkDeactivatedDetails": "Kérjük, lépjen kapcsolatba a hivatkozás kiadójával a hozzáféréshez",
   "CUSTELS_PINPOINT_CONFIGURATION": "Permetező konfiguráció",
   "CUSTELS_PINPOINT_THROW": "Dobási távolság",
-  "CUSTELS_PINPOINT_CONSUMPTION": "Vízfogyasztás"
+  "CUSTELS_PINPOINT_CONSUMPTION": "Vízfogyasztás",
+  "Help": "Súgó"
 }
 

@@ -1404,6 +1404,20 @@ this.LNG = {
             "Alapértelmezett előbeállítás új elrendezéshez:",
             "- Válasszon előbeállítást -",
             "- Nincs elérhető előbeállítás -"
-        ]
+        ],
+        edit: "Szerkesztés",
+        nozzleCharacteristicsConfig: "Fúvóka jellemzők konfigurációi",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Fúvóka jellemzők konfigurációja",
+            save: "Mentés",
+            cancel: "Mégse",
+            typeArc: "Ív",
+            typeStrip: "Csík",
+            typeVariableArc: "Változó ív",
+            unknown: "Ismeretlen",
+            object: "Objektum",
+            selectVariant: "Válasszon változatot",
+            editVariant: "Változat szerkesztése"
+        }
     }
 };

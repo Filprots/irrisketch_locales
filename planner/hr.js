@@ -1404,6 +1404,20 @@ this.LNG = {
             "Zadana postavka za novi izgled:",
             "- Odaberite postavku -",
             "- Nema dostupnih postavki -"
-        ]
+        ],
+        edit: "Uredi",
+        nozzleCharacteristicsConfig: "Konfiguracije karakteristika mlaznice",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Konfiguracija karakteristika mlaznice",
+            save: "Spremi",
+            cancel: "Odustani",
+            typeArc: "Luk",
+            typeStrip: "Traka",
+            typeVariableArc: "Promjenjivi luk",
+            unknown: "Nepoznato",
+            object: "Objekt",
+            selectVariant: "Odaberi varijantu",
+            editVariant: "Uredi varijantu"
+        }
     }
 };

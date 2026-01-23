@@ -1404,6 +1404,20 @@ this.LNG = {
             "Standardvoreinstellung für neues Layout:",
             "- Voreinstellung wählen -",
             "- Keine Voreinstellungen verfügbar -"
-        ]
+        ],
+        edit: "bearbeiten",
+        nozzleCharacteristicsConfig: "Düsencharakteristik-Konfigurationen",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Düsencharakteristik-Konfiguration",
+            save: "speichern",
+            cancel: "abbrechen",
+            typeArc: "Bogen",
+            typeStrip: "Streifen",
+            typeVariableArc: "Variabler Bogen",
+            unknown: "Unbekannt",
+            object: "Objekt",
+            selectVariant: "Variante auswählen",
+            editVariant: "Variante bearbeiten"
+        }
     }
 };

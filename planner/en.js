@@ -1404,6 +1404,20 @@ this.LNG = {
             "Default preset for new Layout:",
             "- Choose preset -",
             "- No Presets Available -"
-        ]
+        ],
+        edit: "Edit",
+        nozzleCharacteristicsConfig: "Nozzle characteristics configurations",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Nozzle characteristics configuration",
+            save: "Save",
+            cancel: "Cancel",
+            typeArc: "Arc",
+            typeStrip: "Strip",
+            typeVariableArc: "Variable Arc",
+            unknown: "Unknown",
+            object: "Object",
+            selectVariant: "Select Variant",
+            editVariant: "Edit Variant"
+        }
     }
 };

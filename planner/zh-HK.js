@@ -1404,6 +1404,20 @@ this.LNG = {
             "新佈局的預設:",
             "- 選擇預設 -",
             "- 沒有可用的預設 -"
-        ]
+        ],
+        edit: "編輯",
+        nozzleCharacteristicsConfig: "噴嘴特性配置",
+        nozzleCharacteristicsConfig_lang: {
+            title: "噴嘴特性配置",
+            save: "保存",
+            cancel: "取消",
+            typeArc: "弧形",
+            typeStrip: "條帶",
+            typeVariableArc: "可變弧形",
+            unknown: "未知",
+            object: "對象",
+            selectVariant: "選擇變體",
+            editVariant: "編輯變體"
+        }
     }
 };

@@ -1404,6 +1404,20 @@ this.LNG = {
             "Préréglage par défaut pour nouvelle mise en page:",
             "- Choisir un préréglage -",
             "- Aucun préréglage disponible -"
-        ]
+        ],
+        edit: "Modifier",
+        nozzleCharacteristicsConfig: "Configurations des caractéristiques de buse",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Configuration des caractéristiques de buse",
+            save: "Enregistrer",
+            cancel: "Annuler",
+            typeArc: "Arc",
+            typeStrip: "Bande",
+            typeVariableArc: "Arc variable",
+            unknown: "Inconnu",
+            object: "Objet",
+            selectVariant: "Sélectionner la variante",
+            editVariant: "Modifier la variante"
+        }
     }
 };

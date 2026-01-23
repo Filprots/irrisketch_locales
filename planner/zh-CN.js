@@ -1404,6 +1404,20 @@ this.LNG = {
             "新布局的默认预设:",
             "- 选择预设 -",
             "- 没有可用的预设 -"
-        ]
+        ],
+        edit: "编辑",
+        nozzleCharacteristicsConfig: "喷嘴特性配置",
+        nozzleCharacteristicsConfig_lang: {
+            title: "喷嘴特性配置",
+            save: "保存",
+            cancel: "取消",
+            typeArc: "弧形",
+            typeStrip: "条带",
+            typeVariableArc: "可变弧形",
+            unknown: "未知",
+            object: "对象",
+            selectVariant: "选择变体",
+            editVariant: "编辑变体"
+        }
     }
 };

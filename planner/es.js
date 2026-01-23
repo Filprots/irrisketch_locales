@@ -1404,6 +1404,20 @@ this.LNG = {
             "Preajuste predeterminado para nuevo diseño:",
             "- Elegir preajuste -",
             "- No hay preajustes disponibles -"
-        ]
+        ],
+        edit: "Editar",
+        nozzleCharacteristicsConfig: "Configuraciones de características de boquilla",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Configuración de características de boquilla",
+            save: "Guardar",
+            cancel: "Cancelar",
+            typeArc: "Arco",
+            typeStrip: "Franja",
+            typeVariableArc: "Arco variable",
+            unknown: "Desconocido",
+            object: "Objeto",
+            selectVariant: "Seleccionar variante",
+            editVariant: "Editar variante"
+        }
     }
 };

@@ -2017,6 +2017,7 @@
   "ViewLinkDeactivatedDetails": "Proszę skontaktować się z wystawcą linku, aby uzyskać dostęp",
   "CUSTELS_PINPOINT_CONFIGURATION": "Konfiguracja zraszacza",
   "CUSTELS_PINPOINT_THROW": "Zasięg zraszania",
-  "CUSTELS_PINPOINT_CONSUMPTION": "Zużycie wody"
+  "CUSTELS_PINPOINT_CONSUMPTION": "Zużycie wody",
+  "Help": "Pomoc"
 }
 

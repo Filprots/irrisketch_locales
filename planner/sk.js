@@ -1404,6 +1404,20 @@ this.LNG = {
             "Predvolená predvoľba pre nové rozloženie:",
             "- Vyberte predvoľbu -",
             "- Žiadne dostupné predvoľby -"
-        ]
+        ],
+        edit: "Upraviť",
+        nozzleCharacteristicsConfig: "Konfigurácie charakteristík trysky",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Konfigurácia charakteristík trysky",
+            save: "Uložiť",
+            cancel: "Zrušiť",
+            typeArc: "Oblúk",
+            typeStrip: "Pás",
+            typeVariableArc: "Premenný oblúk",
+            unknown: "Neznámy",
+            object: "Objekt",
+            selectVariant: "Vybrať variant",
+            editVariant: "Upraviť variant"
+        }
     }
 };

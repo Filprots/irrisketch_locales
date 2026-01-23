@@ -1404,6 +1404,20 @@ this.LNG = {
             "Standaard voorinstelling voor nieuwe lay-out:",
             "- Kies voorinstelling -",
             "- Geen voorinstellingen beschikbaar -"
-        ]
+        ],
+        edit: "Bewerking",
+        nozzleCharacteristicsConfig: "Sproeikop karakteristieken configuraties",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Sproeikop karakteristieken configuratie",
+            save: "Opslaan",
+            cancel: "Annuleren",
+            typeArc: "Boog",
+            typeStrip: "Streep",
+            typeVariableArc: "Variabele boog",
+            unknown: "Onbekend",
+            object: "Object",
+            selectVariant: "Selecteer variant",
+            editVariant: "Bewerk variant"
+        }
     }
 };

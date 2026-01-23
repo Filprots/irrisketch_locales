@@ -2017,6 +2017,7 @@
   "ViewLinkDeactivatedDetails": "请联系链接发布者以获取访问权限",
   "CUSTELS_PINPOINT_CONFIGURATION": "洒水器配置",
   "CUSTELS_PINPOINT_THROW": "喷射距离",
-  "CUSTELS_PINPOINT_CONSUMPTION": "耗水量"
+  "CUSTELS_PINPOINT_CONSUMPTION": "耗水量",
+  "Help": "帮助"
 }
 

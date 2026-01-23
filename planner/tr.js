@@ -1404,6 +1404,20 @@ this.LNG = {
             "Yeni Düzen için varsayılan önayar:",
             "- Önayar seçin -",
             "- Kullanılabilir Önayar Yok -"
-        ]
+        ],
+        edit: "Düzenlemek",
+        nozzleCharacteristicsConfig: "Fıskıye karakteristik yapılandırmaları",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Fıskıye karakteristik yapılandırması",
+            save: "Kaydet",
+            cancel: "İptal",
+            typeArc: "Yay",
+            typeStrip: "Şerit",
+            typeVariableArc: "Değişken yay",
+            unknown: "Bilinmeyen",
+            object: "Nesne",
+            selectVariant: "Varyant seç",
+            editVariant: "Varyantı düzenle"
+        }
     }
 };

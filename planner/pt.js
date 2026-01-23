@@ -1404,6 +1404,20 @@ this.LNG = {
             "Predefinição padrão para novo layout:",
             "- Escolher predefinição -",
             "- Sem predefinições disponíveis -"
-        ]
+        ],
+        edit: "Editar",
+        nozzleCharacteristicsConfig: "Configurações de características do bico",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Configuração de características do bico",
+            save: "Salvar",
+            cancel: "Cancelar",
+            typeArc: "Arco",
+            typeStrip: "Faixa",
+            typeVariableArc: "Arco variável",
+            unknown: "Desconhecido",
+            object: "Objeto",
+            selectVariant: "Selecionar variante",
+            editVariant: "Editar variante"
+        }
     }
 };

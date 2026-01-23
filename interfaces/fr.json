@@ -2017,6 +2017,7 @@
   "ViewLinkDeactivatedDetails": "Veuillez contacter l'émetteur du lien pour obtenir l'accès",
   "CUSTELS_PINPOINT_CONFIGURATION": "Configuration de l'arroseur",
   "CUSTELS_PINPOINT_THROW": "Portée",
-  "CUSTELS_PINPOINT_CONSUMPTION": "Consommation d'eau"
+  "CUSTELS_PINPOINT_CONSUMPTION": "Consommation d'eau",
+  "Help": "Aide"
 }
 

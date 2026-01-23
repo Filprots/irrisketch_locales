@@ -1404,6 +1404,20 @@ this.LNG = {
             "Передустановка за замовчуванням для нового макету:",
             "- Виберіть передустановку -",
             "- Немає доступних передустановок -"
-        ]
+        ],
+        edit: "Змінити",
+        nozzleCharacteristicsConfig: "Конфігурації характеристик форсунки",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Конфігурація характеристик форсунки",
+            save: "Зберегти",
+            cancel: "Відміна",
+            typeArc: "Дуга",
+            typeStrip: "Смуга",
+            typeVariableArc: "Змінна дуга",
+            unknown: "Невідомо",
+            object: "Об'єкт",
+            selectVariant: "Вибрати варіант",
+            editVariant: "Змінити варіант"
+        }
     }
 };

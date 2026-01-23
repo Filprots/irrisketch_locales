@@ -2017,6 +2017,7 @@
   "ViewLinkDeactivatedDetails": "Por favor, contacte al emisor del enlace para obtener acceso",
   "CUSTELS_PINPOINT_CONFIGURATION": "Configuración del aspersor",
   "CUSTELS_PINPOINT_THROW": "Distancia de alcance",
-  "CUSTELS_PINPOINT_CONSUMPTION": "Consumo de agua"
+  "CUSTELS_PINPOINT_CONSUMPTION": "Consumo de agua",
+  "Help": "Ayuda"
 }
 

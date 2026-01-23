@@ -2017,6 +2017,7 @@
   "ViewLinkDeactivatedDetails": "Erişim için lütfen bağlantıyı veren kişiyle iletişime geçin",
   "CUSTELS_PINPOINT_CONFIGURATION": "Fıskıye Yapılandırması",
   "CUSTELS_PINPOINT_THROW": "Atış mesafesi",
-  "CUSTELS_PINPOINT_CONSUMPTION": "Su tüketimi"
+  "CUSTELS_PINPOINT_CONSUMPTION": "Su tüketimi",
+  "Help": "Yardım"
 }
 

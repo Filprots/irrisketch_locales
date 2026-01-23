@@ -1404,6 +1404,20 @@ this.LNG = {
             "Preset predefinito per nuovo layout:",
             "- Scegli preset -",
             "- Nessun preset disponibile -"
-        ]
+        ],
+        edit: "Modificare",
+        nozzleCharacteristicsConfig: "Configurazioni caratteristiche ugello",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Configurazione caratteristiche ugello",
+            save: "Salva",
+            cancel: "Annulla",
+            typeArc: "Arco",
+            typeStrip: "Striscia",
+            typeVariableArc: "Arco variabile",
+            unknown: "Sconosciuto",
+            object: "Oggetto",
+            selectVariant: "Seleziona variante",
+            editVariant: "Modifica variante"
+        }
     }
 };

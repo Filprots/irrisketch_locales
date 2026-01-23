@@ -1404,6 +1404,20 @@ this.LNG = {
             "Domyślne ustawienie wstępne dla nowego układu:",
             "- Wybierz ustawienie wstępne -",
             "- Brak dostępnych ustawień wstępnych -"
-        ]
+        ],
+        edit: "Edytować",
+        nozzleCharacteristicsConfig: "Konfiguracje charakterystyk dyszy",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Konfiguracja charakterystyk dyszy",
+            save: "Zapisz",
+            cancel: "Anuluj",
+            typeArc: "Łuk",
+            typeStrip: "Pasek",
+            typeVariableArc: "Zmienny łuk",
+            unknown: "Nieznany",
+            object: "Obiekt",
+            selectVariant: "Wybierz wariant",
+            editVariant: "Edytuj wariant"
+        }
     }
 };

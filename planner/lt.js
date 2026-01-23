@@ -1404,6 +1404,20 @@ this.LNG = {
             "Numatytasis išankstinis nustatymas naujam išdėstymui:",
             "- Pasirinkite išankstinį nustatymą -",
             "- Nėra išankstinių nustatymų -"
-        ]
+        ],
+        edit: "Redaguoti",
+        nozzleCharacteristicsConfig: "Purškiklio charakteristikų konfigūracijos",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Purškiklio charakteristikų konfigūracija",
+            save: "Išsaugoti",
+            cancel: "Atšaukti",
+            typeArc: "Lankas",
+            typeStrip: "Juosta",
+            typeVariableArc: "Kintamasis lankas",
+            unknown: "Nežinomas",
+            object: "Objektas",
+            selectVariant: "Pasirinkti variantą",
+            editVariant: "Redaguoti variantą"
+        }
     }
 };

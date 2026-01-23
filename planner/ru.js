@@ -1404,6 +1404,20 @@ this.LNG = {
             "Предустановка по умолчанию для нового чертежа:",
             "- Выберите предустановку -",
             "- Нет доступных предустановок -"
-        ]
+        ],
+        edit: "Изменить",
+        nozzleCharacteristicsConfig: "Конфигурации характеристик форсунки",
+        nozzleCharacteristicsConfig_lang: {
+            title: "Конфигурация характеристик форсунки",
+            save: "Сохранить",
+            cancel: "Отмена",
+            typeArc: "Дуга",
+            typeStrip: "Полоса",
+            typeVariableArc: "Переменная дуга",
+            unknown: "Неизвестно",
+            object: "Объект",
+            selectVariant: "Выбрать вариант",
+            editVariant: "Изменить вариант"
+        }
     }
 };

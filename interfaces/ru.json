@@ -2017,5 +2017,6 @@
   "ViewLinkDeactivatedDetails": "Пожалуйста, свяжитесь с создателем ссылки для получения доступа",
   "CUSTELS_PINPOINT_CONFIGURATION": "Конфигурация дождевателя",
   "CUSTELS_PINPOINT_THROW": "Дальность распыления",
-  "CUSTELS_PINPOINT_CONSUMPTION": "Расход воды"
+  "CUSTELS_PINPOINT_CONSUMPTION": "Расход воды",
+  "Help": "Помощь"
 }

@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Redaguoti",
         nozzleCharacteristicsConfig: "Purškiklio charakteristikų konfigūracijos",
         nozzleCharacteristicsConfig_lang: {
-            title: "Purškiklio charakteristikų konfigūracija",
-            save: "Išsaugoti",
-            cancel: "Atšaukti",
-            typeArc: "Lankas",
-            typeStrip: "Juosta",
-            typeVariableArc: "Kintamasis lankas",
-            unknown: "Nežinomas",
-            object: "Objektas",
-            selectVariant: "Pasirinkti variantą",
-            editVariant: "Redaguoti variantą"
+           // Main editor
+           title: "Purškiklio charakteristikų konfigūracija",
+           save: "Išsaugoti",
+           cancel: "Atšaukti",
+           reset: "Atkurti",
+           typeArc: "Lankas",
+           typeStrip: "Juosta",
+           typeVariableArc: "Kintamasis lankas",
+           unknown: "Nežinomas",
+           object: "Objektas",
+           selectVariant: "Pasirinkti variantą",
+           editVariant: "Redaguoti variantą",
+
+           // Variant editor fields
+           editData: "Redaguoti našumo duomenis",
+           editPrecipMap: "Redaguoti kritulių žemėlapį",
+           pressuresLabel: "Slėgiai",
+           anglesLabel: "Kampai",
+           valuePairsLabel: "Reikšmių poros",
+           valuesLabel: "Reikšmės",
+           pointsLabel: "taškų",
+           valuesSuffix: "reikšmių",
+           pairsSuffix: "porų",
+           none: "nėra",
+
+           // Field name labels
+           pressMap: "Slėgis",
+           angleMap: "Kampas",
+           valuesMap: "Reikšmės",
+           precipMap: "Krituliai",
+           reducableBy: "Sumažinimo daugiklis (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Netinkamas įvesties formatas.",
+           fieldInvalidFormat: "Netinkamas formatas.",
+           reducableByOutOfRange: "Reikšmė turi būti tarp 0.01 ir 0.99.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Atskiri kampai",
+               modeRange: "Kampų diapazonai",
+               pressureAngleLabel: "Slėgis/Kampas",
+               pressure: "Slėgis",
+               angle: "Kampas",
+               distance: "Atstumas",
+               flow: "Srautas",
+               addRow: "Pridėti eilutę",
+               addCol: "Pridėti stulpelį",
+               delete: "Ištrinti",
+               save: "Išsaugoti",
+               cancel: "Atšaukti",
+               reset: "Atkurti",
+               distanceUnit: "Atstumo vienetas",
+               pressureUnit: "Slėgio vienetas",
+               flowUnit: "Srauto vienetas",
+               angleMode: "Kampo režimas:",
+               cannotDeleteLastRow: "Negalima ištrinti paskutinės eilutės!",
+               cannotDeleteLastColumn: "Negalima ištrinti paskutinio stulpelio!",
+               angleRangesCannotIntersect: "Kampų diapazonai negali susikirsti!",
+               pleaseFillAllCells: "Prašome užpildyti visas langelius! Tušti langeliai:",
+               row: "Eilutė",
+               col: "Stulpelis"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Krituliai",
+               distance: "Atstumas",
+               addCol: "Pridėti stulpelį",
+               delete: "Ištrinti",
+               save: "Išsaugoti",
+               cancel: "Atšaukti",
+               reset: "Atkurti",
+               precipitationUnit: "Kritulių vienetas",
+               cannotDeleteLastColumn: "Negalima ištrinti paskutinio stulpelio!"
+           }
         }
     }
 };

@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "編輯",
         nozzleCharacteristicsConfig: "噴嘴特性配置",
         nozzleCharacteristicsConfig_lang: {
-            title: "噴嘴特性配置",
-            save: "保存",
-            cancel: "取消",
-            typeArc: "弧形",
-            typeStrip: "條帶",
-            typeVariableArc: "可變弧形",
-            unknown: "未知",
-            object: "對象",
-            selectVariant: "選擇變體",
-            editVariant: "編輯變體"
+           // Main editor
+           title: "噴嘴特性配置",
+           save: "保存",
+           cancel: "取消",
+           reset: "重置",
+           typeArc: "弧形",
+           typeStrip: "條帶",
+           typeVariableArc: "可變弧形",
+           unknown: "未知",
+           object: "對象",
+           selectVariant: "選擇變體",
+           editVariant: "編輯變體",
+
+           // Variant editor fields
+           editData: "編輯性能數據",
+           editPrecipMap: "編輯降水圖",
+           pressuresLabel: "壓力",
+           anglesLabel: "角度",
+           valuePairsLabel: "值對",
+           valuesLabel: "值",
+           pointsLabel: "點",
+           valuesSuffix: "值",
+           pairsSuffix: "對",
+           none: "無",
+
+           // Field name labels
+           pressMap: "壓力",
+           angleMap: "角度",
+           valuesMap: "值",
+           precipMap: "降水",
+           reducableBy: "減少倍數 (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "輸入格式無效。",
+           fieldInvalidFormat: "格式無效。",
+           reducableByOutOfRange: "值必須在 0.01 和 0.99 之間。",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "單個角度",
+               modeRange: "角度範圍",
+               pressureAngleLabel: "壓力/角度",
+               pressure: "壓力",
+               angle: "角度",
+               distance: "距離",
+               flow: "流量",
+               addRow: "添加行",
+               addCol: "添加列",
+               delete: "刪除",
+               save: "保存",
+               cancel: "取消",
+               reset: "重置",
+               distanceUnit: "距離單位",
+               pressureUnit: "壓力單位",
+               flowUnit: "流量單位",
+               angleMode: "角度模式：",
+               cannotDeleteLastRow: "無法刪除最後一行！",
+               cannotDeleteLastColumn: "無法刪除最後一列！",
+               angleRangesCannotIntersect: "角度範圍不能相交！",
+               pleaseFillAllCells: "請填寫所有單元格！空單元格：",
+               row: "行",
+               col: "列"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "降水",
+               distance: "距離",
+               addCol: "添加列",
+               delete: "刪除",
+               save: "保存",
+               cancel: "取消",
+               reset: "重置",
+               precipitationUnit: "降水單位",
+               cannotDeleteLastColumn: "無法刪除最後一列！"
+           }
         }
     }
 };

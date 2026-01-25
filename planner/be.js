@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Змяніць",
         nozzleCharacteristicsConfig: "Канфігурацыі характарыстык форсункі",
         nozzleCharacteristicsConfig_lang: {
-            title: "Канфігурацыя характарыстык форсункі",
-            save: "Захаваць",
-            cancel: "Скасаванне",
-            typeArc: "Дуга",
-            typeStrip: "Палоска",
-            typeVariableArc: "Зменная дуга",
-            unknown: "Невядома",
-            object: "Аб'ект",
-            selectVariant: "Выбраць варыянт",
-            editVariant: "Змяніць варыянт"
+           // Main editor
+           title: "Канфігурацыя характарыстык форсункі",
+           save: "Захаваць",
+           cancel: "Скасаванне",
+           reset: "Скінуць",
+           typeArc: "Дуга",
+           typeStrip: "Палоска",
+           typeVariableArc: "Зменная дуга",
+           unknown: "Невядома",
+           object: "Аб'ект",
+           selectVariant: "Выбраць варыянт",
+           editVariant: "Змяніць варыянт",
+
+           // Variant editor fields
+           editData: "Рэдагаваць даныя прадукцыйнасці",
+           editPrecipMap: "Рэдагаваць карту ападкаў",
+           pressuresLabel: "Ціскі",
+           anglesLabel: "Вуглы",
+           valuePairsLabel: "Пары значэнняў",
+           valuesLabel: "Значэнні",
+           pointsLabel: "кропак",
+           valuesSuffix: "значэнняў",
+           pairsSuffix: "пар",
+           none: "няма",
+
+           // Field name labels
+           pressMap: "Ціск",
+           angleMap: "Вугал",
+           valuesMap: "Значэнні",
+           precipMap: "Ападкі",
+           reducableBy: "Множнік памяншэння (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Няверны фармат уводу.",
+           fieldInvalidFormat: "Няверны фармат.",
+           reducableByOutOfRange: "Значэнне павінна быць паміж 0.01 і 0.99.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Асобныя вуглы",
+               modeRange: "Дыяпазоны вуглоў",
+               pressureAngleLabel: "Ціск/Вугал",
+               pressure: "Ціск",
+               angle: "Вугал",
+               distance: "Адлегласць",
+               flow: "Расход",
+               addRow: "Дадаць радок",
+               addCol: "Дадаць слупок",
+               delete: "Выдаліць",
+               save: "Захаваць",
+               cancel: "Скасаванне",
+               reset: "Скінуць",
+               distanceUnit: "Адзінка адлегласці",
+               pressureUnit: "Адзінка ціску",
+               flowUnit: "Адзінка расхода",
+               angleMode: "Рэжым вугла:",
+               cannotDeleteLastRow: "Нельга выдаліць апошні радок!",
+               cannotDeleteLastColumn: "Нельга выдаліць апошні слупок!",
+               angleRangesCannotIntersect: "Дыяпазоны вуглоў не могуць перасякацца!",
+               pleaseFillAllCells: "Калі ласка, запоўніце ўсе ячэйкі! Пустыя ячэйкі:",
+               row: "Радок",
+               col: "Слупок"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Ападкі",
+               distance: "Адлегласць",
+               addCol: "Дадаць слупок",
+               delete: "Выдаліць",
+               save: "Захаваць",
+               cancel: "Скасаванне",
+               reset: "Скінуць",
+               precipitationUnit: "Адзінка ападкаў",
+               cannotDeleteLastColumn: "Нельга выдаліць апошні слупок!"
+           }
         }
     }
 };

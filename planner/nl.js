@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Bewerking",
         nozzleCharacteristicsConfig: "Sproeikop karakteristieken configuraties",
         nozzleCharacteristicsConfig_lang: {
-            title: "Sproeikop karakteristieken configuratie",
-            save: "Opslaan",
-            cancel: "Annuleren",
-            typeArc: "Boog",
-            typeStrip: "Streep",
-            typeVariableArc: "Variabele boog",
-            unknown: "Onbekend",
-            object: "Object",
-            selectVariant: "Selecteer variant",
-            editVariant: "Bewerk variant"
+           // Main editor
+           title: "Sproeikop karakteristieken configuratie",
+           save: "Opslaan",
+           cancel: "Annuleren",
+           reset: "Resetten",
+           typeArc: "Boog",
+           typeStrip: "Streep",
+           typeVariableArc: "Variabele boog",
+           unknown: "Onbekend",
+           object: "Object",
+           selectVariant: "Selecteer variant",
+           editVariant: "Bewerk variant",
+
+           // Variant editor fields
+           editData: "Prestatiegegevens bewerken",
+           editPrecipMap: "Neerslagkaart bewerken",
+           pressuresLabel: "Drukken",
+           anglesLabel: "Hoeken",
+           valuePairsLabel: "Waardeparen",
+           valuesLabel: "Waarden",
+           pointsLabel: "punten",
+           valuesSuffix: "waarden",
+           pairsSuffix: "paren",
+           none: "geen",
+
+           // Field name labels
+           pressMap: "Druk",
+           angleMap: "Hoek",
+           valuesMap: "Waarden",
+           precipMap: "Neerslag",
+           reducableBy: "Verminderingsvermenigvuldiger (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Ongeldig invoerformaat.",
+           fieldInvalidFormat: "Ongeldig formaat.",
+           reducableByOutOfRange: "Waarde moet tussen 0.01 en 0.99 liggen.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Enkele hoeken",
+               modeRange: "Hoekbereiken",
+               pressureAngleLabel: "Druk/Hoek",
+               pressure: "Druk",
+               angle: "Hoek",
+               distance: "Afstand",
+               flow: "Debiet",
+               addRow: "Rij toevoegen",
+               addCol: "Kolom toevoegen",
+               delete: "Verwijderen",
+               save: "Opslaan",
+               cancel: "Annuleren",
+               reset: "Resetten",
+               distanceUnit: "Afstandseenheid",
+               pressureUnit: "Drukeenheid",
+               flowUnit: "Debieteenheid",
+               angleMode: "Hoekmodus:",
+               cannotDeleteLastRow: "De laatste rij kan niet worden verwijderd!",
+               cannotDeleteLastColumn: "De laatste kolom kan niet worden verwijderd!",
+               angleRangesCannotIntersect: "Hoekbereiken mogen elkaar niet kruisen!",
+               pleaseFillAllCells: "Vul alstublieft alle cellen in! Lege cellen:",
+               row: "Rij",
+               col: "Kolom"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Neerslag",
+               distance: "Afstand",
+               addCol: "Kolom toevoegen",
+               delete: "Verwijderen",
+               save: "Opslaan",
+               cancel: "Annuleren",
+               reset: "Resetten",
+               precipitationUnit: "Neerslageenheid",
+               cannotDeleteLastColumn: "De laatste kolom kan niet worden verwijderd!"
+           }
         }
     }
 };

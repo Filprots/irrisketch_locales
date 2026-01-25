@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Editar",
         nozzleCharacteristicsConfig: "Configuraciones de características de boquilla",
         nozzleCharacteristicsConfig_lang: {
-            title: "Configuración de características de boquilla",
-            save: "Guardar",
-            cancel: "Cancelar",
-            typeArc: "Arco",
-            typeStrip: "Franja",
-            typeVariableArc: "Arco variable",
-            unknown: "Desconocido",
-            object: "Objeto",
-            selectVariant: "Seleccionar variante",
-            editVariant: "Editar variante"
+           // Main editor
+           title: "Configuración de características de boquilla",
+           save: "Guardar",
+           cancel: "Cancelar",
+           reset: "Restablecer",
+           typeArc: "Arco",
+           typeStrip: "Franja",
+           typeVariableArc: "Arco variable",
+           unknown: "Desconocido",
+           object: "Objeto",
+           selectVariant: "Seleccionar variante",
+           editVariant: "Editar variante",
+
+           // Variant editor fields
+           editData: "Editar datos de rendimiento",
+           editPrecipMap: "Editar mapa de precipitación",
+           pressuresLabel: "Presiones",
+           anglesLabel: "Ángulos",
+           valuePairsLabel: "Pares de valores",
+           valuesLabel: "Valores",
+           pointsLabel: "puntos",
+           valuesSuffix: "valores",
+           pairsSuffix: "pares",
+           none: "ninguno",
+
+           // Field name labels
+           pressMap: "Presión",
+           angleMap: "Ángulo",
+           valuesMap: "Valores",
+           precipMap: "Precipitación",
+           reducableBy: "Multiplicador de reducción (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Formato de entrada no válido.",
+           fieldInvalidFormat: "Formato no válido.",
+           reducableByOutOfRange: "El valor debe estar entre 0.01 y 0.99.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Ángulos individuales",
+               modeRange: "Rangos de ángulos",
+               pressureAngleLabel: "Presión/Ángulo",
+               pressure: "Presión",
+               angle: "Ángulo",
+               distance: "Distancia",
+               flow: "Caudal",
+               addRow: "Añadir fila",
+               addCol: "Añadir columna",
+               delete: "Eliminar",
+               save: "Guardar",
+               cancel: "Cancelar",
+               reset: "Restablecer",
+               distanceUnit: "Unidad de distancia",
+               pressureUnit: "Unidad de presión",
+               flowUnit: "Unidad de caudal",
+               angleMode: "Modo de ángulo:",
+               cannotDeleteLastRow: "¡No se puede eliminar la última fila!",
+               cannotDeleteLastColumn: "¡No se puede eliminar la última columna!",
+               angleRangesCannotIntersect: "¡Los rangos de ángulos no pueden intersecarse!",
+               pleaseFillAllCells: "¡Por favor complete todas las celdas! Celdas vacías:",
+               row: "Fila",
+               col: "Columna"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Precipitación",
+               distance: "Distancia",
+               addCol: "Añadir columna",
+               delete: "Eliminar",
+               save: "Guardar",
+               cancel: "Cancelar",
+               reset: "Restablecer",
+               precipitationUnit: "Unidad de precipitación",
+               cannotDeleteLastColumn: "¡No se puede eliminar la última columna!"
+           }
         }
     }
 };

@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Edit",
         nozzleCharacteristicsConfig: "Nozzle characteristics configurations",
         nozzleCharacteristicsConfig_lang: {
-            title: "Nozzle characteristics configuration",
-            save: "Save",
-            cancel: "Cancel",
-            typeArc: "Arc",
-            typeStrip: "Strip",
-            typeVariableArc: "Variable Arc",
-            unknown: "Unknown",
-            object: "Object",
-            selectVariant: "Select Variant",
-            editVariant: "Edit Variant"
+           // Main editor
+           title: "Nozzle characteristics configuration",
+           save: "Save",
+           cancel: "Cancel",
+           reset: "Reset",
+           typeArc: "Arc",
+           typeStrip: "Strip",
+           typeVariableArc: "Variable Arc",
+           unknown: "Unknown",
+           object: "Object",
+           selectVariant: "Select Variant",
+           editVariant: "Edit Variant",
+
+           // Variant editor fields
+           editData: "Edit Performance Data",
+           editPrecipMap: "Edit Precipitation Map",
+           pressuresLabel: "Pressures",
+           anglesLabel: "Angles",
+           valuePairsLabel: "Value pairs",
+           valuesLabel: "Values",
+           pointsLabel: "points",
+           valuesSuffix: "values",
+           pairsSuffix: "pairs",
+           none: "none",
+
+           // Field name labels
+           pressMap: "Pressure",
+           angleMap: "Angle",
+           valuesMap: "Values",
+           precipMap: "Precipitation",
+           reducableBy: "Reduce multiplier (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Invalid input format.",
+           fieldInvalidFormat: "Invalid format.",
+           reducableByOutOfRange: "Value must be between 0.01 and 0.99.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Single Angles",
+               modeRange: "Angle Ranges",
+               pressureAngleLabel: "Pressure/Angle",
+               pressure: "Pressure",
+               angle: "Angle",
+               distance: "Distance",
+               flow: "Flow",
+               addRow: "Add Row",
+               addCol: "Add Column",
+               delete: "Delete",
+               save: "Save",
+               cancel: "Cancel",
+               reset: "Reset",
+               distanceUnit: "Distance Unit",
+               pressureUnit: "Pressure Unit",
+               flowUnit: "Flow Unit",
+               angleMode: "Angle Mode:",
+               cannotDeleteLastRow: "Cannot delete the last row!",
+               cannotDeleteLastColumn: "Cannot delete the last column!",
+               angleRangesCannotIntersect: "Angle ranges cannot intersect!",
+               pleaseFillAllCells: "Please fill all cells! Empty cells:",
+               row: "Row",
+               col: "Col"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Precipitation",
+               distance: "Distance",
+               addCol: "Add Column",
+               delete: "Delete",
+               save: "Save",
+               cancel: "Cancel",
+               reset: "Reset",
+               precipitationUnit: "Precipitation Unit",
+               cannotDeleteLastColumn: "Cannot delete the last column!"
+           }
         }
     }
 };

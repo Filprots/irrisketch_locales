@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Изменить",
         nozzleCharacteristicsConfig: "Конфигурации характеристик форсунки",
         nozzleCharacteristicsConfig_lang: {
-            title: "Конфигурация характеристик форсунки",
-            save: "Сохранить",
-            cancel: "Отмена",
-            typeArc: "Дуга",
-            typeStrip: "Полоса",
-            typeVariableArc: "Переменная дуга",
-            unknown: "Неизвестно",
-            object: "Объект",
-            selectVariant: "Выбрать вариант",
-            editVariant: "Изменить вариант"
+           // Main editor
+           title: "Конфигурация характеристик форсунки",
+           save: "Сохранить",
+           cancel: "Отмена",
+           reset: "Сбросить",
+           typeArc: "Дуга",
+           typeStrip: "Полосовые",
+           typeVariableArc: "Переменная дуга",
+           unknown: "Неизвестно",
+           object: "Объект",
+           selectVariant: "Выбрать вариант",
+           editVariant: "Изменить вариант",
+
+           // Variant editor fields
+           editData: "Редактировать характеристики",
+           editPrecipMap: "Редактировать карту осадков",
+           pressuresLabel: "Давления",
+           anglesLabel: "Углы",
+           valuePairsLabel: "Пары значений",
+           valuesLabel: "Значения",
+           pointsLabel: "точек",
+           valuesSuffix: "значений",
+           pairsSuffix: "пар",
+           none: "нет",
+
+           // Field name labels
+           pressMap: "Давление",
+           angleMap: "Угол",
+           valuesMap: "Значения",
+           precipMap: "Осадки",
+           reducableBy: "Множитель регулировки радиуса (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Неверный формат ввода.",
+           fieldInvalidFormat: "Неверный формат.",
+           reducableByOutOfRange: "Значение должно быть между 0.01 и 0.99.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Отдельные углы",
+               modeRange: "Диапазоны углов",
+               pressureAngleLabel: "Давление/Угол",
+               pressure: "Давление",
+               angle: "Угол",
+               distance: "Расстояние",
+               flow: "Расход",
+               addRow: "Добавить строку",
+               addCol: "Добавить столбец",
+               delete: "Удалить",
+               save: "Сохранить",
+               cancel: "Отмена",
+               reset: "Сбросить",
+               distanceUnit: "Единица расстояния",
+               pressureUnit: "Единица давления",
+               flowUnit: "Единица расхода",
+               angleMode: "Режим угла:",
+               cannotDeleteLastRow: "Нельзя удалить последнюю строку!",
+               cannotDeleteLastColumn: "Нельзя удалить последний столбец!",
+               angleRangesCannotIntersect: "Диапазоны углов не могут пересекаться!",
+               pleaseFillAllCells: "Пожалуйста, заполните все ячейки! Пустые ячейки:",
+               row: "Строка",
+               col: "Столбец"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Осадки",
+               distance: "Расстояние",
+               addCol: "Добавить столбец",
+               delete: "Удалить",
+               save: "Сохранить",
+               cancel: "Отмена",
+               reset: "Сбросить",
+               precipitationUnit: "Единица осадков",
+               cannotDeleteLastColumn: "Нельзя удалить последний столбец!"
+           }
         }
     }
 };

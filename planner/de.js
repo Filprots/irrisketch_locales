@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "bearbeiten",
         nozzleCharacteristicsConfig: "Düsencharakteristik-Konfigurationen",
         nozzleCharacteristicsConfig_lang: {
-            title: "Düsencharakteristik-Konfiguration",
-            save: "speichern",
-            cancel: "abbrechen",
-            typeArc: "Bogen",
-            typeStrip: "Streifen",
-            typeVariableArc: "Variabler Bogen",
-            unknown: "Unbekannt",
-            object: "Objekt",
-            selectVariant: "Variante auswählen",
-            editVariant: "Variante bearbeiten"
+           // Main editor
+           title: "Düsencharakteristik-Konfiguration",
+           save: "speichern",
+           cancel: "abbrechen",
+           reset: "Zurücksetzen",
+           typeArc: "Bogen",
+           typeStrip: "Streifen",
+           typeVariableArc: "Variabler Bogen",
+           unknown: "Unbekannt",
+           object: "Objekt",
+           selectVariant: "Variante auswählen",
+           editVariant: "Variante bearbeiten",
+
+           // Variant editor fields
+           editData: "Leistungsdaten bearbeiten",
+           editPrecipMap: "Niederschlagskarte bearbeiten",
+           pressuresLabel: "Drücke",
+           anglesLabel: "Winkel",
+           valuePairsLabel: "Wertepaare",
+           valuesLabel: "Werte",
+           pointsLabel: "Punkte",
+           valuesSuffix: "Werte",
+           pairsSuffix: "Paare",
+           none: "keine",
+
+           // Field name labels
+           pressMap: "Druck",
+           angleMap: "Winkel",
+           valuesMap: "Werte",
+           precipMap: "Niederschlag",
+           reducableBy: "Reduzierungsmultiplikator (0,0 - 1,0)",
+
+           // Error messages
+           invalidInputFormat: "Ungültiges Eingabeformat.",
+           fieldInvalidFormat: "Ungültiges Format.",
+           reducableByOutOfRange: "Wert muss zwischen 0,01 und 0,99 liegen.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Einzelne Winkel",
+               modeRange: "Winkelbereiche",
+               pressureAngleLabel: "Druck/Winkel",
+               pressure: "Druck",
+               angle: "Winkel",
+               distance: "Entfernung",
+               flow: "Durchfluss",
+               addRow: "Zeile hinzufügen",
+               addCol: "Spalte hinzufügen",
+               delete: "Löschen",
+               save: "Speichern",
+               cancel: "Abbrechen",
+               reset: "Zurücksetzen",
+               distanceUnit: "Entfernungseinheit",
+               pressureUnit: "Druckeinheit",
+               flowUnit: "Durchflusseinheit",
+               angleMode: "Winkelmodus:",
+               cannotDeleteLastRow: "Die letzte Zeile kann nicht gelöscht werden!",
+               cannotDeleteLastColumn: "Die letzte Spalte kann nicht gelöscht werden!",
+               angleRangesCannotIntersect: "Winkelbereiche dürfen sich nicht überschneiden!",
+               pleaseFillAllCells: "Bitte füllen Sie alle Zellen aus! Leere Zellen:",
+               row: "Zeile",
+               col: "Spalte"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Niederschlag",
+               distance: "Entfernung",
+               addCol: "Spalte hinzufügen",
+               delete: "Löschen",
+               save: "Speichern",
+               cancel: "Abbrechen",
+               reset: "Zurücksetzen",
+               precipitationUnit: "Niederschlagseinheit",
+               cannotDeleteLastColumn: "Die letzte Spalte kann nicht gelöscht werden!"
+           }
         }
     }
 };

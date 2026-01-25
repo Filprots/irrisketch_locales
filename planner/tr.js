@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Düzenlemek",
         nozzleCharacteristicsConfig: "Fıskıye karakteristik yapılandırmaları",
         nozzleCharacteristicsConfig_lang: {
-            title: "Fıskıye karakteristik yapılandırması",
-            save: "Kaydet",
-            cancel: "İptal",
-            typeArc: "Yay",
-            typeStrip: "Şerit",
-            typeVariableArc: "Değişken yay",
-            unknown: "Bilinmeyen",
-            object: "Nesne",
-            selectVariant: "Varyant seç",
-            editVariant: "Varyantı düzenle"
+           // Main editor
+           title: "Fıskıye karakteristik yapılandırması",
+           save: "Kaydet",
+           cancel: "İptal",
+           reset: "Sıfırla",
+           typeArc: "Yay",
+           typeStrip: "Şerit",
+           typeVariableArc: "Değişken yay",
+           unknown: "Bilinmeyen",
+           object: "Nesne",
+           selectVariant: "Varyant seç",
+           editVariant: "Varyantı düzenle",
+
+           // Variant editor fields
+           editData: "Performans verilerini düzenle",
+           editPrecipMap: "Yağış haritasını düzenle",
+           pressuresLabel: "Basınçlar",
+           anglesLabel: "Açılar",
+           valuePairsLabel: "Değer çiftleri",
+           valuesLabel: "Değerler",
+           pointsLabel: "nokta",
+           valuesSuffix: "değerler",
+           pairsSuffix: "çiftler",
+           none: "yok",
+
+           // Field name labels
+           pressMap: "Basınç",
+           angleMap: "Açı",
+           valuesMap: "Değerler",
+           precipMap: "Yağış",
+           reducableBy: "Azaltma çarpanı (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Geçersiz giriş formatı.",
+           fieldInvalidFormat: "Geçersiz format.",
+           reducableByOutOfRange: "Değer 0.01 ile 0.99 arasında olmalıdır.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Tekil açılar",
+               modeRange: "Açı aralıkları",
+               pressureAngleLabel: "Basınç/Açı",
+               pressure: "Basınç",
+               angle: "Açı",
+               distance: "Mesafe",
+               flow: "Debi",
+               addRow: "Satır ekle",
+               addCol: "Sütun ekle",
+               delete: "Sil",
+               save: "Kaydet",
+               cancel: "İptal",
+               reset: "Sıfırla",
+               distanceUnit: "Mesafe birimi",
+               pressureUnit: "Basınç birimi",
+               flowUnit: "Debi birimi",
+               angleMode: "Açı modu:",
+               cannotDeleteLastRow: "Son satır silinemez!",
+               cannotDeleteLastColumn: "Son sütun silinemez!",
+               angleRangesCannotIntersect: "Açı aralıkları kesişemez!",
+               pleaseFillAllCells: "Lütfen tüm hücreleri doldurun! Boş hücreler:",
+               row: "Satır",
+               col: "Sütun"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Yağış",
+               distance: "Mesafe",
+               addCol: "Sütun ekle",
+               delete: "Sil",
+               save: "Kaydet",
+               cancel: "İptal",
+               reset: "Sıfırla",
+               precipitationUnit: "Yağış birimi",
+               cannotDeleteLastColumn: "Son sütun silinemez!"
+           }
         }
     }
 };

@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Edytować",
         nozzleCharacteristicsConfig: "Konfiguracje charakterystyk dyszy",
         nozzleCharacteristicsConfig_lang: {
-            title: "Konfiguracja charakterystyk dyszy",
-            save: "Zapisz",
-            cancel: "Anuluj",
-            typeArc: "Łuk",
-            typeStrip: "Pasek",
-            typeVariableArc: "Zmienny łuk",
-            unknown: "Nieznany",
-            object: "Obiekt",
-            selectVariant: "Wybierz wariant",
-            editVariant: "Edytuj wariant"
+           // Main editor
+           title: "Konfiguracja charakterystyk dyszy",
+           save: "Zapisz",
+           cancel: "Anuluj",
+           reset: "Resetuj",
+           typeArc: "Łuk",
+           typeStrip: "Pasek",
+           typeVariableArc: "Zmienny łuk",
+           unknown: "Nieznany",
+           object: "Obiekt",
+           selectVariant: "Wybierz wariant",
+           editVariant: "Edytuj wariant",
+
+           // Variant editor fields
+           editData: "Edytuj dane wydajności",
+           editPrecipMap: "Edytuj mapę opadów",
+           pressuresLabel: "Ciśnienia",
+           anglesLabel: "Kąty",
+           valuePairsLabel: "Pary wartości",
+           valuesLabel: "Wartości",
+           pointsLabel: "punktów",
+           valuesSuffix: "wartości",
+           pairsSuffix: "par",
+           none: "brak",
+
+           // Field name labels
+           pressMap: "Ciśnienie",
+           angleMap: "Kąt",
+           valuesMap: "Wartości",
+           precipMap: "Opady",
+           reducableBy: "Mnożnik redukcji (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Nieprawidłowy format wejściowy.",
+           fieldInvalidFormat: "Nieprawidłowy format.",
+           reducableByOutOfRange: "Wartość musi być między 0.01 a 0.99.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Pojedyncze kąty",
+               modeRange: "Zakresy kątów",
+               pressureAngleLabel: "Ciśnienie/Kąt",
+               pressure: "Ciśnienie",
+               angle: "Kąt",
+               distance: "Odległość",
+               flow: "Przepływ",
+               addRow: "Dodaj wiersz",
+               addCol: "Dodaj kolumnę",
+               delete: "Usuń",
+               save: "Zapisz",
+               cancel: "Anuluj",
+               reset: "Resetuj",
+               distanceUnit: "Jednostka odległości",
+               pressureUnit: "Jednostka ciśnienia",
+               flowUnit: "Jednostka przepływu",
+               angleMode: "Tryb kąta:",
+               cannotDeleteLastRow: "Nie można usunąć ostatniego wiersza!",
+               cannotDeleteLastColumn: "Nie można usunąć ostatniej kolumny!",
+               angleRangesCannotIntersect: "Zakresy kątów nie mogą się przecinać!",
+               pleaseFillAllCells: "Proszę wypełnić wszystkie komórki! Puste komórki:",
+               row: "Wiersz",
+               col: "Kolumna"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Opady",
+               distance: "Odległość",
+               addCol: "Dodaj kolumnę",
+               delete: "Usuń",
+               save: "Zapisz",
+               cancel: "Anuluj",
+               reset: "Resetuj",
+               precipitationUnit: "Jednostka opadów",
+               cannotDeleteLastColumn: "Nie można usunąć ostatniej kolumny!"
+           }
         }
     }
 };

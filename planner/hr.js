@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Uredi",
         nozzleCharacteristicsConfig: "Konfiguracije karakteristika mlaznice",
         nozzleCharacteristicsConfig_lang: {
-            title: "Konfiguracija karakteristika mlaznice",
-            save: "Spremi",
-            cancel: "Odustani",
-            typeArc: "Luk",
-            typeStrip: "Traka",
-            typeVariableArc: "Promjenjivi luk",
-            unknown: "Nepoznato",
-            object: "Objekt",
-            selectVariant: "Odaberi varijantu",
-            editVariant: "Uredi varijantu"
+           // Main editor
+           title: "Konfiguracija karakteristika mlaznice",
+           save: "Spremi",
+           cancel: "Odustani",
+           reset: "Resetiraj",
+           typeArc: "Luk",
+           typeStrip: "Traka",
+           typeVariableArc: "Promjenjivi luk",
+           unknown: "Nepoznato",
+           object: "Objekt",
+           selectVariant: "Odaberi varijantu",
+           editVariant: "Uredi varijantu",
+
+           // Variant editor fields
+           editData: "Uredi podatke o performansama",
+           editPrecipMap: "Uredi kartu oborina",
+           pressuresLabel: "Tlakovi",
+           anglesLabel: "Kutovi",
+           valuePairsLabel: "Parovi vrijednosti",
+           valuesLabel: "Vrijednosti",
+           pointsLabel: "točaka",
+           valuesSuffix: "vrijednosti",
+           pairsSuffix: "parovi",
+           none: "nema",
+
+           // Field name labels
+           pressMap: "Tlak",
+           angleMap: "Kut",
+           valuesMap: "Vrijednosti",
+           precipMap: "Oborine",
+           reducableBy: "Množitelj smanjenja (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Nevažeći format unosa.",
+           fieldInvalidFormat: "Nevažeći format.",
+           reducableByOutOfRange: "Vrijednost mora biti između 0.01 i 0.99.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Pojedinačni kutovi",
+               modeRange: "Rasponi kutova",
+               pressureAngleLabel: "Tlak/Kut",
+               pressure: "Tlak",
+               angle: "Kut",
+               distance: "Udaljenost",
+               flow: "Protok",
+               addRow: "Dodaj redak",
+               addCol: "Dodaj stupac",
+               delete: "Obriši",
+               save: "Spremi",
+               cancel: "Odustani",
+               reset: "Resetiraj",
+               distanceUnit: "Jedinica udaljenosti",
+               pressureUnit: "Jedinica tlaka",
+               flowUnit: "Jedinica protoka",
+               angleMode: "Način kuta:",
+               cannotDeleteLastRow: "Ne može se obrisati zadnji redak!",
+               cannotDeleteLastColumn: "Ne može se obrisati zadnji stupac!",
+               angleRangesCannotIntersect: "Rasponi kutova ne mogu se presijecati!",
+               pleaseFillAllCells: "Molimo ispunite sve ćelije! Prazne ćelije:",
+               row: "Redak",
+               col: "Stupac"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Oborine",
+               distance: "Udaljenost",
+               addCol: "Dodaj stupac",
+               delete: "Obriši",
+               save: "Spremi",
+               cancel: "Odustani",
+               reset: "Resetiraj",
+               precipitationUnit: "Jedinica oborina",
+               cannotDeleteLastColumn: "Ne može se obrisati zadnji stupac!"
+           }
         }
     }
 };

@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Upraviť",
         nozzleCharacteristicsConfig: "Konfigurácie charakteristík trysky",
         nozzleCharacteristicsConfig_lang: {
-            title: "Konfigurácia charakteristík trysky",
-            save: "Uložiť",
-            cancel: "Zrušiť",
-            typeArc: "Oblúk",
-            typeStrip: "Pás",
-            typeVariableArc: "Premenný oblúk",
-            unknown: "Neznámy",
-            object: "Objekt",
-            selectVariant: "Vybrať variant",
-            editVariant: "Upraviť variant"
+           // Main editor
+           title: "Konfigurácia charakteristík trysky",
+           save: "Uložiť",
+           cancel: "Zrušiť",
+           reset: "Obnoviť",
+           typeArc: "Oblúk",
+           typeStrip: "Pás",
+           typeVariableArc: "Premenný oblúk",
+           unknown: "Neznámy",
+           object: "Objekt",
+           selectVariant: "Vybrať variant",
+           editVariant: "Upraviť variant",
+
+           // Variant editor fields
+           editData: "Upraviť údaje o výkone",
+           editPrecipMap: "Upraviť mapu zrážok",
+           pressuresLabel: "Tlaky",
+           anglesLabel: "Uhly",
+           valuePairsLabel: "Dvojice hodnôt",
+           valuesLabel: "Hodnoty",
+           pointsLabel: "bodov",
+           valuesSuffix: "hodnôt",
+           pairsSuffix: "dvojíc",
+           none: "žiadne",
+
+           // Field name labels
+           pressMap: "Tlak",
+           angleMap: "Uhol",
+           valuesMap: "Hodnoty",
+           precipMap: "Zrážky",
+           reducableBy: "Násobiteľ zníženia (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Neplatný formát vstupu.",
+           fieldInvalidFormat: "Neplatný formát.",
+           reducableByOutOfRange: "Hodnota musí byť medzi 0.01 a 0.99.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Jednotlivé uhly",
+               modeRange: "Rozsahy uhlov",
+               pressureAngleLabel: "Tlak/Uhol",
+               pressure: "Tlak",
+               angle: "Uhol",
+               distance: "Vzdialenosť",
+               flow: "Prietok",
+               addRow: "Pridať riadok",
+               addCol: "Pridať stĺpec",
+               delete: "Vymazať",
+               save: "Uložiť",
+               cancel: "Zrušiť",
+               reset: "Obnoviť",
+               distanceUnit: "Jednotka vzdialenosti",
+               pressureUnit: "Jednotka tlaku",
+               flowUnit: "Jednotka prietoku",
+               angleMode: "Režim uhla:",
+               cannotDeleteLastRow: "Nie je možné vymazať posledný riadok!",
+               cannotDeleteLastColumn: "Nie je možné vymazať posledný stĺpec!",
+               angleRangesCannotIntersect: "Rozsahy uhlov sa nemôžu pretínať!",
+               pleaseFillAllCells: "Prosím vyplňte všetky bunky! Prázdne bunky:",
+               row: "Riadok",
+               col: "Stĺpec"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Zrážky",
+               distance: "Vzdialenosť",
+               addCol: "Pridať stĺpec",
+               delete: "Vymazať",
+               save: "Uložiť",
+               cancel: "Zrušiť",
+               reset: "Obnoviť",
+               precipitationUnit: "Jednotka zrážok",
+               cannotDeleteLastColumn: "Nie je možné vymazať posledný stĺpec!"
+           }
         }
     }
 };

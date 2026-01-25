@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Змінити",
         nozzleCharacteristicsConfig: "Конфігурації характеристик форсунки",
         nozzleCharacteristicsConfig_lang: {
-            title: "Конфігурація характеристик форсунки",
-            save: "Зберегти",
-            cancel: "Відміна",
-            typeArc: "Дуга",
-            typeStrip: "Смуга",
-            typeVariableArc: "Змінна дуга",
-            unknown: "Невідомо",
-            object: "Об'єкт",
-            selectVariant: "Вибрати варіант",
-            editVariant: "Змінити варіант"
+           // Main editor
+           title: "Конфігурація характеристик форсунки",
+           save: "Зберегти",
+           cancel: "Відміна",
+           reset: "Скинути",
+           typeArc: "Дуга",
+           typeStrip: "Смуга",
+           typeVariableArc: "Змінна дуга",
+           unknown: "Невідомо",
+           object: "Об'єкт",
+           selectVariant: "Вибрати варіант",
+           editVariant: "Змінити варіант",
+
+           // Variant editor fields
+           editData: "Редагувати дані продуктивності",
+           editPrecipMap: "Редагувати карту опадів",
+           pressuresLabel: "Тиски",
+           anglesLabel: "Кути",
+           valuePairsLabel: "Пари значень",
+           valuesLabel: "Значення",
+           pointsLabel: "точок",
+           valuesSuffix: "значень",
+           pairsSuffix: "пар",
+           none: "немає",
+
+           // Field name labels
+           pressMap: "Тиск",
+           angleMap: "Кут",
+           valuesMap: "Значення",
+           precipMap: "Опади",
+           reducableBy: "Множник зменшення (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Невірний формат вводу.",
+           fieldInvalidFormat: "Невірний формат.",
+           reducableByOutOfRange: "Значення повинно бути між 0.01 та 0.99.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Окремі кути",
+               modeRange: "Діапазони кутів",
+               pressureAngleLabel: "Тиск/Кут",
+               pressure: "Тиск",
+               angle: "Кут",
+               distance: "Відстань",
+               flow: "Витрата",
+               addRow: "Додати рядок",
+               addCol: "Додати стовпець",
+               delete: "Видалити",
+               save: "Зберегти",
+               cancel: "Відміна",
+               reset: "Скинути",
+               distanceUnit: "Одиниця відстані",
+               pressureUnit: "Одиниця тиску",
+               flowUnit: "Одиниця витрати",
+               angleMode: "Режим кута:",
+               cannotDeleteLastRow: "Не можна видалити останній рядок!",
+               cannotDeleteLastColumn: "Не можна видалити останній стовпець!",
+               angleRangesCannotIntersect: "Діапазони кутів не можуть перетинатися!",
+               pleaseFillAllCells: "Будь ласка, заповніть усі комірки! Порожні комірки:",
+               row: "Рядок",
+               col: "Стовпець"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Опади",
+               distance: "Відстань",
+               addCol: "Додати стовпець",
+               delete: "Видалити",
+               save: "Зберегти",
+               cancel: "Відміна",
+               reset: "Скинути",
+               precipitationUnit: "Одиниця опадів",
+               cannotDeleteLastColumn: "Не можна видалити останній стовпець!"
+           }
         }
     }
 };

@@ -1408,16 +1408,82 @@ this.LNG = {
         edit: "Szerkesztés",
         nozzleCharacteristicsConfig: "Fúvóka jellemzők konfigurációi",
         nozzleCharacteristicsConfig_lang: {
-            title: "Fúvóka jellemzők konfigurációja",
-            save: "Mentés",
-            cancel: "Mégse",
-            typeArc: "Ív",
-            typeStrip: "Csík",
-            typeVariableArc: "Változó ív",
-            unknown: "Ismeretlen",
-            object: "Objektum",
-            selectVariant: "Válasszon változatot",
-            editVariant: "Változat szerkesztése"
+           // Main editor
+           title: "Fúvóka jellemzők konfigurációja",
+           save: "Mentés",
+           cancel: "Mégse",
+           reset: "Visszaállítás",
+           typeArc: "Ív",
+           typeStrip: "Csík",
+           typeVariableArc: "Változó ív",
+           unknown: "Ismeretlen",
+           object: "Objektum",
+           selectVariant: "Válasszon változatot",
+           editVariant: "Változat szerkesztése",
+
+           // Variant editor fields
+           editData: "Teljesítményadatok szerkesztése",
+           editPrecipMap: "Csapadéktérkép szerkesztése",
+           pressuresLabel: "Nyomások",
+           anglesLabel: "Szögek",
+           valuePairsLabel: "Értékpárok",
+           valuesLabel: "Értékek",
+           pointsLabel: "pont",
+           valuesSuffix: "érték",
+           pairsSuffix: "pár",
+           none: "nincs",
+
+           // Field name labels
+           pressMap: "Nyomás",
+           angleMap: "Szög",
+           valuesMap: "Értékek",
+           precipMap: "Csapadék",
+           reducableBy: "Csökkentési szorzó (0.0 - 1.0)",
+
+           // Error messages
+           invalidInputFormat: "Érvénytelen bemeneti formátum.",
+           fieldInvalidFormat: "Érvénytelen formátum.",
+           reducableByOutOfRange: "Az értéknek 0.01 és 0.99 között kell lennie.",
+
+           // NozzleDataEditor translations (passed to that editor)
+           dataEditor: {
+               modeSingle: "Egyedi szögek",
+               modeRange: "Szög tartományok",
+               pressureAngleLabel: "Nyomás/Szög",
+               pressure: "Nyomás",
+               angle: "Szög",
+               distance: "Távolság",
+               flow: "Áramlás",
+               addRow: "Sor hozzáadása",
+               addCol: "Oszlop hozzáadása",
+               delete: "Törlés",
+               save: "Mentés",
+               cancel: "Mégse",
+               reset: "Visszaállítás",
+               distanceUnit: "Távolság egység",
+               pressureUnit: "Nyomás egység",
+               flowUnit: "Áramlás egység",
+               angleMode: "Szög mód:",
+               cannotDeleteLastRow: "Az utolsó sor nem törölhető!",
+               cannotDeleteLastColumn: "Az utolsó oszlop nem törölhető!",
+               angleRangesCannotIntersect: "A szögtartományok nem metszhetik egymást!",
+               pleaseFillAllCells: "Kérjük, töltse ki az összes cellát! Üres cellák:",
+               row: "Sor",
+               col: "Oszlop"
+           },
+
+           // PrecipMapEditor translations (passed to that editor)
+           precipEditor: {
+               precipitation: "Csapadék",
+               distance: "Távolság",
+               addCol: "Oszlop hozzáadása",
+               delete: "Törlés",
+               save: "Mentés",
+               cancel: "Mégse",
+               reset: "Visszaállítás",
+               precipitationUnit: "Csapadék egység",
+               cannotDeleteLastColumn: "Az utolsó oszlop nem törölhető!"
+           }
         }
     }
 };

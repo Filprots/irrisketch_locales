@@ -1,5 +1,14 @@
 [
   {
+    "id": "deaa8b3d-adc6-4921-b287-8eb3a61b9f87",
+    "question": "How does hydraulic calculations work?",
+    "answer": "In this version of the service, the hydraulic calculation functionality is limited to calculating the approximate flow rate for each section of the pipe, after which the most optimal diameter for each section of the pipe is proposed in order to prevent exceeding the maximum flow rate.\n\nIn the next version of the program (IRRISketch 2.0), hydraulic modeling will be introduced, which will take into account the hydraulic characteristics of the pump and the network, as a result of which the exact pressure values on the",
+    "metadata": {
+      "category": "hydraulic_calculations",
+      "call_human": false
+    }
+  },
+  {
     "id": "806dacde-d9cc-472d-b5bf-1c98ba399eb2",
     "question": "How do I import a file from CAD into IRRISketch?",
     "answer": "Hello! You can import .PDF or Image from your CAD as layout image in drawing mode. If you are asking how to export an AutoCAD compatible file from IRRISketch — sadly it is not implemented as a straightforward feature.",

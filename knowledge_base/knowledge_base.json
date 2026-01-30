@@ -1,5 +1,32 @@
 [
   {
+    "id": "84bc3cd2-c1b7-4c02-85ba-8c784c883a7b",
+    "question": "I am getting an error when I go to outlays or specs",
+    "answer": "I informed technical support team and they are already on their way to fix your issue. Sorry for the inconvenience.",
+    "metadata": {
+      "category": "troubleshooting",
+      "call_human": true
+    }
+  },
+  {
+    "id": "571ad0b1-f090-4e51-8d0a-19908a145d9d",
+    "question": "Outlays loading infinitely",
+    "answer": "I informed technical support team and they are already on their way to fix your issue. Sorry for the inconvenience.",
+    "metadata": {
+      "category": "troubleshooting",
+      "call_human": true
+    }
+  },
+  {
+    "id": "12306aaa-b5dd-44dc-999e-f8ddd4c0bb56",
+    "question": "Project doesn't work",
+    "answer": "I informed technical support team and they are already on the way to solve your error.",
+    "metadata": {
+      "category": "troubleshooting",
+      "call_human": true
+    }
+  },
+  {
     "id": "7291fc0e-c49c-4a95-a728-f98def62c87b",
     "question": "How do I save my project configuration settings to use them in another project?",
     "answer": "Hello! You can create presets for project settings (Manufacturer, pipe types) by opening project settings in workshop, setting everything up as you desire it to be and then creating a preset via \"Presets\" button in the bottom of settings window. After that you can apply this preset to any new project\n\nYou can do the same for in-project settings (radius, unsafe mode) but presets for these settings has to be done separately inside the project. Set everything up as you want for the preset, click the \"Presets\" button. Create the new preset, and then apply it for any new projects you want",

@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Įdėkliukai",
         wiresLayer: "Elektra",
         wirelessLayer: "Belaidis ryšys",
-        senswiresLayer: "Belaidis jutiklių ryšys",
+        senswirelessLayer: "Belaidis jutiklių ryšys",
         senswiresLayer: "Jutiklių laidai",
         surfaces: "Paviršiai",
         ldItemsLayer: "Augalai",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Įdėklai",
             wiresLayer: "Elektrinės linijos",
             wirelessLayer: "Belaidis ryšys",
-            senswiresLayer: "Belaidis jutiklių ryšys",
+            senswirelessLayer: "Belaidis jutiklių ryšys",
             senswiresLayer: "Jutiklių elektrinės linijos",
             quickCoupLayer: "Greiti jungtys",
             surfaces: "Daugiakampiai ir linijos",
             ldItemsLayer: "Landskape elemento sluoksnis",
             ldArbitraryLayer: "Pasirinktiniai landšafto elementai",
-            spArbitraryLayer: "Pasirinktiniai laistymo elementai"
+            spArbitraryLayer: "Pasirinktiniai laistymo elementai",
+            overlays: "Maketo elementai",
+            stampTexts: "Antspaudo tekstai"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Laistytuvo mazgas",

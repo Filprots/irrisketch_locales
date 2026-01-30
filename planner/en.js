@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Sleeves",
         wiresLayer: "Wiring",
         wirelessLayer: "Wireless connection",
-        senswiresLayer: "Wireless sensor connection",
+        senswirelessLayer: "Wireless sensor connection",
         senswiresLayer: "Sensor wiring",
         surfaces: "Surfaces",
         ldItemsLayer: "Plants",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Sleeves",
             wiresLayer: "Wiring",
             wirelessLayer: "Wireless connection",
-            senswiresLayer: "Wireless sensor connection",
+            senswirelessLayer: "Wireless sensor connection",
             senswiresLayer: "Sensor wiring",
             quickCoupLayer: "Quick couplings",
             surfaces: "Polygons and lines",
             ldItemsLayer: "Landscape items",
             ldArbitraryLayer: "Custom landscape elements",
-            spArbitraryLayer: "Custom irrigation elements"
+            spArbitraryLayer: "Custom irrigation elements",
+            overlays: "Layout elements",
+            stampTexts: "Stamp texts"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Sprinkler node",

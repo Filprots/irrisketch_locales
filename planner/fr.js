@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Manches",
         wiresLayer: "Câblage",
         wirelessLayer: "Connexion sans fil",
-        senswiresLayer: "Connexion sans fil des capteurs",
+        senswirelessLayer: "Connexion sans fil des capteurs",
         senswiresLayer: "Câblage du capteur",
         surfaces: "Surfaces",
         ldItemsLayer: "Plantes",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Manches",
             wiresLayer: "Câblage",
             wirelessLayer: "Connexion sans fil",
-            senswiresLayer: "Connexion sans fil des capteurs",
+            senswirelessLayer: "Connexion sans fil des capteurs",
             senswiresLayer: "Câblage de capteurs",
             quickCoupLayer: "Raccords rapides",
             surfaces: "Polygones et lignes",
             ldItemsLayer: "Éléments paysagers",
             ldArbitraryLayer: "Éléments paysagers personnalisés",
-            spArbitraryLayer: "Éléments d'irrigation personnalisés"
+            spArbitraryLayer: "Éléments d'irrigation personnalisés",
+            overlays: "Éléments de mise en page",
+            stampTexts: "Textes de cartouche"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Noeud de sprinkler",

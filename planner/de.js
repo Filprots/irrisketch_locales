@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Einlage",
         wiresLayer: "Verdrahtung",
         wirelessLayer: "Kabellose Verbindung",
-        senswiresLayer: "Kabellose Sensorverbindung",
+        senswirelessLayer: "Kabellose Sensorverbindung",
         senswiresLayer: "Sensor Draht",
         surfaces: "Oberfläche",
         ldItemsLayer: "Pflanzen",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Einsatz",
             wiresLayer: "Verkabelung",
             wirelessLayer: "Kabellose Verbindung",
-            senswiresLayer: "Kabellose Sensorverbindung",
+            senswirelessLayer: "Kabellose Sensorverbindung",
             senswiresLayer: "Sensorverkabelung",
             quickCoupLayer: "Schnellmontageschelle",
             surfaces: "Polygone und Linien",
             ldItemsLayer: "Landschafts-Objekte",
             ldArbitraryLayer: "Benutzerdefinierte Landschaftselemente",
-            spArbitraryLayer: "Benutzerdefinierte Bewässerungselemente"
+            spArbitraryLayer: "Benutzerdefinierte Bewässerungselemente",
+            overlays: "Layout-Elemente",
+            stampTexts: "Stempeltexte"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Sprinkler-Knoten",

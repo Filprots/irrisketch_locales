@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Закладные",
         wiresLayer: "Провода",
         wirelessLayer: "Беспроводное соединение",
-        senswiresLayer: "Беспроводное соединение датчиков",
+        senswirelessLayer: "Беспроводное соединение датчиков",
         senswiresLayer: "Проводка датчика",
         surfaces: "Поверхности",
         ldItemsLayer: "Растения",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Закладные",
             wiresLayer: "Управляющие провода",
             wirelessLayer: "Беспроводное соединение",
-            senswiresLayer: "Беспроводное соединение датчиков",
+            senswirelessLayer: "Беспроводное соединение датчиков",
             senswiresLayer: "Проводка датчика",
             quickCoupLayer: "Гидранты",
             surfaces: "Полигоны и линии",
             ldItemsLayer: "Элементы ландшафта",
             ldArbitraryLayer: "Пользовательские элементы ландшафта",
-            spArbitraryLayer: "Пользовательские элементы ирригации"
+            spArbitraryLayer: "Пользовательские элементы ирригации",
+            overlays: "Элементы макета",
+            stampTexts: "Тексты штампа"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Узел дождевателя",

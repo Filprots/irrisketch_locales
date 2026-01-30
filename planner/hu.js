@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Betétek",
         wiresLayer: "Kábelezés",
         wirelessLayer: "Vezeték nélküli kapcsolat",
-        senswiresLayer: "Vezeték nélküli érzékelő kapcsolat",
+        senswirelessLayer: "Vezeték nélküli érzékelő kapcsolat",
         senswiresLayer: "Érzékelők kábelezése",
         surfaces: "Felületek",
         ldItemsLayer: "Növények",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Beágyazások",
             wiresLayer: "Vezetékek",
             wirelessLayer: "Vezeték nélküli kapcsolat",
-            senswiresLayer: "Vezeték nélküli érzékelő kapcsolat",
+            senswirelessLayer: "Vezeték nélküli érzékelő kapcsolat",
             senswiresLayer: "Érzékelő vezetékezés",
             quickCoupLayer: "Gyors csatlakozók",
             surfaces: "Poligonok és vonalak",
             ldItemsLayer: "Tájképi elemek",
             ldArbitraryLayer: "Egyedi tájképi elemek",
-            spArbitraryLayer: "Egyedi öntözési elemek"
+            spArbitraryLayer: "Egyedi öntözési elemek",
+            overlays: "Elrendezési elemek",
+            stampTexts: "Bélyegzőszövegek"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Szórófej csomópont",

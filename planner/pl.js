@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Mufy",
         wiresLayer: "Podłączenia",
         wirelessLayer: "Połączenie bezprzewodowe",
-        senswiresLayer: "Bezprzewodowe połączenie czujników",
+        senswirelessLayer: "Bezprzewodowe połączenie czujników",
         senswiresLayer: "Podłączenia czujników",
         surfaces: "Powierzchnie",
         ldItemsLayer: "Rośliny",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Obudowy rur",
             wiresLayer: "Okablowanie",
             wirelessLayer: "Połączenie bezprzewodowe",
-            senswiresLayer: "Bezprzewodowe połączenie czujników",
+            senswirelessLayer: "Bezprzewodowe połączenie czujników",
             senswiresLayer: "Okablowanie czujników",
             quickCoupLayer: "Szybkozłącza",
             surfaces: "Powierzchnie",
             ldItemsLayer: "Elementy krajobrazu",
             ldArbitraryLayer: "Niestandardowe elementy krajobrazu",
-            spArbitraryLayer: "Niestandardowe elementy nawadniania"
+            spArbitraryLayer: "Niestandardowe elementy nawadniania",
+            overlays: "Elementy układu",
+            stampTexts: "Teksty pieczątki"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Przyłącze zraszacza",

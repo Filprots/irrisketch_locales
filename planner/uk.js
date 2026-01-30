@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Закладні",
         wiresLayer: "Провід",
         wirelessLayer: "Бездротове з'єднання",
-        senswiresLayer: "Бездротове з'єднання сенсорів",
+        senswirelessLayer: "Бездротове з'єднання сенсорів",
         senswiresLayer: "Провід датчика",
         surfaces: "Поверхні",
         ldItemsLayer: "Рослини",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Закладні",
             wiresLayer: "Провід керування",
             wirelessLayer: "Бездротове з'єднання",
-            senswiresLayer: "Бездротове з'єднання сенсорів",
+            senswirelessLayer: "Бездротове з'єднання сенсорів",
             senswiresLayer: "Провід датчика",
             quickCoupLayer: "Гидранти",
             surfaces: "Полігони і лінії",
             ldItemsLayer: "Елементи ландшафу",
             ldArbitraryLayer: "Користувацькі елементи ландшафту",
-            spArbitraryLayer: "Користувацькі елементи іригації"
+            spArbitraryLayer: "Користувацькі елементи іригації",
+            overlays: "Елементи макета",
+            stampTexts: "Тексти штампа"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Вузол зрошувача",

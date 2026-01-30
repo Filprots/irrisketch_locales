@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Inzetstukken",
         wiresLayer: "Bedrading",
         wirelessLayer: "Draadloze verbinding",
-        senswiresLayer: "Draadloze sensorverbinding",
+        senswirelessLayer: "Draadloze sensorverbinding",
         senswiresLayer: "Sensor Bedrading",
         surfaces: "Oppervlakken",
         ldItemsLayer: "Planten",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Pipe sleeves",
             wiresLayer: "Bedrading",
             wirelessLayer: "Draadloze verbinding",
-            senswiresLayer: "Draadloze sensorverbinding",
+            senswirelessLayer: "Draadloze sensorverbinding",
             senswiresLayer: "Sensor bedrading",
             quickCoupLayer: "Snelkoppelingen",
             surfaces: "Polygoon en lijnen",
             ldItemsLayer: "Objecten",
             ldArbitraryLayer: "Aangepaste landschapselementen",
-            spArbitraryLayer: "Aangepaste irrigatie-elementen"
+            spArbitraryLayer: "Aangepaste irrigatie-elementen",
+            overlays: "Lay-outelementen",
+            stampTexts: "Stempelteksten"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Sproeierknoop",

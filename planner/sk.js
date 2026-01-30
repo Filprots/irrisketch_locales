@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Dlaždice",
         wiresLayer: "Elektroinštalácia",
         wirelessLayer: "Bezdrôtové pripojenie",
-        senswiresLayer: "Bezdrôtové pripojenie snímača",
+        senswirelessLayer: "Bezdrôtové pripojenie snímača",
         senswiresLayer: "Kabeláž senzorov",
         surfaces: "Plocha",
         ldItemsLayer: "Rastliny",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Sleeves",
             wiresLayer: "Wiring",
             wirelessLayer: "Wireless connection",
-            senswiresLayer: "Wireless sensor connection",
+            senswirelessLayer: "Wireless sensor connection",
             senswiresLayer: "Sensor wiring",
             quickCoupLayer: "Rýchle spojky",
             surfaces: "Polygóny a čiary",
             ldItemsLayer: "Položka krajiny",
             ldArbitraryLayer: "Vlastné prvky krajiny",
-            spArbitraryLayer: "Vlastné prvky zavlažovania"
+            spArbitraryLayer: "Vlastné prvky zavlažovania",
+            overlays: "Prvky rozloženia",
+            stampTexts: "Texty pečiatky"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Kropiaci uzol",

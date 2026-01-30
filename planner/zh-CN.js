@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "嵌入物",
         wiresLayer: "布线",
         wirelessLayer: "无线连接",
-        senswiresLayer: "无线传感器连接",
+        senswirelessLayer: "无线传感器连接",
         senswiresLayer: "传感器布线",
         surfaces: "表面",
         ldItemsLayer: "植物",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "嵌入物",
             wiresLayer: "布线",
             wirelessLayer: "无线连接",
-            senswiresLayer: "无线传感器连接",
+            senswirelessLayer: "无线传感器连接",
             senswiresLayer: "传感器布线",
             quickCoupLayer: "快速接头",
             surfaces: "多边形和线条",
             ldItemsLayer: "景观物品",
             ldArbitraryLayer: "自定义景观元素",
-            spArbitraryLayer: "自定义灌溉元素"
+            spArbitraryLayer: "自定义灌溉元素",
+            overlays: "布局元素",
+            stampTexts: "图章文字"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "喷头节点",

@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Proturi",
             wiresLayer: "Ožičenje",
             wirelessLayer: "Bežična veza",
-            senswiresLayer: "Bežična veza senzora",
+            senswirelessLayer: "Bežična veza senzora",
             senswiresLayer: "Ožičenje senzora",
             quickCoupLayer: "Hidrantski spojevi",
             surfaces: "Poligoni i linije",
             ldItemsLayer: "Elementi pejzaža",
             ldArbitraryLayer: "Prilagođeni elementi pejzaža",
-            spArbitraryLayer: "Prilagođeni elementi navodnjavanja"
+            spArbitraryLayer: "Prilagođeni elementi navodnjavanja",
+            overlays: "Elementi rasporeda",
+            stampTexts: "Tekstovi pečata"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Priključak rasprskivača",

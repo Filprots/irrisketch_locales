@@ -397,7 +397,7 @@ this.LNG = {
         insetsLayer: "Закладныя",
         wiresLayer: "Правады",
         wirelessLayer: "Бесправадная сувязь",
-        senswiresLayer: "Бесправаднае злучэнне сэнсараў",
+        senswirelessLayer: "Бесправаднае злучэнне сэнсараў",
         senswiresLayer: "Праводка чуйніка",
         surfaces: "Паверхні",
         ldItemsLayer: "Расліны",
@@ -1160,13 +1160,15 @@ this.LNG = {
             insetsLayer: "Закладныя",
             wiresLayer: "Кіроўныя правады",
             wirelessLayer: "Бесправадная сувязь",
-            senswiresLayer: "Бесправаднае злучэнне сэнсараў",
+            senswirelessLayer: "Бесправаднае злучэнне сэнсараў",
             senswiresLayer: "Праводка чуйніка",
             quickCoupLayer: "Гідранты",
             surfaces: "Палігоны і лініі",
             ldItemsLayer: "Элементы ландшафту",
             ldArbitraryLayer: "Кастомныя элементы ландшафту",
-            spArbitraryLayer: "Кастомныя элементы ірыгацыі"
+            spArbitraryLayer: "Кастомныя элементы ірыгацыі",
+            overlays: "Элементы макета",
+            stampTexts: "Тэксты штампа"
         },
         //SPRINKLER NODE CONFIGS
         sprinklerNode: "Вузел дажджавацеля",

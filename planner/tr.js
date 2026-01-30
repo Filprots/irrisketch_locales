@@ -397,7 +397,7 @@ this.LNG = {
         "insetsLayer": "Eklemeler",
         "wiresLayer": "Kablolar",
         wirelessLayer: "Kablosuz bağlantı",
-        senswiresLayer: "Kablosuz sensör bağlantısı",
+        senswirelessLayer: "Kablosuz sensör bağlantısı",
         "senswiresLayer": "Sensör Kabloları",
         "surfaces": "Yüzeyler",
         "ldItemsLayer": "Bitkiler",
@@ -1160,13 +1160,15 @@ this.LNG = {
             "insetsLayer": "Kutular",
             "wiresLayer": "Kablolar",
             wirelessLayer: "Kablosuz bağlantı",
-            senswiresLayer: "Kablosuz sensör bağlantısı",
+            senswirelessLayer: "Kablosuz sensör bağlantısı",
             "senswiresLayer": "Sensör Kabloları",
             "quickCoupLayer": "Hızlı Bağlantılar",
             "surfaces": "Poligonlar ve Çizgiler",
             "ldItemsLayer": "Manzara Öğeleri",
             "ldArbitraryLayer": "Özel manzara öğeleri",
-            "spArbitraryLayer": "Özel sulama öğeleri"
+            "spArbitraryLayer": "Özel sulama öğeleri",
+            overlays: "Düzen öğeleri",
+            stampTexts: "Damga metinleri"
         },
         //SPRINKLER NODE CONFIGS
         "sprinklerNode": "Sprey Başlığı Düğümü",

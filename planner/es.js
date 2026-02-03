@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Unidad de precipitación",
                cannotDeleteLastColumn: "¡No se puede eliminar la última columna!"
            }
+        },
+        stylesConfig: "Estilos",
+        linesStyles: "Estilos de tuberías y cableado",
+        linesStyles_lang: {
+            title: "Configuración de estilos de líneas",
+            save: "Guardar",
+            cancel: "Cancelar",
+            reset: "Restablecer valores predeterminados",
+            // Group headers
+            mainPipeGroup: "Colores de tubería principal",
+            lateralPipeGroup: "Colores de tubería lateral",
+            dripLinesGroup: "Colores de líneas de goteo",
+            wiresGroup: "Colores de cables",
+            // Color labels
+            mpColor: "Tubería principal",
+            mpOverColor: "Tubería principal (Hover)",
+            mpPVCColor: "Tubería principal PVC",
+            mpPVCOverColor: "Tubería principal PVC (Hover)",
+            mpPVCMSColor: "Tubería principal PVC Multi-hilo",
+            mpPVCMSOverColor: "Tubería principal PVC Multi-hilo (Hover)",
+            lpColor: "Tubería lateral",
+            lpOverColor: "Tubería lateral (Hover)",
+            lpPVCColor: "Tubería lateral PVC",
+            lpPVCOverColor: "Tubería lateral PVC (Hover)",
+            lpPVCMSColor: "Tubería lateral PVC Multi-hilo",
+            lpPVCMSOverColor: "Tubería lateral PVC Multi-hilo (Hover)",
+            lpLDPESColor: "Tubería lateral LDPE-S",
+            lpLDPESOverColor: "Tubería lateral LDPE-S (Hover)",
+            dl16Color: "Línea de goteo 16mm",
+            dl16OverColor: "Línea de goteo 16mm (Hover)",
+            dl17Color: "Línea de goteo 17mm",
+            dl17OverColor: "Línea de goteo 17mm (Hover)",
+            wrColor: "Cable",
+            wrOverColor: "Cable (Hover)",
+            wrlsColor: "Inalámbrico",
+            wrlsOverColor: "Inalámbrico (Hover)",
+            swrColor: "Cable de sensor",
+            swrOverColor: "Cable de sensor (Hover)",
+            swrlsColor: "Sensor inalámbrico",
+            swrlsOverColor: "Sensor inalámbrico (Hover)",
+            dwrColor: "Cable de datos",
+            dwrOverColor: "Cable de datos (Hover)"
         }
     }
 };

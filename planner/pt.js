@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Unidade de precipitação",
                cannotDeleteLastColumn: "Não é possível excluir a última coluna!"
            }
+        },
+        stylesConfig: "Estilos",
+        linesStyles: "Estilos de tubos e fiação",
+        linesStyles_lang: {
+            title: "Configuração de estilos de linhas",
+            save: "Salvar",
+            cancel: "Cancelar",
+            reset: "Restaurar padrões",
+            // Group headers
+            mainPipeGroup: "Cores do tubo principal",
+            lateralPipeGroup: "Cores do tubo lateral",
+            dripLinesGroup: "Cores das linhas de gotejamento",
+            wiresGroup: "Cores dos fios",
+            // Color labels
+            mpColor: "Tubo principal",
+            mpOverColor: "Tubo principal (Hover)",
+            mpPVCColor: "Tubo principal PVC",
+            mpPVCOverColor: "Tubo principal PVC (Hover)",
+            mpPVCMSColor: "Tubo principal PVC Multi-fio",
+            mpPVCMSOverColor: "Tubo principal PVC Multi-fio (Hover)",
+            lpColor: "Tubo lateral",
+            lpOverColor: "Tubo lateral (Hover)",
+            lpPVCColor: "Tubo lateral PVC",
+            lpPVCOverColor: "Tubo lateral PVC (Hover)",
+            lpPVCMSColor: "Tubo lateral PVC Multi-fio",
+            lpPVCMSOverColor: "Tubo lateral PVC Multi-fio (Hover)",
+            lpLDPESColor: "Tubo lateral LDPE-S",
+            lpLDPESOverColor: "Tubo lateral LDPE-S (Hover)",
+            dl16Color: "Linha de gotejamento 16mm",
+            dl16OverColor: "Linha de gotejamento 16mm (Hover)",
+            dl17Color: "Linha de gotejamento 17mm",
+            dl17OverColor: "Linha de gotejamento 17mm (Hover)",
+            wrColor: "Fio",
+            wrOverColor: "Fio (Hover)",
+            wrlsColor: "Sem fio",
+            wrlsOverColor: "Sem fio (Hover)",
+            swrColor: "Fio de sensor",
+            swrOverColor: "Fio de sensor (Hover)",
+            swrlsColor: "Sensor sem fio",
+            swrlsOverColor: "Sensor sem fio (Hover)",
+            dwrColor: "Fio de dados",
+            dwrOverColor: "Fio de dados (Hover)"
         }
     }
 };

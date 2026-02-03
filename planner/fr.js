@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Unité de précipitation",
                cannotDeleteLastColumn: "Impossible de supprimer la dernière colonne!"
            }
+        },
+        stylesConfig: "Styles",
+        linesStyles: "Styles des tuyaux et câblages",
+        linesStyles_lang: {
+            title: "Configuration des styles de lignes",
+            save: "Enregistrer",
+            cancel: "Annuler",
+            reset: "Réinitialiser par défaut",
+            // Group headers
+            mainPipeGroup: "Couleurs du tuyau principal",
+            lateralPipeGroup: "Couleurs du tuyau latéral",
+            dripLinesGroup: "Couleurs des lignes de goutte-à-goutte",
+            wiresGroup: "Couleurs des câbles",
+            // Color labels
+            mpColor: "Tuyau principal",
+            mpOverColor: "Tuyau principal (Survol)",
+            mpPVCColor: "Tuyau principal PVC",
+            mpPVCOverColor: "Tuyau principal PVC (Survol)",
+            mpPVCMSColor: "Tuyau principal PVC Multi-brins",
+            mpPVCMSOverColor: "Tuyau principal PVC Multi-brins (Survol)",
+            lpColor: "Tuyau latéral",
+            lpOverColor: "Tuyau latéral (Survol)",
+            lpPVCColor: "Tuyau latéral PVC",
+            lpPVCOverColor: "Tuyau latéral PVC (Survol)",
+            lpPVCMSColor: "Tuyau latéral PVC Multi-brins",
+            lpPVCMSOverColor: "Tuyau latéral PVC Multi-brins (Survol)",
+            lpLDPESColor: "Tuyau latéral LDPE-S",
+            lpLDPESOverColor: "Tuyau latéral LDPE-S (Survol)",
+            dl16Color: "Ligne de goutte-à-goutte 16mm",
+            dl16OverColor: "Ligne de goutte-à-goutte 16mm (Survol)",
+            dl17Color: "Ligne de goutte-à-goutte 17mm",
+            dl17OverColor: "Ligne de goutte-à-goutte 17mm (Survol)",
+            wrColor: "Câble",
+            wrOverColor: "Câble (Survol)",
+            wrlsColor: "Sans fil",
+            wrlsOverColor: "Sans fil (Survol)",
+            swrColor: "Câble de capteur",
+            swrOverColor: "Câble de capteur (Survol)",
+            swrlsColor: "Capteur sans fil",
+            swrlsOverColor: "Capteur sans fil (Survol)",
+            dwrColor: "Câble de données",
+            dwrOverColor: "Câble de données (Survol)"
         }
     }
 };

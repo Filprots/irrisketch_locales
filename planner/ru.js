@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Единица осадков",
                cannotDeleteLastColumn: "Нельзя удалить последний столбец!"
            }
+        },
+        stylesConfig: "Стили",
+        linesStyles: "Стили труб и проводов",
+        linesStyles_lang: {
+            title: "Настройка стилей линий",
+            save: "Сохранить",
+            cancel: "Отмена",
+            reset: "Сбросить по умолчанию",
+            // Group headers
+            mainPipeGroup: "Цвета магистральной трубы",
+            lateralPipeGroup: "Цвета зональной трубы",
+            dripLinesGroup: "Цвета капельных линий",
+            wiresGroup: "Цвета проводов",
+            // Color labels
+            mpColor: "Главная труба",
+            mpOverColor: "Главная труба (Выделение)",
+            mpPVCColor: "Главная труба ПВХ",
+            mpPVCOverColor: "Главная труба ПВХ (Выделение)",
+            mpPVCMSColor: "Главная труба ПВХ Многожильная",
+            mpPVCMSOverColor: "Главная труба ПВХ Многожильная (Выделение)",
+            lpColor: "Зональная труба",
+            lpOverColor: "Боковая труба (Выделение)",
+            lpPVCColor: "Зональная труба ПВХ",
+            lpPVCOverColor: "Зональная труба ПВХ (Выделение)",
+            lpPVCMSColor: "Зональная труба ПВХ Многожильная",
+            lpPVCMSOverColor: "Зональная труба ПВХ Многожильная (Выделение)",
+            lpLDPESColor: "Зональная труба LDPE-S",
+            lpLDPESOverColor: "Зональная труба LDPE-S (Выделение)",
+            dl16Color: "Капельная линия 16мм",
+            dl16OverColor: "Капельная линия 16мм (Выделение)",
+            dl17Color: "Капельная линия 17мм",
+            dl17OverColor: "Капельная линия 17мм (Выделение)",
+            wrColor: "Провод",
+            wrOverColor: "Провод (Выделение)",
+            wrlsColor: "Беспроводной",
+            wrlsOverColor: "Беспроводной (Выделение)",
+            swrColor: "Провод датчика",
+            swrOverColor: "Провод датчика (Выделение)",
+            swrlsColor: "Беспроводной датчик",
+            swrlsOverColor: "Беспроводной датчик (Выделение)",
+            dwrColor: "Кабель данных",
+            dwrOverColor: "Кабель данных (Выделение)"
         }
     }
 };

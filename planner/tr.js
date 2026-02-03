@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Yağış birimi",
                cannotDeleteLastColumn: "Son sütun silinemez!"
            }
+        },
+        stylesConfig: "Stiller",
+        linesStyles: "Boru ve Kablolama Stilleri",
+        linesStyles_lang: {
+            title: "Çizgi Stilleri Yapılandırması",
+            save: "Kaydet",
+            cancel: "İptal",
+            reset: "Varsayılanlara Sıfırla",
+            // Group headers
+            mainPipeGroup: "Ana Boru Renkleri",
+            lateralPipeGroup: "Yan Boru Renkleri",
+            dripLinesGroup: "Damla Hattı Renkleri",
+            wiresGroup: "Kablo Renkleri",
+            // Color labels
+            mpColor: "Ana Boru",
+            mpOverColor: "Ana Boru (Üzerine Gelme)",
+            mpPVCColor: "Ana Boru PVC",
+            mpPVCOverColor: "Ana Boru PVC (Üzerine Gelme)",
+            mpPVCMSColor: "Ana Boru PVC Çok Damarlı",
+            mpPVCMSOverColor: "Ana Boru PVC Çok Damarlı (Üzerine Gelme)",
+            lpColor: "Yan Boru",
+            lpOverColor: "Yan Boru (Üzerine Gelme)",
+            lpPVCColor: "Yan Boru PVC",
+            lpPVCOverColor: "Yan Boru PVC (Üzerine Gelme)",
+            lpPVCMSColor: "Yan Boru PVC Çok Damarlı",
+            lpPVCMSOverColor: "Yan Boru PVC Çok Damarlı (Üzerine Gelme)",
+            lpLDPESColor: "Yan Boru LDPE-S",
+            lpLDPESOverColor: "Yan Boru LDPE-S (Üzerine Gelme)",
+            dl16Color: "Damla Hattı 16mm",
+            dl16OverColor: "Damla Hattı 16mm (Üzerine Gelme)",
+            dl17Color: "Damla Hattı 17mm",
+            dl17OverColor: "Damla Hattı 17mm (Üzerine Gelme)",
+            wrColor: "Kablo",
+            wrOverColor: "Kablo (Üzerine Gelme)",
+            wrlsColor: "Kablosuz",
+            wrlsOverColor: "Kablosuz (Üzerine Gelme)",
+            swrColor: "Sensör Kablosu",
+            swrOverColor: "Sensör Kablosu (Üzerine Gelme)",
+            swrlsColor: "Kablosuz Sensör",
+            swrlsOverColor: "Kablosuz Sensör (Üzerine Gelme)",
+            dwrColor: "Veri Kablosu",
+            dwrOverColor: "Veri Kablosu (Üzerine Gelme)"
         }
     }
 };

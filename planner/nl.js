@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Neerslageenheid",
                cannotDeleteLastColumn: "De laatste kolom kan niet worden verwijderd!"
            }
+        },
+        stylesConfig: "Stijlen",
+        linesStyles: "Buis- en bedradingsstijlen",
+        linesStyles_lang: {
+            title: "Lijnstijl configuratie",
+            save: "Opslaan",
+            cancel: "Annuleren",
+            reset: "Standaardwaarden herstellen",
+            // Group headers
+            mainPipeGroup: "Hoofdbuiskleuren",
+            lateralPipeGroup: "Zijbuiskleuren",
+            dripLinesGroup: "Druppellijnkleuren",
+            wiresGroup: "Kabelkleuren",
+            // Color labels
+            mpColor: "Hoofdbuis",
+            mpOverColor: "Hoofdbuis (Hover)",
+            mpPVCColor: "Hoofdbuis PVC",
+            mpPVCOverColor: "Hoofdbuis PVC (Hover)",
+            mpPVCMSColor: "Hoofdbuis PVC Meeraderig",
+            mpPVCMSOverColor: "Hoofdbuis PVC Meeraderig (Hover)",
+            lpColor: "Zijbuis",
+            lpOverColor: "Zijbuis (Hover)",
+            lpPVCColor: "Zijbuis PVC",
+            lpPVCOverColor: "Zijbuis PVC (Hover)",
+            lpPVCMSColor: "Zijbuis PVC Meeraderig",
+            lpPVCMSOverColor: "Zijbuis PVC Meeraderig (Hover)",
+            lpLDPESColor: "Zijbuis LDPE-S",
+            lpLDPESOverColor: "Zijbuis LDPE-S (Hover)",
+            dl16Color: "Druppellijn 16mm",
+            dl16OverColor: "Druppellijn 16mm (Hover)",
+            dl17Color: "Druppellijn 17mm",
+            dl17OverColor: "Druppellijn 17mm (Hover)",
+            wrColor: "Kabel",
+            wrOverColor: "Kabel (Hover)",
+            wrlsColor: "Draadloos",
+            wrlsOverColor: "Draadloos (Hover)",
+            swrColor: "Sensorkabel",
+            swrOverColor: "Sensorkabel (Hover)",
+            swrlsColor: "Sensor draadloos",
+            swrlsOverColor: "Sensor draadloos (Hover)",
+            dwrColor: "Datakabel",
+            dwrOverColor: "Datakabel (Hover)"
         }
     }
 };

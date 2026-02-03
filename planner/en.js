@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Precipitation Unit",
                cannotDeleteLastColumn: "Cannot delete the last column!"
            }
+        },
+        stylesConfig: "Styles",
+        linesStyles: "Pipes and Wiring Styles",
+        linesStyles_lang: {
+            title: "Line Styles Configuration",
+            save: "Save",
+            cancel: "Cancel",
+            reset: "Reset to Defaults",
+            // Group headers
+            mainPipeGroup: "Main Pipe Colors",
+            lateralPipeGroup: "Lateral Pipe Colors",
+            dripLinesGroup: "Drip Line Colors",
+            wiresGroup: "Wire Colors",
+            // Color labels
+            mpColor: "Main Pipe",
+            mpOverColor: "Main Pipe (Hover)",
+            mpPVCColor: "Main Pipe PVC",
+            mpPVCOverColor: "Main Pipe PVC (Hover)",
+            mpPVCMSColor: "Main Pipe PVC Multi-Strand",
+            mpPVCMSOverColor: "Main Pipe PVC Multi-Strand (Hover)",
+            lpColor: "Lateral Pipe",
+            lpOverColor: "Lateral Pipe (Hover)",
+            lpPVCColor: "Lateral Pipe PVC",
+            lpPVCOverColor: "Lateral Pipe PVC (Hover)",
+            lpPVCMSColor: "Lateral Pipe PVC Multi-Strand",
+            lpPVCMSOverColor: "Lateral Pipe PVC Multi-Strand (Hover)",
+            lpLDPESColor: "Lateral Pipe LDPE-S",
+            lpLDPESOverColor: "Lateral Pipe LDPE-S (Hover)",
+            dl16Color: "Drip Line 16mm",
+            dl16OverColor: "Drip Line 16mm (Hover)",
+            dl17Color: "Drip Line 17mm",
+            dl17OverColor: "Drip Line 17mm (Hover)",
+            wrColor: "Wire",
+            wrOverColor: "Wire (Hover)",
+            wrlsColor: "Wireless",
+            wrlsOverColor: "Wireless (Hover)",
+            swrColor: "Sensor Wire",
+            swrOverColor: "Sensor Wire (Hover)",
+            swrlsColor: "Sensor Wireless",
+            swrlsOverColor: "Sensor Wireless (Hover)",
+            dwrColor: "Data Wire",
+            dwrOverColor: "Data Wire (Hover)"
         }
     }
 };

@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Адзінка ападкаў",
                cannotDeleteLastColumn: "Нельга выдаліць апошні слупок!"
            }
+        },
+        stylesConfig: "Стылі",
+        linesStyles: "Стылі труб і праводкі",
+        linesStyles_lang: {
+            title: "Налада стыляў ліній",
+            save: "Захаваць",
+            cancel: "Скасаваць",
+            reset: "Скінуць да стандартных",
+            // Group headers
+            mainPipeGroup: "Колеры галоўнай трубы",
+            lateralPipeGroup: "Колеры бакавой трубы",
+            dripLinesGroup: "Колеры кропельных ліній",
+            wiresGroup: "Колеры провадаў",
+            // Color labels
+            mpColor: "Галоўная труба",
+            mpOverColor: "Галоўная труба (Навядзенне)",
+            mpPVCColor: "Галоўная труба ПВХ",
+            mpPVCOverColor: "Галоўная труба ПВХ (Навядзенне)",
+            mpPVCMSColor: "Галоўная труба ПВХ Шматжыльная",
+            mpPVCMSOverColor: "Галоўная труба ПВХ Шматжыльная (Навядзенне)",
+            lpColor: "Бакавая труба",
+            lpOverColor: "Бакавая труба (Навядзенне)",
+            lpPVCColor: "Бакавая труба ПВХ",
+            lpPVCOverColor: "Бакавая труба ПВХ (Навядзенне)",
+            lpPVCMSColor: "Бакавая труба ПВХ Шматжыльная",
+            lpPVCMSOverColor: "Бакавая труба ПВХ Шматжыльная (Навядзенне)",
+            lpLDPESColor: "Бакавая труба LDPE-S",
+            lpLDPESOverColor: "Бакавая труба LDPE-S (Навядзенне)",
+            dl16Color: "Кропельная лінія 16мм",
+            dl16OverColor: "Кропельная лінія 16мм (Навядзенне)",
+            dl17Color: "Кропельная лінія 17мм",
+            dl17OverColor: "Кропельная лінія 17мм (Навядзенне)",
+            wrColor: "Провад",
+            wrOverColor: "Провад (Навядзенне)",
+            wrlsColor: "Бесправадны",
+            wrlsOverColor: "Бесправадны (Навядзенне)",
+            swrColor: "Провад датчыка",
+            swrOverColor: "Провад датчыка (Навядзенне)",
+            swrlsColor: "Бесправадны датчык",
+            swrlsOverColor: "Бесправадны датчык (Навядзенне)",
+            dwrColor: "Кабель даных",
+            dwrOverColor: "Кабель даных (Навядзенне)"
         }
     }
 };

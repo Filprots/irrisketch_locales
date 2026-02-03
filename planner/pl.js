@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Jednostka opadów",
                cannotDeleteLastColumn: "Nie można usunąć ostatniej kolumny!"
            }
+        },
+        stylesConfig: "Style",
+        linesStyles: "Style rur i okablowania",
+        linesStyles_lang: {
+            title: "Konfiguracja stylów linii",
+            save: "Zapisz",
+            cancel: "Anuluj",
+            reset: "Przywróć domyślne",
+            // Group headers
+            mainPipeGroup: "Kolory rury głównej",
+            lateralPipeGroup: "Kolory rury bocznej",
+            dripLinesGroup: "Kolory linii kroplujących",
+            wiresGroup: "Kolory przewodów",
+            // Color labels
+            mpColor: "Rura główna",
+            mpOverColor: "Rura główna (Najechanie)",
+            mpPVCColor: "Rura główna PVC",
+            mpPVCOverColor: "Rura główna PVC (Najechanie)",
+            mpPVCMSColor: "Rura główna PVC Wielożyłowa",
+            mpPVCMSOverColor: "Rura główna PVC Wielożyłowa (Najechanie)",
+            lpColor: "Rura boczna",
+            lpOverColor: "Rura boczna (Najechanie)",
+            lpPVCColor: "Rura boczna PVC",
+            lpPVCOverColor: "Rura boczna PVC (Najechanie)",
+            lpPVCMSColor: "Rura boczna PVC Wielożyłowa",
+            lpPVCMSOverColor: "Rura boczna PVC Wielożyłowa (Najechanie)",
+            lpLDPESColor: "Rura boczna LDPE-S",
+            lpLDPESOverColor: "Rura boczna LDPE-S (Najechanie)",
+            dl16Color: "Linia kroplująca 16mm",
+            dl16OverColor: "Linia kroplująca 16mm (Najechanie)",
+            dl17Color: "Linia kroplująca 17mm",
+            dl17OverColor: "Linia kroplująca 17mm (Najechanie)",
+            wrColor: "Przewód",
+            wrOverColor: "Przewód (Najechanie)",
+            wrlsColor: "Bezprzewodowy",
+            wrlsOverColor: "Bezprzewodowy (Najechanie)",
+            swrColor: "Przewód czujnika",
+            swrOverColor: "Przewód czujnika (Najechanie)",
+            swrlsColor: "Czujnik bezprzewodowy",
+            swrlsOverColor: "Czujnik bezprzewodowy (Najechanie)",
+            dwrColor: "Przewód danych",
+            dwrOverColor: "Przewód danych (Najechanie)"
         }
     }
 };

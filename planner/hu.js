@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Csapadék egység",
                cannotDeleteLastColumn: "Az utolsó oszlop nem törölhető!"
            }
+        },
+        stylesConfig: "Stílusok",
+        linesStyles: "Cső- és kábelezési stílusok",
+        linesStyles_lang: {
+            title: "Vonalstílusok konfigurálása",
+            save: "Mentés",
+            cancel: "Mégse",
+            reset: "Alapértékek visszaállítása",
+            // Group headers
+            mainPipeGroup: "Főcső színek",
+            lateralPipeGroup: "Oldalsó cső színek",
+            dripLinesGroup: "Csepegtetővonal színek",
+            wiresGroup: "Kábel színek",
+            // Color labels
+            mpColor: "Főcső",
+            mpOverColor: "Főcső (Egérmutató)",
+            mpPVCColor: "Főcső PVC",
+            mpPVCOverColor: "Főcső PVC (Egérmutató)",
+            mpPVCMSColor: "Főcső PVC Többeres",
+            mpPVCMSOverColor: "Főcső PVC Többeres (Egérmutató)",
+            lpColor: "Oldalsó cső",
+            lpOverColor: "Oldalsó cső (Egérmutató)",
+            lpPVCColor: "Oldalsó cső PVC",
+            lpPVCOverColor: "Oldalsó cső PVC (Egérmutató)",
+            lpPVCMSColor: "Oldalsó cső PVC Többeres",
+            lpPVCMSOverColor: "Oldalsó cső PVC Többeres (Egérmutató)",
+            lpLDPESColor: "Oldalsó cső LDPE-S",
+            lpLDPESOverColor: "Oldalsó cső LDPE-S (Egérmutató)",
+            dl16Color: "Csepegtetővonal 16mm",
+            dl16OverColor: "Csepegtetővonal 16mm (Egérmutató)",
+            dl17Color: "Csepegtetővonal 17mm",
+            dl17OverColor: "Csepegtetővonal 17mm (Egérmutató)",
+            wrColor: "Kábel",
+            wrOverColor: "Kábel (Egérmutató)",
+            wrlsColor: "Vezeték nélküli",
+            wrlsOverColor: "Vezeték nélküli (Egérmutató)",
+            swrColor: "Érzékelő kábel",
+            swrOverColor: "Érzékelő kábel (Egérmutató)",
+            swrlsColor: "Vezeték nélküli érzékelő",
+            swrlsOverColor: "Vezeték nélküli érzékelő (Egérmutató)",
+            dwrColor: "Adatkábel",
+            dwrOverColor: "Adatkábel (Egérmutató)"
         }
     }
 };

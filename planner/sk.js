@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Jednotka zrážok",
                cannotDeleteLastColumn: "Nie je možné vymazať posledný stĺpec!"
            }
+        },
+        stylesConfig: "Štýly",
+        linesStyles: "Štýly potrubí a kabeláže",
+        linesStyles_lang: {
+            title: "Konfigurácia štýlov čiar",
+            save: "Uložiť",
+            cancel: "Zrušiť",
+            reset: "Obnoviť predvolené",
+            // Group headers
+            mainPipeGroup: "Farby hlavného potrubia",
+            lateralPipeGroup: "Farby bočného potrubia",
+            dripLinesGroup: "Farby kvapkacích liniek",
+            wiresGroup: "Farby káblov",
+            // Color labels
+            mpColor: "Hlavné potrubie",
+            mpOverColor: "Hlavné potrubie (Prejdenie)",
+            mpPVCColor: "Hlavné potrubie PVC",
+            mpPVCOverColor: "Hlavné potrubie PVC (Prejdenie)",
+            mpPVCMSColor: "Hlavné potrubie PVC Viacžilové",
+            mpPVCMSOverColor: "Hlavné potrubie PVC Viacžilové (Prejdenie)",
+            lpColor: "Bočné potrubie",
+            lpOverColor: "Bočné potrubie (Prejdenie)",
+            lpPVCColor: "Bočné potrubie PVC",
+            lpPVCOverColor: "Bočné potrubie PVC (Prejdenie)",
+            lpPVCMSColor: "Bočné potrubie PVC Viacžilové",
+            lpPVCMSOverColor: "Bočné potrubie PVC Viacžilové (Prejdenie)",
+            lpLDPESColor: "Bočné potrubie LDPE-S",
+            lpLDPESOverColor: "Bočné potrubie LDPE-S (Prejdenie)",
+            dl16Color: "Kvapkacia linka 16mm",
+            dl16OverColor: "Kvapkacia linka 16mm (Prejdenie)",
+            dl17Color: "Kvapkacia linka 17mm",
+            dl17OverColor: "Kvapkacia linka 17mm (Prejdenie)",
+            wrColor: "Kábel",
+            wrOverColor: "Kábel (Prejdenie)",
+            wrlsColor: "Bezdrôtový",
+            wrlsOverColor: "Bezdrôtový (Prejdenie)",
+            swrColor: "Kábel snímača",
+            swrOverColor: "Kábel snímača (Prejdenie)",
+            swrlsColor: "Bezdrôtový snímač",
+            swrlsOverColor: "Bezdrôtový snímač (Prejdenie)",
+            dwrColor: "Dátový kábel",
+            dwrOverColor: "Dátový kábel (Prejdenie)"
         }
     }
 };

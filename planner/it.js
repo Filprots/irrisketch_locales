@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Unità di precipitazioni",
                cannotDeleteLastColumn: "Impossibile eliminare l'ultima colonna!"
            }
+        },
+        stylesConfig: "Stili",
+        linesStyles: "Stili tubi e cablaggio",
+        linesStyles_lang: {
+            title: "Configurazione stili linee",
+            save: "Salva",
+            cancel: "Annulla",
+            reset: "Ripristina predefiniti",
+            // Group headers
+            mainPipeGroup: "Colori tubo principale",
+            lateralPipeGroup: "Colori tubo laterale",
+            dripLinesGroup: "Colori linee gocciolamento",
+            wiresGroup: "Colori cavi",
+            // Color labels
+            mpColor: "Tubo principale",
+            mpOverColor: "Tubo principale (Hover)",
+            mpPVCColor: "Tubo principale PVC",
+            mpPVCOverColor: "Tubo principale PVC (Hover)",
+            mpPVCMSColor: "Tubo principale PVC Multi-filo",
+            mpPVCMSOverColor: "Tubo principale PVC Multi-filo (Hover)",
+            lpColor: "Tubo laterale",
+            lpOverColor: "Tubo laterale (Hover)",
+            lpPVCColor: "Tubo laterale PVC",
+            lpPVCOverColor: "Tubo laterale PVC (Hover)",
+            lpPVCMSColor: "Tubo laterale PVC Multi-filo",
+            lpPVCMSOverColor: "Tubo laterale PVC Multi-filo (Hover)",
+            lpLDPESColor: "Tubo laterale LDPE-S",
+            lpLDPESOverColor: "Tubo laterale LDPE-S (Hover)",
+            dl16Color: "Linea gocciolamento 16mm",
+            dl16OverColor: "Linea gocciolamento 16mm (Hover)",
+            dl17Color: "Linea gocciolamento 17mm",
+            dl17OverColor: "Linea gocciolamento 17mm (Hover)",
+            wrColor: "Cavo",
+            wrOverColor: "Cavo (Hover)",
+            wrlsColor: "Wireless",
+            wrlsOverColor: "Wireless (Hover)",
+            swrColor: "Cavo sensore",
+            swrOverColor: "Cavo sensore (Hover)",
+            swrlsColor: "Sensore wireless",
+            swrlsOverColor: "Sensore wireless (Hover)",
+            dwrColor: "Cavo dati",
+            dwrOverColor: "Cavo dati (Hover)"
         }
     }
 };

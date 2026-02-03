@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Niederschlagseinheit",
                cannotDeleteLastColumn: "Die letzte Spalte kann nicht gelöscht werden!"
            }
+        },
+        stylesConfig: "Stile",
+        linesStyles: "Rohre und Verkabelungsstile",
+        linesStyles_lang: {
+            title: "Linienstil-Konfiguration",
+            save: "Speichern",
+            cancel: "Abbrechen",
+            reset: "Auf Standardwerte zurücksetzen",
+            // Group headers
+            mainPipeGroup: "Hauptrohrfarben",
+            lateralPipeGroup: "Seitenrohrfarben",
+            dripLinesGroup: "Tropfleitungsfarben",
+            wiresGroup: "Kabelfarben",
+            // Color labels
+            mpColor: "Hauptrohr",
+            mpOverColor: "Hauptrohr (Hover)",
+            mpPVCColor: "Hauptrohr PVC",
+            mpPVCOverColor: "Hauptrohr PVC (Hover)",
+            mpPVCMSColor: "Hauptrohr PVC Mehradrig",
+            mpPVCMSOverColor: "Hauptrohr PVC Mehradrig (Hover)",
+            lpColor: "Seitenrohr",
+            lpOverColor: "Seitenrohr (Hover)",
+            lpPVCColor: "Seitenrohr PVC",
+            lpPVCOverColor: "Seitenrohr PVC (Hover)",
+            lpPVCMSColor: "Seitenrohr PVC Mehradrig",
+            lpPVCMSOverColor: "Seitenrohr PVC Mehradrig (Hover)",
+            lpLDPESColor: "Seitenrohr LDPE-S",
+            lpLDPESOverColor: "Seitenrohr LDPE-S (Hover)",
+            dl16Color: "Tropfleitung 16mm",
+            dl16OverColor: "Tropfleitung 16mm (Hover)",
+            dl17Color: "Tropfleitung 17mm",
+            dl17OverColor: "Tropfleitung 17mm (Hover)",
+            wrColor: "Kabel",
+            wrOverColor: "Kabel (Hover)",
+            wrlsColor: "Kabellos",
+            wrlsOverColor: "Kabellos (Hover)",
+            swrColor: "Sensorkabel",
+            swrOverColor: "Sensorkabel (Hover)",
+            swrlsColor: "Sensor Kabellos",
+            swrlsOverColor: "Sensor Kabellos (Hover)",
+            dwrColor: "Datenkabel",
+            dwrOverColor: "Datenkabel (Hover)"
         }
     }
 };

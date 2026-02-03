@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Kritulių vienetas",
                cannotDeleteLastColumn: "Negalima ištrinti paskutinio stulpelio!"
            }
+        },
+        stylesConfig: "Stiliai",
+        linesStyles: "Vamzdžių ir laidų stiliai",
+        linesStyles_lang: {
+            title: "Linijų stilių konfigūracija",
+            save: "Išsaugoti",
+            cancel: "Atšaukti",
+            reset: "Atkurti numatytuosius",
+            // Group headers
+            mainPipeGroup: "Pagrindinio vamzdžio spalvos",
+            lateralPipeGroup: "Šoninio vamzdžio spalvos",
+            dripLinesGroup: "Lašelinių linijų spalvos",
+            wiresGroup: "Laidų spalvos",
+            // Color labels
+            mpColor: "Pagrindinis vamzdis",
+            mpOverColor: "Pagrindinis vamzdis (Užvedimas)",
+            mpPVCColor: "Pagrindinis vamzdis PVC",
+            mpPVCOverColor: "Pagrindinis vamzdis PVC (Užvedimas)",
+            mpPVCMSColor: "Pagrindinis vamzdis PVC Daugiagyslis",
+            mpPVCMSOverColor: "Pagrindinis vamzdis PVC Daugiagyslis (Užvedimas)",
+            lpColor: "Šoninis vamzdis",
+            lpOverColor: "Šoninis vamzdis (Užvedimas)",
+            lpPVCColor: "Šoninis vamzdis PVC",
+            lpPVCOverColor: "Šoninis vamzdis PVC (Užvedimas)",
+            lpPVCMSColor: "Šoninis vamzdis PVC Daugiagyslis",
+            lpPVCMSOverColor: "Šoninis vamzdis PVC Daugiagyslis (Užvedimas)",
+            lpLDPESColor: "Šoninis vamzdis LDPE-S",
+            lpLDPESOverColor: "Šoninis vamzdis LDPE-S (Užvedimas)",
+            dl16Color: "Lašelinė linija 16mm",
+            dl16OverColor: "Lašelinė linija 16mm (Užvedimas)",
+            dl17Color: "Lašelinė linija 17mm",
+            dl17OverColor: "Lašelinė linija 17mm (Užvedimas)",
+            wrColor: "Laidas",
+            wrOverColor: "Laidas (Užvedimas)",
+            wrlsColor: "Belaidis",
+            wrlsOverColor: "Belaidis (Užvedimas)",
+            swrColor: "Jutiklio laidas",
+            swrOverColor: "Jutiklio laidas (Užvedimas)",
+            swrlsColor: "Belaidis jutiklis",
+            swrlsOverColor: "Belaidis jutiklis (Užvedimas)",
+            dwrColor: "Duomenų kabelis",
+            dwrOverColor: "Duomenų kabelis (Užvedimas)"
         }
     }
 };

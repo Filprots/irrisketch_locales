@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "降水單位",
                cannotDeleteLastColumn: "無法刪除最後一列！"
            }
+        },
+        stylesConfig: "樣式",
+        linesStyles: "管道和線纜樣式",
+        linesStyles_lang: {
+            title: "線條樣式配置",
+            save: "保存",
+            cancel: "取消",
+            reset: "重置為默認值",
+            // Group headers
+            mainPipeGroup: "主管道顏色",
+            lateralPipeGroup: "支管道顏色",
+            dripLinesGroup: "滴灌線顏色",
+            wiresGroup: "電線顏色",
+            // Color labels
+            mpColor: "主管道",
+            mpOverColor: "主管道（懸停）",
+            mpPVCColor: "主管道 PVC",
+            mpPVCOverColor: "主管道 PVC（懸停）",
+            mpPVCMSColor: "主管道 PVC 多股",
+            mpPVCMSOverColor: "主管道 PVC 多股（懸停）",
+            lpColor: "支管道",
+            lpOverColor: "支管道（懸停）",
+            lpPVCColor: "支管道 PVC",
+            lpPVCOverColor: "支管道 PVC（懸停）",
+            lpPVCMSColor: "支管道 PVC 多股",
+            lpPVCMSOverColor: "支管道 PVC 多股（懸停）",
+            lpLDPESColor: "支管道 LDPE-S",
+            lpLDPESOverColor: "支管道 LDPE-S（懸停）",
+            dl16Color: "滴灌線 16mm",
+            dl16OverColor: "滴灌線 16mm（懸停）",
+            dl17Color: "滴灌線 17mm",
+            dl17OverColor: "滴灌線 17mm（懸停）",
+            wrColor: "電線",
+            wrOverColor: "電線（懸停）",
+            wrlsColor: "無線",
+            wrlsOverColor: "無線（懸停）",
+            swrColor: "傳感器線",
+            swrOverColor: "傳感器線（懸停）",
+            swrlsColor: "無線傳感器",
+            swrlsOverColor: "無線傳感器（懸停）",
+            dwrColor: "數據線",
+            dwrOverColor: "數據線（懸停）"
         }
     }
 };

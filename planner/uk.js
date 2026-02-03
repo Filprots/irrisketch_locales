@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Одиниця опадів",
                cannotDeleteLastColumn: "Не можна видалити останній стовпець!"
            }
+        },
+        stylesConfig: "Стилі",
+        linesStyles: "Стилі труб та проводки",
+        linesStyles_lang: {
+            title: "Налаштування стилів ліній",
+            save: "Зберегти",
+            cancel: "Скасувати",
+            reset: "Скинути за замовчуванням",
+            // Group headers
+            mainPipeGroup: "Кольори головної труби",
+            lateralPipeGroup: "Кольори бічної труби",
+            dripLinesGroup: "Кольори крапельних ліній",
+            wiresGroup: "Кольори проводів",
+            // Color labels
+            mpColor: "Головна труба",
+            mpOverColor: "Головна труба (Наведення)",
+            mpPVCColor: "Головна труба ПВХ",
+            mpPVCOverColor: "Головна труба ПВХ (Наведення)",
+            mpPVCMSColor: "Головна труба ПВХ Багатожильна",
+            mpPVCMSOverColor: "Головна труба ПВХ Багатожильна (Наведення)",
+            lpColor: "Бічна труба",
+            lpOverColor: "Бічна труба (Наведення)",
+            lpPVCColor: "Бічна труба ПВХ",
+            lpPVCOverColor: "Бічна труба ПВХ (Наведення)",
+            lpPVCMSColor: "Бічна труба ПВХ Багатожильна",
+            lpPVCMSOverColor: "Бічна труба ПВХ Багатожильна (Наведення)",
+            lpLDPESColor: "Бічна труба LDPE-S",
+            lpLDPESOverColor: "Бічна труба LDPE-S (Наведення)",
+            dl16Color: "Крапельна лінія 16мм",
+            dl16OverColor: "Крапельна лінія 16мм (Наведення)",
+            dl17Color: "Крапельна лінія 17мм",
+            dl17OverColor: "Крапельна лінія 17мм (Наведення)",
+            wrColor: "Провід",
+            wrOverColor: "Провід (Наведення)",
+            wrlsColor: "Бездротовий",
+            wrlsOverColor: "Бездротовий (Наведення)",
+            swrColor: "Провід датчика",
+            swrOverColor: "Провід датчика (Наведення)",
+            swrlsColor: "Бездротовий датчик",
+            swrlsOverColor: "Бездротовий датчик (Наведення)",
+            dwrColor: "Кабель даних",
+            dwrOverColor: "Кабель даних (Наведення)"
         }
     }
 };

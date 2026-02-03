@@ -1486,6 +1486,48 @@ this.LNG = {
                precipitationUnit: "Jedinica oborina",
                cannotDeleteLastColumn: "Ne može se obrisati zadnji stupac!"
            }
+        },
+        stylesConfig: "Stilovi",
+        linesStyles: "Stilovi cijevi i ožičenja",
+        linesStyles_lang: {
+            title: "Konfiguracija stilova linija",
+            save: "Spremi",
+            cancel: "Odustani",
+            reset: "Vrati na zadano",
+            // Group headers
+            mainPipeGroup: "Boje glavne cijevi",
+            lateralPipeGroup: "Boje bočne cijevi",
+            dripLinesGroup: "Boje kapljičnih linija",
+            wiresGroup: "Boje žica",
+            // Color labels
+            mpColor: "Glavna cijev",
+            mpOverColor: "Glavna cijev (Prelazak)",
+            mpPVCColor: "Glavna cijev PVC",
+            mpPVCOverColor: "Glavna cijev PVC (Prelazak)",
+            mpPVCMSColor: "Glavna cijev PVC Višežilna",
+            mpPVCMSOverColor: "Glavna cijev PVC Višežilna (Prelazak)",
+            lpColor: "Bočna cijev",
+            lpOverColor: "Bočna cijev (Prelazak)",
+            lpPVCColor: "Bočna cijev PVC",
+            lpPVCOverColor: "Bočna cijev PVC (Prelazak)",
+            lpPVCMSColor: "Bočna cijev PVC Višežilna",
+            lpPVCMSOverColor: "Bočna cijev PVC Višežilna (Prelazak)",
+            lpLDPESColor: "Bočna cijev LDPE-S",
+            lpLDPESOverColor: "Bočna cijev LDPE-S (Prelazak)",
+            dl16Color: "Kapljična linija 16mm",
+            dl16OverColor: "Kapljična linija 16mm (Prelazak)",
+            dl17Color: "Kapljična linija 17mm",
+            dl17OverColor: "Kapljična linija 17mm (Prelazak)",
+            wrColor: "Žica",
+            wrOverColor: "Žica (Prelazak)",
+            wrlsColor: "Bežično",
+            wrlsOverColor: "Bežično (Prelazak)",
+            swrColor: "Žica senzora",
+            swrOverColor: "Žica senzora (Prelazak)",
+            swrlsColor: "Bežični senzor",
+            swrlsOverColor: "Bežični senzor (Prelazak)",
+            dwrColor: "Podatkovni kabel",
+            dwrOverColor: "Podatkovni kabel (Prelazak)"
         }
     }
 };

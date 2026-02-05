@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Não é possível excluir a última coluna!"
            }
         },
+        experimentalConfig: "Funcionalidades experimentais",
+        autoNozzlePlacer: "Assistência de posicionamento de bocais no gramado (ALT desativa)",
         stylesConfig: "Estilos",
         linesStyles: "Estilos de tubos e fiação",
         linesStyles_lang: {

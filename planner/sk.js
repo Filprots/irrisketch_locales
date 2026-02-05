@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Nie je možné vymazať posledný stĺpec!"
            }
         },
+        experimentalConfig: "Experimentálne funkcie",
+        autoNozzlePlacer: "Pomocník umiestnenia trysiek na trávniku (ALT vypne)",
         stylesConfig: "Štýly",
         linesStyles: "Štýly potrubí a kabeláže",
         linesStyles_lang: {

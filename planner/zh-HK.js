@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "無法刪除最後一列！"
            }
         },
+        experimentalConfig: "實驗功能",
+        autoNozzlePlacer: "草坪噴嘴放置輔助（ALT鍵禁用）",
         stylesConfig: "樣式",
         linesStyles: "管道和線纜樣式",
         linesStyles_lang: {

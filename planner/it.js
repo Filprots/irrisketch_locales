@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Impossibile eliminare l'ultima colonna!"
            }
         },
+        experimentalConfig: "Funzionalità sperimentali",
+        autoNozzlePlacer: "Assistenza al posizionamento degli ugelli sul prato (ALT disabilita)",
         stylesConfig: "Stili",
         linesStyles: "Stili tubi e cablaggio",
         linesStyles_lang: {

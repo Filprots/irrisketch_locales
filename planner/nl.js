@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "De laatste kolom kan niet worden verwijderd!"
            }
         },
+        experimentalConfig: "Experimentele functies",
+        autoNozzlePlacer: "Hulp bij plaatsing van sproeiers op het gazon (ALT schakelt uit)",
         stylesConfig: "Stijlen",
         linesStyles: "Buis- en bedradingsstijlen",
         linesStyles_lang: {

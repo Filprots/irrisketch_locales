@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Нельзя удалить последний столбец!"
            }
         },
+        experimentalConfig: "Экспериментальные функции",
+        autoNozzlePlacer: "Помощник размещения форсунок на газоне (ALT отключает)",
         stylesConfig: "Стили",
         linesStyles: "Стили труб и проводов",
         linesStyles_lang: {

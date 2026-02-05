@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Нельга выдаліць апошні слупок!"
            }
         },
+        experimentalConfig: "Эксперыментальныя функцыі",
+        autoNozzlePlacer: "Дапамога па размяшчэнні форсунак на газоне (ALT адключае)",
         stylesConfig: "Стылі",
         linesStyles: "Стылі труб і праводкі",
         linesStyles_lang: {

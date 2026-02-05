@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Die letzte Spalte kann nicht gelöscht werden!"
            }
         },
+        experimentalConfig: "Experimentelle Funktionen",
+        autoNozzlePlacer: "Düsenplatzierung auf dem Rasen Assistent (ALT deaktiviert)",
         stylesConfig: "Stile",
         linesStyles: "Rohre und Verkabelungsstile",
         linesStyles_lang: {

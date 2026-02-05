@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Negalima ištrinti paskutinio stulpelio!"
            }
         },
+        experimentalConfig: "Eksperimentinės funkcijos",
+        autoNozzlePlacer: "Purkštukų išdėstymo ant vejos pagalba (ALT išjungia)",
         stylesConfig: "Stiliai",
         linesStyles: "Vamzdžių ir laidų stiliai",
         linesStyles_lang: {

@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Son sütun silinemez!"
            }
         },
+        experimentalConfig: "Deneysel özellikler",
+        autoNozzlePlacer: "Çimde nozul yerleştirme yardımı (ALT devre dışı bırakır)",
         stylesConfig: "Stiller",
         linesStyles: "Boru ve Kablolama Stilleri",
         linesStyles_lang: {

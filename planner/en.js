@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Cannot delete the last column!"
            }
         },
+        experimentalConfig: "Experimental features",
+        autoNozzlePlacer: "Nozzle placement on the lawn assistance (ALT disables)",
         stylesConfig: "Styles",
         linesStyles: "Pipes and Wiring Styles",
         linesStyles_lang: {

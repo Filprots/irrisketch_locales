@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Impossible de supprimer la dernière colonne!"
            }
         },
+        experimentalConfig: "Fonctionnalités expérimentales",
+        autoNozzlePlacer: "Assistance au placement des buses sur la pelouse (ALT désactive)",
         stylesConfig: "Styles",
         linesStyles: "Styles des tuyaux et câblages",
         linesStyles_lang: {

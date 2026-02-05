@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "¡No se puede eliminar la última columna!"
            }
         },
+        experimentalConfig: "Funciones experimentales",
+        autoNozzlePlacer: "Asistencia de colocación de boquillas en el césped (ALT desactiva)",
         stylesConfig: "Estilos",
         linesStyles: "Estilos de tuberías y cableado",
         linesStyles_lang: {

@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Az utolsó oszlop nem törölhető!"
            }
         },
+        experimentalConfig: "Kísérleti funkciók",
+        autoNozzlePlacer: "Fúvóka elhelyezési segéd a gyepen (ALT kikapcsolja)",
         stylesConfig: "Stílusok",
         linesStyles: "Cső- és kábelezési stílusok",
         linesStyles_lang: {

@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Ne može se obrisati zadnji stupac!"
            }
         },
+        experimentalConfig: "Eksperimentalne značajke",
+        autoNozzlePlacer: "Pomoć pri postavljanju mlaznica na travnjaku (ALT onemogućuje)",
         stylesConfig: "Stilovi",
         linesStyles: "Stilovi cijevi i ožičenja",
         linesStyles_lang: {

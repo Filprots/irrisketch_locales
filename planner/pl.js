@@ -1490,6 +1490,8 @@ this.LNG = {
                cannotDeleteLastColumn: "Nie można usunąć ostatniej kolumny!"
            }
         },
+        experimentalConfig: "Funkcje eksperymentalne",
+        autoNozzlePlacer: "Asystent rozmieszczania dysz na trawniku (ALT wyłącza)",
         stylesConfig: "Style",
         linesStyles: "Style rur i okablowania",
         linesStyles_lang: {

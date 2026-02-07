@@ -853,6 +853,8 @@ this.LNG = {
         //buttonsCaps
         ok: "确定",
         save: "保存",
+        on: "開",
+        off: "關",
         apply: "应用",
         defaults: "默认",
         retry: "重试",

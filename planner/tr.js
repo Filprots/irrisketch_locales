@@ -853,6 +853,8 @@ this.LNG = {
         //buttonsCaps
         "ok": "Tamam",
         "save": "Kaydet",
+        "on": "Açık",
+        "off": "Kapalı",
         "apply": "Uygula",
         "defaults": "Varsayılanlar",
         "retry": "Yeniden Dene",

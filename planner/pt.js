@@ -853,6 +853,8 @@ this.LNG = {
 //buttonsCaps
         ok: "Ok",
         save: "Salvar",
+        on: "Ligado",
+        off: "Desligado",
         apply: "Aplicar",
         defaults: "Padrões",
         retry: "Tentar novamente",

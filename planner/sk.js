@@ -853,6 +853,8 @@ this.LNG = {
         //buttonsCaps
         ok: "Dobre.",
         save: "Uložiť",
+        on: "Zap",
+        off: "Vyp",
         apply: "Použiť",
         defaults: "Štandardy",
         retry: "Obnovenie",

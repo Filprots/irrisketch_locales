@@ -853,6 +853,8 @@ this.LNG = {
 //buttonsCaps
         ok: "Gerai",
         save: "Išsaugoti",
+        on: "Įjungta",
+        off: "Išjungta",
         apply: "Taikyti",
         defaults: "Numatytieji",
         retry: "Bandyti dar kartą",

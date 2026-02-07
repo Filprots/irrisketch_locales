@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Эксперыментальныя функцыі",
         autoNozzlePlacer: "Дапамога па размяшчэнні форсунак на газоне (ALT адключае)",
         stylesConfig: "Стылі",
+        nozzlesStyles: "Стылі разбрызгівальнікаў",
+        nozzlesStyles_lang : {
+            title: "Налада стыляў форсунак",
+            save: "Захаваць",
+            cancel: "Скасаваць",
+            reset: "Скінуць да стандартных",
+            // Group headers
+            nozzleCoverGroup: "Колеры пакрыцця форсункі",
+            // Color labels
+            coverFillColor: "Колер заліўкі пакрыцця",
+            underpressFillColor: "Колер заліўкі пакрыцця пры нізкім ціску",
+            overpressFillColor: "Колер заліўкі пакрыцця пры высокім ціску"
+        },
         linesStyles: "Стылі труб і праводкі",
         linesStyles_lang: {
             title: "Налада стыляў ліній",

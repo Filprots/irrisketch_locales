@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Експериментальні функції",
         autoNozzlePlacer: "Допомога з розміщення форсунок на газоні (ALT вимикає)",
         stylesConfig: "Стилі",
+        nozzlesStyles: "Стилі розбризкувачів",
+        nozzlesStyles_lang : {
+            title: "Налаштування стилів форсунок",
+            save: "Зберегти",
+            cancel: "Скасувати",
+            reset: "Скинути за замовчуванням",
+            // Group headers
+            nozzleCoverGroup: "Кольори покриття форсунки",
+            // Color labels
+            coverFillColor: "Колір заливки покриття",
+            underpressFillColor: "Колір заливки покриття при низькому тиску",
+            overpressFillColor: "Колір заливки покриття при високому тиску"
+        },
         linesStyles: "Стилі труб та проводки",
         linesStyles_lang: {
             title: "Налаштування стилів ліній",

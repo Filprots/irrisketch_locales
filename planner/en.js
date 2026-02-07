@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Experimental features",
         autoNozzlePlacer: "Nozzle placement on the lawn assistance (ALT disables)",
         stylesConfig: "Styles",
+        nozzlesStyles: "Sprinkler Styles",
+        nozzlesStyles_lang : {
+            title: "Nozzle Styles Configuration",
+            save: "Save",
+            cancel: "Cancel",
+            reset: "Reset to Defaults",
+            // Group headers
+            nozzleCoverGroup: "Nozzle Cover Colors",
+            // Color labels
+            coverFillColor: "Cover Fill",
+            underpressFillColor: "Under-pressure Fill",
+            overpressFillColor: "Over-pressure Fill"
+        },
         linesStyles: "Pipes and Wiring Styles",
         linesStyles_lang: {
             title: "Line Styles Configuration",

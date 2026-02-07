@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "實驗功能",
         autoNozzlePlacer: "草坪噴嘴放置輔助（ALT鍵禁用）",
         stylesConfig: "樣式",
+        nozzlesStyles: "噴頭樣式",
+        nozzlesStyles_lang : {
+            title: "噴嘴樣式配置",
+            save: "儲存",
+            cancel: "取消",
+            reset: "恢復預設",
+            // Group headers
+            nozzleCoverGroup: "噴嘴蓋板顏色",
+            // Color labels
+            coverFillColor: "蓋板填充顏色",
+            underpressFillColor: "低壓時蓋板填充顏色",
+            overpressFillColor: "高壓時蓋板填充顏色"
+        },
         linesStyles: "管道和線纜樣式",
         linesStyles_lang: {
             title: "線條樣式配置",

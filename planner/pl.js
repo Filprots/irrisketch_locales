@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Funkcje eksperymentalne",
         autoNozzlePlacer: "Asystent rozmieszczania dysz na trawniku (ALT wyłącza)",
         stylesConfig: "Style",
+        nozzlesStyles: "Style zraszaczy",
+        nozzlesStyles_lang : {
+            title: "Konfiguracja stylów dysz",
+            save: "Zapisz",
+            cancel: "Anuluj",
+            reset: "Przywróć domyślne",
+            // Group headers
+            nozzleCoverGroup: "Kolory pokrywy dyszy",
+            // Color labels
+            coverFillColor: "Kolor wypełnienia pokrywy",
+            underpressFillColor: "Kolor wypełnienia pokrywy przy niskim ciśnieniu",
+            overpressFillColor: "Kolor wypełnienia pokrywy przy wysokim ciśnieniu"
+        },
         linesStyles: "Style rur i okablowania",
         linesStyles_lang: {
             title: "Konfiguracja stylów linii",

@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Экспериментальные функции",
         autoNozzlePlacer: "Помощник размещения форсунок на газоне (ALT отключает)",
         stylesConfig: "Стили",
+        nozzlesStyles: "Стили форсунок",
+        nozzlesStyles_lang : {
+            title: "Настройка стилей форсунок",
+            save: "Сохранить",
+            cancel: "Отмена",
+            reset: "Сбросить по умолчанию",
+            // Group headers
+            nozzleCoverGroup: "Цвета покрытия форсунки",
+            // Color labels
+            coverFillColor: "Цвет заливки покрытия",
+            underpressFillColor: "Цвет заливки покрытия при низком давлении",
+            overpressFillColor: "Цвет заливки покрытия при высоком давлении"
+        },
         linesStyles: "Стили труб и проводов",
         linesStyles_lang: {
             title: "Настройка стилей линий",

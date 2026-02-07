@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Fonctionnalités expérimentales",
         autoNozzlePlacer: "Assistance au placement des buses sur la pelouse (ALT désactive)",
         stylesConfig: "Styles",
+        nozzlesStyles: "Styles des arroseurs",
+        nozzlesStyles_lang : {
+            title: "Configuration des styles de buses",
+            save: "Enregistrer",
+            cancel: "Annuler",
+            reset: "Réinitialiser par défaut",
+            // Group headers
+            nozzleCoverGroup: "Couleurs du couvercle de buse",
+            // Color labels
+            coverFillColor: "Couleur de remplissage du couvercle",
+            underpressFillColor: "Couleur de remplissage du couvercle à basse pression",
+            overpressFillColor: "Couleur de remplissage du couvercle à haute pression"
+        },
         linesStyles: "Styles des tuyaux et câblages",
         linesStyles_lang: {
             title: "Configuration des styles de lignes",

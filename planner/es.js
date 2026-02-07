@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Funciones experimentales",
         autoNozzlePlacer: "Asistencia de colocación de boquillas en el césped (ALT desactiva)",
         stylesConfig: "Estilos",
+        nozzlesStyles: "Estilos de aspersores",
+        nozzlesStyles_lang : {
+            title: "Configuración de estilos de boquillas",
+            save: "Guardar",
+            cancel: "Cancelar",
+            reset: "Restablecer valores predeterminados",
+            // Group headers
+            nozzleCoverGroup: "Colores de la cubierta de boquilla",
+            // Color labels
+            coverFillColor: "Color de relleno de cubierta",
+            underpressFillColor: "Color de relleno de cubierta a baja presión",
+            overpressFillColor: "Color de relleno de cubierta a alta presión"
+        },
         linesStyles: "Estilos de tuberías y cableado",
         linesStyles_lang: {
             title: "Configuración de estilos de líneas",

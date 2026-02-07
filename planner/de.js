@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Experimentelle Funktionen",
         autoNozzlePlacer: "Düsenplatzierung auf dem Rasen Assistent (ALT deaktiviert)",
         stylesConfig: "Stile",
+        nozzlesStyles: "Düsenstile",
+        nozzlesStyles_lang : {
+            title: "Düsenstile-Konfiguration",
+            save: "Speichern",
+            cancel: "Abbrechen",
+            reset: "Auf Standardwerte zurücksetzen",
+            // Group headers
+            nozzleCoverGroup: "Düsenabdeckungsfarben",
+            // Color labels
+            coverFillColor: "Abdeckungsfüllfarbe",
+            underpressFillColor: "Abdeckungsfüllfarbe bei niedrigem Druck",
+            overpressFillColor: "Abdeckungsfüllfarbe bei hohem Druck"
+        },
         linesStyles: "Rohre und Verkabelungsstile",
         linesStyles_lang: {
             title: "Linienstil-Konfiguration",

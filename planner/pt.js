@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Funcionalidades experimentais",
         autoNozzlePlacer: "Assistência de posicionamento de bocais no gramado (ALT desativa)",
         stylesConfig: "Estilos",
+        nozzlesStyles: "Estilos de aspersores",
+        nozzlesStyles_lang : {
+            title: "Configuração de estilos de bicos",
+            save: "Salvar",
+            cancel: "Cancelar",
+            reset: "Restaurar padrões",
+            // Group headers
+            nozzleCoverGroup: "Cores da tampa do bico",
+            // Color labels
+            coverFillColor: "Cor de preenchimento da tampa",
+            underpressFillColor: "Cor de preenchimento da tampa a baixa pressão",
+            overpressFillColor: "Cor de preenchimento da tampa a alta pressão"
+        },
         linesStyles: "Estilos de tubos e fiação",
         linesStyles_lang: {
             title: "Configuração de estilos de linhas",

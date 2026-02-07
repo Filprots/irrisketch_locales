@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Eksperimentalne značajke",
         autoNozzlePlacer: "Pomoć pri postavljanju mlaznica na travnjaku (ALT onemogućuje)",
         stylesConfig: "Stilovi",
+        nozzlesStyles: "Stilovi raspršivača",
+        nozzlesStyles_lang : {
+            title: "Konfiguracija stilova mlaznica",
+            save: "Spremi",
+            cancel: "Odustani",
+            reset: "Vrati na zadano",
+            // Group headers
+            nozzleCoverGroup: "Boje poklopca mlaznice",
+            // Color labels
+            coverFillColor: "Boja ispune poklopca",
+            underpressFillColor: "Boja ispune poklopca pri niskom tlaku",
+            overpressFillColor: "Boja ispune poklopca pri visokom tlaku"
+        },
         linesStyles: "Stilovi cijevi i ožičenja",
         linesStyles_lang: {
             title: "Konfiguracija stilova linija",

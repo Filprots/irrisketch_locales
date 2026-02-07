@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Kísérleti funkciók",
         autoNozzlePlacer: "Fúvóka elhelyezési segéd a gyepen (ALT kikapcsolja)",
         stylesConfig: "Stílusok",
+        nozzlesStyles: "Szórófej stílusok",
+        nozzlesStyles_lang : {
+            title: "Szórófej stílusok beállítása",
+            save: "Mentés",
+            cancel: "Mégse",
+            reset: "Alapértékek visszaállítása",
+            // Group headers
+            nozzleCoverGroup: "Szórófej fedél színek",
+            // Color labels
+            coverFillColor: "Fedél kitöltési szín",
+            underpressFillColor: "Fedél kitöltési szín alacsony nyomásnál",
+            overpressFillColor: "Fedél kitöltési szín magas nyomásnál"
+        },
         linesStyles: "Cső- és kábelezési stílusok",
         linesStyles_lang: {
             title: "Vonalstílusok konfigurálása",

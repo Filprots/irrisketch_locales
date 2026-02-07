@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Deneysel özellikler",
         autoNozzlePlacer: "Çimde nozul yerleştirme yardımı (ALT devre dışı bırakır)",
         stylesConfig: "Stiller",
+        nozzlesStyles: "Sprinkler Stilleri",
+        nozzlesStyles_lang : {
+            title: "Nozül Stilleri Yapılandırması",
+            save: "Kaydet",
+            cancel: "İptal",
+            reset: "Varsayılanlara Sıfırla",
+            // Group headers
+            nozzleCoverGroup: "Nozül Kapak Renkleri",
+            // Color labels
+            coverFillColor: "Kapak Dolgu Rengi",
+            underpressFillColor: "Düşük Basınçta Kapak Dolgu Rengi",
+            overpressFillColor: "Yüksek Basınçta Kapak Dolgu Rengi"
+        },
         linesStyles: "Boru ve Kablolama Stilleri",
         linesStyles_lang: {
             title: "Çizgi Stilleri Yapılandırması",

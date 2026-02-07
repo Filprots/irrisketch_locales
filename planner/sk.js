@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Experimentálne funkcie",
         autoNozzlePlacer: "Pomocník umiestnenia trysiek na trávniku (ALT vypne)",
         stylesConfig: "Štýly",
+        nozzlesStyles: "Štýly trysiek",
+        nozzlesStyles_lang : {
+            title: "Konfigurácia štýlov trysiek",
+            save: "Uložiť",
+            cancel: "Zrušiť",
+            reset: "Obnoviť predvolené",
+            // Group headers
+            nozzleCoverGroup: "Farby krytu trysky",
+            // Color labels
+            coverFillColor: "Farba výplne krytu",
+            underpressFillColor: "Farba výplne krytu pri nízkom tlaku",
+            overpressFillColor: "Farba výplne krytu pri vysokom tlaku"
+        },
         linesStyles: "Štýly potrubí a kabeláže",
         linesStyles_lang: {
             title: "Konfigurácia štýlov čiar",

@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Experimentele functies",
         autoNozzlePlacer: "Hulp bij plaatsing van sproeiers op het gazon (ALT schakelt uit)",
         stylesConfig: "Stijlen",
+        nozzlesStyles: "Sproeier stijlen",
+        nozzlesStyles_lang : {
+            title: "Nozzle stijlen configuratie",
+            save: "Opslaan",
+            cancel: "Annuleren",
+            reset: "Standaardwaarden herstellen",
+            // Group headers
+            nozzleCoverGroup: "Nozzle afdekking kleuren",
+            // Color labels
+            coverFillColor: "Afdekking vulkleur",
+            underpressFillColor: "Afdekking vulkleur bij lage druk",
+            overpressFillColor: "Afdekking vulkleur bij hoge druk"
+        },
         linesStyles: "Buis- en bedradingsstijlen",
         linesStyles_lang: {
             title: "Lijnstijl configuratie",

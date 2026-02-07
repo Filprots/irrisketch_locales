@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Funzionalità sperimentali",
         autoNozzlePlacer: "Assistenza al posizionamento degli ugelli sul prato (ALT disabilita)",
         stylesConfig: "Stili",
+        nozzlesStyles: "Stili degli irrigatori",
+        nozzlesStyles_lang : {
+            title: "Configurazione stili ugelli",
+            save: "Salva",
+            cancel: "Annulla",
+            reset: "Ripristina predefiniti",
+            // Group headers
+            nozzleCoverGroup: "Colori coperchio ugello",
+            // Color labels
+            coverFillColor: "Colore riempimento coperchio",
+            underpressFillColor: "Colore riempimento coperchio a bassa pressione",
+            overpressFillColor: "Colore riempimento coperchio ad alta pressione"
+        },
         linesStyles: "Stili tubi e cablaggio",
         linesStyles_lang: {
             title: "Configurazione stili linee",

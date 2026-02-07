@@ -1495,6 +1495,19 @@ this.LNG = {
         experimentalConfig: "Eksperimentinės funkcijos",
         autoNozzlePlacer: "Purkštukų išdėstymo ant vejos pagalba (ALT išjungia)",
         stylesConfig: "Stiliai",
+        nozzlesStyles: "Purkštukų stiliai",
+        nozzlesStyles_lang : {
+            title: "Purkštukų stilių konfigūracija",
+            save: "Išsaugoti",
+            cancel: "Atšaukti",
+            reset: "Atkurti numatytuosius",
+            // Group headers
+            nozzleCoverGroup: "Purkštuko dangtelio spalvos",
+            // Color labels
+            coverFillColor: "Dangtelio užpildo spalva",
+            underpressFillColor: "Dangtelio užpildo spalva esant žemam slėgiui",
+            overpressFillColor: "Dangtelio užpildo spalva esant aukštam slėgiui"
+        },
         linesStyles: "Vamzdžių ir laidų stiliai",
         linesStyles_lang: {
             title: "Linijų stilių konfigūracija",

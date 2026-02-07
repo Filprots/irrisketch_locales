@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Bežični senzor (Prelazak)",
             dwrColor: "Podatkovni kabel",
             dwrOverColor: "Podatkovni kabel (Prelazak)"
-        }
+        },
+        continuousPlacementMode: "Način kontinuiranog postavljanja",
     }
 };

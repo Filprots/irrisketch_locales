@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Sensor Kabellos (Hover)",
             dwrColor: "Datenkabel",
             dwrOverColor: "Datenkabel (Hover)"
-        }
+        },
+        continuousPlacementMode: "Kontinuierlicher Platzierungsmodus",
     }
 };

@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Kablosuz Sensör (Üzerine Gelme)",
             dwrColor: "Veri Kablosu",
             dwrOverColor: "Veri Kablosu (Üzerine Gelme)"
-        }
+        },
+        continuousPlacementMode: "Sürekli yerleştirme modu",
     }
 };

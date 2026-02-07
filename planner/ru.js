@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Беспроводной датчик (Выделение)",
             dwrColor: "Кабель данных",
             dwrOverColor: "Кабель данных (Выделение)"
-        }
+        },
+        continuousPlacementMode: "Непрерывное размещение дождевателей",
     }
 };

@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Sensor Wireless (Hover)",
             dwrColor: "Data Wire",
             dwrOverColor: "Data Wire (Hover)"
-        }
+        },
+        continuousPlacementMode: "Continuous placement mode",
     }
 };

@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Vezeték nélküli érzékelő (Egérmutató)",
             dwrColor: "Adatkábel",
             dwrOverColor: "Adatkábel (Egérmutató)"
-        }
+        },
+        continuousPlacementMode: "Folyamatos elhelyezési mód",
     }
 };

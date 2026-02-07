@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Capteur sans fil (Survol)",
             dwrColor: "Câble de données",
             dwrOverColor: "Câble de données (Survol)"
-        }
+        },
+        continuousPlacementMode: "Mode de placement continu",
     }
 };

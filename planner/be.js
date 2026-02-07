@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Бесправадны датчык (Навядзенне)",
             dwrColor: "Кабель даных",
             dwrOverColor: "Кабель даных (Навядзенне)"
-        }
+        },
+        continuousPlacementMode: "Рэжым бесперапыннага размяшчэння",
     }
 };

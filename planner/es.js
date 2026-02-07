@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Sensor inalámbrico (Hover)",
             dwrColor: "Cable de datos",
             dwrOverColor: "Cable de datos (Hover)"
-        }
+        },
+        continuousPlacementMode: "Modo de colocación continua",
     }
 };

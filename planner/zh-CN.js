@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "无线传感器（悬停）",
             dwrColor: "数据线",
             dwrOverColor: "数据线（悬停）"
-        }
+        },
+        continuousPlacementMode: "连续放置模式",
     }
 };

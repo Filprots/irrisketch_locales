@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "無線傳感器（懸停）",
             dwrColor: "數據線",
             dwrOverColor: "數據線（懸停）"
-        }
+        },
+        continuousPlacementMode: "連續放置模式",
     }
 };

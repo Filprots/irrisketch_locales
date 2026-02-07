@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Czujnik bezprzewodowy (Najechanie)",
             dwrColor: "Przewód danych",
             dwrOverColor: "Przewód danych (Najechanie)"
-        }
+        },
+        continuousPlacementMode: "Tryb ciągłego umieszczania",
     }
 };

@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Belaidis jutiklis (Užvedimas)",
             dwrColor: "Duomenų kabelis",
             dwrOverColor: "Duomenų kabelis (Užvedimas)"
-        }
+        },
+        continuousPlacementMode: "Nepertraukiamo išdėstymo režimas",
     }
 };

@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Бездротовий датчик (Наведення)",
             dwrColor: "Кабель даних",
             dwrOverColor: "Кабель даних (Наведення)"
-        }
+        },
+        continuousPlacementMode: "Режим безперервного розміщення",
     }
 };

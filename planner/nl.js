@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Sensor draadloos (Hover)",
             dwrColor: "Datakabel",
             dwrOverColor: "Datakabel (Hover)"
-        }
+        },
+        continuousPlacementMode: "Continue plaatsingsmodus",
     }
 };

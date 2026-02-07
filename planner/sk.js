@@ -1535,6 +1535,7 @@ this.LNG = {
             swrlsOverColor: "Bezdrôtový snímač (Prejdenie)",
             dwrColor: "Dátový kábel",
             dwrOverColor: "Dátový kábel (Prejdenie)"
-        }
+        },
+        continuousPlacementMode: "Režim nepretržitého umiestňovania",
     }
 };
